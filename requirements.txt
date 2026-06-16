@@ -1,0 +1,106 @@
+# ==============================================================================
+# AllianceAI — Python dependencies
+#
+# Install order (CPU-only machine, Windows):
+#   1. pip install torch --index-url https://download.pytorch.org/whl/cpu
+#   2. pip install -r requirements.txt
+#   3. pip install -e .
+#
+# Install order (Colab / Linux with GPU):
+#   1. pip install torch                   # standard index, gets CUDA build
+#   2. pip install -r requirements.txt
+#   3. pip install prophet                 # optional, add after pystan builds
+#
+# Prophet note:
+#   Prophet requires pystan, which compiles C++ on install.  On Windows this
+#   often fails with the standard pip install.  Use conda instead:
+#     conda install -c conda-forge prophet
+#   On Linux/Colab it installs cleanly with pip.
+#   If prophet is absent, AllianceAI falls back to Holt-Winters automatically.
+# ==============================================================================
+
+
+# ------------------------------------------------------------------------------
+# Numerical core
+# ------------------------------------------------------------------------------
+numpy==2.4.6
+pandas==3.0.3
+scipy==1.17.1
+
+
+# ------------------------------------------------------------------------------
+# Financial data
+# yfinance  : Yahoo Finance — equities, ETFs, REITs, indices (free, no key)
+# curl_cffi : yfinance's HTTP backend (faster than requests for market data)
+# ------------------------------------------------------------------------------
+yfinance==1.4.1
+curl_cffi==0.15.0
+
+
+# ------------------------------------------------------------------------------
+# Machine learning & statistical modelling
+# scikit-learn : IsolationForest, StandardScaler
+# statsmodels  : Holt-Winters exponential smoothing, OLS linear trend
+# prophet      : time-series forecaster — install separately (see note above)
+# ------------------------------------------------------------------------------
+scikit-learn==1.9.0
+statsmodels==0.14.6
+# prophet>=1.1.5   ← uncomment after installing via conda or on Linux
+
+
+# ------------------------------------------------------------------------------
+# Deep learning — our from-scratch transformer
+# torch is intentionally NOT pinned here because the install URL changes by
+# platform.  Install it manually before running pip install -r requirements.txt:
+#   CPU : pip install torch --index-url https://download.pytorch.org/whl/cpu
+#   GPU : pip install torch
+# ------------------------------------------------------------------------------
+# torch>=2.3.0   ← install manually
+
+
+# ------------------------------------------------------------------------------
+# Visualisation
+# plotly   : interactive charts embedded in HTML reports
+# kaleido  : plotly → static PNG export (used in html_report.py)
+# ------------------------------------------------------------------------------
+plotly==6.8.0
+kaleido==1.3.0
+
+
+# ------------------------------------------------------------------------------
+# Storage & configuration
+# duckdb           : embedded analytical database, no server required
+# python-dotenv    : load optional API keys from a .env file
+# pydantic         : runtime type validation
+# pydantic-settings: typed Settings loaded from .env / environment variables
+# ------------------------------------------------------------------------------
+duckdb==1.5.3
+python-dotenv==1.2.2
+pydantic==2.13.4
+pydantic-settings==2.14.1
+
+
+# ------------------------------------------------------------------------------
+# HTTP & resilience
+# requests  : general HTTP (EDGAR index pages, fallback fetches)
+# tenacity  : retry decorator with exponential back-off
+# beautifulsoup4 : HTML parsing for EDGAR filing cleanup
+# ------------------------------------------------------------------------------
+requests==2.34.2
+tenacity==9.1.4
+beautifulsoup4==4.15.0
+
+
+# ------------------------------------------------------------------------------
+# CLI & report rendering
+# rich   : coloured terminal output, tables, progress bars
+# jinja2 : HTML report template engine
+# ------------------------------------------------------------------------------
+rich==15.0.0
+Jinja2==3.1.6
+
+
+# ------------------------------------------------------------------------------
+# Testing  (not required in production)
+# ------------------------------------------------------------------------------
+pytest==9.0.3

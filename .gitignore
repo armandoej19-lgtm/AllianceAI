@@ -1,0 +1,27 @@
+# Secrets / env
+.env
+.env.*
+!.env.example
+
+# Virtualenvs
+alliance-venv/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Data / artifacts
+*.duckdb
+logs/
+checkpoints/
+reports/
+
+# OS
+.DS_Store
+Thumbs.db
+*.Trash-0

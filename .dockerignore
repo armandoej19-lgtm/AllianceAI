@@ -1,0 +1,24 @@
+# Don't ship the local virtualenv (it has stale absolute paths and the wrong
+# platform binaries) — the image builds its own.
+alliance-venv/
+*.egg-info/
+__pycache__/
+*.pyc
+
+# Local data/artifacts — recreated at runtime, mounted as volumes.
+*.duckdb
+**/edgar/raw/
+**/edgar/clean/
+**/*.pt
+logs/
+reports/*.html
+checkpoints/
+
+# Secrets never go in the image — passed at runtime via env_file/-e.
+.env
+
+# Dev cruft
+.git/
+.claude/
+.pytest_cache/
+*.pt

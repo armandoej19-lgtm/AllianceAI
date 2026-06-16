@@ -1,0 +1,33 @@
+# ==============================================================================
+# AllianceAI — Docker Compose
+#
+#   docker compose up -d --build      # build + start in background
+#   docker compose logs -f            # watch logs / find the Jupyter URL
+#   docker compose down               # stop
+#
+# Secrets come from your .env file (LLM_PROVIDER, OPENROUTER_API_KEY, etc.) —
+# Compose loads it automatically via `env_file`. The DuckDB prediction store,
+# reports, and logs are mounted as named volumes so they SURVIVE rebuilds —
+# this is what lets the AI keep learning across container restarts.
+# ==============================================================================
+services:
+  allianceai:
+    build: .
+    image: allianceai:latest
+    container_name: allianceai
+    restart: unless-stopped
+    ports:
+      - "8888:8888"            # JupyterLab — change left side to remap host port
+    env_file:
+      - .env                   # API keys + provider config
+    environment:
+      JUPYTER_TOKEN: "${JUPYTER_TOKEN:-allianceai}"
+      # Keep the learning DB on the persistent volume, not the ephemeral layer.
+      DB_PATH: "/app/data/allianceai.duckdb"
+    volumes:
+      - allianceai_data:/app/data   # persists allianceai.duckdb (the learning store)
+      - ./reports:/app/reports      # reports readable on the host
+      - ./notebooks:/app/notebooks  # your notebooks, editable on the host
+
+volumes:
+  allianceai_data:
