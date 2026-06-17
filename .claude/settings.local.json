@@ -49,7 +49,9 @@
       "Bash(ls alliance-venv/Scripts/pytest.exe)",
       "Bash(ls -la .env.example)",
       "Bash(ls README*)",
-      "Bash(alliance-venv/Scripts/python.exe -m pytest -q)"
+      "Bash(alliance-venv/Scripts/python.exe -m pytest -q)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" https://api.github.com/repos/armandoej19-lgtm/AllianceAI)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" https://api.github.com/users/armandoej19-lgtm)"
     ]
   }
 }
