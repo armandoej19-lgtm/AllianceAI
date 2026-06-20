@@ -1,0 +1,458 @@
+<DOCUMENT>
+<TYPE>10-Q/A
+<SEQUENCE>1
+<FILENAME>tm2021635d1_10qa.htm
+<DESCRIPTION>10-Q/A
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0; margin-bottom: 0; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 2pt solid; border-bottom: Black 1pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>UNITED STATES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>WASHINGTON, D.C. 20549</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>FORM 10-Q/A</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Amendment No. 1</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(Mark One)</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 24px; font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="width: 24px; font-size: 10pt"><FONT STYLE="font-family: Wingdings; font-size: 10pt"><B><FONT STYLE="font-family: Wingdings">&#120;</FONT></B></FONT></TD>
+    <TD STYLE="font-size: 10pt"><FONT STYLE="font-size: 10pt"><B>QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</B></FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>For the quarterly period ended March
+31, 2020</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 24px">&nbsp;</TD>
+    <TD STYLE="width: 24px"><FONT STYLE="font-family: Wingdings; font-size: 10pt">&uml;</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt"><B>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</B></FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Commission File Number 000-52566</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 14pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SUMMIT HEALTHCARE REIT, INC. AND SUBSIDIARIES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>(Exact name of registrant as specified
+in its charter)</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; text-align: center"><FONT STYLE="font-size: 10pt"><B>MARYLAND</B></FONT></TD>
+    <TD STYLE="width: 50%; text-align: center"><FONT STYLE="font-size: 10pt"><B>73-1721791</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt"><B>(State or other jurisdiction of</B></FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt"><B>(I.R.S. Employer</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt"><B>incorporation or organization)</B></FONT></TD>
+    <TD STYLE="text-align: center"><FONT STYLE="font-size: 10pt"><B>Identification No.)</B></FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 50%; padding-right: 0.8pt">
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>2 SOUTH POINTE DRIVE, SUITE 100,</B></P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>LAKE FOREST, CA</B></P></TD>
+    <TD STYLE="width: 50%; padding-right: 0.8pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>92630</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 0.8pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>(Address of principal executive offices)</B></FONT></TD>
+    <TD STYLE="padding-right: 0.8pt; text-align: center"><FONT STYLE="font-size: 10pt"><B>(Zip Code)</B></FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>800-978-8136</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>(Registrant&rsquo;s telephone number,
+including area code)</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: bottom">
+    <TD COLSPAN="3" STYLE="border-bottom: black 1pt solid; padding: 1.5pt"><FONT STYLE="font-size: 10pt">Securities registered pursuant to Section 12(b) of the Act:</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 33%; border-left: black 1pt solid; padding: 1.5pt; border-bottom: black 1pt solid; text-align: center"><FONT STYLE="font-size: 10pt">Title of each class</FONT></TD>
+    <TD STYLE="width: 34%; border-left: black 1pt solid; padding: 1.5pt; border-bottom: black 1pt solid; text-align: center"><FONT STYLE="font-size: 10pt">Ticker symbol(s)</FONT></TD>
+    <TD STYLE="width: 33%; border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding: 1.5pt; text-align: center"><FONT STYLE="font-size: 10pt">Name of each exchange on which registered</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="border-left: black 1pt solid; padding: 1.5pt; border-bottom: black 1pt solid; text-align: center"><FONT STYLE="font-size: 10pt">N/A</FONT></TD>
+    <TD STYLE="border-left: black 1pt solid; padding: 1.5pt; border-bottom: black 1pt solid; text-align: center"><FONT STYLE="font-size: 10pt">N/A</FONT></TD>
+    <TD STYLE="border-right: black 1pt solid; border-bottom: black 1pt solid; border-left: black 1pt solid; padding: 1.5pt; text-align: center"><FONT STYLE="font-size: 10pt">N/A</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark whether the registrant (1)&nbsp;has filed
+all reports required to be filed by section 13 or 15(d) of the Exchange Act of 1934 during the preceding 12&nbsp;months (or for
+such shorter period that the registrant was required to file such reports), and (2)&nbsp;has been subject to such filing requirements
+for the past 90&nbsp;days. <FONT STYLE="font-family: Wingdings">x</FONT>&nbsp;Yes &nbsp;<FONT STYLE="font-family: Wingdings">&uml;</FONT>&nbsp;No</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark whether the registrant has submitted
+electronically every Interactive Data File required to be submitted pursuant to Rule&nbsp;405 of Regulation&nbsp;S-T (Sec. 232.405
+of this chapter) during the preceding 12&nbsp;months (or for such shorter period that the registrant was required to submit such
+files). <FONT STYLE="font-family: Wingdings">x</FONT>&nbsp;Yes &nbsp;<FONT STYLE="font-family: Wingdings">&uml;</FONT>&nbsp;No</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of &ldquo;large accelerated
+filer,&rdquo; &ldquo;accelerated filer&rdquo; and &ldquo;smaller reporting company&rdquo; in Rule&nbsp;12b-2 of the Exchange Act.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 25%"><FONT STYLE="font-size: 10pt">Large&nbsp;accelerated&nbsp;filer</FONT></TD>
+    <TD STYLE="width: 45%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">&uml;</FONT></TD>
+    <TD STYLE="width: 25%"><FONT STYLE="font-size: 10pt">Accelerated&nbsp;filer</FONT></TD>
+    <TD STYLE="width: 5%"><FONT STYLE="font-family: Wingdings; font-size: 10pt">&uml;</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">Non-accelerated filer</FONT></TD>
+    <TD><FONT STYLE="font-family: Wingdings; font-size: 10pt">&#120;</FONT><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">Smaller&nbsp;reporting&nbsp;company</FONT></TD>
+    <TD><FONT STYLE="font-family: Wingdings; font-size: 10pt"><FONT STYLE="font-family: Wingdings">&#120;</FONT></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD><FONT STYLE="font-size: 10pt">Emerging growth company</FONT></TD>
+    <TD><FONT STYLE="font-family: Wingdings; font-size: 10pt">&uml;</FONT><FONT STYLE="font-size: 10pt">&nbsp;</FONT></TD>
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">If an emerging growth company, indicate by check mark if the
+registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards
+provided pursuant to Section 13(a) of the Exchange Act. <FONT STYLE="font-family: Wingdings">&uml;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Indicate by check mark whether the registrant is a shell company
+(as defined in Rule&nbsp;12b-2 of the Act). <FONT STYLE="font-family: Wingdings">&uml;</FONT>&nbsp;Yes <FONT STYLE="font-family: Wingdings">&#120;</FONT>&nbsp;No</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">As of May 6, 2020, we had 23,027,978 shares of common stock
+of Summit Healthcare REIT, Inc. outstanding.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Rule-Page --><DIV STYLE="margin-top: 0; margin-bottom: 0; width: 100%"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; border-bottom: Black 2pt solid">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+
+<!-- Field: Page; Sequence: 1; Options: NewSection -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;<I>EXPLANATORY NOTE </I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><I>&nbsp;</I></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Summit Healthcare REIT, Inc. (the &ldquo;Company&rdquo;)
+is filing this Amendment No. 1 (this &ldquo;Form 10-Q/A&rdquo;) to its quarterly report on Form 10-Q for the period ended March
+31, 2020 (the &ldquo;Form 10-Q&rdquo;), filed with the U.S. Securities and Exchange Commission (the &ldquo;SEC&rdquo;) on May 14,
+2020, solely to correct a typographical error in the heading of the Company&rsquo;s Condensed Consolidated Statements of Operations
+(Unaudited), set forth in Part I, Item 1 of the Form 10-Q. The dates in the columns of the heading were reversed in the Form 10-Q.
+The heading has been corrected in the Condensed Consolidated Statements of Operations included with this Form 10-Q/A.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">In connection with the filing of this Form
+10-Q/A and pursuant to the SEC&rsquo;s rules, the Company is including with this Form 10-Q/A new certifications by its principal
+executive officer and principal financial officer.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">This Form 10-Q/A should be read in conjunction
+with the Form 10-Q, which remains in effect as of its date. Except as specifically noted above and herein, this Form 10-Q/A does
+not modify or update disclosures in the Form 10-Q. Accordingly, this Form 10-Q/A does not reflect events occurring after the filing
+of the Form 10-Q or modify or update any related or other disclosures.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 2; Options: NewSection; Value: 2 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->2<!-- Field: /Sequence --></TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SUMMIT HEALTHCARE REIT, INC. AND SUBSIDIARIES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>CONDENSED CONSOLIDATED STATEMENTS OF
+OPERATIONS (Unaudited)</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font: 10pt Times New Roman, Times, Serif">
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD><TD STYLE="font: 10pt Times New Roman, Times, Serif; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="6" STYLE="font: 10pt Times New Roman, Times, Serif; text-align: center; border-bottom: Black 1pt solid"><P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Three&nbsp;Months&nbsp;Ended&nbsp;</B></P> <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>March 31,</B></P></TD><TD STYLE="padding-bottom: 1pt; font: 10pt Times New Roman, Times, Serif">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="font-size: 10pt">&nbsp;</TD><TD STYLE="font-size: 10pt; font-weight: bold; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font-size: 10pt; font-weight: bold; text-align: center; border-bottom: Black 1pt solid">2020</TD><TD STYLE="padding-bottom: 1pt; font-size: 10pt; font-weight: bold">&nbsp;</TD><TD STYLE="font-size: 10pt; font-weight: bold; padding-bottom: 1pt">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="font-size: 10pt; font-weight: bold; text-align: center; border-bottom: Black 1pt solid">2019</TD><TD STYLE="padding-bottom: 1pt; font-size: 10pt; font-weight: bold">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt">Revenues:</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="width: 68%; font-size: 10pt; text-align: left; text-indent: -9pt; padding-left: 0.25in">Total rental revenues</TD><TD STYLE="width: 2%; font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="width: 1%; font-size: 10pt; text-align: left">$</TD><TD STYLE="width: 12%; font-size: 10pt; text-align: right">1,600,000</TD><TD STYLE="width: 1%; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="width: 2%; font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="width: 1%; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="width: 12%; font-size: 10pt; text-align: right">2,079,000</TD><TD STYLE="width: 1%; font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt; text-align: left; text-indent: -9pt; padding-left: 0.25in">Acquisition and asset management fees</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">326,000</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">210,000</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font-size: 10pt; text-align: left; padding-bottom: 1pt; text-indent: -9pt; padding-left: 0.25in">Interest income from notes receivable</TD><TD STYLE="font-size: 10pt; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: right">7,000</TD><TD STYLE="padding-bottom: 1pt; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: right">6,000</TD><TD STYLE="padding-bottom: 1pt; font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt; text-align: left; padding-bottom: 1pt; text-indent: -9pt; padding-left: 9pt">&nbsp;Total operating revenue</TD><TD STYLE="font-size: 10pt; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: right">1,933,000</TD><TD STYLE="padding-bottom: 1pt; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: right">2,295,000</TD><TD STYLE="padding-bottom: 1pt; font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font-size: 10pt; text-indent: -9pt; padding-left: 9pt">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt; text-indent: -9pt; padding-left: 9pt">Expenses:</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font-size: 10pt; text-align: left; text-indent: -9pt; padding-left: 0.25in">Property operating costs</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">257,000</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">294,000</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt; text-align: left; text-indent: -9pt; padding-left: 0.25in">General and administrative</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">939,000</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">1,275,000</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font-size: 10pt; text-align: left; padding-bottom: 1pt; text-indent: -9pt; padding-left: 0.25in">Depreciation and amortization</TD><TD STYLE="font-size: 10pt; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: right">417,000</TD><TD STYLE="padding-bottom: 1pt; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: right">499,000</TD><TD STYLE="padding-bottom: 1pt; font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt; text-align: left; padding-bottom: 1pt; text-indent: -9pt; padding-left: 9pt">&nbsp;Total operating expenses</TD><TD STYLE="font-size: 10pt; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: right">1,613,000</TD><TD STYLE="padding-bottom: 1pt; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: right">2,068,000</TD><TD STYLE="padding-bottom: 1pt; font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font-size: 10pt; text-indent: -9pt; padding-left: 9pt">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt; text-align: left; text-indent: -9pt; padding-left: 9pt">Other operating income:</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font-size: 10pt; text-align: left; padding-bottom: 1pt">Gain on sale of real estate properties</TD><TD STYLE="font-size: 10pt; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: right">-</TD><TD STYLE="padding-bottom: 1pt; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: right">4,147,000</TD><TD STYLE="padding-bottom: 1pt; font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt; text-align: left; text-indent: -9pt; padding-left: 9pt">Operating income</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">320,000</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">4,374,000</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font-size: 10pt; text-indent: -9pt; padding-left: 9pt">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt; text-align: left; text-indent: -9pt; padding-left: 9pt">Income from equity-method investees</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">30,000</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">130,000</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font-size: 10pt; text-align: left">Other income</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">42,000</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">52,000</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt; text-align: left; padding-bottom: 1pt">Interest expense</TD><TD STYLE="font-size: 10pt; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: right">(593,000</TD><TD STYLE="padding-bottom: 1pt; font-size: 10pt; text-align: left">)</TD><TD STYLE="font-size: 10pt; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: right">(756,000</TD><TD STYLE="padding-bottom: 1pt; font-size: 10pt; text-align: left">)</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font-size: 10pt; text-align: left; text-indent: -9pt; padding-left: 9pt">Net (loss) income</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">(201,000</TD><TD STYLE="font-size: 10pt; text-align: left">)</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">3,800,000</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt; text-align: left; padding-bottom: 1pt; text-indent: -9pt; padding-left: 0.25in">Noncontrolling interests&rsquo; share in net (income) loss</TD><TD STYLE="font-size: 10pt; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: right">(12,000</TD><TD STYLE="padding-bottom: 1pt; font-size: 10pt; text-align: left">)</TD><TD STYLE="font-size: 10pt; padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 1pt solid; font-size: 10pt; text-align: right">123,000</TD><TD STYLE="padding-bottom: 1pt; font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font-size: 10pt; text-align: left; padding-bottom: 2.5pt; text-indent: -9pt; padding-left: 9pt">Net (loss) income applicable to common stockholders</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">$</TD><TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">(213,000</TD><TD STYLE="padding-bottom: 2.5pt; font-size: 10pt; text-align: left">)</TD><TD STYLE="font-size: 10pt; padding-bottom: 2.5pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="border-bottom: Black 2.5pt double; font-size: 10pt; text-align: right">3,923,000</TD><TD STYLE="padding-bottom: 2.5pt; font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt; text-indent: -9pt; padding-left: 9pt">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font-size: 10pt; font-weight: bold; text-indent: -9pt; padding-left: 9pt">Earnings per common share:</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt">Basic:</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font-size: 10pt; text-align: left">(Loss) income</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">$</TD><TD STYLE="font-size: 10pt; text-align: right">(0.01</TD><TD STYLE="font-size: 10pt; text-align: left">)</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">$</TD><TD STYLE="font-size: 10pt; text-align: right">0.17</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt; text-align: left">Net (loss) income applicable to common stockholders</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">$</TD><TD STYLE="font-size: 10pt; text-align: right">(0.01</TD><TD STYLE="font-size: 10pt; text-align: left">)</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">$</TD><TD STYLE="font-size: 10pt; text-align: right">0.17</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font-size: 10pt; text-indent: -9pt; padding-left: 9pt">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt">Diluted:</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font-size: 10pt; text-align: left">(Loss) income</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">$</TD><TD STYLE="font-size: 10pt; text-align: right">(0.01</TD><TD STYLE="font-size: 10pt; text-align: left">)</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">$</TD><TD STYLE="font-size: 10pt; text-align: right">0.17</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt; text-align: left">Net (loss) income applicable to common stockholders</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">$</TD><TD STYLE="font-size: 10pt; text-align: right">(0.01</TD><TD STYLE="font-size: 10pt; text-align: left">)</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">$</TD><TD STYLE="font-size: 10pt; text-align: right">0.17</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font-size: 10pt; text-indent: -9pt; padding-left: 9pt">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt; text-indent: -9pt; padding-left: 9pt">Weighted average shares used to calculate earnings per common share:</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: White">
+    <TD STYLE="font-size: 10pt; text-indent: -9pt; padding-left: 9pt">Basic</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">23,027,978</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">23,027,978</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: rgb(204,238,255)">
+    <TD STYLE="font-size: 10pt; text-indent: -9pt; padding-left: 9pt">Diluted</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">23,027,978</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt">&nbsp;</TD>
+    <TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD><TD STYLE="font-size: 10pt; text-align: right">23,513,331</TD><TD STYLE="font-size: 10pt; text-align: left">&nbsp;</TD></TR>
+</TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><FONT>The
+accompanying notes are an integral part of these Condensed Consolidated Financial Statements.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<!-- Field: Page; Sequence: 3; Value: 2 -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->3<!-- Field: /Sequence --></TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;&nbsp;&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>SIGNATURES</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 0.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 24.5pt">Pursuant to the requirements
+of Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this Amendment No. 1 to its
+quarterly report on Form 10-Q to be signed on its behalf by the undersigned, thereunto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify; text-indent: 0.5in">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt">SUMMIT HEALTHCARE REIT, INC.</FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 62%">&nbsp;</TD>
+    <TD STYLE="width: 38%">&nbsp;</TD></TR>
+
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding-bottom: 1pt"><FONT STYLE="font-size: 10pt">/s/ Kent Eikanas</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 62%"><FONT STYLE="font-size: 10pt">Date: June 2, 2020</FONT></TD>
+    <TD STYLE="width: 38%"><FONT STYLE="font-size: 10pt">Kent Eikanas</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt"><I>Chief Executive Officer</I><BR>
+<I>(Principal Executive Officer)</I></FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="padding-bottom: 1pt">&nbsp;</TD>
+    <TD STYLE="border-bottom: black 1pt solid; padding-bottom: 1pt"><FONT STYLE="font-size: 10pt">/s/ Elizabeth A. Pagliarini</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD><FONT STYLE="font-size: 10pt">Date: June 2, 2020</FONT></TD>
+    <TD><FONT STYLE="font-size: 10pt">Elizabeth A. Pagliarini</FONT></TD></TR>
+<TR STYLE="vertical-align: bottom">
+    <TD>&nbsp;</TD>
+    <TD><FONT STYLE="font-size: 10pt"><I>Chief Financial Officer</I><BR>
+<I>(Principal Financial Officer)</I></FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-indent: 0.5in">&nbsp;&nbsp;</P>
+
+<P STYLE="margin-top: 0; margin-bottom: 0"></P>
+
+<!-- Field: Page; Sequence: 4; Options: Last -->
+    <DIV STYLE="margin-bottom: 6pt; border-bottom: Black 1pt solid"><TABLE CELLPADDING="0" CELLSPACING="0" STYLE="border-collapse: collapse; width: 100%; font-size: 10pt"><TR STYLE="vertical-align: top; text-align: left"><TD STYLE="width: 33%">&nbsp;</TD><TD STYLE="width: 34%; text-align: center"><!-- Field: Sequence; Type: Arabic; Name: PageNo -->4<!-- Field: /Sequence --></TD><TD STYLE="width: 33%; text-align: right">&nbsp;</TD></TR></TABLE></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="margin-top: 0; margin-bottom: 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

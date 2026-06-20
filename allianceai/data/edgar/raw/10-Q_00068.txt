@@ -1,0 +1,463 @@
+<DOCUMENT>
+<TYPE>10-Q/A
+<SEQUENCE>1
+<FILENAME>form10qa.htm
+<DESCRIPTION>IONIS PHARMACEUTICALS, INC. 10-QA 9-30-2015
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: Summit Financial Printing LLC
+    Document created using EDGARfilings PROfile 4.1.0.0
+    Copyright 1995 - 2016 Summit Financial Printing, LLC.  All rights reserved.-->
+</head>
+<body style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'" bgcolor="#ffffff" text="#000000">
+<div>
+<hr style="BORDER-TOP: black 4px solid; HEIGHT: 10px; BORDER-BOTTOM: black 1px solid; COLOR: #ffffff; TEXT-ALIGN: center; MARGIN-LEFT: auto; BACKGROUND-COLOR: #ffffff; MARGIN-RIGHT: auto">
+</div>
+
+<div style="FONT-SIZE: 14pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">UNITED STATES</div>
+
+<div style="FONT-SIZE: 14pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">SECURITIES AND EXCHANGE COMMISSION</div>
+
+<div style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">Washington, DC 20549</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 18pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">Form 10-Q/A</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">Amendment No. 1</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: justify">(Mark One)</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left">
+<table id="zabfe831dd90449ce8860dfeae17d7b7a" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 20.25pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; VERTICAL-ALIGN: top; WIDTH: 33.75pt; align: right">&#9746;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; VERTICAL-ALIGN: top; TEXT-ALIGN: left; WIDTH: auto">QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">For the Quarterly Period Ended <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">September 30, 2015</font></div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">OR</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left">
+<table id="z752b45083f5b4a51b9501462569aa715" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 20.25pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; VERTICAL-ALIGN: top; WIDTH: 33.75pt; align: right">&#9744;</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; VERTICAL-ALIGN: top; TEXT-ALIGN: left; WIDTH: auto">TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF SECURITIES EXCHANGE ACT OF 1934</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">For the transition period from to</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">Commission file number 0-19125</div>
+
+<div style="TEXT-ALIGN: center"><br>
+</div>
+
+<div style="FONT-SIZE: 24pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">Ionis Pharmaceuticals, Inc.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">(Exact name of Registrant as specified in its charter)</div>
+
+<div><br>
+</div>
+
+<table id="z94cb20636d7d4cfebbac7ff85e122e73" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; BORDER-COLLAPSE: collapse; WIDTH: 100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td style="VERTICAL-ALIGN: top; TEXT-ALIGN: center; WIDTH: 49%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold">Delaware</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 2%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; TEXT-ALIGN: center; WIDTH: 49%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold">33-0336973</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; TEXT-ALIGN: center; WIDTH: 49%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">(State or other jurisdiction of incorporation or organization)</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 2%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; TEXT-ALIGN: center; WIDTH: 49%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">(IRS Employer Identification No.)</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">2855 Gazelle Court, Carlsbad, CA 92010</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">(Address of principal executive offices, including zip code)</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">760-931-9200</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: center">(Registrant&#8217;s telephone number, including area code)</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: justify">Securities registered pursuant to Section 12(b) of the Act: <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold">None</font></div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: justify">Securities registered pursuant to Section 12(g) of the Act:</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">Common Stock, $.001 Par Value</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: justify; TEXT-INDENT: 36pt">Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">&#9746;</font> No <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">&#9744;</font></div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: justify; TEXT-INDENT: 36pt">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: justify; TEXT-INDENT: 36pt">Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (&#167;232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">&#9746;</font> No<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">&#9744;</font></div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: justify; TEXT-INDENT: 36pt">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: justify; TEXT-INDENT: 36pt">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definition of &#8220;large accelerated filer,&#8221; &#8220;accelerated filer&#8221; and &#8220;smaller reporting company&#8221; in Rule 12b-2 of the Exchange Act. (Check one):</div>
+
+<div><br>
+</div>
+
+<table id="z1f9d5deab27c4e019e818634dc08af8b" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; BORDER-COLLAPSE: collapse; WIDTH: 100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td style="VERTICAL-ALIGN: top; TEXT-ALIGN: center; WIDTH: 50%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">Large accelerated filer <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">&#9746;</font></div>
+</td>
+<td style="VERTICAL-ALIGN: top; TEXT-ALIGN: center; WIDTH: 50%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">Accelerated filer <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">&#9744;</font></div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; TEXT-ALIGN: center; WIDTH: 50%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; TEXT-ALIGN: center; WIDTH: 50%">&#160;</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; TEXT-ALIGN: center; WIDTH: 50%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">Non-accelerated filer <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">&#9744;</font></div>
+</td>
+<td style="VERTICAL-ALIGN: top; TEXT-ALIGN: center; WIDTH: 50%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">Smaller reporting company <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">&#9744;</font></div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; TEXT-ALIGN: center; WIDTH: 50%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">(Do not check if a smaller reporting company)</div>
+</td>
+<td style="VERTICAL-ALIGN: top; TEXT-ALIGN: center; WIDTH: 50%">&#160;</td>
+</tr>
+</table>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: justify; TEXT-INDENT: 36pt">Indicate by check mark whether the registrant is a shell company (as defined in Rule 12(b)-2 of the Securities Exchange Act of 1934). Yes <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">&#9744;</font> No <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">&#9746;</font></div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: justify; TEXT-INDENT: 36pt"><br>
+The number of shares of voting common stock outstanding as of <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">November 4, 2015</font> was <font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'">120,117,708</font>.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">&#160;</div>
+
+<div>
+<hr style="BORDER-TOP: black 1px solid; HEIGHT: 10px; BORDER-BOTTOM: black 4px solid; COLOR: #ffffff; TEXT-ALIGN: center; MARGIN-LEFT: auto; BACKGROUND-COLOR: #ffffff; MARGIN-RIGHT: auto">
+</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">Explanatory Note</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">This Amendment No. 1 to the Quarterly Report of Ionis Pharmaceuticals, Inc. on Form 10-Q/A (this &#8220;<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; FONT-STYLE: italic">Form 10-Q/A</font>&#8221;) amends our Quarterly Report on Form 10-Q for the period ended September 30, 2015, which was originally filed with the Securities and Exchange Commission (the &#8220;<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; FONT-STYLE: italic">SEC</font>&#8221;) on November 9, 2015 (the &#8220;<font style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; FONT-STYLE: italic">Original Form 10-Q</font>&#8221;). This Form 10-Q/A is being filed solely to refile Exhibit 10.1&#8212;Strategic Collaboration Agreement dated as of July 31, 2015 between Ionis Pharmaceuticals, Inc. and AstraZeneca AB, and Exhibit 10.2&#8212;Amendment #6 to Research, Development and License Agreement dated September 2, 2015 between Ionis Pharmaceuticals, Inc., Glaxo Group Limited and Glaxosmithkline Intellectual Property Development Limited. In connection with the filing of this Form 10-Q/A and pursuant to the rules of the SEC, we are including with this Form 10-Q/A new certifications by our principal executive officer and principal financial officer.</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Except as described above, no other changes have been made to the Original Form 10-Q, and this Form 10-Q/A does not amend, update or change the financial statements or disclosures in the Original Form 10-Q. This Form 10-Q/A does not reflect events occurring after the filing of the Original Form 10-Q or modify or update those disclosures. Accordingly, this Form 10-Q/A should be read in conjunction with our filings made with the SEC subsequent to the filing of the Original Form 10-Q, including any amendments to those filings.</div>
+
+<div>&#160;</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: left">Part II &#8211; Other Information</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left">
+<table id="z9f96e2f69e414a06bc091cf03db7e8e1" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; VERTICAL-ALIGN: top; FONT-WEIGHT: bold; WIDTH: 54pt; align: right">ITEM 6.</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: left; WIDTH: auto">EXHIBITS</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div style="TEXT-ALIGN: left">
+<table id="zf7ea506bdd8344ecb3fceb703ba76708" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 36pt"></td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; VERTICAL-ALIGN: top; WIDTH: 18pt; align: right">a.</td>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; VERTICAL-ALIGN: top; TEXT-ALIGN: left; WIDTH: auto">Exhibits</td>
+</tr>
+</table>
+</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">The exhibits listed in the Original Form 10-Q are required by Item 601 of Regulation S-K. A list of the exhibits filed with this Form 10-Q/A is provided below.<br>
+</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<table id="zc969e61d6ef14318bbb08428587ace3a" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; BORDER-COLLAPSE: collapse; WIDTH: 100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 10.3%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: left">Exhibit </div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: left">Number</div>
+</td>
+<td style="VERTICAL-ALIGN: bottom; TEXT-ALIGN: center; WIDTH: 89.7%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold">Description of Document</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 10.3%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 89.7%">&#160;</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 10.3%; BACKGROUND-COLOR: #cceeff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left"><a href="ex10_1.htm">10.1</a></div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 89.7%; BACKGROUND-COLOR: #cceeff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Strategic Collaboration Agreement between the Registrant and AstraZeneca AB dated July 31, 2015. Portions of this exhibit have been omitted and separately filed with the SEC.</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 10.3%; BACKGROUND-COLOR: #ffffff">&#160;</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 89.7%; BACKGROUND-COLOR: #ffffff">&#160;</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 10.3%; BACKGROUND-COLOR: #cceeff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left"><a href="ex10_2.htm">10.2</a></div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 89.7%; BACKGROUND-COLOR: #cceeff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Amendment #6 to Research, Development and License Agreement between the Registrant, Glaxo Group Limited and GlaxoSmithKline Intellectual Property Development Limited dated September 2, 2015. Portions of this exhibit have been omitted and separately filed with the SEC.</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 10.3%; BACKGROUND-COLOR: #ffffff">&#160;</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 89.7%; BACKGROUND-COLOR: #ffffff">&#160;</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 10.3%; BACKGROUND-COLOR: #cceeff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left"><a href="ex31_1.htm">31.1</a></div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 89.7%; BACKGROUND-COLOR: #cceeff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Certification by Chief Executive Officer Pursuant to 18 U.S.C. Section 1350 as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 10.3%; BACKGROUND-COLOR: #ffffff">&#160;</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 89.7%; BACKGROUND-COLOR: #ffffff">&#160;</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 10.3%; BACKGROUND-COLOR: #cceeff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left"><a href="ex31_2.htm">31.2</a></div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 89.7%; BACKGROUND-COLOR: #cceeff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Certification by Chief Financial Officer Pursuant to 18 U.S.C. Section 1350 as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 10.3%; BACKGROUND-COLOR: #ffffff">&#160;</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 89.7%; BACKGROUND-COLOR: #ffffff">&#160;</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 10.3%; BACKGROUND-COLOR: #cceeff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left"><a href="ex32_1.htm">32.1</a></div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 89.7%; BACKGROUND-COLOR: #cceeff">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Certification Pursuant to 18 U.S.C. Section 1350 as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.</div>
+</td>
+</tr>
+</table>
+
+<div>&#160;</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; CLEAR: both; MARGIN-TOP: 10pt">
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; WIDTH: 100%; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: left">SIGNATURES</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: justify; TEXT-INDENT: 36pt">Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the Registrant and in the capacities and on the dates indicated.</div>
+
+<div><br>
+</div>
+
+<table id="z21179587d14a464fb267ea1c19c820a7" style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; BORDER-COLLAPSE: collapse; WIDTH: 100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td style="VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; WIDTH: 26%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">Signatures</div>
+</td>
+<td style="VERTICAL-ALIGN: top; PADDING-BOTTOM: 2px; WIDTH: 2%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; WIDTH: 50%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">Title</div>
+</td>
+<td style="VERTICAL-ALIGN: top; PADDING-BOTTOM: 2px; WIDTH: 2%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; WIDTH: 20%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; FONT-WEIGHT: bold; TEXT-ALIGN: center">Date</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 26%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 2%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 50%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 2%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 20%">&#160;</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; WIDTH: 26%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">/s/ Stanley T. Crooke</div>
+</td>
+<td style="VERTICAL-ALIGN: top; PADDING-BOTTOM: 2px; WIDTH: 2%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; PADDING-BOTTOM: 2px; WIDTH: 50%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Chairman of the Board, President, and Chief Executive Officer</div>
+</td>
+<td style="VERTICAL-ALIGN: top; PADDING-BOTTOM: 2px; WIDTH: 2%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; PADDING-BOTTOM: 2px; WIDTH: 20%"></td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 26%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Stanley T. Crooke, M.D., Ph.D.</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 2%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 50%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">(Principal executive officer)</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 2%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 20%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">June 10, 2016</div>
+</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 26%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 2%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 50%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 2%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 20%">&#160;</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 2px solid; WIDTH: 26%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">/s/ Elizabeth L. Hougen</div>
+</td>
+<td style="VERTICAL-ALIGN: top; PADDING-BOTTOM: 2px; WIDTH: 2%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; PADDING-BOTTOM: 2px; WIDTH: 50%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Senior Vice President, Finance and Chief Financial Officer</div>
+</td>
+<td style="VERTICAL-ALIGN: top; PADDING-BOTTOM: 2px; WIDTH: 2%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; PADDING-BOTTOM: 2px; WIDTH: 20%">&#160;</td>
+</tr>
+
+<tr>
+<td style="VERTICAL-ALIGN: top; WIDTH: 26%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">Elizabeth L. Hougen</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 2%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 50%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">(Principal financial and accounting officer)</div>
+</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 2%">&#160;</td>
+<td style="VERTICAL-ALIGN: top; WIDTH: 20%">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: 'Times New Roman'; TEXT-ALIGN: left">June 10, 2016</div>
+</td>
+</tr>
+</table>
+
+<div><br>
+ &#160;</div>
+
+<div>
+<hr style="HEIGHT: 2px; COLOR: #000000; TEXT-ALIGN: center; MARGIN-LEFT: auto; BACKGROUND-COLOR: #000000; MARGIN-RIGHT: auto" noshade="noshade">
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>

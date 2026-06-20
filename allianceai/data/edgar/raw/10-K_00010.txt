@@ -1,0 +1,2308 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>wfc15nx2_10ka-2015.htm
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: Wells Fargo
+    Document created using EDGARfilings PROfile 3.5.0.0
+    Copyright 1995 - 2016 Summit Financial Printing, LLC.  All rights reserved.-->
+</head>
+<body lang="EN-US" link="blue" vlink="purple">
+<div class="WordSection1">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">UNITED STATES<br>
+ SECURITIES AND EXCHANGE COMMISSION</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">WASHINGTON, D.C. 20549</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">FORM&#160;10&#8209;K/A</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">(Amendment No. 1)</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; TEXT-ALIGN: center">(Mark&#160;one)</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">/X/ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES<br>
+ EXCHANGE ACT OF 1934 </p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;&#160;&#160;&#160;For the fiscal year ended December 31, 2015 <br>
+<br>
+ OR</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">// TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES<br>
+ EXCHANGE ACT OF 1934 </p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">For the transition period from <u>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</u> to <u>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</u></p>
+
+<div id="0A21">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A23">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A24">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">Commission file number of the issuing entity:333-195164-10</p>
+
+<div id="0A28">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the issuing entity:0001643873</p>
+
+<div id="0B30">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A105">
+<p class="CoverTitle1" style="FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 0in">Wells Fargo Commercial Mortgage Trust 2015-NXS2</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the issuing entity as specified in its charter)</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold">&#160;</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the depositor: 0000850779</p>
+
+<p class="CoverTitle1" style="FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 0in">Wells Fargo Commercial Mortgage Securities, Inc.</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the depositor as specified in its charter)</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold">&#160;</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the sponsor: 0000740906</p>
+
+<p class="CoverTitle1" style="FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 0in">Wells Fargo Bank, National Association</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the sponsor as specified in its charter)</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold">&#160;</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the sponsor: 0001542256</p>
+
+<p class="CoverTitle1" style="FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 0in">Natixis Real Estate Capital LLC</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the sponsor as specified in its charter)</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold">&#160;</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the sponsor: 0001624053</p>
+
+<p class="CoverTitle1" style="FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 0in">Silverpeak Real Estate Finance LLC</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the sponsor as specified in its charter)</p>
+
+<p class="CoverSubtitle">&#160;</p>
+
+<table id="49f5be3263a3443ea8f2f29ca0d28cb3" class="MsoNormalTable" style="WIDTH: 100%; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" border="0">
+<tr style="HEIGHT: 39.65pt">
+<td style="HEIGHT: 39.65pt; WIDTH: 50%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.75pt; PADDING-RIGHT: 5.75pt" valign="bottom">
+<p class="CoverSubtitle">New York<br>
+(State or other jurisdiction of<br>
+ incorporation or organization of</p>
+
+<p class="CoverSubtitle">the issuing entity)</p>
+</td>
+<td style="HEIGHT: 39.65pt; WIDTH: 50%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.75pt; PADDING-RIGHT: 5.75pt" valign="bottom">
+<p class="CoverSubtitle">38-3971652</p>
+
+<p class="CoverSubtitle">38-3971653</p>
+
+<p class="CoverSubtitle">38-3971654</p>
+
+<p class="CoverSubtitle">38-7135410</p>
+
+<p class="CoverSubtitle">(I.R.S. Employer</p>
+
+<p class="CoverSubtitle">Identification Numbers)</p>
+</td>
+</tr>
+</table>
+
+<p class="CoverSubtitle" style="TEXT-ALIGN: center"><br>
+<font style="FONT-WEIGHT: bold">c/o Wells Fargo Bank, National Association </font></p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">as Certificate Administrator </p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">9062 Old Annapolis Road</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">Columbia, MD</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">(Address of principal executive offices of the issuing entity)</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt">21045</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">(Zip Code)</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt">Registrant&#8217;s telephone number, including area code:</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">(704) 374-6161</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Securities registered pursuant to Section 12(b) of the Act: None.</p>
+</div>
+
+<div id="0A107">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A109">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Securities registered pursuant to Section 12(g) of the Act: None.</p>
+</div>
+
+<div id="0A111">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A113">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. / / Yes /X/ No</p>
+</div>
+
+<div id="0A116">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A119">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. / / Yes /X/ No</p>
+</div>
+
+<div id="0A122">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A125">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. /X/ Yes / / No</p>
+</div>
+
+<div id="0A129">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A131">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (Section 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).</p>
+</div>
+
+<div id="0A135">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A137">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Not&#160;applicable.</p>
+</div>
+
+<div id="0A139">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A141">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (Section 229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant&#8217;s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.</p>
+</div>
+
+<div id="0A145">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A147">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Not&#160;applicable.</p>
+</div>
+
+<div id="0A149">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A151">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definitions of &#8220;large accelerated filer&#8221;, &#8220;accelerated filer&#8221; and &#8220;smaller reporting company&#8221; in Rule 12b-2 of the Exchange Act.</p>
+</div>
+
+<div id="0A154">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A156">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Large accelerated filer / / &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Accelerated filer / /<br>
+<br>
+ Non-accelerated filer /X/ (Do not check if a smaller reporting company) &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Smaller reporting company / /</p>
+</div>
+
+<div id="0A159">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A162">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). / / Yes /X/ No</p>
+</div>
+
+<div id="0A165">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A168">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant&#8217;s most recently completed second fiscal quarter.</p>
+</div>
+
+<div id="0A171">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A173">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Not&#160;applicable.</p>
+</div>
+
+<div id="0A175">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A177">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark whether the registrant has filed all documents and reports required to be filed by Section 12, 13 or 15(d) of the Securities Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court. / / Yes / / No</p>
+</div>
+
+<div id="0A180">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A182">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Not&#160;applicable.</p>
+</div>
+
+<div id="0A184">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A186">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate the number of shares outstanding of each of the registrant&#8217;s classes of common stock, as of the latest practicable date.</p>
+</div>
+
+<div id="0A189">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A192">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Not&#160;applicable.</p>
+</div>
+
+<div id="0A194">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A196">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">DOCUMENTS INCORPORATED BY REFERENCE</p>
+</div>
+
+<div id="0A198">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A200">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">List hereunder the following documents if incorporated by reference and the Part of the Form 10-K (e.g., Part I, Part II, etc.) into which the document is incorporated: (1)Any annual report to security holders; (2) Any proxy or information statement; and (3)Any prospectus filed pursuant to Rule 424(b) or (c) under the Securities Act of 1933. The listed documents should be clearly described for identification purposes (e.g., annual report to security holders for fiscal year ended December 24, 1980).</p>
+</div>
+
+<div id="0A205">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A207">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Not&#160;applicable.</p>
+</div>
+
+<div id="0A209">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A328">
+<p class="MsoNormal" style="PAGE-BREAK-AFTER: avoid; PAGE-BREAK-BEFORE: always; FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt">EXPLANATORY NOTE</p>
+
+<p class="MsoNormal" style="MARGIN-TOP: 10pt">The purpose of this Amendment No. 1 (the &#8220;Amendment&#8221;) to our Annual Report on Form 10-K for the fiscal year ended December 31, 2015 filed with the Securities and Exchange Commission on March 24, 2016 (the &#8220;Original Form 10-K&#8221;) is to file an amended Report on Assessment of Compliance for CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant, dated February 4, 2016 as a replacement to the Report on Assessment of Compliance filed as Exhibit 33.6 of the Exhibits, Financial Statement Schedules under Item 15 to the Original Form 10-K.&#160; Due to an error in table formatting, Appendix A of Exhibit 33.6 to the Original Form 10-K did not clearly identify which servicing criteria were applicable or inapplicable.&#160; The amended Exhibit 33.6 included in this Amendment clearly identifies which servicing criteria are applicable and which are inapplicable.</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<table id="A332:E350" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr>
+<td style="WIDTH: 99.68%; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">PART&#160;I</p>
+
+<p class="MsoNormal" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 19.82%; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;1.</p>
+</td>
+<td id="0B337" style="WIDTH: 79.72%; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Business.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;1A.</p>
+</td>
+<td id="0B339" style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Risk&#160;Factors.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;1B.</p>
+</td>
+<td id="0B342" style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Unresolved Staff Comments.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">None.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;2.</p>
+</td>
+<td id="0B345" style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Properties.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;3.</p>
+</td>
+<td id="0B347" style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Legal&#160;Proceedings.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;4.</p>
+</td>
+<td id="0B349" style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Mine Safety Disclosures.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Not&#160;applicable.</p>
+</td>
+</tr>
+</table>
+
+<p class="MsoNormal">&#160;</p>
+
+<table id="A355:E382" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr>
+<td style="WIDTH: 99.68%; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">PART&#160;II</p>
+
+<p class="MsoNormal" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 19.82%; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;5.</p>
+</td>
+<td id="0B360" style="WIDTH: 79.7%; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Market for Registrant&#8217;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;6.</p>
+</td>
+<td id="0B364" style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Selected Financial Data.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;7.</p>
+</td>
+<td id="0B366" style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;7A.</p>
+</td>
+<td id="0B369" style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Quantitative and Qualitative Disclosures About Market Risk.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;8.</p>
+</td>
+<td id="0B372" style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Financial Statements and Supplementary Data.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;9.</p>
+</td>
+<td id="0B374" style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;9A.</p>
+</td>
+<td id="0B377" style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Controls and Procedures.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;9B.</p>
+</td>
+<td id="0B380" style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Other&#160;Information.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">None.</p>
+</td>
+</tr>
+</table>
+
+<p class="MsoNormal">&#160;</p>
+
+<table id="A387:E406" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr>
+<td style="WIDTH: 99.68%; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">PART&#160;III</p>
+
+<p class="MsoNormal" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 19.82%; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;10.</p>
+</td>
+<td id="0B392" style="WIDTH: 79.7%; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Directors, Executive Officers and Corporate Governance.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;11.</p>
+</td>
+<td id="0B395" style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Executive Compensation.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;12.</p>
+</td>
+<td id="0B398" style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;13.</p>
+</td>
+<td id="0B401" style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Certain Relationships and Related Transactions, and Director Independence.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;14.</p>
+</td>
+<td id="0B404" style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Principal Accounting Fees and Services.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+</table>
+
+<div id="0A410">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">ADDITIONAL DISCLOSURE ITEMS FOR REGULATION AB</p>
+
+<div id="0A414">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A415">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 1112(b) of Regulation AB, Significant Obligor Financial Information.</p>
+</div>
+
+<div id="0A417">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A418">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">No single obligor represents 10% or more of the pool assets held by the issuing entity.</p>
+</div>
+
+<div id="0A419">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A420">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 1114(b)(2) of Regulation AB, Significant Enhancement Provider Financial Information.</p>
+</div>
+
+<div id="0A422">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A423">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">No entity or group of affiliated entities provides any external credit enhancement or other support for the certificates within this transaction as described under Item 1114(a) of Regulation AB.</p>
+</div>
+
+<div id="0A426">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A427">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 1115(b) of Regulation AB, Certain Derivatives Instruments (Financial Information).</p>
+</div>
+
+<div id="0A429">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A430">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">No entity or group of affiliated entities provides any derivative instruments or other support for the certificates within this transaction as described under Item 1115 of Regulation AB.</p>
+</div>
+
+<div id="0A432">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A433">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 1117 of Regulation AB, Legal Proceedings.</p>
+</div>
+
+<div id="0A435">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A439">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">The registrant knows of no material pending legal proceeding involving the trust or any party related to the trust, other than routine litigation incidental to the duties of those respective parties, and the following, with respect to Wells Fargo Bank, National Association, as certificate administrator and custodian: </p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">On June 18, 2014, a group of institutional investors filed a civil complaint in the Supreme Court of the State of New York, New York County, against Wells Fargo Bank, N.A., in its capacity as trustee under 276 residential mortgage backed securities (&#8220;RMBS&#8221;) trusts, which was later amended on July 18, 2014, to increase the number of trusts to 284 RMBS trusts.&#160; On November 24, 2014, the plaintiffs filed a motion to voluntarily dismiss the state court action without prejudice.&#160; That same day, a group of institutional investors filed a civil complaint in the United States District Court for the Southern District of New York (the &#8220;District Court&#8221;) against Wells Fargo Bank, alleging claims against the bank in its capacity as trustee for 274 RMBS trusts (the &#8220;Complaint&#8221;). In December 2014, the plaintiffs&#8217; motion to voluntarily dismiss their original state court action was granted. As with the prior state court action, the Complaint is one of six similar complaints filed contemporaneously against RMBS trustees (Deutsche Bank, Citibank, HSBC, Bank of New York Mellon and US Bank) by a group of institutional investor plaintiffs. The Complaint against Wells Fargo Bank alleges that the trustee caused losses to investors and asserts causes of action based upon, among other things, the trustee's alleged failure to (i) enforce repurchase obligations of mortgage loan sellers for purported breaches of representations and warranties, (ii) notify investors of alleged events of default purportedly caused by breaches by mortgage loan servicers, and (iii) abide by appropriate standards of care following alleged events of default. Relief sought includes money damages in an unspecified amount, reimbursement of expenses, and equitable relief.&#160; Other cases (collectively, the &#8220;Additional Complaints&#8221;) alleging similar causes of action have been filed against Wells Fargo Bank and other trustees in the same court by RMBS investors in these and other transactions, and these cases have been consolidated before the same judge. On January 19, 2016, an order was entered in connection with the Complaint in which the District Court declined to exercise jurisdiction over 261 trusts at issue in the Complaint; the District Court also allowed Plaintiffs to file amended complaints if they so chose, and three amended complaints have been filed. There can be no assurances as to the outcome of the litigation, or the possible impact of the litigation on the trustee or the RMBS trusts. However, Wells Fargo Bank denies liability and believes that it has performed its obligations under the RMBS trusts in good faith, that its actions were not the cause of any losses to investors, and that it has meritorious defenses, and it intends to contest the plaintiffs&#8217; claims vigorously.&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A440">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 1119 of Regulation AB, Affiliations and Certain Relationships and Related Transactions.</p>
+</div>
+
+<div id="0A442">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A443">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">The information regarding this Item has been previously provided in a prospectus supplement of the Registrant relating to the issuing entity filed on July 14, 2015 pursuant to Rule 424(b)(5).</p>
+</div>
+
+<div id="0A446">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A447">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 1122 of Regulation AB, Compliance with Applicable Servicing Criteria.</p>
+</div>
+
+<div id="0A449">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A450">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">The reports on assessments of compliance with the servicing criteria for asset-backed securities and related attestation reports on such assessments of compliance with respect to the mortgage loans are attached hereto under Item 15 to this Annual Report on Form 10-K. Attached as Schedule III to the Pooling and Servicing Agreement incorporated by reference as Exhibit 4.1 to this Annual Report on Form 10-K is a chart identifying the entities participating in a servicing function for the transaction responsible for each applicable servicing criteria set forth in Item 1122(d).<br>
+<br>
+ The reports on assessments of compliance with the servicing criteria for asset-backed securities and related attestation reports on such assessments of compliance with respect to the Patriots Park Mortgage Loan, Stanford Research Park Mortgage Loan and Hotel Andra Mortgage Loan, which are being serviced and administered pursuant to the pooling and servicing agreement for the WFCMT 2015-NXS1 Transaction, are attached hereto under Item 15 to this Annual Report on Form 10-K. Attached as Schedule III to the pooling and servicing agreement for the WFCMT 2015-NXS1 Transaction incorporated by reference as Exhibit 4.2 to this Annual Report on Form 10-K is a chart identifying the entities participating in a servicing function for the WFCMT 2015-NXS1 Transaction responsible for each applicable servicing criteria set forth in Item 1122(d).</p>
+</div>
+
+<div id="0A468">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A469">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 1123 of Regulation AB, Servicer Compliance Statement.</p>
+</div>
+
+<div id="0A471">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A472">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">The servicer compliance statements are attached as Exhibits to this Annual Report on Form 10-K.</p>
+</div>
+
+<div id="0A476">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">Part&#160;IV</p>
+
+<div id="0A480">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A481">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 15. Exhibits, Financial Statement Schedules</p>
+</div>
+
+<div id="0A485">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A486">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(a) The following is a list of documents filed as part of this Annual Report on Form 10-K:</p>
+</div>
+
+<div id="0A490">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A491">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(1) Not applicable</p>
+</div>
+
+<div id="0A495">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A496">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(2) Not applicable</p>
+</div>
+
+<div id="0A500">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A501">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(3) See below</p>
+</div>
+
+<div id="0A505">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A506">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">4.1 Pooling and Servicing Agreement, dated as of July 1, 2015, by and among Wells Fargo Commercial Mortgage Securities, Inc., as Depositor, Wells Fargo Bank, National Association, as Master Servicer, Rialto Capital Advisors, LLC, as Special Servicer, Pentalpha Surveillance LLC, as Trust Advisor, Wells Fargo Bank, National Association, as Certificate Administrator, as Tax Administrator and as Custodian, and Wilmington Trust, National Association, as Trustee (filed as Exhibit 4.1 to the registrant&#8217;s Current Report on Form 8-K/A filed on November 12, 2015 under Commission File No. 333-195164-10 and incorporated by reference herein).</p>
+</div>
+
+<div id="0A513">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A514">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">4.2 Pooling and Servicing Agreement, dated as of April 1, 2015, by and among Wells Fargo Commercial Mortgage Securities, Inc., as Depositor, Wells Fargo Bank, National Association, as Master Servicer, Rialto Capital Advisors, LLC, as Special Servicer, TriMont Real Estate Advisors, Inc., as Trust Advisor, Wells Fargo Bank, National Association, as Certificate Administrator, as Tax Administrator and as Custodian, and Wilmington Trust, National Association, as Trustee (filed as Exhibit 99.4 to the registrant&#8217;s Current Report on Form 8-K filed on July 14, 2015 under Commission File No. 333-195164-10 and incorporated by reference herein).</p>
+</div>
+
+<div id="0A521">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A522">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">31 Rule 13a-14(d)/15d-14(d) Certifications.</p>
+</div>
+
+<div id="0A526">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A527">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">33 Reports on assessment of compliance with servicing criteria for asset-backed securities.</p>
+</div>
+
+<div id="0A581">
+<table id="68d72496e1ae4719a895845483795d42" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.1 Wells Fargo Bank, National Association, as Master Servicer (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.2 Rialto Capital Advisors, LLC, as Special Servicer (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.3 Wells Fargo Bank, National Association, as Certificate Administrator (filed as Exhibit 33.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.4 Wells Fargo Bank, National Association, as Custodian (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.5 Pentalpha Surveillance LLC, as Trust Advisor (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.6 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant </p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.7 National Tax Search, LLC, as Servicing Function Participant (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.8 Wells Fargo Bank, National Association, as Primary Servicer of the 100 West 57th Street Mortgage Loan (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.9 Rialto Capital Advisors, LLC, as Special Servicer of the 100 West 57th Street Mortgage Loan (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.10 Wells Fargo Bank, National Association, as Certificate Administrator of the 100 West 57th Street Mortgage Loan (filed as Exhibit 33.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.11 Wells Fargo Bank, National Association, as Custodian of the 100 West 57th Street Mortgage Loan (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.12 Pentalpha Surveillance LLC, as Trust Advisor of the 100 West 57th Street Mortgage Loan (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.13 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the 100 West 57th Street Mortgage Loan (see Exhibit 33.6)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.14 National Tax Search, LLC, as Servicing Function Participant of the 100 West 57th Street Mortgage Loan (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.15 Wells Fargo Bank, National Association, as Primary Servicer of the Cooper's Crossing Mortgage Loan (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.16 Rialto Capital Advisors, LLC, as Special Servicer of the Cooper's Crossing Mortgage Loan (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.17 Wells Fargo Bank, National Association, as Certificate Administrator of the Cooper's Crossing Mortgage Loan (filed as Exhibit 33.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.18 Wells Fargo Bank, National Association, as Custodian of the Cooper's Crossing Mortgage Loan (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.19 Pentalpha Surveillance LLC, as Trust Advisor of the Cooper's Crossing Mortgage Loan (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.20 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Cooper's Crossing Mortgage Loan (see Exhibit 33.6)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.21 National Tax Search, LLC, as Servicing Function Participant of the Cooper's Crossing Mortgage Loan (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.22 Wells Fargo Bank, National Association, as Primary Servicer of the Patriots Park Mortgage Loan (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.23 Rialto Capital Advisors, LLC, as Special Servicer of the Patriots Park Mortgage Loan (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.24 Wells Fargo Bank, National Association, as Certificate Administrator of the Patriots Park Mortgage Loan (filed as Exhibit 33.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.25 Wells Fargo Bank, National Association, as Custodian of the Patriots Park Mortgage Loan (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.26 TriMont Real Estate Advisors, Inc., as Trust Advisor of the Patriots Park Mortgage Loan (filed as Exhibit 33.26 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.27 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Patriots Park Mortgage Loan (see Exhibit 33.6)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.28 National Tax Search, LLC, as Servicing Function Participant of the Patriots Park Mortgage Loan (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.29 Wells Fargo Bank, National Association, as Primary Servicer of the Stanford Research Park Mortgage Loan (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.30 Rialto Capital Advisors, LLC, as Special Servicer of the Stanford Research Park Mortgage Loan (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.31 Wells Fargo Bank, National Association, as Certificate Administrator of the Stanford Research Park Mortgage Loan (filed as Exhibit 33.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.32 Wells Fargo Bank, National Association, as Custodian of the Stanford Research Park Mortgage Loan (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.33 TriMont Real Estate Advisors, Inc., as Trust Advisor of the Stanford Research Park Mortgage Loan (filed as Exhibit 33.26 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.34 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Stanford Research Park Mortgage Loan (see Exhibit 33.6)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.35 National Tax Search, LLC, as Servicing Function Participant of the Stanford Research Park Mortgage Loan (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.36 Wells Fargo Bank, National Association, as Primary Servicer of the Hotel Andra Mortgage Loan (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.37 Rialto Capital Advisors, LLC, as Special Servicer of the Hotel Andra Mortgage Loan (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.38 Wells Fargo Bank, National Association, as Certificate Administrator of the Hotel Andra Mortgage Loan (filed as Exhibit 33.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.39 Wells Fargo Bank, National Association, as Custodian of the Hotel Andra Mortgage Loan (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.40 TriMont Real Estate Advisors, Inc., as Trust Advisor of the Hotel Andra Mortgage Loan (filed as Exhibit 33.26 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.41 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Hotel Andra Mortgage Loan (see Exhibit 33.6)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.42 National Tax Search, LLC, as Servicing Function Participant of the Hotel Andra Mortgage Loan (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+</table>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A583">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">34 Attestation reports on assessment of compliance with servicing criteria for asset-backed securities.</p>
+</div>
+
+<table id="A588:I675" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.1 Wells Fargo Bank, National Association, as Master Servicer (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.2 Rialto Capital Advisors, LLC, as Special Servicer (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.3 Wells Fargo Bank, National Association, as Certificate Administrator (filed as Exhibit 34.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.4 Wells Fargo Bank, National Association, as Custodian (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.5 Pentalpha Surveillance LLC, as Trust Advisor (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.6 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.7 National Tax Search, LLC, as Servicing Function Participant (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.8 Wells Fargo Bank, National Association, as Primary Servicer of the 100 West 57th Street Mortgage Loan (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.9 Rialto Capital Advisors, LLC, as Special Servicer of the 100 West 57th Street Mortgage Loan (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.10 Wells Fargo Bank, National Association, as Certificate Administrator of the 100 West 57th Street Mortgage Loan (filed as Exhibit 34.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.11 Wells Fargo Bank, National Association, as Custodian of the 100 West 57th Street Mortgage Loan (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.12 Pentalpha Surveillance LLC, as Trust Advisor of the 100 West 57th Street Mortgage Loan (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.13 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the 100 West 57th Street Mortgage Loan (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.14 National Tax Search, LLC, as Servicing Function Participant of the 100 West 57th Street Mortgage Loan (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.15 Wells Fargo Bank, National Association, as Primary Servicer of the Cooper's Crossing Mortgage Loan (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.16 Rialto Capital Advisors, LLC, as Special Servicer of the Cooper's Crossing Mortgage Loan (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.17 Wells Fargo Bank, National Association, as Certificate Administrator of the Cooper's Crossing Mortgage Loan (filed as Exhibit 34.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.18 Wells Fargo Bank, National Association, as Custodian of the Cooper's Crossing Mortgage Loan (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.19 Pentalpha Surveillance LLC, as Trust Advisor of the Cooper's Crossing Mortgage Loan (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.20 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Cooper's Crossing Mortgage Loan (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.21 National Tax Search, LLC, as Servicing Function Participant of the Cooper's Crossing Mortgage Loan (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.22 Wells Fargo Bank, National Association, as Primary Servicer of the Patriots Park Mortgage Loan (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.23 Rialto Capital Advisors, LLC, as Special Servicer of the Patriots Park Mortgage Loan (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.24 Wells Fargo Bank, National Association, as Certificate Administrator of the Patriots Park Mortgage Loan (filed as Exhibit 34.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.25 Wells Fargo Bank, National Association, as Custodian of the Patriots Park Mortgage Loan (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.26 TriMont Real Estate Advisors, Inc., as Trust Advisor of the Patriots Park Mortgage Loan (filed as Exhibit 34.26 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.27 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Patriots Park Mortgage Loan (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.28 National Tax Search, LLC, as Servicing Function Participant of the Patriots Park Mortgage Loan (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.29 Wells Fargo Bank, National Association, as Primary Servicer of the Stanford Research Park Mortgage Loan (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.30 Rialto Capital Advisors, LLC, as Special Servicer of the Stanford Research Park Mortgage Loan (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.31 Wells Fargo Bank, National Association, as Certificate Administrator of the Stanford Research Park Mortgage Loan (filed as Exhibit 34.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.32 Wells Fargo Bank, National Association, as Custodian of the Stanford Research Park Mortgage Loan (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.33 TriMont Real Estate Advisors, Inc., as Trust Advisor of the Stanford Research Park Mortgage Loan (filed as Exhibit 34.26 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.34 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Stanford Research Park Mortgage Loan (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.35 National Tax Search, LLC, as Servicing Function Participant of the Stanford Research Park Mortgage Loan (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.36 Wells Fargo Bank, National Association, as Primary Servicer of the Hotel Andra Mortgage Loan (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.37 Rialto Capital Advisors, LLC, as Special Servicer of the Hotel Andra Mortgage Loan (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.38 Wells Fargo Bank, National Association, as Certificate Administrator of the Hotel Andra Mortgage Loan (filed as Exhibit 34.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.39 Wells Fargo Bank, National Association, as Custodian of the Hotel Andra Mortgage Loan (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.40 TriMont Real Estate Advisors, Inc., as Trust Advisor of the Hotel Andra Mortgage Loan (filed as Exhibit 34.26 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.41 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Hotel Andra Mortgage Loan (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.42 National Tax Search, LLC, as Servicing Function Participant of the Hotel Andra Mortgage Loan (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+</table>
+
+<div id="0A679">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A680">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">35 Servicer compliance statements.</p>
+</div>
+
+<table id="A685:I706" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.1 Wells Fargo Bank, National Association, as Master Servicer (filed as Exhibit 35.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.2 Rialto Capital Advisors, LLC, as Special Servicer (filed as Exhibit 35.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.3 Wells Fargo Bank, National Association, as Certificate Administrator (filed as Exhibit 35.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.4 Wells Fargo Bank, National Association, as Primary Servicer of the 100 West 57th Street Mortgage Loan (filed as Exhibit 35.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.5 Rialto Capital Advisors, LLC, as Special Servicer of the 100 West 57th Street Mortgage Loan (filed as Exhibit 35.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.6 Wells Fargo Bank, National Association, as Certificate Administrator of the 100 West 57th Street Mortgage Loan (filed as Exhibit 35.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.7 Wells Fargo Bank, National Association, as Primary Servicer of the Cooper's Crossing Mortgage Loan (filed as Exhibit 35.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.8 Rialto Capital Advisors, LLC, as Special Servicer of the Cooper's Crossing Mortgage Loan (filed as Exhibit 35.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.9 Wells Fargo Bank, National Association, as Certificate Administrator of the Cooper's Crossing Mortgage Loan (filed as Exhibit 35.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.10 Wells Fargo Bank, National Association, as Primary Servicer of the Patriots Park Mortgage Loan (filed as Exhibit 35.10 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.11 Rialto Capital Advisors, LLC, as Special Servicer of the Patriots Park Mortgage Loan (filed as Exhibit 35.11 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.12 Wells Fargo Bank, National Association, as Certificate Administrator of the Patriots Park Mortgage Loan (filed as Exhibit 35.12 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.13 Wells Fargo Bank, National Association, as Primary Servicer of the Stanford Research Park Mortgage Loan (filed as Exhibit 35.10 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.14 Rialto Capital Advisors, LLC, as Special Servicer of the Stanford Research Park Mortgage Loan (filed as Exhibit 35.11 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.15 Wells Fargo Bank, National Association, as Certificate Administrator of the Stanford Research Park Mortgage Loan (filed as Exhibit 35.12 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.16 Wells Fargo Bank, National Association, as Primary Servicer of the Hotel Andra Mortgage Loan (filed as Exhibit 35.10 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.17 Rialto Capital Advisors, LLC, as Special Servicer of the Hotel Andra Mortgage Loan (filed as Exhibit 35.11 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.18 Wells Fargo Bank, National Association, as Certificate Administrator of the Hotel Andra Mortgage Loan (filed as Exhibit 35.12 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+</table>
+
+<div id="0A710">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A711">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.1 Mortgage Loan Purchase Agreement, dated as of June 30, 2015, between Wells Fargo Commercial Mortgage Securities, Inc. and Wells Fargo Bank, National Association (filed as Exhibit 99.2 to the registrant&#8217;s Current Report on Form 8-K/A filed on November 12, 2015 under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</div>
+
+<div id="0A715">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A716">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.2 Mortgage Loan Purchase Agreement, dated as of June 30, 2015, between Wells Fargo Commercial Mortgage Securities, Inc. and Natixis Real Estate Capital LLC (filed as Exhibit 99.1 to the registrant&#8217;s Current Report on Form 8-K/A filed on November 12, 2015 under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</div>
+
+<div id="0A720">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A721">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.3 Mortgage Loan Purchase Agreement, dated as of June 30, 2015, between Wells Fargo Commercial Mortgage Securities, Inc. and Silverpeak Real Estate Finance LLC (filed as Exhibit 99.3 to the registrant&#8217;s Current Report on Form 8-K/A filed on November 12, 2015 under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</div>
+
+<div id="0A725">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A726">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(b) The exhibits required to be filed by the Registrant pursuant to Item 601 of Regulation S-K are listed above and in the Exhibit Index that immediately follows the signature page hereof.</p>
+</div>
+
+<div id="0A729">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A730">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(c) Not Applicable.</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A733">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">SIGNATURES</p>
+</div>
+
+<div id="0A734">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A735">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</p>
+</div>
+
+<div id="0A739">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A741">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Wells Fargo Commercial Mortgage Securities, Inc.</p>
+</div>
+
+<div id="0A742">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(Depositor)</p>
+</div>
+
+<div id="0A744">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A745">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">/s/ Anthony Sfarra</p>
+</div>
+
+<div id="0A747">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Anthony Sfarra, President </p>
+</div>
+
+<div id="0A748">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(senior officer in charge of securitization of the depositor)</p>
+</div>
+
+<div id="0A749">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A752">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Date: April 6, 2016&#160;</p>
+</div>
+
+<div id="0A754">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A755">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Exhibit&#160;Index</p>
+</div>
+
+<div id="0A756">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A758">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Exhibit&#160;No.</p>
+</div>
+
+<div id="0A759">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A761">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">4.1 Pooling and Servicing Agreement, dated as of July 1, 2015, by and among Wells Fargo Commercial Mortgage Securities, Inc., as Depositor, Wells Fargo Bank, National Association, as Master Servicer, Rialto Capital Advisors, LLC, as Special Servicer, Pentalpha Surveillance LLC, as Trust Advisor, Wells Fargo Bank, National Association, as Certificate Administrator, as Tax Administrator and as Custodian, and Wilmington Trust, National Association, as Trustee (filed as Exhibit 4.1 to the registrant&#8217;s Current Report on Form 8-K/A filed on November 12, 2015 under Commission File No. 333-195164-10 and incorporated by reference herein).</p>
+</div>
+
+<div id="0A766">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A767">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">4.2 Pooling and Servicing Agreement, dated as of April 1, 2015, by and among Wells Fargo Commercial Mortgage Securities, Inc., as Depositor, Wells Fargo Bank, National Association, as Master Servicer, Rialto Capital Advisors, LLC, as Special Servicer, TriMont Real Estate Advisors, Inc., as Trust Advisor, Wells Fargo Bank, National Association, as Certificate Administrator, as Tax Administrator and as Custodian, and Wilmington Trust, National Association, as Trustee (filed as Exhibit 99.4 to the registrant&#8217;s Current Report on Form 8-K filed on July 14, 2015 under Commission File No. 333-195164-10 and incorporated by reference herein).</p>
+</div>
+
+<div id="0A773">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A774">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">31 Rule 13a-14(d)/15d-14(d) Certifications.</p>
+</div>
+
+<div id="0A776">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A780">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">33 Reports on assessment of compliance with servicing criteria for asset-backed securities.&#160;</p>
+</div>
+
+<table id="A1:I833" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.1 Wells Fargo Bank, National Association, as Master Servicer (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.2 Rialto Capital Advisors, LLC, as Special Servicer (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.3 Wells Fargo Bank, National Association, as Certificate Administrator (filed as Exhibit 33.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.4 Wells Fargo Bank, National Association, as Custodian (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.5 Pentalpha Surveillance LLC, as Trust Advisor (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.6 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant </p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.7 National Tax Search, LLC, as Servicing Function Participant (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.8 Wells Fargo Bank, National Association, as Primary Servicer of the 100 West 57th Street Mortgage Loan (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.9 Rialto Capital Advisors, LLC, as Special Servicer of the 100 West 57th Street Mortgage Loan (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.10 Wells Fargo Bank, National Association, as Certificate Administrator of the 100 West 57th Street Mortgage Loan (filed as Exhibit 33.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.11 Wells Fargo Bank, National Association, as Custodian of the 100 West 57th Street Mortgage Loan (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.12 Pentalpha Surveillance LLC, as Trust Advisor of the 100 West 57th Street Mortgage Loan (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.13 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the 100 West 57th Street Mortgage Loan (see Exhibit 33.6)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.14 National Tax Search, LLC, as Servicing Function Participant of the 100 West 57th Street Mortgage Loan (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.15 Wells Fargo Bank, National Association, as Primary Servicer of the Cooper's Crossing Mortgage Loan (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.16 Rialto Capital Advisors, LLC, as Special Servicer of the Cooper's Crossing Mortgage Loan (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.17 Wells Fargo Bank, National Association, as Certificate Administrator of the Cooper's Crossing Mortgage Loan (filed as Exhibit 33.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.18 Wells Fargo Bank, National Association, as Custodian of the Cooper's Crossing Mortgage Loan (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.19 Pentalpha Surveillance LLC, as Trust Advisor of the Cooper's Crossing Mortgage Loan (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.20 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Cooper's Crossing Mortgage Loan (see Exhibit 33.6)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.21 National Tax Search, LLC, as Servicing Function Participant of the Cooper's Crossing Mortgage Loan (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.22 Wells Fargo Bank, National Association, as Primary Servicer of the Patriots Park Mortgage Loan (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.23 Rialto Capital Advisors, LLC, as Special Servicer of the Patriots Park Mortgage Loan (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.24 Wells Fargo Bank, National Association, as Certificate Administrator of the Patriots Park Mortgage Loan (filed as Exhibit 33.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.25 Wells Fargo Bank, National Association, as Custodian of the Patriots Park Mortgage Loan (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.26 TriMont Real Estate Advisors, Inc., as Trust Advisor of the Patriots Park Mortgage Loan (filed as Exhibit 33.26 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.27 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Patriots Park Mortgage Loan (see Exhibit 33.6)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.28 National Tax Search, LLC, as Servicing Function Participant of the Patriots Park Mortgage Loan (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.29 Wells Fargo Bank, National Association, as Primary Servicer of the Stanford Research Park Mortgage Loan (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.30 Rialto Capital Advisors, LLC, as Special Servicer of the Stanford Research Park Mortgage Loan (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.31 Wells Fargo Bank, National Association, as Certificate Administrator of the Stanford Research Park Mortgage Loan (filed as Exhibit 33.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.32 Wells Fargo Bank, National Association, as Custodian of the Stanford Research Park Mortgage Loan (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.33 TriMont Real Estate Advisors, Inc., as Trust Advisor of the Stanford Research Park Mortgage Loan (filed as Exhibit 33.26 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.34 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Stanford Research Park Mortgage Loan (see Exhibit 33.6)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.35 National Tax Search, LLC, as Servicing Function Participant of the Stanford Research Park Mortgage Loan (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.36 Wells Fargo Bank, National Association, as Primary Servicer of the Hotel Andra Mortgage Loan (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.37 Rialto Capital Advisors, LLC, as Special Servicer of the Hotel Andra Mortgage Loan (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.38 Wells Fargo Bank, National Association, as Certificate Administrator of the Hotel Andra Mortgage Loan (filed as Exhibit 33.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.39 Wells Fargo Bank, National Association, as Custodian of the Hotel Andra Mortgage Loan (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.40 TriMont Real Estate Advisors, Inc., as Trust Advisor of the Hotel Andra Mortgage Loan (filed as Exhibit 33.26 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.41 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Hotel Andra Mortgage Loan (see Exhibit 33.6)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">33.42 National Tax Search, LLC, as Servicing Function Participant of the Hotel Andra Mortgage Loan (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr style="HEIGHT: 6.35pt">
+<td id="A833" style="HEIGHT: 6.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt">
+<p class="MsoNormal">&#160;</p>
+</td>
+<td style="HEIGHT: 6.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+</tr>
+</table>
+
+<div id="0A837">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">34 Attestation reports on assessment of compliance with servicing criteria for asset-backed securities.</p>
+</div>
+
+<table id="A1:I891" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.1 Wells Fargo Bank, National Association, as Master Servicer (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.2 Rialto Capital Advisors, LLC, as Special Servicer (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.3 Wells Fargo Bank, National Association, as Certificate Administrator (filed as Exhibit 34.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.4 Wells Fargo Bank, National Association, as Custodian (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.5 Pentalpha Surveillance LLC, as Trust Advisor (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.6 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.7 National Tax Search, LLC, as Servicing Function Participant (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.8 Wells Fargo Bank, National Association, as Primary Servicer of the 100 West 57th Street Mortgage Loan (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.9 Rialto Capital Advisors, LLC, as Special Servicer of the 100 West 57th Street Mortgage Loan (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.10 Wells Fargo Bank, National Association, as Certificate Administrator of the 100 West 57th Street Mortgage Loan (filed as Exhibit 34.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.11 Wells Fargo Bank, National Association, as Custodian of the 100 West 57th Street Mortgage Loan (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.12 Pentalpha Surveillance LLC, as Trust Advisor of the 100 West 57th Street Mortgage Loan (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.13 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the 100 West 57th Street Mortgage Loan (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.14 National Tax Search, LLC, as Servicing Function Participant of the 100 West 57th Street Mortgage Loan (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.15 Wells Fargo Bank, National Association, as Primary Servicer of the Cooper's Crossing Mortgage Loan (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.16 Rialto Capital Advisors, LLC, as Special Servicer of the Cooper's Crossing Mortgage Loan (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.17 Wells Fargo Bank, National Association, as Certificate Administrator of the Cooper's Crossing Mortgage Loan (filed as Exhibit 34.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.18 Wells Fargo Bank, National Association, as Custodian of the Cooper's Crossing Mortgage Loan (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.19 Pentalpha Surveillance LLC, as Trust Advisor of the Cooper's Crossing Mortgage Loan (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.20 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Cooper's Crossing Mortgage Loan (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.21 National Tax Search, LLC, as Servicing Function Participant of the Cooper's Crossing Mortgage Loan (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.22 Wells Fargo Bank, National Association, as Primary Servicer of the Patriots Park Mortgage Loan (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.23 Rialto Capital Advisors, LLC, as Special Servicer of the Patriots Park Mortgage Loan (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.24 Wells Fargo Bank, National Association, as Certificate Administrator of the Patriots Park Mortgage Loan (filed as Exhibit 34.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.25 Wells Fargo Bank, National Association, as Custodian of the Patriots Park Mortgage Loan (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.26 TriMont Real Estate Advisors, Inc., as Trust Advisor of the Patriots Park Mortgage Loan (filed as Exhibit 34.26 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.27 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Patriots Park Mortgage Loan (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.28 National Tax Search, LLC, as Servicing Function Participant of the Patriots Park Mortgage Loan (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.29 Wells Fargo Bank, National Association, as Primary Servicer of the Stanford Research Park Mortgage Loan (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.30 Rialto Capital Advisors, LLC, as Special Servicer of the Stanford Research Park Mortgage Loan (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.31 Wells Fargo Bank, National Association, as Certificate Administrator of the Stanford Research Park Mortgage Loan (filed as Exhibit 34.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.32 Wells Fargo Bank, National Association, as Custodian of the Stanford Research Park Mortgage Loan (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.33 TriMont Real Estate Advisors, Inc., as Trust Advisor of the Stanford Research Park Mortgage Loan (filed as Exhibit 34.26 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.34 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Stanford Research Park Mortgage Loan (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.35 National Tax Search, LLC, as Servicing Function Participant of the Stanford Research Park Mortgage Loan (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.36 Wells Fargo Bank, National Association, as Primary Servicer of the Hotel Andra Mortgage Loan (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.37 Rialto Capital Advisors, LLC, as Special Servicer of the Hotel Andra Mortgage Loan (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.38 Wells Fargo Bank, National Association, as Certificate Administrator of the Hotel Andra Mortgage Loan (filed as Exhibit 34.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.39 Wells Fargo Bank, National Association, as Custodian of the Hotel Andra Mortgage Loan (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.40 TriMont Real Estate Advisors, Inc., as Trust Advisor of the Hotel Andra Mortgage Loan (filed as Exhibit 34.26 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.41 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Hotel Andra Mortgage Loan (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="BodyMain" style="MARGIN-TOP: 0in">34.42 National Tax Search, LLC, as Servicing Function Participant of the Hotel Andra Mortgage Loan (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr style="HEIGHT: 6.35pt">
+<td id="A891" style="HEIGHT: 6.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt">
+<p class="MsoNormal">&#160;</p>
+</td>
+<td style="HEIGHT: 6.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+</tr>
+</table>
+
+<div id="0A895">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">35 Servicer compliance statements.</p>
+</div>
+
+<table id="A899:I921" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.1 Wells Fargo Bank, National Association, as Master Servicer (filed as Exhibit 35.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.2 Rialto Capital Advisors, LLC, as Special Servicer (filed as Exhibit 35.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.3 Wells Fargo Bank, National Association, as Certificate Administrator (filed as Exhibit 35.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.4 Wells Fargo Bank, National Association, as Primary Servicer of the 100 West 57th Street Mortgage Loan (filed as Exhibit 35.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.5 Rialto Capital Advisors, LLC, as Special Servicer of the 100 West 57th Street Mortgage Loan (filed as Exhibit 35.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.6 Wells Fargo Bank, National Association, as Certificate Administrator of the 100 West 57th Street Mortgage Loan (filed as Exhibit 35.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.7 Wells Fargo Bank, National Association, as Primary Servicer of the Cooper's Crossing Mortgage Loan (filed as Exhibit 35.1 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.8 Rialto Capital Advisors, LLC, as Special Servicer of the Cooper's Crossing Mortgage Loan (filed as Exhibit 35.2 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.9 Wells Fargo Bank, National Association, as Certificate Administrator of the Cooper's Crossing Mortgage Loan (filed as Exhibit 35.3 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.10 Wells Fargo Bank, National Association, as Primary Servicer of the Patriots Park Mortgage Loan (filed as Exhibit 35.10 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.11 Rialto Capital Advisors, LLC, as Special Servicer of the Patriots Park Mortgage Loan (filed as Exhibit 35.11 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.12 Wells Fargo Bank, National Association, as Certificate Administrator of the Patriots Park Mortgage Loan (filed as Exhibit 35.12 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.13 Wells Fargo Bank, National Association, as Primary Servicer of the Stanford Research Park Mortgage Loan (filed as Exhibit 35.10 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.14 Rialto Capital Advisors, LLC, as Special Servicer of the Stanford Research Park Mortgage Loan (filed as Exhibit 35.11 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.15 Wells Fargo Bank, National Association, as Certificate Administrator of the Stanford Research Park Mortgage Loan (filed as Exhibit 35.12 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.16 Wells Fargo Bank, National Association, as Primary Servicer of the Hotel Andra Mortgage Loan (filed as Exhibit 35.10 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.17 Rialto Capital Advisors, LLC, as Special Servicer of the Hotel Andra Mortgage Loan (filed as Exhibit 35.11 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="BodyMain" style="MARGIN-TOP: 0in">35.18 Wells Fargo Bank, National Association, as Certificate Administrator of the Hotel Andra Mortgage Loan (filed as Exhibit 35.12 to the Original 10-K under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</td>
+</tr>
+</table>
+
+<div id="0A925">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A926">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.1 Mortgage Loan Purchase Agreement, dated as of June 30, 2015, between Wells Fargo Commercial Mortgage Securities, Inc. and Wells Fargo Bank, National Association (filed as Exhibit 99.2 to the registrant&#8217;s Current Report on Form 8-K/A filed on November 12, 2015 under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</div>
+
+<div id="0A930">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A931">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.2 Mortgage Loan Purchase Agreement, dated as of June 30, 2015, between Wells Fargo Commercial Mortgage Securities, Inc. and Natixis Real Estate Capital LLC (filed as Exhibit 99.1 to the registrant&#8217;s Current Report on Form 8-K/A filed on November 12, 2015 under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</div>
+
+<div id="0A935">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A936">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.3 Mortgage Loan Purchase Agreement, dated as of June 30, 2015, between Wells Fargo Commercial Mortgage Securities, Inc. and Silverpeak Real Estate Finance LLC (filed as Exhibit 99.3 to the registrant&#8217;s Current Report on Form 8-K/A filed on November 12, 2015 under Commission File No. 333-195164-10 and incorporated by reference herein)</p>
+</div>
+
+<div id="0A941">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>

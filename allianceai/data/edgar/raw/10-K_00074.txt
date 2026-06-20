@@ -1,0 +1,819 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>d550701d10ka.htm
+<DESCRIPTION>10-K/A
+<TEXT>
+<HTML><HEAD>
+<TITLE>10-K/A</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington,&nbsp;D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B><FONT
+STYLE="white-space:nowrap">Form&nbsp;10-K/A</FONT> </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>(Amendment No.&nbsp;1) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B></B>&#9746;<B></B><B></B></TD>
+<TD ALIGN="left" VALIGN="top"><B>ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 </B></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>For the fiscal year ended December&nbsp;31, 2017 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>or </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B></B>&#9744;<B></B><B></B></TD>
+<TD ALIGN="left" VALIGN="top"><B>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 </B></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>For the transition period from&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+to&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Commission file number: <FONT
+STYLE="white-space:nowrap">000-30171</FONT> </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>SANGAMO
+THERAPEUTICS, INC. </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Delaware</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">68-0359556</FONT></B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction of</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>incorporation or organization)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(I.R.S. Employer<BR>Identification No.)</B></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>501 Canal Boulevard,</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Richmond, California</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>94804</B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(Address of principal executive offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><FONT STYLE="white-space:nowrap">(510)&nbsp;970-6000</FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Registrant&#146;s telephone number, including area code) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>None </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Securities
+registered pursuant to Section&nbsp;12(b) of the Act: </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:64.15pt; display:inline; font-size:8pt; font-family:Times New Roman; " ALIGN="center"><B>Title of Each
+Class</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:156.85pt; display:inline; font-size:8pt; font-family:Times New Roman; " ALIGN="center"><B>Name of Each Exchange on
+Which Registered</B></P></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Common Stock, $0.01&nbsp;par value per share</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>Nasdaq Global Select Market</B></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Securities registered pursuant to Section&nbsp;12(g) of the Act: None </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule&nbsp;405 of the Securities
+Act.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;&#9746;&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&#9744; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Indicate by check mark if the registrant
+is not required to file reports pursuant to Section&nbsp;13 or Section&nbsp;15(d) of the Exchange Act.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;&#9744;&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&#9746; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant (1)&nbsp;has filed all reports required to be filed by Section&nbsp;13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12&nbsp;months (or for such shorter period that the registrant was required to file such reports), and (2)&nbsp;has been subject to such filing requirements for the past
+90&nbsp;days.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;&#9746;&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&#9744; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether
+the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation <FONT STYLE="white-space:nowrap">S-T</FONT> (&#167;232.405
+of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;&#9746;&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&#9744; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Indicate by check mark if disclosure of delinquent filers pursuant to Item&nbsp;405 of
+<FONT STYLE="white-space:nowrap">Regulation&nbsp;S-K</FONT> (&#167; 229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant&#146;s knowledge, in definitive proxy or information statements incorporated
+by reference in Part&nbsp;III of this <FONT STYLE="white-space:nowrap">Form&nbsp;10-K</FONT> or any amendment to this <FONT STYLE="white-space:nowrap">Form&nbsp;10-K.&nbsp;&nbsp;&#9746;</FONT> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a
+<FONT STYLE="white-space:nowrap">non-accelerated</FONT> filer, a smaller reporting company, or emerging growth company. See definition of &#147;large accelerated filer,&#148; &#147;accelerated filer,&#148; &#147;smaller reporting company&#148; and
+&#147;emerging growth company&#148; in <FONT STYLE="white-space:nowrap">Rule&nbsp;12b-2</FONT> of the Exchange Act. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="16%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="60%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="20%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="1%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">Large&nbsp;accelerated&nbsp;filer</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Accelerated&nbsp;filer</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9744;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">Non-accelerated filer</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9744;&nbsp;&nbsp;(Do not check if a smaller reporting company)</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Smaller&nbsp;reporting&nbsp;company</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9744;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Emerging&nbsp;growth&nbsp;company</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9744;</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended
+transition period for complying with any new or revised financial accounting standards provided pursuant to Section&nbsp;13(a) of the Exchange Act.&nbsp;&nbsp;&#9744; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant is a shell company (as defined in <FONT STYLE="white-space:nowrap">Rule&nbsp;12b-2</FONT> of the
+Exchange Act).&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;&#9744;&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&#9746; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">The aggregate market value of
+the voting stock held by <FONT STYLE="white-space:nowrap">non-affiliates</FONT> of the registrant based upon the closing sale price of the common stock on June&nbsp;30, 2017 (the last business day of the registrant&#146;s most recently completed
+second fiscal quarter), as reported on the Nasdaq Global Select Market was $734,155,954. For purposes of this calculation, directors and executive officers of the registrant have been deemed affiliates. This determination of affiliate status is not
+necessarily a conclusive determination for other purposes. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">As of February&nbsp;15, 2018, a total of 86,338,976 shares of common stock
+$0.01 par value per share were outstanding. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>DOCUMENTS INCORPORATED BY REFERENCE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Certain information required by Part III, Items <FONT STYLE="white-space:nowrap">10-14</FONT> of this Form
+<FONT STYLE="white-space:nowrap">10-K</FONT> is incorporated by reference to the registrant&#146;s definitive Proxy Statement for the 2018 Annual Meeting of Stockholders to be filed with the Securities and Exchange Commission pursuant to Regulation
+14A not later than 120 days after the end of the fiscal year covered by this Form <FONT STYLE="white-space:nowrap">10-K,</FONT> provided that if such Proxy Statement is not filed within such period, such information will be included in an amendment
+to this Form <FONT STYLE="white-space:nowrap">10-K</FONT> to be filed within such <FONT STYLE="white-space:nowrap">120-day</FONT> period<B>.</B> </P> <P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>TABLE OF CONTENTS </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Form <FONT STYLE="white-space:nowrap">10-K/A</FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Amendment No.&nbsp;1) </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PART IV </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="6%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="92%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; margin-left:1.00em; text-indent:-1.00em; font-size:10pt; font-family:Times New Roman">Item&nbsp;15.</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Exhibits and Financial Statement Schedules</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right">4</TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>EXPLANATORY NOTE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Sangamo Therapeutics, Inc. (the &#147;Company&#148;) is filing this Amendment No.&nbsp;1 to Annual Report on Form <FONT
+STYLE="white-space:nowrap">10-K/A</FONT> (this &#147;Amendment&#148;) to amend the Company&#146;s Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> for the fiscal year ended December&nbsp;31, 2017, as filed with the Securities and
+Exchange Commission (the &#147;SEC&#148;) on March&nbsp;1, 2018 (the &#147;Form <FONT STYLE="white-space:nowrap">10-K&#148;).</FONT> This Amendment is being filed solely to <FONT STYLE="white-space:nowrap">re-file</FONT> Exhibit 10.40 to the Form <FONT
+STYLE="white-space:nowrap">10-K</FONT> (the &#147;Exhibit&#148;) and in connection therewith, to amend Part IV, Item&nbsp;15 of the&nbsp;Form <FONT STYLE="white-space:nowrap">10-K.</FONT> Certain provisions of the Exhibit were redacted in accordance
+with the Company&#146;s application for&nbsp;confidential treatment&nbsp;with the SEC. In response to SEC comments, the Exhibit, <FONT STYLE="white-space:nowrap">as&nbsp;re-filed,&nbsp;restores</FONT> certain provisions that had previously been
+redacted. In addition, as required by Rule <FONT STYLE="white-space:nowrap">12b-15</FONT> under the Securities Exchange Act of 1934, as amended, new certifications by the Company&#146;s principal executive officer and principal financial officer are
+filed as exhibits to this Amendment. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">No attempt has been made in this Amendment to modify or update the other disclosures presented in
+the Form <FONT STYLE="white-space:nowrap">10-K.</FONT> This Amendment does not reflect events occurring after the filing of the original Form <FONT STYLE="white-space:nowrap">10-K</FONT> (<I>i.e.</I>, those events occurring after March&nbsp;1, 2018)
+or modify or update those disclosures that may be affected by subsequent events. Such subsequent matters are addressed in subsequent reports filed with the SEC. Accordingly, this Amendment should be read in conjunction with the Form <FONT
+STYLE="white-space:nowrap">10-K</FONT> and the Company&#146;s other filings with the SEC. </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PART&nbsp;IV </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>ITEM&nbsp;15 &#150; EXHIBITS AND FINANCIAL STATEMENT SCHEDULES </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">(a) The following documents are included as part of the Company&#146;s Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> filed
+with the SEC on March&nbsp;1, 2018 (the &#147;Form <FONT STYLE="white-space:nowrap">10-K&#148;):</FONT> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">1. Financial Statements&#151;See
+Index to Consolidated Financial Statements in Item&nbsp;8 of the Form <FONT STYLE="white-space:nowrap">10-K.</FONT> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">2. Financial
+Statement Schedules&#151;Not Applicable. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:8%; font-size:10pt; font-family:Times New Roman">3. Exhibits </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center">
+<P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:28.45pt; display:inline; font-size:8pt; font-family:Times New Roman; " ALIGN="center"><B>Exhibit<BR>Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:85.25pt; display:inline; font-size:8pt; font-family:Times New Roman; " ALIGN="center"><B>Description of
+Document</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;3.1</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000156459017017005/sgmo-ex31_651.htm">Seventh Amended and Restated Certificate of Incorporation, as amended (incorporated by reference to Exhibit<U></U>&nbsp;
+3.1 to the Company&#146;s Quarterly Report on Form <FONT STYLE="white-space:nowrap">10-Q</FONT> filed August<U></U>&nbsp;9, 2017). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;3.2</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000156459017017005/sgmo-ex32_652.htm">Second Amended and Restated Bylaws, as amended (incorporated by reference to Exhibit<U></U>&nbsp;
+3.2 to the Company&#146;s Quarterly Report on Form <FONT STYLE="white-space:nowrap">10-Q</FONT> filed August<U></U>&nbsp;9, 2017). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>&nbsp;&nbsp;4.1</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312517003781/d304900dex41.htm">Form of Specimen Common Stock Certificate (incorporated by reference to Exhibit<U></U>&nbsp;
+4.1 to the Company&#146;s Current Report on Form<U></U><FONT STYLE="white-space:nowrap">&nbsp;8-K</FONT> filed January<U></U>&nbsp;6, 2017). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.1(+)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312517342582/d480899dex991.htm">Amended and Restated 2013 Stock Incentive Plan (the &#147;2013 Plan&#148;) (incorporated by reference to Exhibit<U></U>&nbsp;
+99.1 to the Company&#146;s Current Report on Form<U></U><FONT STYLE="white-space:nowrap">&nbsp;8-K</FONT> filed November<U></U>&nbsp;14, 2017). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.2(+)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1001233/000156459018004163/sgmo-ex102_368.htm">Form of Restricted Stock Unit Award Agreement under the 2013 Plan (incorporated by reference to Exhibit 10.2 to the Company&#146;s Annual Report
+on Form <FONT STYLE="white-space:nowrap">10-K</FONT> filed March<U></U>&nbsp;1, 2018). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.3(+)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312513259487/d554133dex103.htm">Form of Notice of Grant of Stock Option under the 2013 Plan (incorporated by reference to Exhibit<U></U>&nbsp;
+10.3 to the Company&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed June<U></U>&nbsp;14, 2013). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.4(+)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312513259487/d554133dex104.htm">Form of Stock Option Agreement under the 2013 Plan (incorporated by reference to Exhibit<U></U>&nbsp;
+10.4 to the Company&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed June<U></U>&nbsp;14, 2013). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.5(+)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312513259487/d554133dex105.htm">Form of Notice of Grant of Stock Option &#150; Director Initial Grant under the 2013 Plan (incorporated by reference to Exhibit<U></U>&nbsp;10.5
+ to the Company&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed June<U></U>&nbsp;14, 2013). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.6(+)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312513259487/d554133dex106.htm">Form of Notice of Grant of Stock Option &#150; Director Annual Grant under the 2013 Plan (incorporated by reference to Exhibit<U></U>&nbsp;10.6
+ to the Company&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed June<U></U>&nbsp;14, 2013). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.7(+)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312513259487/d554133dex107.htm">Form of Automatic Stock Option Agreement under the 2013 Plan (incorporated by reference to Exhibit<U></U>&nbsp;
+10.7 to the Company&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed June<U></U>&nbsp;14, 2013). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.8(+)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1001233/000119312510088894/ddef14a.htm">2010 Employee Stock Purchase Plan (incorporated by reference to Appendix B to the Company&#146;s Definitive Proxy Statement on Schedule 14A filed April
+<U></U>&nbsp;21, 2010). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.9(+)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000156459017010305/sgmo-ex104_8.htm">Executive Severance Plan (incorporated by reference to Exhibit<U></U>&nbsp;10.4 to the Company&#146;s Quarterly Report on Form <FONT
+STYLE="white-space:nowrap">10-Q</FONT> filed May<U></U>&nbsp;10, 2017). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.10(+)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000156459015006479/sgmo-ex102_19.htm">Form of Indemnification Agreement (incorporated by reference to Exhibit<U></U>&nbsp;
+10.2 to the Company&#146;s Quarterly Report on Form <FONT STYLE="white-space:nowrap">10-Q</FONT> filed August<U></U>&nbsp;6, 2015). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.11(+)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000156459016022708/sgmo-ex101_285.htm">Employment Agreement between the Company and Alexander (Sandy) Macrae, dated May<U></U>&nbsp;
+17, 2016 (incorporated by reference to Exhibit 10.1 to the Company&#146;s Quarterly Report on Form <FONT STYLE="white-space:nowrap">10-Q</FONT> filed August<U></U>&nbsp;4, 2016). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.12(+)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000156459017010305/sgmo-ex101_7.htm">Employment Agreement between the Company and Kathy Yi, dated February<U></U>&nbsp;
+28, 2017 (incorporated by reference to Exhibit 10.1 to the Company&#146;s Quarterly Report on Form <FONT STYLE="white-space:nowrap">10-Q</FONT> filed May<U></U>&nbsp;10, 2017). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.13(+)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1001233/000156459018004163/sgmo-ex1013_620.htm">Offer Letter between the Company and Curt A. Herberts, dated August<U></U>&nbsp;
+16, 2010 (incorporated by reference to Exhibit 10.13 to the Company&#146;s Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> filed March<U></U>&nbsp;1, 2018). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.14(+)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000156459017010305/sgmo-ex103_10.htm">Employment Agreement between the Company and Edward Conner, dated November<U></U>&nbsp;
+1, 2016 (incorporated by reference to Exhibit 10.3 to the Company&#146;s Quarterly Report on Form <FONT STYLE="white-space:nowrap">10-Q</FONT> filed May<U></U>&nbsp;10, 2017). </A></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center">
+<P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:28.45pt; display:inline; font-size:8pt; font-family:Times New Roman; " ALIGN="center"><B>Exhibit<BR>Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:85.25pt; display:inline; font-size:8pt; font-family:Times New Roman; " ALIGN="center"><B>Description of
+Document</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.15(+)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312509043753/dex1026.htm">Amended and Restated Employment Agreement between the Company and H. Ward Wolff, dated December<U></U>&nbsp;
+31, 2008 (incorporated by reference to Exhibit 10.26 to the Company&#146;s Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> filed March<U></U>&nbsp;3, 2009). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.16(+)</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1001233/000156459018004163/sgmo-ex1016_688.htm">Separation Agreement between the Company and Dale Ando, dated February<U></U>&nbsp;
+21, 2017 (incorporated by reference to Exhibit 10.16 to the Company&#146;s Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> filed March<U></U>&nbsp;1, 2018). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.17</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1001233/000095014900000384/0000950149-00-000384.txt">Triple Net Laboratory Lease between the Company and Point Richmond R&amp;D Associates II, LLC, dated May<U></U>&nbsp;
+23, 1997 (incorporated by reference to Exhibit 10.5 to the Company&#146;s Registration Statement on Form<U></U><FONT STYLE="white-space:nowrap">&nbsp;S-1</FONT> (Reg. No.<U></U><FONT STYLE="white-space:nowrap">&nbsp;
+333-30314),</FONT> as amended, filed February<U></U>&nbsp;24, 2000). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.18</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000095014905000054/f05860exv10w20.htm">First Amendment to Triple Net Laboratory Lease between the Company and Point Richmond R&amp;D Associates II, LLC, dated March<U></U>&nbsp;12,
+ 2004 (incorporated by reference to Exhibit 10.20 to the Company&#146;s Annual Report on Form<U></U><FONT STYLE="white-space:nowrap">&nbsp;10-K</FONT> filed February<U></U>&nbsp;23, 2005). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.19</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312513425338/d595389dex101.htm">Second Amendment to Triple Net Laboratory Lease between the Company and Point Richmond R&amp;D Associates II, LLC, dated March<U></U>&nbsp;15,
+ 2007 (incorporated by reference to Exhibit 10.1 to the Company&#146;s Quarterly Report on Form<U></U><FONT STYLE="white-space:nowrap">&nbsp;10-Q</FONT> filed November<U></U>&nbsp;4, 2013). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.20</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312513425338/d595389dex102.htm">Third Amendment to Triple Net Laboratory Lease between the Company and Point Richmond R&amp;D Associates II, LLC, dated August<U></U>&nbsp;1,
+ 2013 (incorporated by reference to Exhibit 10.2 to the Company&#146;s Quarterly Report on Form<U></U><FONT STYLE="white-space:nowrap">&nbsp;10-Q</FONT> filed November 4). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.21</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1001233/000156459018004163/sgmo-ex1021_830.htm">Lease Agreement between the Company and Marina Boulevard Property, LLC dated November<U></U>&nbsp;
+3, 2017 (incorporated by reference to Exhibit 10.21 to the Company&#146;s Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> filed March<U></U>&nbsp;1, 2018). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.22</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312517185733/d261905dex11.htm">Amended and Restated Sales Agreement between the Company and Cowen LLC, dated May<U></U>&nbsp;
+26, 2017 (incorporated by reference to Exhibit 1.1 to the Company&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> filed May<U></U>&nbsp;26, 2017). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.23</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312510089133/dex104.htm">Patent License Agreement between the Company and Massachusetts Institute of Technology, dated May<U></U>&nbsp;
+9, 1996, as amended by the First Amendment, dated December<U></U>&nbsp;10, 1997 (incorporated by reference to Exhibit<U></U>&nbsp;10.4 to the Company&#146;s Annual Report on Form<U></U><FONT STYLE="white-space:nowrap">&nbsp;
+10-K/A</FONT> filed April<U></U>&nbsp;22, 2010). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.24&#134;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312510049073/dex108.htm">Second Amendment to Patent License Agreement between the Company and Massachusetts Institute of Technology, dated December<U></U>&nbsp;
+2, 1998 (incorporated by reference to Exhibit 10.8 to the Company&#146;s Annual Report on Form<U></U><FONT STYLE="white-space:nowrap">&nbsp;10-K</FONT> filed March<U></U>&nbsp;5, 2010). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.25&#134;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312510049073/dex1010.htm">Third Amendment to Patent License Agreement between the Company and Massachusetts Institute of Technology, dated September<U></U>&nbsp;
+1, 1999 (incorporated by reference to Exhibit 10.10 to the Company&#146;s Annual Report on Form<U></U><FONT STYLE="white-space:nowrap">&nbsp;10-K</FONT> filed March<U></U>&nbsp;5, 2010). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.26</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312510049073/dex1011.htm">Fourth Amendment to Patent License Agreement between the Company and Massachusetts Institute of Technology, dated February<U></U>&nbsp;
+10, 2000 (incorporated by reference to Exhibit 10.11 to the Company&#146;s Annual Report on Form<U></U><FONT STYLE="white-space:nowrap">&nbsp;10-K</FONT> filed March<U></U>&nbsp;5, 2010). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.27&#134;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312510049073/dex1014.htm">Fifth Amendment to Patent License Agreement between the Company and Massachusetts Institute of Technology, effective as of December<U></U>&nbsp;15,
+ 2000 (incorporated by reference to Exhibit 10.14 to the Company&#146;s Annual Report on Form<U></U><FONT STYLE="white-space:nowrap">&nbsp;10-K</FONT> filed March<U></U>&nbsp;5, 2010). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.28&#134;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312510049073/dex1017.htm">Sixth Amendment to Patent License Agreement between the Company and Massachusetts Institute of Technology, dated September<U></U>&nbsp;
+1, 2005 (incorporated by reference to Exhibit 10.17 to the Company&#146;s Annual Report on Form<U></U><FONT STYLE="white-space:nowrap">&nbsp;10-K</FONT> filed March<U></U>&nbsp;5, 2010). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.29&#134;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312510049073/dex1020.htm">Seventh Amendment to Patent License Agreement between the Company and Massachusetts Institute of Technology, dated October<U></U>&nbsp;
+27, 2006 (incorporated by reference to Exhibit 10.20 to the Company&#146;s Annual Report on Form<U></U><FONT STYLE="white-space:nowrap">&nbsp;10-K</FONT> filed March<U></U>&nbsp;5, 2010). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.30</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312510049073/dex1023.htm">Eighth Amendment to Patent License Agreement between the Company and Massachusetts Institute of Technology, dated February<U></U>&nbsp;
+1, 2007 (incorporated by reference to Exhibit 10.23 to the Company&#146;s Annual Report on Form<U></U><FONT STYLE="white-space:nowrap">&nbsp;10-K</FONT> filed March<U></U>&nbsp;5, 2010). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.31</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312514187386/d699448dex103.htm">Ninth Amendment to Patent License Agreement between the Company and Massachusetts Institute of Technology, dated March<U></U>&nbsp;
+14, 2014 (incorporated by reference to Exhibit<U></U>&nbsp;10.3 to the Company&#146;s Quarterly Report on Form<U></U><FONT STYLE="white-space:nowrap">&nbsp;10-Q</FONT> filed May<U></U>&nbsp;7, 2014). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.32</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312510089133/dex103.htm">Sublicense Agreement between the Company and Johnson<U></U>&nbsp;&amp; Johnson, dated May<U></U>&nbsp;
+9, 1996 (incorporated by reference to Exhibit<U></U>&nbsp;10.3 to the Company&#146;s Annual Report on Form<U></U><FONT STYLE="white-space:nowrap">&nbsp;10-K/A</FONT> filed April<U></U>&nbsp;22, 2010). </A></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">5 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="90%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Exhibit</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; width:28.45pt; display:inline; font-size:8pt; font-family:Times New Roman; " ALIGN="center"><B>Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; width:85.25pt; display:inline; font-size:8pt; font-family:Times New Roman; " ALIGN="center"><B>Description of
+Document</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.33</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312510049073/dex1013.htm">License Agreement between the Company and The Scripps Research Institute, dated March<U></U>&nbsp;
+14, 2000 (incorporated by reference to Exhibit 10.13 to the Company&#146;s Annual Report on Form<U></U><FONT STYLE="white-space:nowrap">&nbsp;10-K</FONT> filed March<U></U>&nbsp;5, 2010). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.34&#134;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312510049073/dex1032.htm">Amendment to License Agreement between the Company and The Scripps Research Institute, dated April<U></U>&nbsp;
+29, 2008 (incorporated by reference to Exhibit 10.32 to the Company&#146;s Annual Report on Form<U></U><FONT STYLE="white-space:nowrap">&nbsp;10-K</FONT> filed March<U></U>&nbsp;5, 2010). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.35&#134;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000156459015009009/sgmo-ex101_99.htm">Amended and Restated Collaboration and License Agreement between the Company and Shire International GmbH, dated September<U></U>&nbsp;
+1, 2015 (incorporated by reference to Exhibit 10.1 to the Company&#146;s Quarterly Report on Form <FONT STYLE="white-space:nowrap">10-Q</FONT> filed October<U></U>&nbsp;30, 2015). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.36&#134;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000119312514187386/d699448dex101.htm">Global Research, Development and Commercialization Collaboration and License Agreement between the Company and Biogen MA Inc. (Bioverativ
+ Inc.), dated January<U></U>&nbsp;8, 2014 (incorporated by reference to Exhibit<U></U>&nbsp;10.1 to the Company&#146;s Quarterly Report on Form<U></U><FONT STYLE="white-space:nowrap">&nbsp;10-Q</FONT> filed May<U></U>&nbsp;7, 2014). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.37&#134;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000156459016012882/sgmo-ex1063_373.htm">Letter Amendment to Global Research, Development and Commercialization Collaboration and License Agreement between the Company and Biogen
+ MA Inc. (Bioverativ Inc.), dated December<U></U>&nbsp;14, 2015 (incorporated by reference to Exhibit 10.63 to the Company&#146;s Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> filed February<U></U>&nbsp;18, 2016). </A></TD></TR>
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.38&#134;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000156459016018000/sgmo-ex101_333.htm">Letter Agreement and Waiver between the Company and Biogen MA Inc. (Bioverativ Inc.), dated March<U></U>&nbsp;
+24, 2016 (incorporated by reference to Exhibit 10.1 to the Company&#146;s Quarterly Report on Form <FONT STYLE="white-space:nowrap">10-Q</FONT> filed May<U></U>&nbsp;5, 2016). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.39&#134;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/0001001233/000156459017017005/sgmo-ex101_575.htm">Collaboration and License Agreement between the Company and Pfizer Inc., dated May<U></U>&nbsp;
+10, 2017 (incorporated by reference to Exhibit 10.1 to the Company&#146;s Quarterly Report on Form <FONT STYLE="white-space:nowrap">10-Q</FONT> filed August<U></U>&nbsp;9, 2017). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>10.40#</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d550701dex1040.htm">Research Collaboration and License Agreement between the Company and Pfizer Inc., dated December<U></U>&nbsp;28, 2017. </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>21.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1001233/000156459018004163/sgmo-ex211_12.htm">Subsidiaries of the Company (incorporated by reference to Exhibit 21.1 to the Company&#146;s Annual Report on Form <FONT
+STYLE="white-space:nowrap">10-K</FONT> filed March&nbsp;1, 2018) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>23.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1001233/000156459018004163/sgmo-ex231_11.htm">Consent of Independent Registered Public Accounting Firm (incorporated by reference to Exhibit 23.1 to the Company&#146;s Annual Report on Form
+<FONT STYLE="white-space:nowrap">10-K</FONT> filed March&nbsp;1, 2018). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>24.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1001233/000156459018004163/sgmo-10k_20171231.htm">Power of Attorney (incorporated by reference to the signature page to the Company&#146;s Annual Report on Form <FONT
+STYLE="white-space:nowrap">10-K</FONT> filed March&nbsp;1, 2018). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>31.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1001233/000156459018004163/sgmo-ex311_10.htm">Rule<U></U><FONT STYLE="white-space:nowrap">&nbsp;
+13a-14(a)</FONT> Certification of Principal Executive Officer (incorporated by reference to Exhibit 31.1 to the Company&#146;s Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> filed March&nbsp;1, 2018). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>31.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1001233/000156459018004163/sgmo-ex312_9.htm">Rule<U></U><FONT STYLE="white-space:nowrap">&nbsp;
+13a-14(a)</FONT> Certification of Principal Financial Officer (incorporated by reference to Exhibit 31.2 to the Company&#146;s Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> filed March&nbsp;1, 2018). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>31.3</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d550701dex313.htm">Rule<U></U><FONT STYLE="white-space:nowrap">&nbsp;13a-14(a)</FONT> Certification of Principal Executive Officer. </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>31.4</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d550701dex314.htm">Rule<U></U><FONT STYLE="white-space:nowrap">&nbsp;13a-14(a)</FONT> Certification of Principal Financial Officer. </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>32.1*</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1001233/000156459018004163/sgmo-ex321_8.htm">Certification Pursuant to 18 U.S.C. Section<U></U>&nbsp;
+1350 (incorporated by reference to Exhibit 32.1 to the Company&#146;s Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> filed March<U></U>&nbsp;1, 2018). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>101.INS</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">XBRL Instance Document (incorporated by reference to Exhibit 101.INS to the Company&#146;s Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> filed March&nbsp;1, 2018).</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>101.SCH</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">XBRL Taxonomy Extension Schema Document (incorporated by reference to Exhibit 101.SCH to the Company&#146;s Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> filed March&nbsp;1, 2018).</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>101.CAL</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">XBRL Taxonomy Extension Calculation Linkbase Document (incorporated by reference to Exhibit 101.CAL to the Company&#146;s Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> filed March&nbsp;1, 2018).</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>101.DEF</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">XBRL Taxonomy Extension Definition Linkbase Document (incorporated by reference to Exhibit 101.DEF to the Company&#146;s Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> filed March&nbsp;1, 2018).</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>101.LAB</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">XBRL Taxonomy Extension Label Linkbase Document (incorporated by reference to Exhibit 101.LAB to the Company&#146;s Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> filed March&nbsp;1, 2018).</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>101.PRE</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">XBRL Taxonomy Extension Presentation Linkbase Document (incorporated by reference to Exhibit 101.PRE to the Company&#146;s Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> filed March&nbsp;1, 2018).</TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">6 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:10%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">&#134;<I></I></TD>
+<TD ALIGN="left" VALIGN="top"><I>Confidential treatment has been granted for certain information contained in this document pursuant to an order of the Securities and Exchange Commission. Such information has been omitted and filed separately with
+the Securities and Exchange Commission. </I> </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">#</TD>
+<TD ALIGN="left" VALIGN="top"><I>Confidential treatment has been requested for certain information contained in this document. Such information has been omitted and filed separately with the Securities and Exchange Commission.</I> </TD></TR></TABLE>
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(+)</TD>
+<TD ALIGN="left" VALIGN="top">Indicates management contract or compensatory plan or arrangement. </TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">*</TD>
+<TD ALIGN="left" VALIGN="top"><I>The certifications attached as Exhibit 32.1 accompany the Form <FONT STYLE="white-space:nowrap">10-K</FONT> pursuant to 18 U.S.C. Section</I><I></I><I>&nbsp;1350, as adopted pursuant to Section</I><I></I><I>&nbsp;906
+of the Sarbanes-Oxley Act of 2002, and shall not be deemed &#147;filed&#148; by the Company for purposes of Section</I><I></I><I>&nbsp;18 of the Securities Exchange Act of 1934, as amended.</I> </TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">7 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><A NAME="sig"></A>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this Amendment
+No.&nbsp;1 to its Annual Report on Form <FONT STYLE="white-space:nowrap">10-K/A</FONT> to be signed on its behalf by the undersigned, thereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="46%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="45%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Date: April 24, 2018</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" COLSPAN="3">SANGAMO THERAPEUTICS, INC.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">By:</TD>
+<TD VALIGN="bottom" STYLE=" BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center" STYLE="BORDER-BOTTOM:1px solid #000000">/<SMALL>S</SMALL>/ A<SMALL>LEXANDER</SMALL> M<SMALL>ACRAE</SMALL></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>Alexander Macrae</B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B></B><B><I>President, and Chief Executive Officer</I></B><B></B></TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>

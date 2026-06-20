@@ -5,6 +5,9 @@ Usage examples:
     allianceai AAPL
     allianceai AAPL --annual --no-forecast
     allianceai VNQ SPY MSFT --output-dir reports/
+    allianceai --all                 # re-run every ticker used before
+    allianceai --recent 5            # re-run the 5 most recently used
+    allianceai --list                # show saved tickers and exit
 """
 
 import argparse
@@ -16,6 +19,7 @@ from rich.panel import Panel
 from rich.table import Table
 
 from allianceai.core.logging_config import get_logger
+from allianceai.core.storage import storage
 from allianceai.orchestrator import analyse
 
 console = Console()
@@ -153,6 +157,28 @@ def _run_backtest(args) -> None:
                       "little after filtering.[/]\n")
 
 
+def _print_saved_tickers() -> None:
+    """Render the saved-ticker history as a table."""
+    df = storage.list_tickers()
+    if df.empty:
+        console.print("[yellow]No tickers saved yet.[/] Run an analysis first (e.g. [bold]allianceai AAPL[/]).")
+        return
+    t = Table(title=f"Saved tickers ({len(df)})", header_style="bold cyan")
+    t.add_column("Ticker", style="bold")
+    t.add_column("Name", overflow="ellipsis", max_width=34)
+    t.add_column("Type")
+    t.add_column("Runs", justify="right")
+    t.add_column("Last used")
+    for _, r in df.iterrows():
+        last = r["last_seen"]
+        last_str = last.strftime("%Y-%m-%d %H:%M") if hasattr(last, "strftime") else str(last)
+        t.add_row(str(r["ticker"]), str(r["name"] or "—"),
+                  str(r["quote_type"] or "—"), str(int(r["run_count"])), last_str)
+    console.print(t)
+    console.print("[dim]Replay with [bold]allianceai --all[/] or [bold]allianceai --recent N[/]. "
+                  "Remove with [bold]allianceai --forget TICKER[/].[/]")
+
+
 def main() -> None:
     # Windows consoles default to cp1252, which can't encode characters like the
     # Unicode minus (−, U+2212) that appear in some summary strings.  Force UTF-8
@@ -167,11 +193,21 @@ def main() -> None:
         prog="allianceai",
         description="Open-source AI financial analysis engine.",
     )
-    parser.add_argument("tickers", nargs="+", help="One or more ticker symbols (e.g. AAPL VNQ SPY).")
+    parser.add_argument("tickers", nargs="*", help="One or more ticker symbols (e.g. AAPL VNQ SPY).")
     parser.add_argument("--annual",      action="store_true", help="Use annual statements instead of quarterly.")
     parser.add_argument("--no-forecast", action="store_true", help="Skip time-series forecasting.")
     parser.add_argument("--no-report",   action="store_true", help="Skip HTML report generation.")
     parser.add_argument("--output-dir",  default=".", help="Directory for HTML reports (default: current dir).")
+
+    hist = parser.add_argument_group("saved tickers (auto-recorded history)")
+    hist.add_argument("--all", action="store_true",
+                      help="Analyse every ticker previously used.")
+    hist.add_argument("--recent", type=int, metavar="N",
+                      help="Analyse the N most recently used tickers.")
+    hist.add_argument("--list", action="store_true",
+                      help="List saved tickers (with run count / last used) and exit.")
+    hist.add_argument("--forget", nargs="+", metavar="TICKER",
+                      help="Remove tickers from the saved history and exit.")
 
     bt = parser.add_argument_group("backtest (walk-forward training of the prediction loop)")
     bt.add_argument("--backtest", action="store_true",
@@ -190,11 +226,40 @@ def main() -> None:
 
     Path(args.output_dir).mkdir(parents=True, exist_ok=True)
 
+    # --- Saved-ticker management commands (run and exit) ---
+    if args.list:
+        _print_saved_tickers()
+        return
+    if args.forget:
+        n = storage.forget_tickers(args.forget)
+        console.print(f"[green]Removed {n} ticker(s) from history:[/] {', '.join(t.upper() for t in args.forget)}")
+        return
+
+    # --- Resolve which tickers to analyse ---
+    if args.all:
+        tickers = storage.recent_tickers()
+        if not tickers:
+            console.print("[yellow]No saved tickers yet — analyse some first, then use --all.[/]")
+            return
+        console.print(f"[dim]Replaying {len(tickers)} saved ticker(s): {', '.join(tickers)}[/]")
+    elif args.recent is not None:
+        tickers = storage.recent_tickers(args.recent)
+        if not tickers:
+            console.print("[yellow]No saved tickers yet — analyse some first, then use --recent.[/]")
+            return
+        console.print(f"[dim]Replaying {len(tickers)} most-recent ticker(s): {', '.join(tickers)}[/]")
+    else:
+        tickers = args.tickers
+        if not tickers:
+            parser.error("no tickers given — pass symbols, or use --all / --recent N / --list.")
+
     if args.backtest:
+        # Backtest operates on the resolved ticker set too.
+        args.tickers = tickers
         _run_backtest(args)
         return
 
-    for ticker in args.tickers:
+    for ticker in tickers:
         console.rule(f"[bold blue]{ticker}")
         try:
             result = analyse(
@@ -208,6 +273,16 @@ def main() -> None:
                 console.print(f"[red]Error:[/] {result['error']}")
             else:
                 _print_summary(result)
+                # Remember successful analyses for --all / --recent replay.
+                info = result.get("info") or {}
+                try:
+                    storage.record_ticker(
+                        ticker,
+                        name=info.get("longName"),
+                        quote_type=info.get("quoteType"),
+                    )
+                except Exception:
+                    logger.exception("Failed to record ticker '%s' in history.", ticker)
         except KeyboardInterrupt:
             console.print("\n[yellow]Interrupted.[/]")
             sys.exit(0)

@@ -1,0 +1,26 @@
+Metadata-Version: 2.4
+Name: allianceai
+Version: 0.1.0
+Summary: Open-source AI financial analysis engine.
+Requires-Python: >=3.10
+Requires-Dist: numpy>=2.0
+Requires-Dist: pandas>=2.2
+Requires-Dist: scipy>=1.13
+Requires-Dist: yfinance>=0.2.50
+Requires-Dist: curl_cffi>=0.7
+Requires-Dist: scikit-learn>=1.5
+Requires-Dist: statsmodels>=0.14
+Requires-Dist: plotly>=5.24
+Requires-Dist: kaleido>=0.2
+Requires-Dist: duckdb>=1.0
+Requires-Dist: python-dotenv>=1.0
+Requires-Dist: pydantic>=2.7
+Requires-Dist: pydantic-settings>=2.3
+Requires-Dist: requests>=2.32
+Requires-Dist: tenacity>=8.4
+Requires-Dist: beautifulsoup4>=4.12
+Requires-Dist: rich>=13.7
+Requires-Dist: Jinja2>=3.1
+Requires-Dist: anthropic>=0.40
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"

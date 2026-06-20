@@ -1,0 +1,84 @@
+<DOCUMENT>
+<TYPE>EX-4.17
+<SEQUENCE>2
+<FILENAME>wor-ex417_12.htm
+<DESCRIPTION>EX-4.17
+<TEXT>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>
+wor-ex417_12.htm
+</title>
+</head>
+<!-- NG Converter v5.0.2.50 -->
+<body>
+
+<p style="text-align:right;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Exhibit 4.17</p>
+<p style="text-align:right;margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">July 30, 2021</p>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Securities and Exchange Commission</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">100 F Street, NE</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Washington, D.C.&nbsp;&nbsp;20549</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0"  style="border-collapse:collapse; width:100%;">
+<tr>
+<td valign="top" style="width:7.69%;white-space:nowrap">
+<p style="margin-top:12pt;margin-bottom:0pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="top" style="width:7.69%;white-space:nowrap">
+<p style="margin-top:12pt;margin-bottom:0pt;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Re:</font></p></td>
+<td valign="top">
+<p style="margin-top:12pt;margin-bottom:0pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;font-family:Times New Roman;font-size:10pt;">Worthington Industries, Inc. &#8211; Annual Report on Form 10-K for the fiscal year ended May 31, 2021 </p></td></tr></table></div>
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:7.69%;text-indent:7.69%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">- SEC File No. 1-8399</p>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:7.69%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Ladies and Gentlemen:</p>
+<p style="text-align:justify;margin-top:12pt;margin-bottom:0pt;text-indent:7.69%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Worthington Industries, Inc., an Ohio corporation, is today filing its Annual Report on Form 10-K for the fiscal year ended May 31, 2021 (the &#8220;Form 10-K&#8221;).</p>
+<p style="text-align:justify;margin-top:12pt;margin-bottom:0pt;text-indent:7.69%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">None of (i) Worthington Industries, Inc., (ii) any of the consolidated subsidiaries of Worthington Industries, Inc. or (iii) Worthington Armstrong Venture, a 50%-owned unconsolidated joint venture (in the form of a general partnership between Armstrong Ventures, Inc., a subsidiary of Armstrong World Industries, Inc., and The Worthington Steel Company (Delaware), a subsidiary of Worthington Industries, Inc.), for which financial statements are required to be filed with the Form 10-K, has outstanding any instrument or agreement with respect to its long-term debt, other than those filed or incorporated by reference as an exhibit to the Form 10-K, under which the total amount of long-term debt authorized exceeds 10% of the total assets of Worthington Industries, Inc. and its subsidiaries on a consolidated basis.&nbsp;&nbsp;In accordance with the provisions of Item 601(b)(4)(iii) of SEC Regulation S-K, Worthington Industries, Inc. hereby agrees to furnish to the SEC, upon request, a copy of each instrument or agreement defining (i) the rights of holders of the long-term debt of Worthington Industries, Inc. or (ii) the rights of holders of the long-term debt of a consolidated subsidiary of Worthington Industries, Inc. or (iii) the rights of holders of the long-term debt of Worthington Armstrong Venture, in each case which is not being filed or incorporated by reference as an exhibit to the Form 10-K.</p>
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:12pt;">&nbsp;</p>
+<div align="right">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; width:50%;">
+<tr>
+<td valign="top"  style="width:1%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="width:49%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Very truly yours,</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:1%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="width:49%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:1%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="width:49%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">WORTHINGTON INDUSTRIES, INC.</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:1%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="width:49%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:1%; border-bottom:solid 0.75pt transparent;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="width:49%; border-bottom:solid 0.75pt #000000;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">/s/ Joseph B. Hayek</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:1%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="width:49%; border-top:solid 0.75pt #000000;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Joseph B. Hayek</p></td>
+</tr>
+<tr>
+<td valign="top"  style="width:1%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="width:49%;">
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Vice President and Chief Financial Officer</p></td>
+</tr>
+</table></div>
+<p style="text-align:justify;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:12pt;">&nbsp;</p></body>
+</html>
+</TEXT>
+</DOCUMENT>

@@ -73,6 +73,18 @@ class Storage:
                 PRIMARY KEY (ticker, statement, metric, target_date)
             )
         """)
+        # Ticker usage history — every analysed symbol is recorded here so the
+        # CLI can replay them in bulk (--all / --recent) instead of retyping.
+        self._conn.execute("""
+            CREATE TABLE IF NOT EXISTS ticker_history (
+                ticker      VARCHAR PRIMARY KEY,
+                name        VARCHAR,
+                quote_type  VARCHAR,
+                run_count   INTEGER NOT NULL DEFAULT 1,
+                first_seen  TIMESTAMP NOT NULL,
+                last_seen   TIMESTAMP NOT NULL
+            )
+        """)
         logger.debug("DuckDB schema initialised.")
 
     # ------------------------------------------------------------------
@@ -190,6 +202,53 @@ class Storage:
 
         logger.debug("Cache hit for key='%s' (%.1f h old).", key, age_hours)
         return pd.read_json(io.StringIO(row[1]), orient="split")
+
+    # ------------------------------------------------------------------
+    # Ticker usage history (the "watchlist" the CLI replays in bulk)
+    # ------------------------------------------------------------------
+
+    def record_ticker(self, ticker: str, name: str | None = None,
+                      quote_type: str | None = None) -> None:
+        """Upsert a ticker into the usage history, bumping its run count."""
+        now = datetime.now(timezone.utc).isoformat()
+        self._conn.execute(
+            """
+            INSERT INTO ticker_history (ticker, name, quote_type, run_count,
+                                        first_seen, last_seen)
+            VALUES (?, ?, ?, 1, ?, ?)
+            ON CONFLICT (ticker) DO UPDATE SET
+                run_count  = ticker_history.run_count + 1,
+                last_seen  = excluded.last_seen,
+                name       = COALESCE(excluded.name, ticker_history.name),
+                quote_type = COALESCE(excluded.quote_type, ticker_history.quote_type)
+            """,
+            [ticker.upper(), name, quote_type, now, now],
+        )
+        logger.debug("Recorded ticker '%s' in usage history.", ticker)
+
+    def list_tickers(self) -> pd.DataFrame:
+        """All saved tickers with metadata, most-recently-used first."""
+        return self._conn.execute(
+            "SELECT ticker, name, quote_type, run_count, first_seen, last_seen "
+            "FROM ticker_history ORDER BY last_seen DESC"
+        ).fetchdf()
+
+    def recent_tickers(self, n: int | None = None) -> list[str]:
+        """Saved tickers, most-recent first. ``n=None`` returns all of them."""
+        q = "SELECT ticker FROM ticker_history ORDER BY last_seen DESC"
+        if n is not None:
+            q += f" LIMIT {int(n)}"
+        return [row[0] for row in self._conn.execute(q).fetchall()]
+
+    def forget_tickers(self, tickers: list[str]) -> int:
+        """Remove tickers from the history (e.g. typos saved by accident)."""
+        removed = 0
+        for t in tickers:
+            cur = self._conn.execute(
+                "DELETE FROM ticker_history WHERE ticker = ?", [t.upper()])
+            removed += cur.fetchall() and 0 or 0  # DuckDB DELETE returns no rows
+        # rowcount isn't reliable across versions; just report count requested.
+        return len(tickers)
 
     def close(self) -> None:
         self._conn.close()

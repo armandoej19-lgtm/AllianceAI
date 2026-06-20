@@ -1,0 +1,859 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>d107036d10ka.htm
+<DESCRIPTION>10-K/A
+<TEXT>
+<HTML><HEAD>
+<TITLE>10-K/A</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:14pt; font-family:Times New Roman" ALIGN="center">UNITED STATES SECURITIES AND EXCHANGE COMMISSION </P>
+<P STYLE="margin-top:2pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">Washington, D.C. 20549 </P> <P STYLE="font-size:3pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:3pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="margin-top:2pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>Form&nbsp;10-K/A </B></P> <P STYLE="margin-top:2pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">(Amendment
+No.&nbsp;1) </P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center">THE SECURITIES EXCHANGE ACT OF 1934 </P> <P STYLE="font-size:3pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:21%">&nbsp;</P></center> <P STYLE="font-size:3pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="49%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">
+ <P STYLE="margin-left:2.00em; font-size:10pt; font-family:Times New Roman">For the fiscal year ended December&nbsp;31,&nbsp;2015</P>
+</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">Commission File Number: 001-14965</TD></TR>
+</TABLE> <P STYLE="margin-top:3pt; margin-bottom:0pt; font-size:22pt; font-family:Times New Roman" ALIGN="center"><B>The Goldman Sachs Group, Inc. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">(Exact name of registrant as specified in its charter) </P> <P STYLE="font-size:3pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="49%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center">Delaware</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">13-4019460</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">(State or other jurisdiction of</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">incorporation or organization)</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">(I.R.S. Employer</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">Identification No.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center">200 West Street</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">10282</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">New York, N.Y.</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">(Address of principal executive offices)</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center">(Zip Code)</TD></TR>
+</TABLE> <P STYLE="margin-top:3pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">(212) 902-1000 </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center">(Registrant&#146;s telephone number, including area code) </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Securities registered pursuant to Section&nbsp;12(b) of the Act: </P> <P STYLE="font-size:3pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="66%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="32%"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center" STYLE="BORDER-BOTTOM:1px solid #000000"><B>Title of each class:</B></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="right" STYLE="BORDER-BOTTOM:1px solid #000000"><B>Name&nbsp;of&nbsp;each&nbsp;exchange&nbsp;on&nbsp;which&nbsp;registered:</B></TD></TR>
+
+
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="margin-left:0.75em; text-indent:-0.75em; font-size:8pt; font-family:ARIAL"><B>Common stock, par value $.01 per share</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>New York Stock Exchange</B></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:0.75em; text-indent:-0.75em; font-size:8pt; font-family:ARIAL"><B>Depositary Shares, Each Representing 1/1,000th Interest in a Share of Floating Rate</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:0.75em; text-indent:-0.75em; font-size:8pt; font-family:ARIAL"><B>Non-Cumulative Preferred Stock, Series&nbsp;A</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>New York Stock Exchange</B></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:0.75em; text-indent:-0.75em; font-size:8pt; font-family:ARIAL"><B>Depositary Shares, Each Representing 1/1,000th Interest in a Share of 6.20%</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:0.75em; text-indent:-0.75em; font-size:8pt; font-family:ARIAL"><B>Non-Cumulative Preferred Stock, Series&nbsp;B</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>New York Stock Exchange</B></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:0.75em; text-indent:-0.75em; font-size:8pt; font-family:ARIAL"><B>Depositary Shares, Each Representing 1/1,000th Interest in a Share of Floating Rate</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:0.75em; text-indent:-0.75em; font-size:8pt; font-family:ARIAL"><B>Non-Cumulative Preferred Stock, Series&nbsp;C</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>New York Stock Exchange</B></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:0.75em; text-indent:-0.75em; font-size:8pt; font-family:ARIAL"><B>Depositary Shares, Each Representing 1/1,000th Interest in a Share of Floating Rate</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:0.75em; text-indent:-0.75em; font-size:8pt; font-family:ARIAL"><B>Non-Cumulative Preferred Stock, Series&nbsp;D</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>New York Stock Exchange</B></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:0.75em; text-indent:-0.75em; font-size:8pt; font-family:ARIAL"><B>Depositary Shares, Each Representing 1/1,000th Interest in a Share of Floating Rate</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:0.75em; text-indent:-0.75em; font-size:8pt; font-family:ARIAL"><B>Non-Cumulative Preferred Stock, Series&nbsp;I</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>New York Stock Exchange</B></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:0.75em; text-indent:-0.75em; font-size:8pt; font-family:ARIAL"><B>Depositary Shares, Each Representing 1/1,000th Interest in a Share of 5.50%</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:0.75em; text-indent:-0.75em; font-size:8pt; font-family:ARIAL"><B>Fixed-to-Floating Rate Non-Cumulative Preferred Stock, Series&nbsp;J</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>New York Stock Exchange</B></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:0.75em; text-indent:-0.75em; font-size:8pt; font-family:ARIAL"><B>Depositary Shares, Each Representing 1/1,000th Interest in a Share of 6.375%</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:0.75em; text-indent:-0.75em; font-size:8pt; font-family:ARIAL"><B>Fixed-to-Floating Rate Non-Cumulative Preferred Stock, Series&nbsp;K</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>New York Stock Exchange</B></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="top"> <P STYLE="margin-left:0.75em; text-indent:-0.75em; font-size:8pt; font-family:ARIAL"><B>See Exhibit&nbsp;99.2 for debt and trust securities registered under Section 12(b) of the Act</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD></TR>
+</TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Securities registered pursuant to Section&nbsp;12(g) of the Act: None </P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:4pt; margin-bottom:0pt; text-indent:3%; font-size:8pt; font-family:ARIAL" ALIGN="justify">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule&nbsp;405 of the Securities Act. <FONT
+STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></FONT> Yes <FONT STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT> No </P>
+<P STYLE="margin-top:3pt; margin-bottom:0pt; text-indent:3%; font-size:8pt; font-family:ARIAL" ALIGN="justify">Indicate by check mark if the registrant is not required to file reports pursuant to Section&nbsp;13 or 15(d) of the Act. <FONT
+STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT> Yes <FONT STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></FONT> No </P>
+<P STYLE="margin-top:3pt; margin-bottom:0pt; text-indent:3%; font-size:8pt; font-family:ARIAL" ALIGN="justify">Indicate by check mark whether the registrant (1)&nbsp;has filed all reports required to be filed by Section&nbsp;13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12&nbsp;months (or for such shorter period that the registrant was required to file such reports), and (2)&nbsp;has been subject to such filing requirements for the past 90&nbsp;days. <FONT
+STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></FONT> Yes <FONT STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT> No </P>
+<P STYLE="margin-top:3pt; margin-bottom:0pt; text-indent:3%; font-size:8pt; font-family:ARIAL" ALIGN="justify">Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive
+Data File required to be submitted and posted pursuant to Rule&nbsp;405 of Regulation S-T during the preceding 12&nbsp;months (or for such shorter period that the registrant was required to submit and post such files). <FONT
+STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></FONT> Yes <FONT STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT> No </P>
+<P STYLE="margin-top:3pt; margin-bottom:0pt; text-indent:3%; font-size:8pt; font-family:ARIAL" ALIGN="justify">Indicate by check mark if disclosure of delinquent filers pursuant to Item&nbsp;405 of Regulation S-K is not contained herein, and will
+not be contained, to the best of registrant&#146;s knowledge, in definitive proxy or information statements incorporated by reference in Part&nbsp;III of the Annual Report on Form&nbsp;10-K or any amendment to the Annual Report on Form&nbsp;10-K. <FONT
+STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT> </P> <P STYLE="margin-top:3pt; margin-bottom:0pt; text-indent:3%; font-size:8pt; font-family:ARIAL" ALIGN="justify">Indicate by check mark whether the
+registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of &#147;large accelerated filer,&#148; &#147;accelerated filer&#148; and &#147;smaller reporting
+company&#148; in Rule&nbsp;12b-2 of the Exchange Act. </P> <P STYLE="font-size:3pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="96%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:8pt">
+
+
+<TR>
+<TD WIDTH="22%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="23%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="26%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="25%"></TD></TR>
+
+
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom"> <P ALIGN="justify" STYLE="font-family:ARIAL; font-size:8pt">Large&nbsp;accelerated&nbsp;filer&nbsp;<FONT STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></FONT></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P ALIGN="justify" STYLE="font-family:ARIAL; font-size:8pt">Accelerated&nbsp;filer&nbsp;<FONT STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">
+<P ALIGN="justify" STYLE="font-family:ARIAL; font-size:8pt"><FONT STYLE="white-space:nowrap">Non-accelerated&nbsp;filer&nbsp;</FONT><FONT STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P ALIGN="justify" STYLE="font-family:ARIAL; font-size:8pt">Smaller&nbsp;reporting&nbsp;company&nbsp;<FONT STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT></P></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:8pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P ALIGN="justify" STYLE="font-family:ARIAL; font-size:8pt">(Do not check if a smaller&nbsp;reporting&nbsp;company)</P></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:3pt; margin-bottom:0pt; text-indent:3%; font-size:8pt; font-family:ARIAL" ALIGN="justify">Indicate by check mark whether the registrant is a shell company (as defined in Rule&nbsp;12b-2 of
+the Exchange Act). <FONT STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></FONT> Yes <FONT STYLE="font-family:Times New Roman"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></FONT> No </P>
+<P STYLE="margin-top:3pt; margin-bottom:0pt; text-indent:3%; font-size:8pt; font-family:ARIAL" ALIGN="justify">As of June&nbsp;30,&nbsp;2015, the aggregate market value of the common stock of the registrant held by non-affiliates of the registrant
+was approximately $88.6&nbsp;billion. </P> <P STYLE="margin-top:3pt; margin-bottom:0pt; text-indent:3%; font-size:8pt; font-family:ARIAL" ALIGN="justify">As of February&nbsp;5,&nbsp;2016, there were 422,349,543 shares of the registrant&#146;s common
+stock outstanding. </P> <P STYLE="margin-top:3pt; margin-bottom:0pt; text-indent:3%; font-size:8pt; font-family:ARIAL" ALIGN="justify"><B>Documents incorporated by reference</B>: Portions of The Goldman Sachs Group, Inc.&#146;s Proxy Statement for
+its 2016 Annual Meeting of Shareholders are incorporated by reference in the Annual Report on Form&nbsp;10-K in response to Part&nbsp;III, Items&nbsp;10, 11, 12, 13 and 14. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">EXPLANATORY NOTE </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Due to an error by our external financial printer, our Annual Report on Form&nbsp;10-K for the fiscal year ended
+December&nbsp;31,&nbsp;2015 (Original <FONT STYLE="white-space:nowrap">Form&nbsp;10-K)</FONT> was filed with an incorrect version of Exhibit&nbsp;101, which provides items from our Original Form&nbsp;10-K formatted in eXtensible Business Reporting
+Language. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" ALIGN="justify">This Amendment No.&nbsp;1 on Form&nbsp;10-K/A (Amendment) to our Original Form&nbsp;10-K, filed on
+February&nbsp;19,&nbsp;2016, is being filed in accordance with Rule&nbsp;12b-15 under the Securities Exchange Act of 1934 for the sole purpose of including the correct version of Exhibit&nbsp;101. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" ALIGN="justify">This Amendment does not amend or otherwise update any other information in the Original Form&nbsp;10-K and does not reflect
+events occurring after the date of the Original Form&nbsp;10-K. </P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL">THE GOLDMAN SACHS GROUP, INC. </P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL">ANNUAL REPORT ON FORM 10-K FOR THE FISCAL YEAR ENDED DECEMBER 31,&nbsp;2015 </P> <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL"><B>INDEX </B></P> <P STYLE="font-size:8pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="10%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="80%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="8%"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="bottom" COLSPAN="3" STYLE="BORDER-TOP:1.50pt solid #000000"><B>Form&nbsp;10-K Item Number</B></TD>
+<TD VALIGN="bottom" STYLE="BORDER-TOP:1.50pt solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="right" STYLE="BORDER-TOP:1.50pt solid #000000"><B>Page&nbsp;No.</B></TD></TR>
+
+
+<TR STYLE="font-size:1px; ">
+<TD COLSPAN="5" VALIGN="bottom" STYLE="BORDER-BOTTOM:1px dotted #000000">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:0.90em; text-indent:-0.90em; font-size:10pt; font-family:ARIAL"><B>PART IV</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="right"><B>1</B></TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD COLSPAN="5" VALIGN="bottom" STYLE="BORDER-BOTTOM:1px dotted #000000">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-left:0.90em; text-indent:-0.90em; font-size:10pt; font-family:ARIAL"><B>Item&nbsp;15</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-left:0.90em; text-indent:-0.90em; font-size:10pt; font-family:Times New Roman"><B>Exhibits, Financial Statement Schedules</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="right"><B>1</B></TD></TR>
+<TR STYLE="font-size:1px; ">
+<TD COLSPAN="5" VALIGN="bottom" STYLE="BORDER-BOTTOM:1px dotted #000000">&nbsp;</TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom" COLSPAN="3" STYLE="BORDER-BOTTOM:1.50pt solid #000000"> <P STYLE="margin-left:0.90em; text-indent:-0.90em; font-size:10pt; font-family:ARIAL"><B>SIGNATURES</B></P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1.50pt solid #000000">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="right" STYLE="BORDER-BOTTOM:1.50pt solid #000000"><B>II-1</B></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt">
+
+<TR>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="90%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR></TABLE>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL">THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES </P>
+<p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL"><B>PART IV </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL"><B>Item&nbsp;15.
+Exhibits, Financial Statement Schedules </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>(a) Documents filed as part of this Report: </B></P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV STYLE="position:relative;float:left; width:48%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>1. Consolidated Financial Statements </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">The consolidated financial statements required to be filed in the 2015 Form&nbsp;10-K are included in Part&nbsp;II, Item&nbsp;8 of the Original
+Form&nbsp;10-K. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:ARIAL"><B>2. Exhibits </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;&nbsp;&nbsp;2.1</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Plan of Incorporation (incorporated by reference to the corresponding exhibit to the Registrant&#146;s Registration Statement on Form S-1
+(No.&nbsp;333-74449)). </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;&nbsp;&nbsp;3.1</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Restated Certificate of Incorporation of The Goldman Sachs Group, Inc., amended as of April&nbsp;28,&nbsp;2015 (incorporated by reference to
+Exhibit&nbsp;3.1 to the Registrant&#146;s Quarterly Report on Form&nbsp;10-Q for the period ended March&nbsp;31,&nbsp;2015). </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;&nbsp;&nbsp;3.2</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amended and Restated By-Laws of The Goldman Sachs Group, Inc., amended as of February&nbsp;18,&nbsp;2016 (incorporated by reference to the
+corresponding exhibit to the Original Form&nbsp;10-K). </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;&nbsp;&nbsp;4.1</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Indenture, dated as of May&nbsp;19,&nbsp;1999, between The Goldman Sachs Group, Inc. and The Bank of New York, as trustee (incorporated by
+reference to Exhibit&nbsp;6 to the Registrant&#146;s Registration Statement on Form&nbsp;8-A, filed on June&nbsp;29,&nbsp;1999). </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;&nbsp;&nbsp;4.2</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Subordinated Debt Indenture, dated as of February&nbsp;20,&nbsp;2004, between The Goldman Sachs Group, Inc. and The Bank of New York, as trustee
+(incorporated by reference to Exhibit&nbsp;4.2 to the Registrant&#146;s Annual Report on Form&nbsp;10-K for the fiscal year ended November&nbsp;28,&nbsp;2003). </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;&nbsp;&nbsp;4.3</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Warrant Indenture, dated as of February&nbsp;14,&nbsp;2006, between The Goldman Sachs Group, Inc. and The Bank of New York, as trustee
+(incorporated by reference to Exhibit&nbsp;4.34 to the Registrant&#146;s Post-Effective Amendment No.&nbsp;3 to Form S-3, filed on March&nbsp;1,&nbsp;2006). </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;&nbsp;&nbsp;4.4</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Senior Debt Indenture, dated as of December&nbsp;4,&nbsp;2007, among GS Finance Corp., as issuer, The Goldman Sachs Group, Inc., as guarantor, and
+The Bank of New York, as trustee (incorporated by reference to Exhibit&nbsp;4.69 to the Registrant&#146;s Post-Effective Amendment No.&nbsp;10 to Form S-3, filed on December&nbsp;4,&nbsp;2007).
+</P></TD></TR></TABLE></DIV><DIV STYLE="position:relative;float:left; margin-left:2%; width:48%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;&nbsp;&nbsp;4.5</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Senior Debt Indenture, dated as of July&nbsp;16,&nbsp;2008, between The Goldman Sachs Group, Inc. and The Bank of New York Mellon, as trustee
+(incorporated by reference to Exhibit&nbsp;4.82 to the Registrant&#146;s Post-Effective Amendment No.&nbsp;11 to Form S-3 (No.&nbsp;333-130074), filed on July&nbsp;17,&nbsp;2008). </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;&nbsp;&nbsp;4.6</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Senior Debt Indenture, dated as of October&nbsp;10,&nbsp;2008, among GS Finance Corp., as issuer, The Goldman Sachs Group, Inc., as guarantor, and
+The Bank of New York Mellon, as trustee (incorporated by reference to Exhibit&nbsp;4.70 to the Registrant&#146;s Registration Statement on Form S-3 (No.&nbsp;333-154173), filed on October&nbsp;10,&nbsp;2008). </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;&nbsp;&nbsp;4.7</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">First Supplemental Indenture, dated as of February&nbsp;20,&nbsp;2015, among GS Finance Corp., as issuer, The Goldman Sachs Group, Inc., as
+guarantor, and The Bank of New York Mellon, as trustee, with respect to the Senior Debt Indenture, dated as of October&nbsp;10,&nbsp;2008 (incorporated by reference to Exhibit&nbsp;4.7 to the Registrant&#146;s Annual Report on Form&nbsp;10-K for the
+fiscal year ended December&nbsp;31,&nbsp;2014). </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;&nbsp;&nbsp;4.8</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Ninth Supplemental Subordinated Debt Indenture, dated as of May&nbsp;20,&nbsp;2015, between The Goldman Sachs Group, Inc. and The Bank of New York
+Mellon, as trustee, with respect to the Subordinated Debt Indenture, dated as of February&nbsp;20,&nbsp;2004 (incorporated by reference to Exhibit&nbsp;4.1 to the Registrant&#146;s Current Report on Form&nbsp;8-K, filed on May&nbsp;22,&nbsp;2015).
+</P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;&nbsp;&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt"><I>Certain instruments defining the rights of holders of long-term debt securities of the Registrant and its subsidiaries are omitted pursuant to
+Item&nbsp;601(b)(4)(iii) of Regulation <FONT STYLE="white-space:nowrap">S-K.</FONT> The Registrant hereby undertakes to furnish to the SEC, upon request, copies of any such instruments.</I> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.1</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">The Goldman Sachs Amended and Restated Stock Incentive Plan (2015)&nbsp;(incorporated by reference to Annex B to the Registrant&#146;s Definitive
+Proxy Statement on Schedule&nbsp;14A, filed on April&nbsp;10,&nbsp;2015).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.2</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">The Goldman Sachs Amended and Restated Restricted Partner Compensation Plan (incorporated by reference to Exhibit&nbsp;10.1 to the
+Registrant&#146;s Quarterly Report on Form&nbsp;10-Q for the period ended February&nbsp;24,&nbsp;2006).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP>
+</P></TD></TR></TABLE></DIV><div style="clear:both; height:0pt; font-size:0pt">&nbsp;</div>
+
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">1 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL">THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES </P>
+<p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+<DIV STYLE="position:relative;float:left; width:48%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.3</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Employment Agreement for Participating Managing Directors (applicable to executive officers) (incorporated by reference to
+Exhibit&nbsp;10.19 to the Registrant&#146;s Registration Statement on Form S-1 (No.&nbsp;333-75213)).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.4</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Agreement Relating to Noncompetition and Other Covenants (incorporated by reference to Exhibit&nbsp;10.20 to the Registrant&#146;s
+Registration Statement on Form S-1 (No.&nbsp;333-75213)).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.5</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Tax Indemnification Agreement, dated as of May&nbsp;7,&nbsp;1999, by and among The Goldman Sachs Group, Inc. and various parties (incorporated by
+reference to Exhibit&nbsp;10.25 to the Registrant&#146;s Registration Statement on Form S-1 (No.&nbsp;333-75213)). </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.6</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amended and Restated Shareholders&#146; Agreement, effective as of January&nbsp;15,&nbsp;2015, among The Goldman Sachs Group, Inc. and various
+parties (incorporated by reference to Exhibit&nbsp;10.6 to the Registrant&#146;s Annual Report on Form&nbsp;10-K for the fiscal year ended December&nbsp;31,&nbsp;2014). </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.7</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Instrument of Indemnification (incorporated by reference to Exhibit&nbsp;10.27 to the Registrant&#146;s Registration Statement on Form S-1
+(No.&nbsp;333-75213)). </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.8</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Indemnification Agreement (incorporated by reference to Exhibit&nbsp;10.28 to&nbsp;the Registrant&#146;s Annual Report on Form&nbsp;10-K
+for the fiscal year ended November&nbsp;26,&nbsp;1999). </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.9</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Indemnification Agreement (incorporated by reference to Exhibit&nbsp;10.44 to&nbsp;the Registrant&#146;s Annual Report on Form&nbsp;10-K
+for the fiscal year ended November&nbsp;26,&nbsp;1999). </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.10</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Indemnification Agreement, dated as of July&nbsp;5,&nbsp;2000 (incorporated by reference to Exhibit&nbsp;10.1 to the Registrant&#146;s
+Quarterly Report on Form&nbsp;10-Q for the period ended August&nbsp;25,&nbsp;2000). </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.11</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amendment No.&nbsp;1, dated as of September&nbsp;5,&nbsp;2000, to the Tax Indemnification Agreement, dated as of May&nbsp;7,&nbsp;1999
+(incorporated by reference to Exhibit&nbsp;10.3 to&nbsp;the Registrant&#146;s Quarterly Report on Form&nbsp;10-Q for the period ended August&nbsp;25,&nbsp;2000). </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.12</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Letter, dated February&nbsp;6,&nbsp;2001, from The Goldman Sachs Group, Inc. to Mr.&nbsp;James&nbsp;A. Johnson (incorporated by reference to
+Exhibit&nbsp;10.65 to the Registrant&#146;s Annual Report on Form&nbsp;10-K for the fiscal year ended November&nbsp;24,&nbsp;2000).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP>
+</P></TD></TR></TABLE></DIV><DIV STYLE="position:relative;float:left; margin-left:2%; width:48%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.13</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Letter, dated December&nbsp;18,&nbsp;2002, from The Goldman Sachs Group, Inc. to&nbsp;Mr.&nbsp;William&nbsp;W. George (incorporated by reference to
+Exhibit&nbsp;10.39 to the&nbsp;Registrant&#146;s Annual Report on Form&nbsp;10-K for the fiscal year ended November&nbsp;29,&nbsp;2002).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP>
+</P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.14</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Amendment, dated November&nbsp;27,&nbsp;2004, to Agreement Relating to Noncompetition and Other Covenants, dated May&nbsp;7,&nbsp;1999
+(incorporated by reference to Exhibit&nbsp;10.32 to the&nbsp;Registrant&#146;s Annual Report on Form&nbsp;10-K for the fiscal year ended
+November&nbsp;26,&nbsp;2004).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.15</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">The Goldman Sachs Group, Inc. Non-Qualified Deferred Compensation Plan for U.S. Participating Managing Directors (terminated as of
+December&nbsp;15,&nbsp;2008) (incorporated by reference to Exhibit&nbsp;10.36 to the Registrant&#146;s Annual Report on Form&nbsp;10-K for the fiscal year ended November&nbsp;30,&nbsp;2007).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT
+STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.16</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Year-End Option Award Agreement (incorporated by reference to Exhibit&nbsp;10.36 to the&nbsp;Registrant&#146;s Annual Report on
+Form&nbsp;10-K for the fiscal year ended November&nbsp;28,&nbsp;2008).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.17</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amendments to 2005 and 2006&nbsp;Year-End RSU and Option Award Agreements (incorporated by reference to Exhibit&nbsp;10.44 to
+the&nbsp;Registrant&#146;s Annual Report on Form&nbsp;10-K for the fiscal year ended November&nbsp;30,&nbsp;2007).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.18</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Non-Employee Director Option Award Agreement (incorporated by reference to Exhibit&nbsp;10.34 to the&nbsp;Registrant&#146;s Annual Report
+on Form&nbsp;10-K for the fiscal year ended December&nbsp;31,&nbsp;2009).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.19</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Non-Employee Director RSU Award Agreement (pre-2015) (incorporated by reference to Exhibit&nbsp;10.21 to the&nbsp;Registrant&#146;s Annual
+Report on Form&nbsp;10-K for the fiscal year ended December&nbsp;31,&nbsp;2014).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.20</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Ground Lease, dated August&nbsp;23,&nbsp;2005, between Battery Park City Authority d/b/a/ Hugh L. Carey Battery Park City Authority, as Landlord,
+and Goldman Sachs Headquarters LLC, as Tenant (incorporated by reference to Exhibit&nbsp;10.1 to the&nbsp;Registrant&#146;s Current Report on Form&nbsp;8-K, filed on August&nbsp;26,&nbsp;2005). </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.21</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">General Guarantee Agreement, dated January&nbsp;30,&nbsp;2006, made by The Goldman Sachs Group, Inc. relating to certain obligations of Goldman,
+Sachs&nbsp;&amp; Co. (incorporated by reference to Exhibit&nbsp;10.45 to the Registrant&#146;s Annual Report on Form&nbsp;10-K for the fiscal year ended November&nbsp;25,&nbsp;2005).
+</P></TD></TR></TABLE></DIV><div style="clear:both; height:0pt; font-size:0pt">&nbsp;</div>
+
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL">THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES </P>
+<p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+<DIV STYLE="position:relative;float:left; width:48%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.22</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Goldman, Sachs&nbsp;&amp; Co. Executive Life Insurance Policy and Certificate with Metropolitan Life Insurance Company for Participating Managing
+Directors (incorporated by reference to Exhibit&nbsp;10.1 to the Registrant&#146;s Quarterly Report on Form&nbsp;10-Q for the period ended
+August&nbsp;25,&nbsp;2006).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.23</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Goldman, Sachs&nbsp;&amp; Co. Executive Life Insurance Policy with Pacific Life&nbsp;&amp; Annuity Company for Participating Managing
+Directors, including policy specifications and form of restriction on Policy Owner&#146;s Rights (incorporated by reference to Exhibit&nbsp;10.2 to the Registrant&#146;s Quarterly Report on Form&nbsp;10-Q for the period ended
+August&nbsp;25,&nbsp;2006).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.24</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Second Amendment, dated November&nbsp;25,&nbsp;2006, to Agreement Relating to Noncompetition and Other Covenants, dated
+May&nbsp;7,&nbsp;1999, as amended effective November&nbsp;27,&nbsp;2004 (incorporated by reference to Exhibit&nbsp;10.51 to the Registrant&#146;s Annual Report on Form&nbsp;10-K for the fiscal year ended November&nbsp;24,&nbsp;2006).&nbsp;<SUP
+STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.25</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Description of PMD Retiree Medical Program (incorporated by reference to Exhibit&nbsp;10.2 to the Registrant&#146;s Quarterly Report on
+Form&nbsp;10-Q for the period ended February&nbsp;29,&nbsp;2008).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.26</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Letter, dated June&nbsp;28,&nbsp;2008, from The Goldman Sachs Group, Inc. to Mr.&nbsp;Lakshmi&nbsp;N. Mittal (incorporated by reference to
+Exhibit&nbsp;99.1 to the Registrant&#146;s Current Report on Form&nbsp;8-K, filed on June&nbsp;30,&nbsp;2008).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.27</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">General Guarantee Agreement, dated December&nbsp;1,&nbsp;2008, made by The Goldman Sachs Group, Inc. relating to certain obligations of Goldman
+Sachs Bank USA (incorporated by reference to Exhibit&nbsp;4.80 to the Registrant&#146;s Post-Effective Amendment No.&nbsp;2 to <FONT STYLE="white-space:nowrap">Form&nbsp;S-3,</FONT> filed on March&nbsp;19,&nbsp;2009). </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.28</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Guarantee Agreement, dated November&nbsp;28,&nbsp;2008 and amended effective as of January&nbsp;1,&nbsp;2010, between The Goldman Sachs Group, Inc.
+and Goldman Sachs Bank USA (incorporated by reference to Exhibit&nbsp;10.51 to the Registrant&#146;s Annual Report on Form&nbsp;10-K for the fiscal year ended December&nbsp;31,&nbsp;2009). </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.29</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of One-Time RSU Award Agreement (pre-2015) (incorporated by reference to Exhibit&nbsp;10.32 to the&nbsp;Registrant&#146;s Annual Report on
+Form&nbsp;10-K for the fiscal year ended December&nbsp;31,&nbsp;2014).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.30</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amendments to Certain Non-Employee Director Equity Award Agreements (incorporated by reference to Exhibit&nbsp;10.69 to the Registrant&#146;s
+Annual Report on Form&nbsp;10-K for the fiscal year ended November&nbsp;28,&nbsp;2008).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP>
+</P></TD></TR></TABLE></DIV><DIV STYLE="position:relative;float:left; margin-left:2%; width:48%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.31</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Year-End RSU Award Agreement (not fully vested) (pre-2015) (incorporated by reference to Exhibit&nbsp;10.36 to the&nbsp;Registrant&#146;s
+Annual Report on Form&nbsp;10-K for the fiscal year ended December&nbsp;31,&nbsp;2014).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.32</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Year-End RSU Award Agreement (fully vested) (pre-2015) (incorporated by reference to Exhibit&nbsp;10.37 to the&nbsp;Registrant&#146;s
+Annual Report on Form&nbsp;10-K for the fiscal year ended December&nbsp;31,&nbsp;2014).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.33</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Year-End RSU Award Agreement (Base and/or Supplemental) (pre-2015) (incorporated by reference to Exhibit&nbsp;10.38 to
+the&nbsp;Registrant&#146;s Annual Report on Form&nbsp;10-K for the fiscal year ended December&nbsp;31,&nbsp;2014).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.34</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Year-End Short-Term RSU Award Agreement (pre-2015) (incorporated by reference to Exhibit&nbsp;10.39 to the&nbsp;Registrant&#146;s Annual
+Report on Form&nbsp;10-K for the fiscal year ended December&nbsp;31,&nbsp;2014).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.35</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Year-End Restricted Stock Award Agreement (fully vested) (pre-2015) (incorporated by reference to Exhibit&nbsp;10.41 to the
+Registrant&#146;s Annual Report on Form&nbsp;10-K for the fiscal year ended December&nbsp;31,&nbsp;2013).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.36</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Year-End Restricted Stock Award Agreement (Base and/or Supplemental) (pre-2015) (incorporated by reference to Exhibit&nbsp;10.41 to
+the&nbsp;Registrant&#146;s Annual Report on Form&nbsp;10-K for the fiscal year ended December&nbsp;31,&nbsp;2014).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.37</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Year-End Short-Term Restricted Stock Award Agreement (pre-2015) (incorporated by reference to Exhibit&nbsp;10.42 to
+the&nbsp;Registrant&#146;s Annual Report on Form&nbsp;10-K for the fiscal year ended December&nbsp;31,&nbsp;2014).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.38</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Fixed Allowance RSU Award Agreement (pre-2015) (incorporated by reference to Exhibit&nbsp;10.43 to the&nbsp;Registrant&#146;s Annual Report
+on Form&nbsp;10-K for the fiscal year ended December&nbsp;31,&nbsp;2014).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.39</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">General Guarantee Agreement, dated March&nbsp;2,&nbsp;2010, made by The Goldman Sachs Group, Inc. relating to the obligations of Goldman Sachs
+Execution&nbsp;&amp; Clearing, L.P. (incorporated by reference to Exhibit&nbsp;10.1 to the Registrant&#146;s Quarterly Report on Form&nbsp;10-Q for the period ended March&nbsp;31,&nbsp;2010). </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.40</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Deed of Gift (incorporated by reference to the Registrant&#146;s Quarterly Report on Form&nbsp;10-Q for the period ended
+June&nbsp;30,&nbsp;2010).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP>
+</P></TD></TR></TABLE></DIV><div style="clear:both; height:0pt; font-size:0pt">&nbsp;</div>
+
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL">THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES </P>
+<p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+<DIV STYLE="position:relative;float:left; width:48%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.41</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">The Goldman Sachs Long-Term Performance Incentive Plan, dated December&nbsp;17,&nbsp;2010 (incorporated by reference to the Registrant&#146;s
+Current Report on Form&nbsp;8-K, filed on December&nbsp;23,&nbsp;2010).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.42</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Performance-Based Restricted Stock Unit Award Agreement (pre-2015) (incorporated by reference to the Registrant&#146;s Current Report on
+Form&nbsp;8-K, filed on December&nbsp;23,&nbsp;2010).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.43</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Performance-Based Option Award Agreement (incorporated by reference to the Registrant&#146;s Current Report on Form&nbsp;8-K, filed on
+December&nbsp;23,&nbsp;2010).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.44</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Performance-Based Cash Compensation Award Agreement (pre-2015) (incorporated by reference to the Registrant&#146;s Current Report on
+Form&nbsp;8-K, filed on December&nbsp;23,&nbsp;2010).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.45</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amended and Restated General Guarantee Agreement, dated November&nbsp;21,&nbsp;2011, made by The Goldman Sachs Group, Inc. relating to certain
+obligations of Goldman Sachs Bank USA (incorporated by reference to Exhibit&nbsp;4.1 to the Registrant&#146;s Current Report on Form&nbsp;8-K, filed on November&nbsp;21,&nbsp;2011). </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.46</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Aircraft Time Sharing Agreement (incorporated by reference to Exhibit&nbsp;10.61 to the Registrant&#146;s Annual Report on Form&nbsp;10-K
+for the fiscal year ended December&nbsp;31,&nbsp;2011).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.47</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Description of Compensation Arrangements with Executive Officer (incorporated by reference to the Registrant&#146;s Quarterly Report on
+Form&nbsp;10-Q for the period ended June&nbsp;30,&nbsp;2012). <SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.48</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">The Goldman Sachs Group, Inc. Clawback Policy, effective as of January&nbsp;1,&nbsp;2015 (incorporated by reference to Exhibit&nbsp;10.53 to the
+Registrant&#146;s Annual Report on Form&nbsp;10-K for the fiscal year ended December&nbsp;31,&nbsp;2014). </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.49</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Non-Employee Director RSU Award Agreement (incorporated by reference to the corresponding exhibit to the Original <FONT
+STYLE="white-space:nowrap">Form&nbsp;10-K).&nbsp;</FONT><SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.50</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of One-Time RSU Award Agreement (incorporated by reference to the corresponding exhibit to the Original Form&nbsp;10-K).&nbsp;<SUP
+STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.51</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Year-End RSU Award Agreement (not fully vested) (incorporated by reference to the corresponding exhibit to the Original <FONT
+STYLE="white-space:nowrap">Form&nbsp;10-K).&nbsp;</FONT><SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.52</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Year-End RSU Award Agreement (fully vested) (incorporated by reference to the corresponding exhibit to the Original <FONT
+STYLE="white-space:nowrap">Form&nbsp;10-K).&nbsp;</FONT><SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP>
+</P></TD></TR></TABLE></DIV><DIV STYLE="position:relative;float:left; margin-left:2%; width:48%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.53</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Year-End RSU Award Agreement (Base and/or Supplemental) (incorporated by reference to the corresponding exhibit to the Original <FONT
+STYLE="white-space:nowrap">Form&nbsp;10-K).&nbsp;</FONT><SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.54</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Year-End Short-Term RSU Award Agreement (incorporated by reference to the corresponding exhibit to the Original Form&nbsp;10-K). &nbsp;<SUP
+STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.55</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Year-End Restricted Stock Award Agreement (not fully vested) (incorporated by reference to the corresponding exhibit to the Original
+Form&nbsp;10-K).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.56</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Year-End Restricted Stock Award Agreement (fully vested) (incorporated by reference to the corresponding exhibit to the Original
+Form&nbsp;10-K).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.57</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Year-End Short-Term Restricted Stock Award Agreement (incorporated by reference to the corresponding exhibit to the Original
+Form&nbsp;10-K).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.58</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Fixed Allowance RSU Award Agreement (incorporated by reference to the corresponding exhibit to the Original Form&nbsp;10-K).&nbsp;<SUP
+STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.59</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Fixed Allowance Deferred Cash Award Agreement (incorporated by reference to the corresponding exhibit to the Original Form&nbsp;10-K).
+&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.60</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Performance-Based Restricted Stock Unit Award Agreement (incorporated by reference to the corresponding exhibit to the Original
+Form&nbsp;10-K).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.61</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Performance-Based Cash Compensation Award Agreement (incorporated by reference to the corresponding exhibit to the Original
+Form&nbsp;10-K).&nbsp;<SUP STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;10.62</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Signature Card for Equity Awards (incorporated by reference to the corresponding exhibit to the Original Form&nbsp;10-K).&nbsp;<SUP
+STYLE="font-size:85%; vertical-align:top"><FONT STYLE="font-size:6.5pt">&#134;</FONT></SUP> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;12.1</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Statement re: Computation of Ratios of Earnings to Fixed Charges and Ratios of Earnings to Combined Fixed Charges and Preferred Stock Dividends
+(incorporated by reference to the corresponding exhibit to the Original Form&nbsp;10-K). </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;21.1</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">List of significant subsidiaries of The Goldman Sachs Group, Inc. (incorporated by reference to the corresponding exhibit to the Original
+Form&nbsp;10-K). </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;23.1</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Consent of Independent Registered Public Accounting Firm (incorporated by reference to the corresponding exhibit to the Original Form&nbsp;10-K).
+</P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;31.1</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Rule&nbsp;13a-14(a) Certifications (incorporated by reference to the corresponding exhibit to the Original Form&nbsp;10-K).
+</P></TD></TR></TABLE></DIV><div style="clear:both; height:0pt; font-size:0pt">&nbsp;</div>
+
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:7pt; font-family:ARIAL">THE GOLDMAN SACHS GROUP, INC. AND SUBSIDIARIES </P>
+<p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+<DIV STYLE="position:relative;float:left; width:48%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;32.1</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Section&nbsp;1350 Certifications (incorporated by reference to the corresponding exhibit to the Original
+<FONT STYLE="white-space:nowrap">Form&nbsp;10-K).&nbsp;*</FONT> </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;99.1</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Report of Independent Registered Public Accounting Firm on Selected Financial Data (incorporated by reference to the corresponding exhibit to the
+Original Form&nbsp;10-K). </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">&nbsp;&nbsp;99.2</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Debt and trust securities registered under Section&nbsp;12(b) of the Exchange Act (incorporated by reference to the corresponding exhibit to the
+Original Form&nbsp;10-K). </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="47" VALIGN="top" ALIGN="left">101</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Interactive data files pursuant to Rule&nbsp;405 of Regulation <FONT STYLE="white-space:nowrap">S-T:</FONT> (i)&nbsp;the Consolidated Statements of
+Earnings for the years ended December&nbsp;31,&nbsp;2015, December&nbsp;31,&nbsp;2014 and December&nbsp;31,&nbsp;2013, (ii)&nbsp;the Consolidated Statements of Comprehensive Income for the years ended December&nbsp;31,&nbsp;2015,
+December&nbsp;31,&nbsp;2014 and December&nbsp;31,&nbsp;2013, (iii)&nbsp;the Consolidated Statements of Financial Condition as of December&nbsp;31,&nbsp;2015 and December&nbsp;31,&nbsp;2014, (iv)&nbsp;the Consolidated Statements of Changes in
+Shareholders&#146; Equity for the years ended December&nbsp;31,&nbsp;2015, December&nbsp;31,&nbsp;2014 and December&nbsp;31,&nbsp;2013, (v)&nbsp;the Consolidated Statements of Cash Flows for the years ended December&nbsp;31,&nbsp;2015,
+December&nbsp;31,&nbsp;2014 and December&nbsp;31,&nbsp;2013, and (vi)&nbsp;the notes to the Consolidated Financial Statements. </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:ARIAL; font-size:7pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="13%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="86%"></TD></TR>
+
+
+<TR STYLE="font-family:ARIAL; font-size:7pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:0pt; margin-left:1.14em; text-indent:-1.14em; font-size:7pt; font-family:ARIAL" ALIGN="justify">&#134;&nbsp;&nbsp;This exhibit is a management contract or a compensatory plan or
+arrangement.</P> <P STYLE="font-size:4pt;margin-top:0pt;margin-bottom:0pt" align="left">&nbsp;</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; margin-left:1.14em; text-indent:-1.14em; font-size:7pt; font-family:ARIAL" ALIGN="justify">*&nbsp;&nbsp;This information is furnished and not filed for purposes of Sections&nbsp;11 and 12 of the
+Securities Act of 1933 and Section&nbsp;18 of the Securities Exchange Act of 1934.</P></TD></TR>
+</TABLE> </DIV><DIV STYLE="position:relative;float:left; margin-left:2%; width:48%;padding-right:1%;padding-bottom:8pt;overflow:hidden;padding-top:3pt">
+ <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="font-size:6pt; margin-top:0pt; margin-bottom:0pt">&nbsp;</P></DIV><div style="clear:both; height:0pt; font-size:0pt">&nbsp;</div>
+
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">5 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:ARIAL"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Pursuant to the requirements of Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this Amendment
+to be signed on its behalf by the undersigned, thereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><DIV ALIGN="right">
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="8%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="16%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="74%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" COLSPAN="5">T<SMALL>HE</SMALL> G<SMALL>OLDMAN</SMALL> S<SMALL>ACHS</SMALL> G<SMALL>ROUP</SMALL>, I<SMALL>NC</SMALL>.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">By:&nbsp;</P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">&nbsp;&nbsp;&nbsp;&nbsp;/s/</P></TD>
+<TD VALIGN="bottom" STYLE="BORDER-BOTTOM:1px solid #000000">&nbsp;</TD>
+<TD VALIGN="top" STYLE="BORDER-BOTTOM:1px solid #000000"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Sarah E. Smith</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Name:&nbsp;</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Sarah E. Smith</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Title:</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Principal Accounting Officer</P></TD></TR>
+</TABLE></DIV> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Date: March&nbsp;1,&nbsp;2016 </P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt">
+
+<TR>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="90%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD></TR>
+<TR STYLE="font-family:ARIAL; font-size:10pt">
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"><FONT STYLE="font-family:Times New Roman; ">II-1</FONT></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&nbsp;</TD></TR></TABLE>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>

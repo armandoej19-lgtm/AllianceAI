@@ -1,0 +1,793 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>comm2015-lc21_10ka.htm
+<DESCRIPTION>FORM 10-K/A
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin: 0"></P>
+
+<P STYLE="font: bold 17pt Times New Roman,serif; margin: 6pt 0 0; text-align: center">UNITED STATES<BR>
+SECURITIES AND EXCHANGE COMMISSION</P>
+
+<P STYLE="font: bold 12pt Times New Roman,serif; margin: 3pt 0 0; text-align: center">Washington, D.C. 20549</P>
+
+<P STYLE="font: bold 17pt Times New Roman,serif; margin: 6pt 0 0; text-align: center">FORM 10-K/A</P>
+<P STYLE="font: bold 12pt Times New Roman,serif; margin: 3pt 0 0; text-align: center">(Amendment No. 1)</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 0 0 0 0.25in; text-indent: -0.25in">(Mark One)</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="width: 100%; font: bold 12pt Times New Roman,serif; margin-top: 6pt; margin-bottom: 6pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: MS Mincho">&#9745;</FONT></TD><TD>ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</TD></TR></TABLE>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">For the fiscal year ended December 31, 2017<BR>
+<BR>
+or</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: bold 12pt Times New Roman,serif; margin-top: 6pt; margin-bottom: 6pt"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.25in"><FONT STYLE="font-family: MS Mincho">&#9744;</FONT></TD><TD><FONT STYLE="font-size: 11.5pt">TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</FONT></TD></TR></TABLE>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">For the transition period from _____ to _____<BR>
+<BR>
+Commission file number of the issuing entity: 333-193376-19</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">Central Index Key Number of the issuing entity:
+0001643293</P>
+
+<P STYLE="font: bold 20pt Times New Roman,serif; margin: 0; text-align: center">COMM 2015-LC21 Mortgage Trust</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">(exact name of the issuing entity as specified in
+its charter)</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">Central Index Key Number of the depositor: 0001013454</P>
+
+<P STYLE="font: bold 20pt Times New Roman,serif; margin: 0; text-align: center">Deutsche Mortgage &amp; Asset Receiving Corporation</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">(exact name of the depositor as specified in its
+charter)</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">Central Index Key Number of the sponsor: 0001541294</P>
+
+<P STYLE="font: bold 20pt Times New Roman,serif; margin: 0; text-align: center">German American Capital Corporation</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">(exact name of the sponsor as specified in its charter)</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">Central Index Key Number of the sponsor: 0001558761</P>
+
+<P STYLE="font: bold 20pt Times New Roman,serif; margin: 0; text-align: center">Cantor Commercial Real Estate Lending, L.P.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">(exact name of the sponsor as specified in its charter)</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">Central Index Key Number of the sponsor: 0001541468</P>
+
+<P STYLE="font: bold 20pt Times New Roman,serif; margin: 0; text-align: center">Ladder Capital Finance LLC</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">(exact name of the sponsor as specified in its charter)</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">Central Index Key Number of the sponsor: 0001089877</P>
+
+<P STYLE="font: bold 20pt Times New Roman,serif; margin: 0; text-align: center">KeyBank National Association</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">(exact name of the sponsor as specified in its charter)</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse">
+<TR STYLE="vertical-align: bottom">
+    <TD STYLE="width: 50%">
+        <P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">New York<BR>
+        <FONT STYLE="font-size: 8pt">(State or other jurisdiction of</FONT><BR>
+        <FONT STYLE="font-size: 8pt">incorporation or organization of</FONT></P>
+        <P STYLE="font: bold 8pt Times New Roman,serif; margin: 0; text-align: center">the issuing entity)</P></TD>
+    <TD STYLE="width: 50%">
+        <P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">47-4300612</P>
+        <P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">47-4322711</P>
+        <P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">47-7135776</P>
+        <P STYLE="font: bold 8pt Times New Roman,serif; margin: 0; text-align: center">(I.R.S. Employer</P>
+        <P STYLE="font: bold 8pt Times New Roman,serif; margin: 0; text-align: center">Identification Numbers)</P></TD></TR>
+</TABLE>
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center"><BR>
+c/o Deutsche Bank Trust Company Americas</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">as Certificate Administrator</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">1761 East St. Andrew Place</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">Santa Ana, CA</P>
+
+<P STYLE="font: bold 8pt Times New Roman,serif; margin: 0; text-align: center">(Address of principal executive offices of the issuing
+entity)</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center">92705</P>
+
+<P STYLE="font: bold 8pt Times New Roman,serif; margin: 0; text-align: center">(Zip Code)</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center">Registrant&rsquo;s telephone number, including
+area code:</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0; text-align: center">(212) 250-2500</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 0"></P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Securities registered pursuant to Section 12(b) of the Act: None.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Securities registered pursuant to Section 12(g) of the Act: None.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark if the registrant is a well-known seasoned
+issuer, as defined in Rule 405 of the Securities Act. <FONT STYLE="font-family: MS Mincho">&#9744;</FONT> Yes <FONT STYLE="font-family: MS Mincho">&#9745;</FONT>
+No</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. <FONT STYLE="font-family: MS Mincho">&#9744;</FONT> Yes <FONT STYLE="font-family: MS Mincho">&#9745;</FONT>
+No</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such
+shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for
+the past 90 days. <FONT STYLE="font-family: MS Mincho">&#9745;</FONT> Yes <FONT STYLE="font-family: MS Mincho">&#9744;</FONT> No</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark whether the registrant has submitted electronically
+and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule
+405 of Regulation S-T (Section 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit and post such files).</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center">Not applicable.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark if disclosure of delinquent filers pursuant
+to Item 405 of Regulation S-K (Section 229.405 of this chapter) is not contained herein, and will not be contained, to the best
+of registrant&rsquo;s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form
+10-K or any amendment to this Form 10-K.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center">Not applicable.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, a non-accelerated filer, smaller reporting company or an emerging growth company. See the definitions
+of &ldquo;large accelerated filer&rdquo;, &ldquo;accelerated filer&rdquo;, &ldquo;smaller reporting company&rdquo;, and &ldquo;emerging
+growth company&rdquo; in Rule 12b-2 of the Exchange Act.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 3pt 0 0">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; border-collapse: collapse; font-size: 9pt">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 17%; font-family: Times New Roman,serif">Large accelerated filer</TD>
+    <TD STYLE="width: 47%; font-family: Times New Roman,serif"><FONT STYLE="font-family: MS Mincho"><B>&#9744;</B></FONT></TD>
+    <TD STYLE="width: 26%; font-family: Times New Roman,serif">Accelerated filer</TD>
+    <TD STYLE="width: 10%; font-family: Times New Roman,serif"><FONT STYLE="font-family: MS Mincho"><B>&#9744;</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font-family: Times New Roman,serif">Non-accelerated filer</TD>
+    <TD STYLE="font-family: Times New Roman,serif"><FONT STYLE="font-family: MS Mincho"><B>&#9745;</B></FONT>&nbsp;&nbsp;(Do not check if a smaller reporting company) </TD>
+    <TD STYLE="font-family: Times New Roman,serif">Smaller reporting company</TD>
+    <TD STYLE="font-family: Times New Roman,serif"><FONT STYLE="font-family: MS Mincho"><B>&#9744;</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="font-family: Times New Roman,serif">&nbsp;</TD>
+    <TD STYLE="font-family: Times New Roman,serif">&nbsp;</TD>
+    <TD STYLE="font-family: Times New Roman,serif">Emerging growth company</TD>
+    <TD STYLE="font-family: Times New Roman,serif"><FONT STYLE="font-family: MS Mincho"><B>&#9744;</B></FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">If an emerging growth company, indicate by check mark if the registrant
+has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided
+pursuant to Section 13(a) of the Exchange Act.&#9;<FONT STYLE="font-family: MS Mincho">&#9744;</FONT></P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark whether the registrant is a shell company (as
+defined in Rule 12b-2 of the Act). <FONT STYLE="font-family: MS Mincho">&#9744;</FONT> Yes <FONT STYLE="font-family: MS Mincho">&#9745;</FONT>
+No</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">State the aggregate market value of the voting and non-voting common
+equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and
+asked price of such common equity, as of the last business day of the registrant&rsquo;s most recently completed second fiscal
+quarter.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center">Not applicable.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate by check mark whether the registrant has filed all documents
+and reports required to be filed by Section 12, 13 or 15(d) of the Securities Exchange Act of 1934 subsequent to the distribution
+of securities under a plan confirmed by a court. <FONT STYLE="font-family: MS Mincho">&#9744;</FONT> Yes <FONT STYLE="font-family: MS Mincho">&#9744;</FONT>
+No</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center">Not applicable.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Indicate the number of shares outstanding of each of the registrant&rsquo;s
+classes of common stock, as of the latest practicable date.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center">Not applicable.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center"><B>DOCUMENTS INCORPORATED BY REFERENCE</B></P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">List hereunder the following documents if incorporated by reference
+and the Part of the Form 10-K (e.g., Part I, Part II, etc.) into which the document is incorporated: (1) Any annual report to security
+holders; (2) Any proxy or information statement; and (3) Any prospectus filed pursuant to Rule 424(b) or (c) under the Securities
+Act of 1933. The listed documents should be clearly described for identification purposes (e.g., annual report to security holders
+for fiscal year ended December 24, 1980).</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0; text-align: center">Not applicable.</P>
+</P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="LEFT" STYLE="margin-top: 1pt; margin-bottom: 1pt"><DIV STYLE="font-size: 1.5pt; border-top: Black 1.5pt solid; border-bottom: Black 1.5pt solid; width: 100%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center"><B>EXPLANATORY NOTES</B></P>
+
+</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The purpose of this Amendment No.
+1 (the "Amendment") to our Annual Report on Form 10-K for the fiscal year ended December 31, 2017 filed with the Securities and Exchange
+Commission (the "Commission") on March 20, 2018 (the "Original 10-K") is to file with the Commission a report on assessment of compliance with servicing criteria of
+Berkeley Point Capital LLC, as primary servicer, as Exhibit 33.7 as a replacement of the report on assessment of compliance with servicing criteria filed as Exhibit 33.7 to the
+Original 10-K.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center"><B>PART I</B></P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1. Business.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1A. Risk Factors.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1B. Unresolved Staff Comments.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">None.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 2. Properties.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 3. Legal Proceedings.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 4. Mine Safety Disclosures.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Not applicable.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center"><B>PART II</B></P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 5. Market for Registrant&rsquo;s Common Equity, Related
+Stockholder Matters and Issuer Purchases of Equity Securities.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 6. Selected Financial Data.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 7. Management&rsquo;s Discussion and Analysis of Financial
+Condition and Results of Operations.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 7A. Quantitative and Qualitative Disclosures About Market
+Risk.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 8. Financial Statements and Supplementary Data.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 9. Changes in and Disagreements With Accountants on Accounting
+and Financial Disclosure.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 9A. Controls and Procedures.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 9B. Other Information.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">None.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center"><B>PART III</B></P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 10. Directors, Executive Officers and Corporate Governance.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 11. Executive Compensation.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 12. Security Ownership of Certain Beneficial Owners and
+Management and Related Stockholder Matters.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 13. Certain Relationships and Related Transactions, and
+Director Independence.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 14. Principal Accounting Fees and Services.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Omitted.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center"><B>ADDITIONAL DISCLOSURE ITEMS FOR REGULATION
+AB</B></P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1112(b) of Regulation AB, Significant Obligor Financial
+Information.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">No single obligor represents 10% or more of the pool assets held by
+the issuing entity.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1114(b)(2) of Regulation AB, Significant Enhancement Provider
+Financial Information.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 0.25in 0 0"><FONT STYLE="font-weight: normal">No entity or group of affiliated
+entities provides any external credit enhancement or other support for the certificates within this transaction as described under
+Item 1114(a) of Regulation AB.</FONT></P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1115(b) of Regulation AB, Certain Derivatives Instruments
+(Financial Information).</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">No entity or group of affiliated entities provides any derivative
+instruments or other support for the certificates within this transaction as described under Item 1115 of Regulation AB.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1117 of Regulation AB, Legal Proceedings.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The registrant knows of no material pending legal proceeding involving
+the trust or any party related to the trust, other than routine litigation incidental to the duties of those respective parties, and the following, with respect to Deutsche Bank Trust Company Americas, as certificate administrator and custodian, KeyBank National Association, as primary servicer, Wells Fargo Bank, National Association, as certificate administrator and custodian, and CWCapital Asset Management LLC, as special servicer: </P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Deutsche Bank Trust Company Americas ("DBTCA") and Deutsche Bank National Trust Company ("DBNTC") have been sued by investors in civil litigation concerning their role as trustees of certain RMBS trusts. </P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">On June 18, 2014, a group of investors, including funds managed by Blackrock Advisors, LLC, PIMCO-Advisors, L.P., and others, filed a derivative action against DBNTC and DBTCA in New York State Supreme Court purportedly on behalf of and for the benefit of 544 private-label RMBS trusts asserting claims for alleged violations of the U.S. Trust Indenture Act of 1939 ("TIA"), breach of contract, breach of fiduciary duty and negligence based on DBNTC and DBTCA's alleged failure to perform their duties as trustees for the trusts. Plaintiffs subsequently dismissed their state court complaint and filed a derivative and class action complaint in the U.S. District Court for the Southern District of New York on behalf of and for the benefit of 564 private-label RMBS trusts, which substantially overlapped with the trusts at issue in the state court action. The complaint alleges that the trusts at issue have suffered total realized collateral losses of U.S. $89.4 billion, but the complaint does not include a demand for money damages in a sum certain. DBNTC and DBTCA filed a motion to dismiss, and on January 19, 2016, the court partially granted the motion on procedural grounds: as to the 500 trusts that are governed by pooling and servicing agreements, the court declined to exercise jurisdiction. The court did not rule on substantive defenses asserted in the motion to dismiss.  On March 22, 2016, plaintiffs filed an amended complaint in federal court.  In the amended complaint, in connection with 62 trusts governed by indenture agreements, plaintiffs assert claims for breach of contract, violation of the TIA, breach of fiduciary duty, and breach of duty to avoid conflicts of interest.   The amended complaint alleges that the trusts at issue have suffered total realized collateral losses of U.S. $9.8 billion, but the complaint does not include a demand for money damages in a sum certain.  On July 15, 2016, DBNTC and DBTCA filed a motion to dismiss the amended complaint.  On January 23, 2017, the court granted in part and denied in part DBNTC and DBTCA's motion to dismiss.  The court granted the motion to dismiss with respect to plaintiffs' conflict-of-interest claim, thereby dismissing it, and denied the motion to dismiss with respect to plaintiffs' breach of contract claim (except as noted below) and claim for violation of the TIA, thereby allowing those claims to proceed.  On January 26, 2017, the parties filed a joint stipulation and proposed order dismissing plaintiffs' claim for breach of fiduciary duty.  On January 27, 2017, the court entered the parties' joint stipulation and ordered that plaintiffs' claim for breach of fiduciary duty be dismissed.  On February 3, 2017, following a hearing concerning DBNTC and DBTCA's motion to dismiss on February 2, 2017, the court issued a short form order dismissing (i) plaintiffs' representation and warranty claims as to 21 trusts whose originators and/or sponsors had entered bankruptcy and the deadline for asserting claims against such originators and/or sponsors had passed as of 2009 and (ii) plaintiffs' claims to the extent they were premised upon any alleged pre-event of default duty to terminate servicers.  On March 27, 2017, DBNTC and DBTCA filed an answer to the amended complaint.  On January 26, 2018, Plaintiffs filed a motion for class certification.  The parties are currently briefing the motion.  Discovery is ongoing.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">On March 25, 2016, the BlackRock plaintiffs filed a state court action against DBTCA in the Superior Court of California, Orange County with respect to 513 trusts.  On May 18, 2016, plaintiffs filed an amended complaint with respect to 465 trusts, and included DBNTC as an additional defendant.  The amended complaint asserts three causes of action:  breach of contract; breach of fiduciary duty; and breach of the duty to avoid conflicts of interest.  Plaintiffs purport to bring the action on behalf of themselves and all other current owners of certificates in the 465 trusts.  The amended complaint alleges that the trusts at issue have suffered total realized collateral losses of U.S. $75.7 billion, but does not include a demand for money damages in a sum certain.  On August 22, 2016, DBNTC and DBTCA filed a demurrer as to Plaintiffs' breach of fiduciary duty cause of action and breach of the duty to avoid conflicts of interest cause of action and motion to strike as to Plaintiffs' breach of contract cause of action.  On October 18, 2016, the court granted DBNTC and DBTCA's demurrer, providing Plaintiffs with thirty days' leave to amend, and denied DBNTC and DBTCA's motion to strike.  Plaintiffs did not further amend their complaint and, on December 19, 2016, DBNTC and DBTCA filed an answer to the amended complaint.  On January 17, 2018, Plaintiffs filed a motion for class certification.  The parties are currently briefing the motion.  Discovery is ongoing.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">On September 27, 2017, DBTCA was added as a defendant to a case brought by certain special purpose entities including Phoenix Light SF Limited in the U.S. District Court for the Southern District of New York, in which the plaintiffs previously alleged incorrectly that DBNTC served as trustee for all 43 of the trusts at issue.  On September 27, 2017, plaintiffs filed a third amended complaint that names DBTCA as a defendant in addition to DBNTC.  DBTCA serves as trustee for one of the 43 trusts at issue.  DBNTC serves as trustee for the other 42 trusts at issue.  Plaintiffs' third amended complaint brings claims for violation of the TIA; breach of contract; breach of fiduciary duty; negligence and gross negligence; violation of the Streit Act; and breach of the covenant of good faith.  However, in the third amended complaint, plaintiffs acknowledge that, before DBTCA was added to the case, the court dismissed plaintiffs' TIA Act claims, negligence and gross negligence claims, Streit Act claims, claims for breach of the covenant of good faith, and certain theories of plaintiffs' breach of contract claims, and plaintiffs only include these claims to preserve any rights on appeal.  Plaintiffs allege damages of "hundreds of millions of dollars."  On November 13, 2017, DBNTC and DBTCA filed an answer to the third amended complaint.  Discovery is ongoing.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">On November 30, 2017, DBTCA was added as a defendant to a case brought by Commerzbank AG ("Commerzbank") in the U.S. District Court for the Southern District of New York, in which Commerzbank previously alleged incorrectly that DBNTC served as trustee for all 50 of the trusts at issue.  On November 30, 2017, Commerzbank filed a second amended complaint that names DBTCA as a defendant in addition to DBNTC.  DBTCA serves as trustee for 1 of the 50 trusts at issue.  DBNTC serves as trustee for the other 49 trusts at issue.  Commerzbank's second amended complaint brings claims for violation of the TIA; breach of contract; breach of fiduciary duty; negligence; violation of the Streit Act; and breach of the covenant of good faith.  However, in the second amended complaint, Commerzbank acknowledges that, before DBTCA was added to the case, the court dismissed Commerzbank's TIA claims for the trusts governed by pooling and servicing agreements, as well as its Streit Act claims and claims for breach of the covenant of good faith, and Commerzbank only includes these claims to preserve any rights on appeal.  The second amended complaint alleges that DBNTC and DBTCA caused Commerzbank to suffer "hundreds of millions of dollars in losses," but the complaint does not include a demand for money damages in a sum certain.  On January 29, 2018, DBNTC and DBTCA filed an answer to the second amended complaint.  Discovery is ongoing.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">On December 30, 2015, IKB International, S.A. in Liquidation and IKB Deutsche Industriebank A.G. (collectively, "IKB"), as an investor in 37 RMBS trusts, filed a summons with notice in the Supreme Court of the State of New York, New York County, against DBNTC and DBTCA as trustees of the trusts.  On May 27, 2016, IKB served its complaint asserting claims for breach of contract, breach of fiduciary duty, breach of duty to avoid conflicts of interest, violation of New York's Streit Act, violation of the Trust Indenture Act, violation of Regulation AB, and violation of Section 9 of the Uniform Commercial Code.  IKB alleges that DBNTC and DBTCA are liable for over U.S. $268 million in damages.  On October 5, 2016, DBNTC and DBTCA, together with several other trustees defending lawsuits by IKB, filed a joint motion to dismiss.  On January 6, 2017, IKB filed a notice of discontinuance, voluntarily dismissing with prejudice all claims as to three trusts.  As of January 17, 2017, DBNTC and DBTCA's motion to dismiss has been briefed and is awaiting decision by the court.  On June 20, 2017, the parties filed a stipulation, voluntarily dismissing with prejudice all claims as to four additional trusts.  Certain limited discovery is permitted to go forward while the motion to dismiss is pending.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">It is DBTCA's belief that it has no pending legal proceedings (including, based on DBTCA's present evaluation, the litigation disclosed in the foregoing paragraphs) that would materially affect its ability to perform its duties as trustee under the Pooling and Servicing Agreement relating to this transaction.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">On February 23, 2016, a certificateholder of the J.P. Morgan Chase Commercial Mortgage Securities Trust, Series 2007-CIBC18 (the "Trust") filed suit in the Supreme Court of New York, County of New York, against KeyBank National Association and Berkadia Commercial Mortgage LLC (collectively, the "Servicers").  The suit was filed derivatively on behalf of the Trust.  The action was brought in connection with the Servicers' determination of the fair value of a loan, secured by the Bryant Park Hotel in New York City, held by the Trust and sold to an assignee of the Trust's directing certificateholder, pursuant to an exercise of the fair value option set forth in the Pooling and Servicing Agreement governing the Trust.  There can be no assurances as to the outcome of the action or the possible impact of the litigation on the Servicers.  Both Servicers deny liability, believe that they performed their obligations in accordance with the terms of the Pooling and Servicing Agreement, and have contested the claims asserted against them, filing a motion to dismiss the case.  On November 28, 2016, the Servicers' motion to dismiss was granted.  The plaintiff certificateholder has filed a notice of appeal, and the appeal is pending.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">On December 1, 2017, a complaint against CWCapital Asset Management LLC ("CWCAM") and others was filed in the United States District Court for the Southern District of New York styled as CWCapital Cobalt Vr Ltd. v. CWCapital Investments LLC, et al., No. 17-cv-9463. The gravamen of the complaint alleges breaches of a contract and fiduciary duties by CWCAM's affiliate, CWCapital Investments LLC in its capacity as collateral manager for the collateralized debt obligation transaction involving CWCapital Cobalt Vr Ltd. In total, there are fourteen (14) counts pled in the complaint. Of those 14, five (5) claims are asserted against CWCAM for aiding and abetting breach of fiduciary duty, conversion, and unjust enrichment. CWCAM denies the claims and intends to vigorously defend itself against these claims.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">On June 18, 2014, a group of institutional investors filed a civil complaint in the Supreme Court of the State of New York, New York County, against Wells Fargo Bank, N.A. ("Wells Fargo Bank") in its capacity as trustee under 276 residential mortgage backed securities ("RMBS") trusts, which was later amended on July 18, 2014, to increase the number of trusts to 284 RMBS trusts. On November 24, 2014, the plaintiffs filed a motion to voluntarily dismiss the state court action without prejudice. That same day, a group of institutional investors filed a putative class action complaint in the United States District Court for the Southern District of New York (the "District Court") against Wells Fargo Bank, alleging claims against the bank in its capacity as trustee for 274 RMBS trusts (the "Federal Court Complaint"). In December 2014, the plaintiffs' motion to voluntarily dismiss their original state court action was granted. As with the prior state court action, the Federal Court Complaint is one of six similar complaints filed contemporaneously against RMBS trustees (Deutsche Bank, Citibank, HSBC, Bank of New York Mellon and US Bank) by a group of institutional investor plaintiffs. The Federal Court Complaint against Wells Fargo Bank alleges that the trustee caused losses to investors and asserts causes of action based upon, among other things, the trustee's alleged failure to: (i) notify and enforce repurchase obligations of mortgage loan sellers for purported breaches of representations and warranties, (ii) notify investors of alleged events of default, and (iii) abide by appropriate standards of care following alleged events of default. Relief sought includes money damages in an unspecified amount, reimbursement of expenses, and equitable relief. Other cases alleging similar causes of action have been filed against Wells Fargo Bank and other trustees in the District Court by RMBS investors in these and other transactions, and these cases against Wells Fargo Bank are proceeding before the same District Court judge. A similar complaint was also filed May 27, 2016 in New York state court by a different plaintiff investor. On January 19, 2016, an order was entered in connection with the Federal Court Complaint in which the District Court declined to exercise jurisdiction over 261 trusts at issue in the Federal Court Complaint; the District Court also allowed plaintiffs to file amended complaints as to the remaining, non-dismissed trusts, if they so chose, and three amended complaints have been filed. On December 17, 2016, the investor plaintiffs in the 261 trusts dismissed from the Federal Court Complaint filed a new complaint in New York state court (the "State Court Complaint"). In September 2017, Royal Park Investments SA/NV ("Royal Park"), one of the plaintiffs in the District Court cases against Wells Fargo Bank, filed a putative class action complaint relating to two trusts seeking declaratory and injunctive relief and money damages based on Wells Fargo Bank's indemnification from trust funds for legal fees and expenses Wells Fargo Bank incurs or has incurred in defending the District Court case filed by Royal Park. With respect to the foregoing litigations, Wells Fargo Bank believes plaintiffs' claims are without merit and intends to contest the claims vigorously, but there can be no assurances as to the outcome of the litigations or the possible impact of the litigations on Wells Fargo Bank or the RMBS trusts.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1119 of Regulation AB, Affiliations and Certain Relationships
+and Related Transactions.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The information regarding this Item has been previously provided in
+a prospectus supplement of the Registrant relating to the issuing entity filed on June 18, 2015 pursuant to Rule 424(b)(5).</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1122 of Regulation AB, Compliance with Applicable Servicing
+Criteria.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The reports on assessments of compliance with the servicing criteria
+for asset-backed securities and related attestation reports on such assessments of compliance with respect to the mortgage loans
+are attached hereto under Item 15 to this Annual Report on Form 10-K. Attached as Schedule II to the Pooling and Servicing Agreement
+incorporated by reference as Exhibit 4.1 to this Annual Report on Form 10-K is a chart identifying the entities participating in
+a servicing function for the transaction responsible for each applicable servicing criteria set forth in Item 1122(d).</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The reports on assessments of compliance with the servicing criteria
+for asset-backed securities and related attestation reports on such assessments of compliance with respect to the Renaissance New
+Orleans Portfolio Mortgage Loan, which is being serviced and administered pursuant to the pooling and servicing agreement for the
+JPMBB 2015-C28 Transaction, are attached hereto under Item 15 to this Annual Report on Form 10-K. Attached as Exhibit AA to the
+pooling and servicing agreement for the JPMBB 2015-C28 Transaction incorporated by reference as Exhibit 4.2 to this Annual Report
+on Form 10-K is a chart identifying the entities participating in a servicing function for the JPMBB 2015-C28 Transaction responsible
+for each applicable servicing criteria set forth in Item 1122(d).</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The reports on assessments of compliance with the servicing criteria
+for asset-backed securities and related attestation reports on such assessments of compliance with respect to the Courtyard by
+Marriott Portfolio Mortgage Loan, which is being serviced and administered pursuant to the pooling and servicing agreement for
+the COMM 2015-CCRE23 Transaction, are attached hereto under Item 15 to this Annual Report on Form 10-K. Attached as Schedule II
+to the pooling and servicing agreement for the COMM 2015-CCRE23 Transaction incorporated by reference as Exhibit 4.3 to this Annual
+Report on Form 10-K is a chart identifying the entities participating in a servicing function for the COMM 2015-CCRE23 Transaction
+responsible for each applicable servicing criteria set forth in Item 1122(d).</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The reports on assessments of compliance with the servicing criteria
+for asset-backed securities and related attestation reports on such assessments of compliance with respect to the La Gran Plaza
+Mortgage Loan, which is being serviced and administered pursuant to the pooling and servicing agreement for the COMM 2015-CCRE24
+Transaction, are attached hereto under Item 15 to this Annual Report on Form 10-K. Attached as Schedule II to the pooling and servicing
+agreement for the COMM 2015-CCRE24 Transaction incorporated by reference as Exhibit 4.4 to this Annual Report on Form 10-K is a
+chart identifying the entities participating in a servicing function for the COMM 2015-CCRE24 Transaction responsible for each
+applicable servicing criteria set forth in Item 1122(d).</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 1123 of Regulation AB, Servicer Compliance Statement.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">The servicer compliance statements are attached as Exhibits to this
+Annual Report on Form 10-K.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; text-align: center"><B>PART IV</B></P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">Item 15. Exhibits, Financial Statement Schedules</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">(a) The following is a list of documents filed as part of this Annual
+Report on Form 10-K:</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0 0.75in; text-indent: -0.5in">(1) Not applicable</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0 0.75in; text-indent: -0.5in">(2) Not applicable</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0 0.75in; text-indent: -0.5in">(3) See below</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">4.1</TD><TD>Pooling and Servicing Agreement, dated as of June 1, 2015, by and among Deutsche Mortgage &amp; Asset Receiving Corporation,
+as Depositor, Midland Loan Services, a Division of PNC Bank, National Association, as Master Servicer, Midland Loan Services, a
+Division of PNC Bank, National Association, as Special Servicer, Wilmington Trust, National Association, as Trustee, Deutsche Bank
+Trust Company Americas, as Certificate Administrator, Paying Agent and Custodian, and Park Bridge Lender Services LLC, as Operating
+Advisor <a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000153949715001663/exh_4-1.htm">(filed as Exhibit 4.1 to the registrant&rsquo;s Current Report on Form 8-K/A filed on October 15, 2015 under Commission
+File No. 333-193376-19 and incorporated by reference herein)</a>.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">4.2</TD><TD>Pooling and Servicing Agreement, dated as of April 1, 2015, by and among J.P. Morgan Chase Commercial Mortgage Securities Corp.,
+as Depositor, Wells Fargo Bank, National Association, as Master Servicer, Torchlight Loan Services, LLC, as Special Servicer, Wells
+Fargo Bank, National Association, as Certificate Administrator, Wilmington Trust, National Association, as Trustee, and Pentalpha
+Surveillance LLC, as Senior Trust Advisor <a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000153949715000791/exh_99-8.htm">(filed as Exhibit 99.8 to the registrant&rsquo;s Current Report on Form 8-K filed on
+June 18, 2015 under Commission File No. 333-193376-19 and incorporated by reference herein)</a>.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">4.3</TD><TD>Pooling and Servicing Agreement, dated as of May 1, 2015, by and among Deutsche Mortgage &amp; Asset Receiving Corporation,
+as Depositor, Midland Loan Services, a Division of PNC Bank, National Association, as Master Servicer, CWCapital Asset Management
+LLC, as Special Servicer, Wilmington Trust, National Association, as Trustee, Wells Fargo Bank, National Association, as Certificate
+Administrator, Paying Agent and Custodian, and Pentalpha Surveillance LLC, as Operating Advisor <a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000153949715000791/exh_99-7.htm">(filed as Exhibit 99.7 to the registrant&rsquo;s
+Current Report on Form 8-K filed on June 18, 2015 under Commission File No. 333-193376-19 and incorporated by reference herein)</a>.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">4.4</TD><TD>Pooling and Servicing Agreement, dated as of August 1, 2015, by and among Deutsche Mortgage &amp; Asset Receiving Corporation,
+as Depositor, Wells Fargo Bank, National Association, as Master Servicer, LNR Partners, LLC, as Special Servicer, Wilmington Trust,
+National Association, as Trustee, Wells Fargo Bank, National Association, as Certificate Administrator, Paying Agent and Custodian,
+and Park Bridge Lender Services LLC, as Operating Advisor <a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000153949715001669/exh_99-1.htm">(filed as Exhibit 99.1 to the registrant&rsquo;s Current Report on Form
+8-K filed on October 15, 2015 under Commission File No. 333-193376-19 and incorporated by reference herein)</a>.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">31</TD><TD><a STYLE="-sec-extract:exhibit" href="ex31.htm">Rule 13a-14(d)/15d-14(d) Certifications.</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33</TD><TD>Reports on assessment of compliance with servicing criteria for asset-backed securities.</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.1</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex331.htm">Midland Loan Services, a Division of PNC Bank, National Association, as Master Servicer (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.2</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex331.htm">Midland Loan Services, a Division of PNC Bank, National Association, as Special Servicer (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.3</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/comm2015-lc21.htm">Wilmington Trust, National Association, as Trustee (Omitted. See Explanatory
+Notes to the Original 10-K.)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.4</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex334.htm">Deutsche Bank Trust Company Americas, as Certificate Administrator and Custodian (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.5</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex335.htm">Park Bridge Lender Services LLC, as Operating Advisor (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.6</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex336.htm">KeyBank National Association, as Primary Servicer (filed as Exhibit 33.6 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.7</TD><TD><a STYLE="-sec-extract:exhibit" href="ex337.htm">Berkeley Point Capital LLC, as Primary Servicer</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.8</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex338.htm">Wells Fargo Bank, National Association, as Primary Servicer (only with respect to the obligation to make property protection
+and mortgage payment advances) of the Renaissance New Orleans Portfolio Mortgage Loan (filed as Exhibit 33.8 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.9</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex336.htm">KeyBank National Association, as Primary Servicer (except with respect to the obligation to make property protection and mortgage
+payment advances) of the Renaissance New Orleans Portfolio Mortgage Loan (filed as Exhibit 33.6 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 0"></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.10</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/comm2015-lc21.htm">Torchlight Loan Services, LLC, as Special Servicer of the Renaissance New Orleans Portfolio Mortgage Loan (Omitted. See Explanatory
+Notes to the Original 10-K.)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.11</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/comm2015-lc21.htm">Wilmington Trust, National Association, as Trustee of the Renaissance New Orleans Portfolio Mortgage Loan (Omitted. See Explanatory
+Notes to the Original 10-K.)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.12</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3312.htm">Wells Fargo Bank, National Association, as Certificate Administrator of the Renaissance New Orleans Portfolio Mortgage Loan (filed as Exhibit 33.12 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.13</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3313.htm">Wells Fargo Bank, National Association, as Custodian of the Renaissance New Orleans Portfolio Mortgage Loan (filed as Exhibit 33.13 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.14</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3314.htm">Pentalpha Surveillance LLC, as Senior Trust Advisor of the Renaissance New Orleans Portfolio Mortgage Loan (filed as Exhibit 33.14 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.15</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3315.htm">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the La Gran Plaza Mortgage Loan (filed as Exhibit 33.15 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.16</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3316.htm">National Tax Search, LLC, as Servicing Function Participant of the La Gran Plaza Mortgage Loan (filed as Exhibit 33.16 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.17</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex331.htm">Midland Loan Services, a Division of PNC Bank, National Association, as Primary Servicer of the Courtyard by Marriott Portfolio
+Mortgage Loan (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.18</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3318.htm">CWCapital Asset Management LLC, as Special Servicer of the Courtyard by Marriott Portfolio Mortgage Loan (filed as Exhibit 33.18 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.19</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/comm2015-lc21.htm">Wilmington Trust, National Association, as Trustee of the Courtyard by Marriott Portfolio Mortgage Loan (Omitted. See Explanatory
+Notes to the Original 10-K.)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.20</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3312.htm">Wells Fargo Bank, National Association, as Certificate Administrator of the Courtyard by Marriott Portfolio Mortgage Loan (filed as Exhibit 33.12 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.21</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3313.htm">Wells Fargo Bank, National Association, as Custodian of the Courtyard by Marriott Portfolio Mortgage Loan (filed as Exhibit 33.13 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.22</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3314.htm">Pentalpha Surveillance LLC, as Operating Advisor of the Courtyard by Marriott Portfolio Mortgage Loan (filed as Exhibit 33.14 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.23</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex338.htm">Wells Fargo Bank, National Association, as Primary Servicer of the La Gran Plaza Mortgage Loan (filed as Exhibit 33.8 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.24</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/comm2015-lc21.htm">LNR Partners, LLC, as Special Servicer of the La Gran Plaza Mortgage Loan (Omitted. See Explanatory
+Notes to the Original 10-K.)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.25</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/comm2015-lc21.htm">Wilmington Trust, National Association, as Trustee of the La Gran Plaza Mortgage Loan (Omitted. See Explanatory
+Notes to the Original 10-K.)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.26</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3312.htm">Wells Fargo Bank, National Association, as Certificate Administrator of the La Gran Plaza Mortgage Loan (filed as Exhibit 33.12 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.27</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3313.htm">Wells Fargo Bank, National Association, as Custodian of the La Gran Plaza Mortgage Loan (filed as Exhibit 33.13 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.28</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex335.htm">Park Bridge Lender Services LLC, as Operating Advisor of the La Gran Plaza Mortgage Loan (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.29</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3315.htm">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the La Gran Plaza Mortgage Loan (filed as Exhibit 33.15 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">33.30</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3316.htm">National Tax Search, LLC, as Servicing Function Participant of the La Gran Plaza Mortgage Loan (filed as Exhibit 33.16 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34</TD><TD>Attestation reports on assessment of compliance with servicing criteria for asset-backed securities.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.1</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex341.htm">Midland Loan Services, a Division of PNC Bank, National Association, as Master Servicer (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.2</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex341.htm">Midland Loan Services, a Division of PNC Bank, National Association, as Special Servicer (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.3</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/comm2015-lc21.htm">Wilmington Trust, National Association, as Trustee (Omitted. See Explanatory
+Notes to the Original 10-K.)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.4</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex344.htm">Deutsche Bank Trust Company Americas, as Certificate Administrator and Custodian (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.5</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex345.htm">Park Bridge Lender Services LLC, as Operating Advisor (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 0"></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.6</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex346.htm">KeyBank National Association, as Primary Servicer (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.7</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex347.htm">Berkeley Point Capital LLC, as Primary Servicer (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.8</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex348.htm">Wells Fargo Bank, National Association, as Primary Servicer (only with respect to the obligation to make property protection
+and mortgage payment advances) of the Renaissance New Orleans Portfolio Mortgage Loan) (filed as Exhibit 34.8 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.9</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex346.htm">KeyBank National Association, as Primary Servicer (except with respect to the obligation to make property protection and mortgage
+payment advances) of the Renaissance New Orleans Portfolio Mortgage Loan (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.10</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/comm2015-lc21.htm">Torchlight Loan Services, LLC, as Special Servicer of the Renaissance New Orleans Portfolio Mortgage Loan (Omitted. See Explanatory
+Notes to the Original 10-K.)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.11</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/comm2015-lc21.htm">Wilmington Trust, National Association, as Trustee of the Renaissance New Orleans Portfolio Mortgage Loan (Omitted. See Explanatory
+Notes to the Original 10-K.)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.12</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3412.htm">Wells Fargo Bank, National Association, as Certificate Administrator of the Renaissance New Orleans Portfolio Mortgage Loan (filed as Exhibit 34.12 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.13</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3413.htm">Wells Fargo Bank, National Association, as Custodian of the Renaissance New Orleans Portfolio Mortgage Loan (filed as Exhibit 34.13 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.14</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3414.htm">Pentalpha Surveillance LLC, as Senior Trust Advisor of the Renaissance New Orleans Portfolio Mortgage Loan (filed as Exhibit 34.14 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.15</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3415.htm">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the La Gran Plaza Mortgage Loan (filed as Exhibit 34.15 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.16</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3416.htm">National Tax Search, LLC, as Servicing Function Participant of the La Gran Plaza Mortgage Loan (filed as Exhibit 34.16 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.17</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex341.htm">Midland Loan Services, a Division of PNC Bank, National Association, as Primary Servicer of the Courtyard by Marriott Portfolio
+Mortgage Loan (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.18</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3418.htm">CWCapital Asset Management LLC, as Special Servicer of the Courtyard by Marriott Portfolio Mortgage Loan (filed as Exhibit 34.18 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.19</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/comm2015-lc21.htm">Wilmington Trust, National Association, as Trustee of the Courtyard by Marriott Portfolio Mortgage Loan (Omitted. See Explanatory
+Notes to the Original 10-K.)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.20</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3412.htm">Wells Fargo Bank, National Association, as Certificate Administrator of the Courtyard by Marriott Portfolio Mortgage Loan (filed as Exhibit 34.12 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.21</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3413.htm">Wells Fargo Bank, National Association, as Custodian of the Courtyard by Marriott Portfolio Mortgage Loan (filed as Exhibit 34.13 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.22</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3414.htm">Pentalpha Surveillance LLC, as Operating Advisor of the Courtyard by Marriott Portfolio Mortgage Loan (filed as Exhibit 34.14 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.23</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex348.htm">Wells Fargo Bank, National Association, as Primary Servicer of the La Gran Plaza Mortgage Loan (filed as Exhibit 34.8 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.24</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/comm2015-lc21.htm">LNR Partners, LLC, as Special Servicer of the La Gran Plaza Mortgage Loan (Omitted. See Explanatory
+Notes to the Original 10-K.)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.25</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/comm2015-lc21.htm">Wilmington Trust, National Association, as Trustee of the La Gran Plaza Mortgage Loan (Omitted. See Explanatory
+Notes to the Original 10-K.)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.26</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3412.htm">Wells Fargo Bank, National Association, as Certificate Administrator of the La Gran Plaza Mortgage Loan (filed as Exhibit 34.12 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.27</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3413.htm">Wells Fargo Bank, National Association, as Custodian of the La Gran Plaza Mortgage Loan (filed as Exhibit 34.13 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.28</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex345.htm">Park Bridge Lender Services LLC, as Operating Advisor of the La Gran Plaza Mortgage Loan (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.29</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3415.htm">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the La Gran Plaza Mortgage Loan (filed as Exhibit 34.15 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">34.30</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3416.htm">National Tax Search, LLC, as Servicing Function Participant of the La Gran Plaza Mortgage Loan (filed as Exhibit 34.16 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35</TD><TD>Servicer compliance statements.</TD></TR></TABLE>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.1</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex351.htm">Midland Loan Services, a Division of PNC Bank, National Association, as Master Servicer (filed as Exhibit 35.1 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 0"></P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.2</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex351.htm">Midland Loan Services, a Division of PNC Bank, National Association, as Special Servicer (filed as Exhibit 35.1 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.3</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex353.htm">Deutsche Bank Trust Company Americas, as Certificate Administrator (filed as Exhibit 35.3 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.4</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex354.htm">KeyBank National Association, as Primary Servicer (filed as Exhibit 35.4 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.5</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex355.htm">Berkeley Point Capital LLC, as Primary Servicer (filed as Exhibit 35.5 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.6</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex356.htm">Wells Fargo Bank, National Association, as Primary Servicer (only with respect to the obligation to make property protection
+and mortgage payment advances) of the Renaissance New Orleans Portfolio Mortgage Loan) (filed as Exhibit 35.6 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.7</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex354.htm">KeyBank National Association, as Primary Servicer (except with respect to the obligation to make property protection and mortgage
+payment advances) of the Renaissance New Orleans Portfolio Mortgage Loan (filed as Exhibit 35.4 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.8</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/comm2015-lc21.htm">Torchlight Loan Services, LLC, as Special Servicer of the Renaissance New Orleans Portfolio Mortgage Loan (Omitted. See Explanatory
+Notes to the Original 10-K.)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.9</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex359.htm">Wells Fargo Bank, National Association, as Certificate Administrator of the Renaissance New Orleans Portfolio Mortgage Loan (filed as Exhibit 35.9 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.10</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex351.htm">Midland Loan Services, a Division of PNC Bank, National Association, as Primary Servicer of the Courtyard by Marriott Portfolio
+Mortgage Loan (filed as Exhibit 35.1 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.11</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/comm2015-lc21.htm">CWCapital Asset Management LLC, as Special Servicer of the Courtyard by Marriott Portfolio Mortgage Loan (Omitted. See Explanatory
+Notes to the Original 10-K.)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.12</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex359.htm">Wells Fargo Bank, National Association, as Certificate Administrator of the Courtyard by Marriott Portfolio Mortgage Loan (filed as Exhibit 35.9 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.13</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex3513.htm">Wells Fargo Bank, National Association, as Primary Servicer of the La Gran Plaza Mortgage Loan (filed as Exhibit 35.13 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.14</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/comm2015-lc21.htm">LNR Partners, LLC, as Special Servicer of the La Gran Plaza Mortgage Loan (Omitted. See Explanatory
+Notes to the Original 10-K.)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">35.15</TD><TD><a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000102024218000070/ex359.htm">Wells Fargo Bank, National Association, as Certificate Administrator of the La Gran Plaza Mortgage Loan (filed as Exhibit 35.9 to the Original 10-K under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">99.1</TD><TD>Mortgage Loan Purchase Agreement, dated as of June 12, 2015, between Deutsche Mortgage &amp; Asset Receiving Corporation and
+German American Capital Corporation <a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000153949715001663/exh_99-1.htm">(filed as Exhibit 99.1 to the registrant&rsquo;s Current Report on Form 8-K/A filed on October
+15, 2015 under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">99.2</TD><TD>Mortgage Loan Purchase Agreement, dated as of June 12, 2015, between Deutsche Mortgage &amp; Asset Receiving Corporation and
+Cantor Commercial Real Estate Lending, L.P. <a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000153949715001663/exh_99-2.htm">(filed as Exhibit 99.2 to the registrant&rsquo;s Current Report on Form 8-K/A filed
+on October 15, 2015 under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">99.3</TD><TD>Mortgage Loan Purchase Agreement, dated as of June 12, 2015, among Deutsche Mortgage &amp; Asset Receiving Corporation, Ladder
+Capital Finance LLC, Ladder Capital Finance Holdings LLLP, Series TRS of Ladder Capital Finance Holdings LLLP and Series REIT of
+Ladder Capital Finance Holdings LLLP <a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000153949715001663/exh_99-3.htm">(filed as Exhibit 99.3 to the registrant&rsquo;s Current Report on Form 8-K/A filed on October
+15, 2015 under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">99.4</TD><TD>Mortgage Loan Purchase Agreement, dated as of June 12, 2015, between Deutsche Mortgage &amp; Asset Receiving Corporation and
+KeyBank National Association <a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000153949715001663/exh_99-4.htm">(filed as Exhibit 99.4 to the registrant&rsquo;s Current Report on Form 8-K/A filed on October 15,
+2015 under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">99.5</TD><TD>Primary Servicing Agreement, dated as of June 1, 2015, between Midland Loan Services, a Division of PNC Bank, National Association
+and KeyBank National Association <a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000153949715000791/exh_99-5.htm">(filed as Exhibit 99.5 to the registrant&rsquo;s Current Report on Form 8-K filed on June 18,
+2015 under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" WIDTH="100%" STYLE="font: 9pt Times New Roman,serif; margin-top: 10pt; margin-bottom: 0"><TR STYLE="vertical-align: top">
+<TD STYLE="width: 0"></TD><TD STYLE="width: 0.5in">99.6</TD><TD>Primary Servicing Agreement, dated as of June 1, 2015, between Midland Loan Services, a Division of PNC Bank, National Association
+and Berkeley Point Capital LLC <a style="-sec-extract:exhibit" HREF="http://www.sec.gov/Archives/edgar/data/1643293/000153949715000791/exh_99-6.htm">(filed as Exhibit 99.6 to the registrant&rsquo;s Current Report on Form 8-K filed on June 18, 2015
+under Commission File No. 333-193376-19 and incorporated by reference herein)</TD></TR></TABLE></a>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The exhibits required
+to be filed by the Registrant pursuant to Item 601 of Regulation S-K are listed above and in the Exhibit Index that immediately
+follows the signature page hereof.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Not Applicable.</P>
+
+<P STYLE="font: bold 9pt Times New Roman,serif; margin: 0.25in 0 0">SIGNATURES</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 10pt 0 0">Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly
+authorized.</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 4.5in 0 0">Deutsche Mortgage &amp; Asset Receiving Corporation<BR>
+(Depositor)</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; border-bottom: Black 0.5pt solid; width:3in">/s/ Helaine M. Kaplan</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 0 4.5in 0 0">Helaine M. Kaplan, President</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 0 4.5in 0 0">(senior officer in charge of securitization of the depositor)</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 4.5in 0 0">Date: June 22, 2018</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0; border-bottom: Black 0.5pt solid; width:3in">/s/ Natalie Grainger</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 0 4.5in 0 0">Natalie Grainger, Director</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0">Date: June 22, 2018</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0">&nbsp;</P>
+
+<P STYLE="font: 9pt Times New Roman,serif; margin: 12pt 0 0"></P>
+
+
+
+<P STYLE="margin: 0"></P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

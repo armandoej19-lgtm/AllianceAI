@@ -45,13 +45,20 @@
       "Bash(cp -f reports/HON_report.html \"../HON_report.html\")",
       "Bash(awk '{print $5, $9}')",
       "Bash(echo \"regen exit=$?\")",
-      "Bash(ls alliance-venv/Scripts/python.exe)",
-      "Bash(ls alliance-venv/Scripts/pytest.exe)",
-      "Bash(ls -la .env.example)",
-      "Bash(ls README*)",
-      "Bash(alliance-venv/Scripts/python.exe -m pytest -q)",
-      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" https://api.github.com/repos/armandoej19-lgtm/AllianceAI)",
-      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" https://api.github.com/users/armandoej19-lgtm)"
+      "Bash(python -c \"import yfinance; print\\('yfinance', yfinance.__version__\\)\")",
+      "Bash(./alliance-venv/Scripts/python.exe -c \"import yfinance as yf; print\\('yf', yf.__version__\\)\")",
+      "Bash(./alliance-venv/Scripts/python.exe --version)",
+      "PowerShell(ssh -o ConnectTimeout=5 -o BatchMode=yes frontier-admin@frontier-admin \"hostname; whoami; pwd\" 2>&1)",
+      "PowerShell(foreach \\($c in 'sshpass','plink','ssh'\\) { $p = \\(Get-Command $c -ErrorAction SilentlyContinue\\).Source; if \\($p\\) { Write-Output \"$c -> $p\" } else { Write-Output \"$c -> NOT FOUND\" } })",
+      "PowerShell($env:SSH_ASKPASS=\"C:\\\\Users\\\\arman\\\\AppData\\\\Local\\\\Temp\\\\askpass.cmd\"; $env:SSH_ASKPASS_REQUIRE=\"force\"; $env:DISPLAY=\"localhost:0\"; ssh -o StrictHostKeyChecking=accept-new -o ConnectTimeout=8 frontier-main@100.93.106.80 \"hostname; whoami; cd ~/soft_projects/AllianceAI && pwd && grep -n 'network_mode\\\\|ports\\\\|8888\\\\|dns\\\\|services\\\\|allianceai:' docker-compose.yml\" 2>&1 | Select-Object -First 30)",
+      "Bash(cd \"C:/Users/arman/Desktop\"; ls -la report.html; echo \"=== header cells around the forecast table ===\"; grep -n \"P\\(growth\\)\\\\|1-yr range\\\\|Next q \\(median\\)\\\\|Exp. Δ\\\\|Latest actual\\\\|1-yr median\" report.html | head -40)",
+      "Bash(mkdir -p .claude)",
+      "Bash(cat .claude/launch.json)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(rm -f .claude/launch.json)",
+      "Bash(rmdir .claude)",
+      "Bash(./alliance-venv/Scripts/allianceai.exe QQQM --no-forecast)",
+      "Bash(./alliance-venv/Scripts/python.exe -c \"import allianceai.orchestrator as o; print\\('file:', o.__file__\\); print\\('has _FUND_QUOTE_TYPES:', hasattr\\(o,'_FUND_QUOTE_TYPES'\\)\\); print\\('has _report_path:', hasattr\\(o,'_report_path'\\)\\)\")"
     ]
   }
 }

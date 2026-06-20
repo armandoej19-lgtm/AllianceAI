@@ -1,0 +1,245 @@
+<DOCUMENT>
+<TYPE>10-Q/A
+<SEQUENCE>1
+<FILENAME>form_10-q.htm
+<DESCRIPTION>FORM 10-Q/A AMENDMENT NO. 1 TO QUARTERLY REPORT FOR 10-31-2018
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+<DIV style="width:720px">
+<BR>
+<P style="margin:0px" align=center><B>UNITED STATES</B></P>
+<P style="margin:0px" align=center><B>SECURITIES AND EXCHANGE COMMISSION</B></P>
+<P style="margin:0px" align=center>Washington, D.C. 20549</P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px" align=center><B>FORM 10-Q /A </B></P>
+<P style="margin:0px" align=center><B> Amendment No. 1 </B></P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px">[X] <B>&nbsp;QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</B></P>
+<P style="margin:0px">&nbsp;</P>
+<P style="margin:0px">For the quarterly period ended: <B><U>October 31, 2018</U></B></P>
+<P style="margin:0px" align=center>or</P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px">[_] <B>&nbsp;TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</B></P>
+<P style="margin:0px">&nbsp;</P>
+<P style="margin:0px">For the transition period from ____________to _____________</P>
+<P style="margin:0px">&nbsp;</P>
+<P style="margin:0px" align=center>Commission File Number: <B><U>000-55880</U></B></P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px" align=center> <B><U>BLGI, INC.</U></B> </P>
+<P style="margin:0px" align=center>(Exact name of registrant as specified in its charter)</P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0><TR height=0 style="font-size:1pt"><TD width=360 ></TD><TD width=360 ></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=360><P style="margin:0px" align=center><B><U>Florida</U></B></P>
+</TD><TD style="margin-top:0px" valign=top width=360><P style="margin:0px" align=center><B><U>46-2500923</U></B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=360><P style="margin:0px" align=center>(State or other jurisdiction of incorporation or organization)</P>
+</TD><TD style="margin-top:0px" valign=top width=360><P style="margin:0px" align=center>(I.R.S. Employer Identification No.)</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px" align=center> <B>207 W. Division Street, Suite 137</B> </P>
+<P style="margin:0px" align=center> <B><U>Chicago, Illinois 60622</U></B> </P>
+<P style="margin:0px" align=center>(Address of principal executive offices, Zip Code)</P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px" align=center> <B><U>(773) 683-1671</U></B> </P>
+<P style="margin:0px" align=center>(Registrant&rsquo;s telephone number, including area code)</P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px" align=center>___________________________</P>
+<P style="margin:0px" align=center>(Former Name, Former Address and Former Fiscal Year if Changed Since Last Report)</P>
+<P style="margin:0px" align=center>&nbsp;</P>
+<P style="margin:0px; text-align: justify">Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act during the past 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.</P>
+<P style="margin:0px" align=right>Yes [X] &nbsp;&nbsp;No [_] </P>
+<P style="margin:0px" align=right>&nbsp;</P>
+<P style="margin:0px; text-align: justify">Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (&sect; 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).</P>
+<P style="margin:0px" align=right>Yes [_] &nbsp;&nbsp;No [X]</P>
+<P style="margin:0px" align=right>&nbsp;</P>
+<P style="margin:0px; text-align: justify">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of &ldquo;large accelerated filer,&rdquo; &ldquo;accelerated filer,&rdquo; &ldquo;smaller reporting company&rdquo; or &ldquo;emerging growth company&rdquo; in Rule 12b-2 of the Exchange Act.</P>
+<P style="margin:0px; text-align: justify">&nbsp;</P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0><TR height=0 style="font-size:1pt"><TD width=95.867 ></TD><TD width=158.4 ></TD><TD width=182.6 ></TD><TD width=187.2 ></TD><TD width=95.867 ></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=95.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=158.4><P style="margin:0px">Large accelerated filer</P>
+</TD><TD style="margin-top:0px" valign=top width=182.6><P style="margin:0px">[_]</P>
+</TD><TD style="margin-top:0px" valign=top width=187.2><P style="margin:0px">Accelerated filer</P>
+</TD><TD style="margin-top:0px" valign=top width=95.867><P style="margin:0px">[_]</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=95.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=158.4><P style="margin:0px">Non-accelerated filer</P>
+</TD><TD style="margin-top:0px" valign=top width=182.6><P style="margin:0px">[_]</P>
+</TD><TD style="margin-top:0px" valign=top width=187.2><P style="margin:0px">Smaller reporting company</P>
+</TD><TD style="margin-top:0px" valign=top width=95.867><P style="margin:0px">[X]</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=95.867><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=341 colspan=2><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=top width=187.2><P style="margin:0px">Emerging growth company</P>
+</TD><TD style="margin-top:0px" valign=top width=95.867><P style="margin:0px"> [_] </P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px; text-align: justify">&nbsp;</P>
+<P style="margin:0px; text-align: justify">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. [_]</P>
+<P style="margin:0px; text-align: justify">&nbsp;</P>
+<P style="margin:0px; text-align: justify">Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).</P>
+<P style="margin:0px" align=right>Yes [_] &nbsp;&nbsp;No [X]</P>
+<P style="margin:0px" align=right>&nbsp;</P>
+<P style="margin:0px">Indicate the number of shares outstanding of each of the issuer&rsquo;s classes of common stock, as of the
+latest practicable date: We had a total of 29,112,661 shares of common stock issued and outstanding at February 17, 2021 .</P>
+<P style="margin:0px" align=center><BR></P>
+
+<HR noshade align="center" width="100%" size="2"><p style='page-break-before:always'></p><PAGE><BR>
+
+<P style="margin:0px" align=center> <B>EXPLANATORY NOTE</B> </P>
+<P style="margin:0px; text-align: justify"><BR></P>
+<P style="margin:0px; text-align: justify"> The purpose of this Amendment No. 1 to BLGI, Inc.&rsquo;s (the
+&ldquo;Company&rdquo;) Quarterly Report on Form 10-Q for the quarterly period ended October 31, 2018 (&ldquo;Form
+10-Q/A&rdquo;) is to submit Exhibit 101 to the Form 10-Q filed with the U.S. Securities and Exchange Commission (the
+&ldquo;SEC&rdquo;) on June 29, 2020 (the &ldquo;Form 10-Q&rdquo;), in accordance with Rule 405 of Regulation S-T. Exhibit
+101 consists of the Interactive Data Files (the &ldquo;Interactive Data Files&rdquo;) required to be filed with the Form
+10-Q. </P>
+<P style="margin:0px; text-align: justify"><BR></P>
+<P style="margin:0px; text-align: justify"> The following events, each of which occurred after the original filing date of the
+Form 10-Q, are applicable with respect to the executive officers executing this Form 10-Q/A, the change of the Company&rsquo;s
+name, since the original filing date of the Form 10-Q, and differences in the number of outstanding shares, since the original
+filing date of the Form 10-Q: </P>
+<P style="margin:0px; text-align: justify"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0><TR height=0 style="font-size:1pt"><TD width=48 ></TD><TD width=672 ></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=48><P style="margin:0px" align=center> &#9679; </P>
+</TD><TD style="margin-top:0px" valign=top width=672><P style="margin:0px; text-align: justify"> Effective June 29, 2020, Jeremy Towning resigned as Chief Executive Officer; </P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=48><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=672><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=48><P style="margin:0px" align=center> &#9679; </P>
+</TD><TD style="margin-top:0px" valign=top width=672><P style="margin:0px; text-align: justify"> Effective June 29, 2020, the Company appointed Lawrence P. Cummins as Chief Executive Officer; </P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=48><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=672><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=48><P style="margin:0px" align=center> &#9679; </P>
+</TD><TD style="margin-top:0px" valign=top width=672><P style="margin:0px; text-align: justify"> Effective October 15, 2020, the Company changed its name from Black Cactus Global, Inc. to BLGI, Inc.; and </P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=48><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=672><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=48><P style="margin:0px" align=center> &#9679; </P>
+</TD><TD style="margin-top:0px" valign=top width=672><P style="margin:0px; text-align: justify"> Effective October 15, 2020,
+the Company effected a 1-for-20 reverse stock split of its shares of common stock, par
+value $0.0001 per share; provided, however, that no changes or adjustments have been
+made to the financial information in the Form 10-Q to reflect such reverse stock split. </P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px; text-align: justify"><BR></P>
+<P style="margin:0px; text-align: justify"> Other than the submission of the Interactive Data Files, no other changes, revisions,
+or updates have been made to the Form 10-Q in this Form 10-Q/A, which speaks as of the original filing date of the Form 10-Q and
+does not reflect any events that may have occurred subsequent to the filing date of the Form 10-Q. </P>
+<P style="margin:0px; text-align: justify"><BR></P>
+<P style="margin:0px; text-align: justify"><BR></P>
+<P style="margin:0px; text-align: justify"><B>ITEM 6. EXHIBITS</B></P>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0><TR height=0 style="font-size:1pt"><TD STYLE="width: 58.8px"></TD><TD STYLE="width: 9px"></TD><TD STYLE="width: 651.6px"></TD></TR>
+<TR><TD STYLE="margin-top: 0px; border-bottom: #000000 1.33px solid; vertical-align: top"><P style="margin:0px"><B>Exhibit</B></P>
+</TD><TD STYLE="margin-top: 0px; vertical-align: top"><P style="margin:0px">&nbsp;</P>
+</TD><TD STYLE="margin-top: 0px; border-bottom: #000000 1.33px solid; vertical-align: top"><P style="margin:0px"><B>Description</B></P>
+</TD></TR>
+<TR><TD STYLE="margin-top: 0px; vertical-align: top"><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD STYLE="margin-top: 0px; vertical-align: top"><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD STYLE="margin-top: 0px; vertical-align: top"><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD STYLE="margin-top: 0px; background-color: #E6E6E6; vertical-align: top"><P style="margin:0px">10.1</P>
+</TD><TD STYLE="margin-top: 0px; background-color: #E6E6E6; vertical-align: top"><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; background-color:#E6E6E6" valign=top width=651.6><P style="margin:0px"><A HREF="http://www.sec.gov/Archives/edgar/data/1575345/000116169720000267/ex_10-1.htm">Software License Agreement, dated August 24, 2019, between Charteris, Mackie, Baillie &amp; Cummins Limited and Black Cactus Global, Inc.</A> (1) </P>
+</TD></TR>
+<TR><TD STYLE="margin-top: 0px; vertical-align: top"><P style="margin:0px">10.2</P>
+</TD><TD STYLE="margin-top: 0px; vertical-align: top"><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD STYLE="margin-top: 0px; vertical-align: top"><P style="margin:0px"><A HREF="http://www.sec.gov/Archives/edgar/data/1575345/000116169720000267/ex_10-2.htm">Assignment Agreement, dated November 15, 2019, between Charteris, Mackie, Ballie &amp; Cummins Limited and Black Cactus Global, Inc.</A> (1) </P>
+</TD></TR>
+<TR><TD STYLE="margin-top: 0px; background-color: #E6E6E6; vertical-align: top"><P style="margin:0px">31.1 *</P>
+</TD><TD STYLE="margin-top: 0px; background-color: #E6E6E6; vertical-align: top"><P style="margin:0px">&nbsp;</P>
+</TD><TD STYLE="margin-top: 0px; background-color: #E6E6E6; vertical-align: top"><P style="margin:0px"><A HREF="ex_31-1.htm">Certification of CEO pursuant to Rule 13a-14(a)/15d-14(a), pursuant to Section 302 of the Sarbanes-Oxley Act of 2002</A></P>
+</TD></TR>
+<TR><TD STYLE="margin-top: 0px; vertical-align: top"><P style="margin:0px">31.2 *</P>
+</TD><TD STYLE="margin-top: 0px; vertical-align: top"><P style="margin:0px">&nbsp;</P>
+</TD><TD STYLE="margin-top: 0px; vertical-align: top"><P style="margin:0px"><A HREF="ex_31-2.htm">Certification of CFO pursuant to Rule 13a-14(a)/15d-14(a), pursuant to Section 302 of the Sarbanes-Oxley Act of 2002</A></P>
+</TD></TR>
+<TR><TD STYLE="margin-top: 0px; background-color: #E6E6E6; vertical-align: top"><P style="margin:0px">32.1 *</P>
+</TD><TD STYLE="margin-top: 0px; background-color: #E6E6E6; vertical-align: top"><P style="margin:0px">&nbsp;</P>
+</TD><TD STYLE="margin-top: 0px; background-color: #E6E6E6; vertical-align: top"><P style="margin:0px"><A HREF="ex_32-1.htm">Certification of CEO pursuant to 18 U.S.C. Section 1350, pursuant to Section 906 of the Sarbanes-Oxley Act of 2002</A></P>
+</TD></TR>
+<TR><TD STYLE="margin-top: 0px; vertical-align: top"><P style="margin:0px">32.2 *</P>
+</TD><TD STYLE="margin-top: 0px; vertical-align: top"><P style="margin:0px">&nbsp;</P>
+</TD><TD STYLE="margin-top: 0px; vertical-align: top"><P style="margin:0px"><A HREF="ex_32-2.htm">Certification of CFO pursuant to 18 U.S.C. Section 1350, pursuant to Section 906 of the Sarbanes-Oxley Act of 2002</A></P>
+</TD></TR>
+<TR><TD STYLE="margin-top: 0px; background-color: #E6E6E6; vertical-align: top"><P style="margin:0px">101.INS</P>
+</TD><TD STYLE="margin-top: 0px; background-color: #E6E6E6; vertical-align: top"><P style="margin:0px">&nbsp;</P>
+</TD><TD STYLE="margin-top: 0px; background-color: #E6E6E6; vertical-align: top"><P style="margin:0px">XBRL Instance</P>
+</TD></TR>
+<TR><TD STYLE="margin-top: 0px; vertical-align: top"><P style="margin:0px">101.SCH</P>
+</TD><TD STYLE="margin-top: 0px; vertical-align: top"><P style="margin:0px">&nbsp;</P>
+</TD><TD STYLE="margin-top: 0px; vertical-align: top"><P style="margin:0px">XBRL Taxonomy Extension Schema</P>
+</TD></TR>
+<TR><TD STYLE="margin-top: 0px; background-color: #E6E6E6; vertical-align: top"><P style="margin:0px">101.CAL</P>
+</TD><TD STYLE="margin-top: 0px; background-color: #E6E6E6; vertical-align: top"><P style="margin:0px">&nbsp;</P>
+</TD><TD STYLE="margin-top: 0px; background-color: #E6E6E6; vertical-align: top"><P style="margin:0px">XBRL Taxonomy Extension Calculation</P>
+</TD></TR>
+<TR><TD STYLE="margin-top: 0px; vertical-align: top"><P style="margin:0px">101.DEF</P>
+</TD><TD STYLE="margin-top: 0px; vertical-align: top"><P style="margin:0px">&nbsp;</P>
+</TD><TD STYLE="margin-top: 0px; vertical-align: top"><P style="margin:0px">XBRL Taxonomy Extension Definition</P>
+</TD></TR>
+<TR><TD STYLE="margin-top: 0px; background-color: #E6E6E6; vertical-align: top"><P style="margin:0px">101.LAB</P>
+</TD><TD STYLE="margin-top: 0px; background-color: #E6E6E6; vertical-align: top"><P style="margin:0px">&nbsp;</P>
+</TD><TD STYLE="margin-top: 0px; background-color: #E6E6E6; vertical-align: top"><P style="margin:0px">XBRL Taxonomy Extension Labels</P>
+</TD></TR>
+<TR><TD STYLE="margin-top: 0px; vertical-align: top"><P style="margin:0px">101.PRE</P>
+</TD><TD STYLE="margin-top: 0px; vertical-align: top"><P style="margin:0px">&nbsp;</P>
+</TD><TD STYLE="margin-top: 0px; vertical-align: top"><P style="margin:0px">XBRL Taxonomy Extension Presentation</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px">__________</P>
+<P style="margin:0px">* Filed herewith.</P>
+<P style="margin:0px"> (1) Filed previously as an exhibit to the Form 10-Q. </P>
+<P style="margin:0px"><BR></P>
+
+<P style="margin:0px" align=center>- 2 -</P>
+
+<HR noshade align="center" width="100%" size="2"><p style='page-break-before:always'></p><PAGE><BR>
+
+<P style="margin:0px" align=center><B>SIGNATURES</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px; text-indent:.5in; text-align: justify">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.</P>
+<P style="margin:0px; text-align: justify"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0><TR height=0 style="font-size:1pt"><TD width=360 ></TD><TD width=360 ></TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=360><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=360><P style="margin:0px"> <B>BLGI, INC.</B> </P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=360><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=360><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=360><P style="margin:0px"> Date: February 19, 2021 </P>
+</TD><TD style="margin-top:0px" valign=bottom width=360><P style="margin:0px"> <U>By:&nbsp;<I>/s/ Lawrence P. Cummins</I></U> </P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=360><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=360><P style="margin:0px"> Lawrence P. Cummins </P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=360><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=360><P style="margin:0px"> Chief Executive Officer </P>
+<P style="margin:0px"> (Principal Executive Officer) </P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=360><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=360><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=360><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=360><P style="margin:0px">&nbsp;</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=360><P style="margin:0px">Date: February 19, 2021 </P>
+</TD><TD style="margin-top:0px" valign=bottom width=360><P style="margin:0px"><U>By:&nbsp;</U><I><U>/s/ Jeremy Towning</U></I></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=360><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=360><P style="margin:0px">Jeremy Towning</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=360><P style="margin:0px">&nbsp;</P>
+</TD><TD style="margin-top:0px" valign=bottom width=360><P style="margin:0px"> Chief Financial Officer </P>
+<P style="margin:0px"> (Principal Financial Officer) </P>
+</TD></TR>
+</TABLE>
+
+<P style="margin:0px; text-align: justify"><BR></P>
+
+<P style="margin:0px" align=center>- 3 -</P>
+
+<HR noshade align="center" width="100%" size="2">
+</DIV>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

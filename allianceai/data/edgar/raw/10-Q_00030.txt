@@ -1,0 +1,771 @@
+<DOCUMENT>
+<TYPE>10-Q/A
+<SEQUENCE>1
+<FILENAME>a19-8606_110qa.htm
+<DESCRIPTION>10-Q/A
+<TEXT>
+
+
+<html>
+<head>
+
+
+
+
+  </head>
+<body link=blue lang="EN-US">
+<div style="font-family:Times New Roman;">
+<div style="border-bottom:solid windowtext 1.0pt;border-left:none;border-right:none;border-top:solid windowtext 3.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">UNITED STATES</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">SECURITIES AND EXCHANGE COMMISSION</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Washington, D.C. 20549</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade align="center" style="color:black;"></div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">FORM&nbsp;10-Q/A</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Amendment No.&nbsp;1</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade align="center" style="color:black;"></div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">(Mark One)</font></b></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><b><font size="3" face="Wingdings" style="font-size:12.0pt;font-weight:bold;">x</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160; </font><b><font size="3" style="font-size:12.0pt;font-weight:bold;">QUARTERLY REPORT PURSUANT TO SECTION&nbsp;13 OR 15(d)&nbsp;OF THE SECURITIES AND EXCHANGE ACT OF 1934</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-indent:23.1pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">For the quarterly period ended September&nbsp;30, 2018</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">or</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt .5in;text-indent:-.25in;"><b><font size="3" face="Wingdings" style="font-size:12.0pt;font-weight:bold;">&#168;</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><b><font size="3" style="font-size:12.0pt;font-weight:bold;">TRANSITION REPORT PURSUANT TO SECTION&nbsp;13 OR 15(d)&nbsp;OF THE SECURITIES EXCHANGE ACT OF 1934</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;text-indent:23.1pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">For the transition period from &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Commission File Number: 001-34211</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade align="center" style="color:black;"></div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="5" face="Times New Roman" style="font-size:18.0pt;font-weight:bold;">GRAND CANYON EDUCATION,&nbsp;INC.</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Exact name of registrant as specified in its charter)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center" style="margin:0in 0in .0001pt;text-align:center;"><hr size="1" width="25%" noshade align="center" style="color:black;"></div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">DELAWARE</font></b></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">20-3356009</font></b></p>    </td>   </tr>
+<tr>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(State or other   jurisdiction of<br>   Incorporation or organization)</font></p>    </td>
+<td width="2%" valign="bottom" style="padding:0in 0in 0in 0in;width:2.0%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="49%" valign="top" style="padding:0in 0in 0in 0in;width:49.0%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(I.R.S. Employer<br>   Identification No.)</font></p>    </td>   </tr>  </table>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">2600 W. Camelback Road</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Phoenix, Arizona 85017</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Address, including zip code, of principal executive offices)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">(602) 247-4400</font></b></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Registrant&#146;s telephone number, including area code)</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;text-indent:23.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Indicate by check mark whether the registrant (1)&nbsp;has filed all reports required to be filed by Section&nbsp;13 or 15(d)&nbsp;of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)&nbsp;has been subject to such filing requirements for the past 90 days.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font face="Wingdings">x</font> &nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&nbsp;&nbsp;<font face="Wingdings">o</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;text-indent:23.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Indicate by check mark whether the registrant has submitted electronically on its corporate Web site, if any, every Interactive Data File required to be submitted pursuant to Rule&nbsp;405 of Regulation S-T (&#167;232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).&#160;&#160; Yes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font face="Wingdings">x</font>&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font face="Wingdings">o</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:23.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See definitions of &#147;large accelerated filer,&#148; &#147;accelerated filer,&#148; &#147;smaller reporting company&#148; and &#147;emerging growth company&#148; in Rule&nbsp;12b-2 of the Exchange Act. (Check one):</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="17%" valign="top" style="padding:0in 0in 0in 0in;width:17.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Large&nbsp;accelerated&nbsp;filer</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="56%" valign="top" style="padding:0in 0in 0in 0in;width:56.68%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">x</font></p>    </td>
+<td width="22%" valign="top" style="padding:0in 0in 0in 0in;width:22.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Accelerated&nbsp;filer</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>   </tr>
+<tr>
+<td width="17%" valign="top" style="padding:0in 0in 0in 0in;width:17.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="56%" valign="top" style="padding:0in 0in 0in 0in;width:56.68%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="22%" valign="top" style="padding:0in 0in 0in 0in;width:22.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="17%" valign="top" style="padding:0in 0in 0in 0in;width:17.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Non-accelerated   filer</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="56%" valign="top" style="padding:0in 0in 0in 0in;width:56.68%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>
+<td width="22%" valign="top" style="padding:0in 0in 0in 0in;width:22.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Smaller&nbsp;reporting&nbsp;company</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>   </tr>
+<tr>
+<td width="17%" valign="top" style="padding:0in 0in 0in 0in;width:17.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="56%" valign="top" style="padding:0in 0in 0in 0in;width:56.68%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="22%" valign="top" style="padding:0in 0in 0in 0in;width:22.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="17%" valign="top" style="padding:0in 0in 0in 0in;width:17.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="56%" valign="top" style="padding:0in 0in 0in 0in;width:56.68%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="22%" valign="top" style="padding:0in 0in 0in 0in;width:22.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Emerging   growth&nbsp;company</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Wingdings" style="font-size:10.0pt;">o</font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;text-indent:23.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section&nbsp;13(a)&nbsp;of the Exchange Act.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font face="Wingdings">o</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;text-indent:23.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Indicate by check mark whether the registrant is a shell company (as defined in Rule&nbsp;12b-2 of the Exchange Act).&#160;&#160;&#160; Yes&#160; </font><font face="Wingdings">o</font>&#160;&#160;&#160;&#160; No&#160;&#160;&#160;&#160; <font face="Wingdings">x</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:23.1pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">The total number of shares of common stock outstanding as of November&nbsp;5, 2018, was 48,133,425.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="border-bottom:solid windowtext 3.0pt;border-left:none;border-right:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0in 1.0pt 0in;">
+<p style="border:none;margin:0in 0in .0001pt;padding:0in;"><font size="1" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>
+</div>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='',FILE='C:\JMS\109760\19-8606-1\task9316023\8606-1-ba.htm',USER='109760',CD='Apr 19 15:02 2019' -->
+
+
+<div style="page-break-before:always;"></div>
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">EXPLANATORY NOTE</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Grand Canyon Education,&nbsp;Inc. (the &#147;Company&#148;) is filing this Amendment No.&nbsp;1 (this &#147;Amendment&#148;) to its Quarterly Report on Form&nbsp;10-Q for the quarter ended September&nbsp;30, 2018 (the &#147;Form&nbsp;10-Q&#148;), which was filed with the Securities and Exchange Commission (the &#147;SEC&#148;) on November&nbsp;8, 2018, in response to comments from the SEC regarding a confidential treatment request made by the Company with respect to Exhibit&nbsp;10.8 to the Form&nbsp;10-Q. The Company is refiling the agreement contained in Exhibit&nbsp;10.8 and re-instating certain information previously redacted from such Exhibit. The Company has filed this Amendment in accordance with the requirements set forth in Item 601(b)(10)(iv)&nbsp;of Regulation S-K, which became effective after the filing of the Form&nbsp;10-Q and prior to the filing of this Amendment.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.5in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Except as described above, no other changes have been made to the Form&nbsp;10-Q. This Amendment does not reflect events occurring after the date of the Form&nbsp;10-Q, nor does it modify or update any of the other information contained in the Form&nbsp;10-Q in any way other than as required to reflect the amendment discussed above. Accordingly, this Amendment should be read in conjunction with the Form&nbsp;10-Q and the Company&#146;s other filings with the SEC.</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="font-size:10.0pt;margin:0in 0in .0001pt;text-align:center;">2<a name="PB_2_113316_8170"></a></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='2',FILE='C:\JMS\C905630\19-8606-1\task9322078\8606-1-bc.htm',USER='C905630',CD='Apr 23 23:16 2019' -->
+
+
+<div style="page-break-before:always;"></div>
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">Item&nbsp;6.</font></b><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font><b>Exhibits</b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(a)&nbsp;Exhibits</font></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="8%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Number</font></b></p>    </td>
+<td width="1%" valign="bottom" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="44%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:44.18%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Description</font></b></p>    </td>
+<td width="1%" valign="bottom" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:1.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="44%" valign="bottom" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:44.16%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">Method&nbsp;of&nbsp;Filing</font></b></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="bottom" style="padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="1%" valign="bottom" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="44%" valign="bottom" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="1%" valign="bottom" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>
+<td width="44%" valign="bottom" style="padding:0in 0in 0in 0in;width:44.16%;">
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="1" face="Times New Roman" style="font-size:8.0pt;font-weight:bold;">&nbsp;</font></b></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">2.1</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;"><a href="http://www.sec.gov/Archives/edgar/data/1434588/000119312518322557/d617676dex21.htm">Asset   Purchase Agreement, dated July&nbsp;1, 2018, by and between Grand Canyon   Education,&nbsp;Inc. and Grand Canyon University (formerly known as Gazelle   University)#</a></font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Previously filed with the Quarterly Report on   Form&nbsp;10 Q for the quarter ended September&nbsp;30, 2018, filed with the   SEC on November&nbsp;8, 2018.</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3.1</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;"><a href="http://www.sec.gov/Archives/edgar/data/1434588/000095015308001925/p75463a6exv3w1.htm">Amended   and Restated Certificate of Incorporation.</a></font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Incorporated by reference to Exhibit&nbsp;3.1 to Amendment   No.&nbsp;6 to the University&#146;s Registration Statement on Form&nbsp;S-1 filed   with the SEC on November&nbsp;12, 2008.</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3.1.1</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;"><a href="http://www.sec.gov/Archives/edgar/data/1434588/000119312516566183/d117924ddef14a.htm">Certificate   of Amendment of Amended and Restated Certificate of Incorporation.</a></font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Incorporated by reference to Appendix A to the   University&#146;s Proxy Statement for its 2016 Annual Meeting of Stockholders,   filed with the SEC on April&nbsp;29, 2016.</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">3.2</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;"><a href="http://www.sec.gov/Archives/edgar/data/1434588/000119312514387149/d812440dex31.htm">Third   Amended and Restated Bylaws.</a></font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Incorporated by reference to Exhibit&nbsp;3.1 to the   University&#146;s Current Report on Form&nbsp;8-K filed with the SEC on   October&nbsp;29, 2014.</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">4.1</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;"><a href="http://www.sec.gov/Archives/edgar/data/1434588/000095015308001671/p75463a2exv4w1.htm">Specimen   of Stock Certificate.</a></font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Incorporated by reference to Exhibit&nbsp;4.1 to   Amendment No.&nbsp;2 to the University&#146;s Registration Statement on Form&nbsp;S-1   filed with the SEC on September&nbsp;29, 2008.</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">10.1</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;"><a href="http://www.sec.gov/Archives/edgar/data/1434588/000119312518322557/d617676dex101.htm">Second   Amended and Restated Executive Employment Agreement, dated July&nbsp;1, 2018,   by and between Grand Canyon Education,&nbsp;Inc. and Brian E. Mueller&#134;</a></font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Previously filed with the Quarterly Report on   Form&nbsp;10 Q for the quarter ended September&nbsp;30, 2018, filed with the   SEC on November&nbsp;8, 2018.</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">10.2</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;"><a href="http://www.sec.gov/Archives/edgar/data/1434588/000119312518322557/d617676dex102.htm">Second   Amended and Restated Executive Employment Agreement, dated July&nbsp;1, 2018,   by and between Grand Canyon Education,&nbsp;Inc. and W. Stan Meyer&#134;</a></font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Previously filed with the Quarterly Report on   Form&nbsp;10 Q for the quarter ended September&nbsp;30, 2018, filed with the   SEC on November&nbsp;8, 2018.</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">10.3</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;"><a href="http://www.sec.gov/Archives/edgar/data/1434588/000119312518322557/d617676dex103.htm">Second   Amended and Restated Executive Employment Agreement, dated July&nbsp;1, 2018,   by and between Grand Canyon Education,&nbsp;Inc. and Daniel E. Bachus&#134;</a></font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Previously filed with the Quarterly Report on   Form&nbsp;10 Q for the quarter ended September&nbsp;30, 2018, filed with the   SEC on November&nbsp;8, 2018.</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">10.4</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;"><a href="http://www.sec.gov/Archives/edgar/data/1434588/000119312518322557/d617676dex104.htm">Second   Amended and Restated Executive Employment Agreement, dated July&nbsp;1, 2018,   by and between Grand Canyon Education,&nbsp;Inc. and Joseph N. Mildenhall&#134;</a></font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Previously filed with the Quarterly Report on   Form&nbsp;10 Q for the quarter ended September&nbsp;30, 2018, filed with the   SEC on November&nbsp;8, 2018.</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">10.5</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;"><a href="http://www.sec.gov/Archives/edgar/data/1434588/000119312518322557/d617676dex105.htm">First   Amended and Restated Executive Employment Agreement, dated July&nbsp;1, 2018,   by and between Grand Canyon Education,&nbsp;Inc. and Dilek Marsh&#134;</a></font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Previously filed with the Quarterly Report on   Form&nbsp;10 Q for the quarter ended September&nbsp;30, 2018, filed with the   SEC on November&nbsp;8, 2018.</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.36%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">10.6</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;"><a href="http://www.sec.gov/Archives/edgar/data/1434588/000119312518322557/d617676dex106.htm">Second   Amendment dated July&nbsp;1, 2018, to Credit Agreement, dated   December&nbsp;21, 2012, by and among Grand Canyon Education,&nbsp;Inc., Bank   of America, N.A., and the other parties named therein.&#134;</a></font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="bottom" style="padding:0in 0in 0in 0in;width:44.16%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Previously filed with the Quarterly Report on   Form&nbsp;10 Q for the quarter ended September&nbsp;30, 2018, filed with the   SEC on November&nbsp;8, 2018.</font></p>    </td>   </tr>  </table>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="font-size:10.0pt;margin:0in 0in .0001pt;text-align:center;">3<a name="PB_3_114208_8796"></a></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='3',FILE='C:\JMS\C905630\19-8606-1\task9322078\8606-1-gc.htm',USER='C905630',CD='Apr 23 23:15 2019' -->
+
+<div style="page-break-before:always;"></div>
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">10.7</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;"><a href="http://www.sec.gov/Archives/edgar/data/1434588/000119312518322557/d617676dex107.htm">Credit   Agreement, dated July&nbsp;1, 2018, by and between Grand Canyon   Education,&nbsp;Inc. and Grand Canyon University (formerly known as Gazelle   University)</a></font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Previously filed with the Quarterly Report on   Form&nbsp;10 Q for the quarter ended September&nbsp;30, 2018, filed with the   SEC on November&nbsp;8, 2018.</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">10.8</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;"><a href="a19-8606_1ex10d8.htm#Exhibit10_8_114313" title="Click to goto ">Master Services Agreement, dated July&nbsp;1, 2018, by   and between Grand Canyon Education,&nbsp;Inc. and Grand Canyon University   (formerly known as Gazelle University)##</a></font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="bottom" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Filed Herewith.</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">31.1</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;"><a href="a19-8606_1ex31d1.htm#Exhibit31_1_012159" title="Click to goto ">Certification of Principal Executive Officer pursuant   to Rules&nbsp;13a-14(a)&nbsp;and 15d-14(a), as adopted pursuant to   Section&nbsp;302 of the Sarbanes-Oxley Act of 2002.</a></font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="bottom" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Filed Herewith.</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">31.2</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;"><a href="a19-8606_1ex31d2.htm#Exhibit31_2_012329" title="Click to goto ">Certification of Principal Financial Officer pursuant   to Rules&nbsp;13a-14(a)&nbsp;and 15d-14(a), as adopted pursuant to   Section&nbsp;302 of the Sarbanes-Oxley Act of 2002.</a></font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="bottom" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Filed Herewith.</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">32.1</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;"><a href="http://www.sec.gov/Archives/edgar/data/1434588/000119312518322557/d617676dex321.htm">Certification   of Principal Executive Officer pursuant to 18 U.S.C. Section&nbsp;1350, as   adopted pursuant to Section&nbsp;906 of the Sarbanes-Oxley Act of 2002. &#134;&#134;</a></font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Previously filed with the Quarterly Report on   Form&nbsp;10 Q for the quarter ended September&nbsp;30, 2018, filed with the   SEC on November&nbsp;8, 2018.</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">32.2</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;"><a href="http://www.sec.gov/Archives/edgar/data/1434588/000119312518322557/d617676dex322.htm">Certification   of Principal Financial Officer pursuant to 18 U.S.C. Section&nbsp;1350, as   adopted pursuant to Section&nbsp;906 of the Sarbanes-Oxley Act of 2002. &#134;&#134;</a></font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Previously filed with the Quarterly Report on   Form&nbsp;10 Q for the quarter ended September&nbsp;30, 2018, filed with the   SEC on November&nbsp;8, 2018.</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">101.INS</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">XBRL Instance Document</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Previously filed with the Quarterly Report on   Form&nbsp;10 Q for the quarter ended September&nbsp;30, 2018, filed with the   SEC on November&nbsp;8, 2018.</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">101.SCH</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">XBRL Taxonomy Extension Schema</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Previously filed with the Quarterly Report on   Form&nbsp;10 Q for the quarter ended September&nbsp;30, 2018, filed with the   SEC on November&nbsp;8, 2018.</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">101.CAL</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">XBRL Taxonomy Extension Calculation Linkbase</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Previously filed with the Quarterly Report on   Form&nbsp;10 Q for the quarter ended September&nbsp;30, 2018, filed with the   SEC on November&nbsp;8, 2018.</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">101.DEF</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">XBRL Taxonomy Extension Definition Linkbase</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Previously filed with the Quarterly Report on   Form&nbsp;10 Q for the quarter ended September&nbsp;30, 2018, filed with the SEC   on November&nbsp;8, 2018.</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">101.LAB</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">XBRL Taxonomy Extension Label Linkbase</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Previously filed with the Quarterly Report on   Form&nbsp;10 Q for the quarter ended September&nbsp;30, 2018, filed with the   SEC on November&nbsp;8, 2018.</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="8%" valign="top" style="padding:0in 0in 0in 0in;width:8.38%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">101.PRE</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.18%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">XBRL Taxonomy Extension Presentation Linkbase</font></p>    </td>
+<td width="1%" valign="top" style="padding:0in 0in 0in 0in;width:1.66%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="44%" valign="top" style="padding:0in 0in 0in 0in;width:44.14%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Previously filed with the Quarterly Report on   Form&nbsp;10 Q for the quarter ended September&nbsp;30, 2018, filed with the   SEC on November&nbsp;8, 2018.</font></p>    </td>   </tr>  </table>
+</div>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<div style="margin:0in 0in .0001pt;"><hr size="1" width="25%" noshade align="left" style="color:black;"></div>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt 23.05pt;text-indent:-23.05pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#134;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>Indicates a management contract or any compensatory plan, contract or arrangement.</p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt 23.05pt;text-indent:-23.05pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">#</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>Schedules and similar attachments have been omitted pursuant to Item 601(b)(2)&nbsp;of Regulation S-K. The Company will furnish supplementally a copy of any omitted schedule or similar attachment to the Securities and Exchange Commission upon request.</p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt 23.05pt;text-indent:-23.05pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">##</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>Certain portions of this document have been redacted pursuant to Regulation S-K,&nbsp;Item 601(b)(10)(iv).</p>
+<p style="font-size:10.0pt;margin:0in 0in .0001pt 23.05pt;text-indent:-23.05pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&#134;&#134;</font><font size="1" style="font-size:3.0pt;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>This certification is being furnished solely to accompany this report pursuant to 18 U.S.C. Section&nbsp;1350, and is not being filed for purposes of Section&nbsp;18 of the Exchange Act, and is not to be incorporated by reference into any filings of the University, whether made before or after the date hereof, regardless of any general incorporation language in such filing.</p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="font-size:10.0pt;margin:0in 0in .0001pt;text-align:center;">4<a name="PB_4_114215_7056"></a></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='4',FILE='C:\JMS\C905630\19-8606-1\task9322078\8606-1-gc.htm',USER='C905630',CD='Apr 23 23:15 2019' -->
+
+
+<div style="page-break-before:always;"></div>
+<div style="font-family:Times New Roman;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">SIGNATURES</font></b></p>
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p style="margin:0in 0in .0001pt;text-indent:.2in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</font></p>
+<p align="center" style="margin:0in 0in .0001pt;text-align:center;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse:collapse;">
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="49%" colspan="3" valign="top" style="padding:0in 0in 0in 0in;width:49.16%;">
+<p style="margin:0in 0in .0001pt;"><b><font size="2" face="Times New Roman" style="font-size:10.0pt;font-weight:bold;">GRAND CANYON   EDUCATION,&nbsp;INC.</font></b></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.32%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>
+<td width="45%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:45.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Date:   April&nbsp;23, 2019</font></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.32%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.34%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">By: </font></p>    </td>
+<td width="42%" valign="top" style="border:none;border-bottom:solid windowtext 1.0pt;padding:0in 0in 0in 0in;width:42.5%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">/s/ Daniel E.   Bachus</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.32%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="45%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:45.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Daniel E. Bachus</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.32%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="45%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:45.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">Chief Financial   Officer</font></p>    </td>   </tr>
+<tr>
+<td width="50%" valign="top" style="padding:0in 0in 0in 0in;width:50.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="3%" valign="top" style="padding:0in 0in 0in 0in;width:3.32%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:1.0pt;">&nbsp;</font></p>    </td>
+<td width="45%" colspan="2" valign="top" style="padding:0in 0in 0in 0in;width:45.84%;">
+<p style="margin:0in 0in .0001pt;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">(Principal   Financial Officer and Principal Accounting Officer</font></p>    </td>   </tr>  </table>
+<p style="margin:0in 0in .0001pt;text-indent:3.75in;"><font size="2" face="Times New Roman" style="font-size:10.0pt;">&nbsp;</font></p>
+<p align="center" style="font-size:10.0pt;margin:0in 0in .0001pt;text-align:center;">5<a name="PB_5_114235_9311"></a></p>
+<div style="margin:0in 0in .0001pt;"><hr size="3" width="100%" noshade align="left" style="color:#010101;"></div>
+</div>
+<!-- SEQ.=1,FOLIO='5',FILE='C:\JMS\C605032\19-8606-1\task9319752\8606-1-ge.htm',USER='C605032',CD='Apr 22 22:49 2019' -->
+
+</body>
+</html>
+</TEXT>
+</DOCUMENT>

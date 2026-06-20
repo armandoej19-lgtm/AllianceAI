@@ -130,6 +130,10 @@ def fetch_company_info(ticker: str) -> dict[str, Any]:
         "marketCap", "enterpriseValue", "trailingPE", "forwardPE",
         "priceToBook", "dividendYield", "beta", "longBusinessSummary",
         "fullTimeEmployees", "website", "quoteType",
+        # Fund / ETF / index metadata (present for quoteType ETF/MUTUALFUND/INDEX).
+        "category", "fundFamily", "legalType", "totalAssets", "navPrice",
+        "yield", "netExpenseRatio", "annualReportExpenseRatio",
+        "beta3Year", "fundInceptionDate",
     ]
     result = {k: info.get(k) for k in wanted}
 
@@ -266,7 +270,17 @@ def fetch_all(ticker: str, quarterly: bool = True) -> dict[str, pd.DataFrame | d
             result[name] = fn(**kwargs)
             logger.info("  [OK] %-10s fetched.", name)
         except Exception as exc:
-            logger.error("  [FAIL] %-10s — %s", name, exc)
+            # Surface the underlying cause (e.g. yfinance 429 / TLS / DNS),
+            # otherwise the wrapped DataFetchError message hides why it failed.
+            cause = exc.__cause__
+            if cause is not None:
+                logger.error(
+                    "  [FAIL] %-10s — %s (cause: %s: %s)",
+                    name, exc, type(cause).__name__, cause,
+                )
+            else:
+                logger.error("  [FAIL] %-10s — %s", name, exc)
+            logger.debug("  [FAIL] %-10s full traceback:", name, exc_info=True)
             result[name] = {} if name == "info" else pd.DataFrame()
 
     # --------------------------------------------------------------

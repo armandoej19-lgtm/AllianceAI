@@ -1,0 +1,438 @@
+<DOCUMENT>
+<TYPE>10-Q/A
+<SEQUENCE>1
+<FILENAME>snmx20160930_10qa.htm
+<DESCRIPTION>FORM 10-Q/A
+<TEXT>
+<html>
+<head>
+	<title>snmx20160930_10qa.htm</title>
+	<!-- Created by RDG HTML Converter v1.1.0.0 3/20/2017 8:45:55 PM -->
+</head>
+<body style="font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin-right: 10px; margin-left: 10px; cursor: auto;">
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>UNITED STATES</b></p>
+
+<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>SECURITIES AND EXCHANGE COMMISSION</b></p>
+
+<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>WASHINGTON, D.C. 20549</b></p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 18pt;"><b>FORM 10-Q</b><font style="font-family: Times New Roman, Times, serif; font-size: 18pt;"><b>/A</b></font></p>
+
+<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>Amendment No. 1</b></p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0" id="TBL1" style="width: 100%; text-indent: 0px; font-family: Times New Roman, Times, serif; font-size: 10pt;">
+
+		<tr>
+			<td style="width: 4%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>&#9746;</b></p>
+			</td>
+			<td style="width: 94%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</b></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 4%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+			<td style="width: 94%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 100%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>For the quarterly period ended September 30, 2016</b></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 4%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+			<td style="width: 94%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 100%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>Or</b></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 4%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+			<td style="width: 94%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 4%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>&#9744;</b></p>
+			</td>
+			<td style="width: 94%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</b></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 4%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+			<td style="width: 94%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width: 100%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>For the transition period from to </b></p>
+			</td>
+		</tr>
+
+</table>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>Commission File Number:<font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;000-50791</font></b></p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 24pt;"><b>SENOMYX, INC.</b></p>
+
+<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;">(Exact name of registrant as specified in its <font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">charter)</font></p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0" id="TBL2" style="width: 100%; text-indent: 0px; font-family: Times New Roman, Times, serif; font-size: 10pt;">
+
+		<tr>
+			<td style="width: 48.5%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>Delaware</b><br>
+			<font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">(State or other jurisdiction of incorporation or organization)</font></p>
+			</td>
+			<td style="width: 3%; vertical-align: bottom;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+			<td style="width: 48.5%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>33-0843840</b><br>
+			<font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">(I.R.S. Employer Identification No.)</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 48.5%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+			<td style="width: 3%; vertical-align: bottom;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+			<td style="width: 48.5%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 48.5%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>4767 Nexus Centre Drive</b><br>
+			<font style="font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>San Diego, California 92121</b></font><br>
+			<font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">(Address of principal executive offices) (Zip code)</font></p>
+			</td>
+			<td style="width: 3%; vertical-align: bottom;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+			<td style="width: 48.5%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;"><br>
+			<font style="font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>(858) 646-8300</b></font><br>
+			<font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">(Registrant&rsquo;s telephone number, including area code)</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 48.5%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+			<td style="width: 3%; vertical-align: bottom;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+			<td style="width: 48.5%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" style="width: 100%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;">(Former name, former address and former fiscal year, if changed since last report)</p>
+			</td>
+		</tr>
+
+</table>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file <font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes </font><font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">&#9745;</font><font style="font-family: Times New Roman, Times, serif; font-size: 10pt;"> No </font><font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">&#9744;</font></p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File requi<font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">red to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes </font><font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">&#9745;</font><font style="font-family: Times New Roman, Times, serif; font-size: 10pt;"> No </font><font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">&#9744;</font></p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">Indicate by check mark whether the registrant is <font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company.</font></p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0" id="TBL3" style="width: 100%; text-indent: 0px; font-family: Times New Roman, Times, serif; font-size: 10pt;">
+
+		<tr>
+			<td style="width: 50%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;">Larger accelerated filer <font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">&#9744;</font></p>
+			</td>
+			<td style="width: 50%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;">Accelerated filer <font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">&#9745;</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 50%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;">Non-accelerated filer <font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">&#9744;</font></p>
+			</td>
+			<td style="width: 50%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;">Smaller reporting company <font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">&#9744;</font></p>
+			</td>
+		</tr>
+
+</table>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">Indicate by check mark whether registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes <font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">&#9744;</font><font style="font-family: Times New Roman, Times, serif; font-size: 10pt;"> No </font><font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">&#9745;</font></p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">Indicate the number of shares outstanding of each of the issuer<font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">&rsquo;s classes of common stock, as of the latest practicable date.</font></p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">Total shares of common stock outstanding as of the close of business on October 21, 2016: 45,004,285</p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<div id="PGBK" style="width: 100%; margin-right: 0pt; margin-left: 0pt;">
+<div id="PGNUM" style="width: 100%; text-align: center;">&nbsp;</div>
+
+<hr style="border: currentColor; border-image: none; width: 100%; height: 2px; color: rgb(0, 0, 0); page-break-after: always; background-color: rgb(0, 0, 0);">
+<div id="PGHDR" style="width: 100%; text-align: left;">&nbsp;</div>
+</div>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>EXPLANATORY NOTE </b></p>
+
+<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>&nbsp;</b></p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">This Amendment No.<font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;1 to the Quarterly Report of Senomyx,&nbsp;Inc. on Form&nbsp;10-Q/A (this &ldquo;<i><b>Form&nbsp;10-Q/A</b></i>&rdquo;) amends our Quarterly Report on Form&nbsp;10-Q for the period ended September&nbsp;30, 2016, which was originally filed with the Securities and Exchange Commission (the &ldquo;<i><b>SEC</b></i>&rdquo;) on October 27, 2016 (the &ldquo;<i><b>Original Form&nbsp;10-Q</b></i>&rdquo;). This Form&nbsp;10-Q/A is being filed solely to refile Exhibit 10.2&mdash;</font><font style="font-family: Times New Roman, Times, serif; font-size: 10pt;"> </font><font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">Amended and Restated Collaborative Research, Development, Commercialization and License Agreement dated September 30, 2016 between Senomyx, Inc. and PepsiCo, Inc. In connection with the filing of this Form&nbsp;10-Q/A and pursuant to the rules of the SEC, we are including with this Form&nbsp;10-Q/A new certifications by our principal executive officer and principal financial officer.</font></p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">Except as described above, no other changes have been made to the Original Form<font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;10-Q, and this Form&nbsp;10-Q/A does not amend, update or change the financial statements or disclosures in the Original Form&nbsp;10-Q. This Form&nbsp;10-Q/A does not reflect events occurring after the filing of the Original Form&nbsp;10-Q or modify or update those disclosures. Accordingly, this Form&nbsp;10-Q/A should be read in conjunction with our filings made with the SEC subsequent to the filing of the Original Form&nbsp;10-Q, including any amendments to those filings.</font></p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<div id="PGBK" style="width: 100%; margin-right: 0pt; margin-left: 0pt;">
+<div id="PGNUM" style="width: 100%; text-align: center;">&nbsp;</div>
+
+<hr style="border: currentColor; border-image: none; width: 100%; height: 2px; color: rgb(0, 0, 0); page-break-after: always; background-color: rgb(0, 0, 0);">
+<div id="PGHDR" style="width: 100%; text-align: left;">&nbsp;</div>
+</div>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>PART II. OTHER INFORMATION</b></p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0" id="TBL4" style="width: 100%; text-indent: 0px; font-family: Times New Roman, Times, serif; font-size: 10pt;">
+
+		<tr>
+			<td style="width: 122px; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>ITEM 6.</b></p>
+			</td>
+			<td style="width: 1623px; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>EXHIBITS</b></p>
+			</td>
+		</tr>
+
+</table>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<p style="font-family: Times New Roman, Times, serif; font-size: 10pt; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">(a) Exhibits</p>
+
+<p style="font-family: Times New Roman, Times, serif; font-size: 10pt; margin-top: 0pt; margin-bottom: 0pt;">&nbsp;</p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">The exhibits listed in the Original Form<font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;10-Q are required by Item 601 of Regulation S-K. A list of the exhibits filed with this Form&nbsp;10-Q/A is provided below.</font></p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0" id="TBL5" style="width: 100%; text-indent: 0px; font-family: Times New Roman, Times, serif; font-size: 10pt;">
+
+		<tr>
+			<td style="width: 7%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">10.<font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">2*</font></p>
+			</td>
+			<td style="width: 93%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">Amended and Restated Collaborative Research, Development, Commercialization and License Agreement dated September 30, 2016 between Senomyx, Inc. <font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">and PepsiCo, Inc.</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 7%; vertical-align: middle;">&nbsp;</td>
+			<td colspan="1" style="width: 93%; vertical-align: middle;">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width: 7%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">31.1</p>
+			</td>
+			<td style="width: 93%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">Certification of John Poyhonen, Chief Executive Officer, pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 7%; vertical-align: middle;">&nbsp;</td>
+			<td colspan="1" style="width: 93%; vertical-align: middle;">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width: 7%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">31.2</p>
+			</td>
+			<td style="width: 93%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">Certification of Antony Rogers, Chief Financial Officer, pursuant to Section 302 of the <font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">Sarbanes-Oxley Act of 2002.</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 7%; vertical-align: top;">&nbsp;</td>
+			<td style="width: 93%; vertical-align: top;">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width: 7%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">32</p>
+			</td>
+			<td style="width: 93%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">Certification of John Poyhonen, Chief Executive Officer, and Antony Rogers, Chief Financial Officer, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.</p>
+			</td>
+		</tr>
+
+</table>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<hr style="margin: 3pt 0px; border: currentColor; border-image: none; width: 100%; height: 1px; color: rgb(0, 0, 0); background-color: rgb(0, 0, 0);">
+<p style="margin: 0pt 0pt 0pt 58.3pt; text-align: left; text-indent: -17.8pt; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<p style="margin: 0pt 0pt 0pt 58.3pt; text-align: left; text-indent: -17.8pt; font-family: Times New Roman, Times, serif; font-size: 10pt;">*&nbsp;<font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">Confidential treatment has been granted or requested with respect to certain portions of this exhibit. Omitted portions have been filed separately with the Securities and Exchange Commission.</font></p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<div id="PGBK" style="width: 100%; margin-right: 0pt; margin-left: 0pt;">
+<div id="PGNUM" style="width: 100%; text-align: center;">&nbsp;</div>
+
+<hr style="border: currentColor; border-image: none; width: 100%; height: 2px; color: rgb(0, 0, 0); page-break-after: always; background-color: rgb(0, 0, 0);">
+<div id="PGHDR" style="width: 100%; text-align: left;">&nbsp;</div>
+</div>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;"><b>SIGNATURES</b></p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">Pursuant to the requirements of the <font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.</font></p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0" id="TBL6" style="width: 100%; text-indent: 0px; font-family: Times New Roman, Times, serif; font-size: 10pt;">
+
+		<tr>
+			<td style="width: 43%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+			<td colspan="2" style="width: 57%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">Senomyx, Inc.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 43%; vertical-align: top;">
+			<p style="margin: 0pt 0pt 0pt 7.2pt; text-align: left; text-indent: -7.2pt; font-family: Times New Roman, Times, serif; font-size: 10pt;">Date: <font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">March 21, 2017</font></p>
+			</td>
+			<td style="width: 53px; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">By:</p>
+			</td>
+			<td style="width: 939px; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;"><u>/S/ JOHN POYHONEN</u></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 43%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+			<td style="width: 53px; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+			<td style="width: 939px; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">John Poyhonen</p>
+
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">President, Chief Executive<font style="font-family: Times New Roman, Times, serif; font-size: 10pt;"> Officer and Director</font></p>
+
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">(on behalf of the registrant and as the registrant<font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">&rsquo;s<br>
+			Principal Executive Officer)</font></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 43%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+			<td style="width: 53px; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+			<td style="width: 939px; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 43%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+			<td style="width: 53px; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">By:</p>
+			</td>
+			<td style="width: 939px; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;"><u>/S/ ANTONY ROGERS</u></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 43%; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+			<td style="width: 53px; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+			</td>
+			<td style="width: 939px; vertical-align: top;">
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">Antony Rogers</p>
+
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">Senior Vice President and Chief Financial Officer</p>
+
+			<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">(on behalf of the registrant and as the registrant<font style="font-family: Times New Roman, Times, serif; font-size: 10pt;">&rsquo;s<br>
+			Principal Financial and Accounting Officer)</font></p>
+			</td>
+		</tr>
+
+</table>
+
+<p style="margin: 0pt; text-align: center; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<p style="margin: 0pt; text-align: right; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+
+<p style="margin: 0pt; text-align: left; font-family: Times New Roman, Times, serif; font-size: 10pt;">&nbsp;</p>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>

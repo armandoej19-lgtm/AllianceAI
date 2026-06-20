@@ -1,0 +1,719 @@
+<DOCUMENT>
+<TYPE>10-Q/A
+<SEQUENCE>1
+<FILENAME>rare-10qa_20160630.htm
+<DESCRIPTION>10-Q/A
+<TEXT>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>
+rare-10qa_20160630.htm
+</title>
+</head>
+<!-- NG Converter v4.0.5.11 -->
+<body>
+
+<p style="margin-top:1pt;border-top:Solid 0.75pt #000000;padding-top:0pt;margin-bottom:0pt;text-indent:0%;color:#000000;font-size:4pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="text-align:center;margin-top:2pt;border-top:Solid 1pt;padding-top:1pt;margin-bottom:0pt;text-indent:0%;color:#000000;font-size:4pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="text-align:center;margin-top:4pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;color:#000000;font-size:18pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">UNITED STATES </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:18pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">SECURITIES AND EXCHANGE COMMISSION </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-family:Times New Roman;font-size:12pt;font-style:normal;text-transform:none;font-variant: normal;">WASHINGTON, DC 20549 </p>
+<p style="text-align:center;border-bottom:Solid 1pt;padding-bottom:1pt;margin-bottom:0pt;margin-top:0pt;margin-left:40%;margin-right:40%;text-indent:0%;font-size:6pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="text-align:center;margin-top:6pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;font-size:18pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">FORM<font style="color:#000000;"> 10-Q/A</font></p>
+<p style="text-align:center;margin-top:6pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;color:#000000;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Amendment No. 1</p>
+<p style="text-align:center;border-bottom:Solid 1pt;padding-bottom:1pt;margin-bottom:0pt;margin-top:0pt;margin-left:40%;margin-right:40%;text-indent:0%;font-size:6pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="margin-bottom:0pt;margin-top:6pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(Mark One) </p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;  margin-left:0.56%;width:93.33%;">
+<tr>
+<td style="width:3.9%;"></td>
+<td style="width:89.44%;"></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Segoe UI Symbol;font-size:12pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9746;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:12pt;font-style:normal;text-transform:none;font-variant: normal;">QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934. </p></td>
+</tr>
+</table></div>
+<p style="text-align:center;margin-top:6pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;color:#000000;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">For the quarterly period ended June 30, 2016</p>
+<p style="text-align:center;margin-top:6pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;color:#000000;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">OR </p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;  margin-left:0.56%;width:93.33%;">
+<tr>
+<td style="width:3.91%;"></td>
+<td style="width:89.43%;"></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-top:6pt;margin-bottom:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-family:Segoe UI Symbol;font-size:12pt;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-top:6pt;margin-bottom:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-family:Times New Roman;font-size:12pt;font-style:normal;text-transform:none;font-variant: normal;">TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934. </p></td>
+</tr>
+</table></div>
+<p style="text-align:center;margin-bottom:0pt;margin-top:6pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">For the transition period from <font style="text-decoration:underline;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</font> to <font style="text-decoration:underline;">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; </font>. </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:6pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Commission File No.&#160;001-36276 </p>
+<p style="text-align:center;border-bottom:Solid 1pt;padding-bottom:1pt;margin-bottom:0pt;margin-top:0pt;margin-left:40%;margin-right:40%;text-indent:0%;font-size:6pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:6pt;text-indent:0%;font-weight:bold;font-size:24pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">ULTRAGENYX PHARMACEUTICAL INC. </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(Exact name of registrant as specified in its charter) </p>
+<p style="text-align:center;border-bottom:Solid 1pt;padding-bottom:1pt;margin-bottom:0pt;margin-top:0pt;margin-left:40%;margin-right:40%;text-indent:0%;font-size:6pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:6pt;">&nbsp;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:93.34%;">
+<tr>
+<td style="width:47.28%;"></td>
+<td style="width:1.57%;"></td>
+<td style="width:44.49%;"></td>
+</tr>
+<tr>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Delaware</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">27-2546083</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(State or other jurisdiction of<br />incorporation or organization)</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(I.R.S. Employer<br />Identification No.)</p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;color:#000000;font-size:6pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:93.33%;">
+<tr>
+<td style="width:47.24%;"></td>
+<td style="width:1.67%;"></td>
+<td style="width:44.43%;"></td>
+</tr>
+<tr>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">60 Leveroni Court<br />Novato, California</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">94949</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(Address of principal executive offices)</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-style:italic;color:#000000;font-size:10pt;font-family:Times New Roman;font-weight:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-style:italic;color:#000000;font-size:8pt;font-family:Times New Roman;font-weight:normal;text-transform:none;font-variant: normal;">(Zip Code)</p></td>
+</tr>
+</table></div>
+<p style="text-align:center;margin-top:6pt;margin-bottom:0pt;text-indent:0%;font-weight:bold;color:#000000;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">(415) 483-8800 </p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:8pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(Registrant&#8217;s telephone number, including area code) </p>
+<p style="text-align:center;border-bottom:Solid 1pt;padding-bottom:1pt;margin-bottom:0pt;margin-top:0pt;margin-left:40%;margin-right:40%;text-indent:0%;font-size:6pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="margin-top:6pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Arial;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Indicate<font style="color:#000000;font-size:8pt;font-family:Times New Roman;"> </font><font style="font-family:Times New Roman;"> by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities and Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. YES </font><font style="font-weight:bold;color:#000000;font-size:9pt;font-family:Segoe UI Symbol;">&#9745;</font><font style="color:#000000;font-size:9.5pt;font-family:Times New Roman;">&#160;</font><font style="font-family:Times New Roman;"> NO </font><font style="color:#000000;font-family:Segoe UI Symbol;">&#9744;</font><font style="font-family:Times New Roman;">&#160;</font></p>
+<p style="margin-top:6pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Website, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (<font style="color:#000000;">&#167;</font> 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). YES <font style="font-weight:bold;color:#000000;font-size:9pt;font-family:Segoe UI Symbol;">&#9745;</font> NO <font style="color:#000000;font-family:Segoe UI Symbol;">&#9744;</font>&#160;</p>
+<p style="margin-top:6pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of <font style="color:#000000;">&#8220;</font>large accelerated filer,<font style="color:#000000;">&#8221;</font> <font style="color:#000000;">&#8220;</font>accelerated filer<font style="color:#000000;">&#8221;</font> and <font style="color:#000000;">&#8220;</font>smaller reporting company<font style="color:#000000;">&#8221;</font> in Rule 12b-2 of the Exchange Act. (Check one): </p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;color:#000000;font-size:6pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:90.56%;">
+<tr>
+<td style="width:17.85%;"></td>
+<td style="width:0.06%;"></td>
+<td style="width:2.27%;"></td>
+<td style="width:37.07%;"></td>
+<td style="width:0.11%;"></td>
+<td style="width:1.57%;"></td>
+<td style="width:21.26%;"></td>
+<td style="width:0.07%;"></td>
+<td style="width:1.57%;"></td>
+<td style="width:8.71%;"></td>
+</tr>
+<tr>
+<td colspan="2" valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Large accelerated filer</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="2" valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:9pt;font-family:Segoe UI Symbol;font-style:normal;text-transform:none;font-variant: normal;">&#9745;</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="2" valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Accelerated filer</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:10pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</p></td>
+</tr>
+<tr style="height:3.75pt;">
+<td valign="middle"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:6pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="3" valign="middle"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:6pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="3" valign="middle"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:6pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="3" valign="middle"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:6pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+</tr>
+<tr>
+<td colspan="2" valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Non-accelerated filer</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="2" valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:10pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9744;<font style="font-family:Times New Roman;color:#000000;">&#160;(Do not check if a smaller reporting company)</font></p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="2" valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Smaller reporting company</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:10pt;font-family:Segoe UI Symbol;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#9744;</p></td>
+</tr>
+</table></div>
+<p style="margin-top:6pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). YES <font style="color:#000000;font-family:Segoe UI Symbol;">&#9744;</font> NO <font style="font-weight:bold;color:#000000;font-size:9pt;font-family:Segoe UI Symbol;">&#9745;</font>&#160;</p>
+<p style="margin-top:6pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">As of August 3, 2016, the registrant had 39,435,593 shares of common stock issued and outstanding. </p>
+<p style="margin-top:6pt;border-top:Solid 0.75pt #000000;padding-top:0pt;text-align:center;line-height:1pt;margin-bottom:0pt;text-indent:0%;font-size:4pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="text-align:center;border-top:Solid 1pt;padding-top:1pt;margin-top:1pt;line-height:1pt;margin-bottom:0pt;text-indent:0%;font-size:4pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:8pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:8pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:8pt;">&nbsp;</p>
+<hr style="page-break-after:always;width:100%;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;color:#000000;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><a name="_AEIOULastRenderedPageBreakAEIOU3"></a><a name="_AEIOULastRenderedPageBreakAEIOU2"></a><font style="font-weight:bold;color:#000000;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">EXPLANATORY NOTE</font></p>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Ultragenyx Pharmaceutical Inc. (the Company) is filing this Amendment No. 1 (the Amendment) to its Quarterly Report on Form 10-Q for the fiscal quarter ended June 30, 2016 (the Form 10-Q) filed with the Securities and Exchange Commission (the SEC) on August 9, 2016, solely to refile Exhibits 10.1 and 10.2 to the Form 10-Q in response to communications with the SEC&#8217;s staff regarding a request for confidential treatment made by the Company with respect to portions of these exhibits. Certain information that previously was redacted within Exhibits 10.1 and 10.2 as filed with the Form 10-Q has been disclosed in such exhibits as refiled with this Amendment. </p>
+<p style="margin-top:12pt;margin-bottom:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">This Amendment is an exhibits-only filing solely for the purpose of filing revised versions of Exhibits 10.1 and 10.2. This Amendment does not affect any other parts of, or exhibits to, the Form 10-Q, and those unaffected parts or exhibits are not included in this Amendment. Except as expressly stated in this Amendment, the Form 10-Q continues to speak as of the date of the original filing of the Form 10-Q, and the Company has not updated the disclosure contained in this Amendment to reflect events that have occurred since the filing of the Form 10-Q. Accordingly, this Amendment must be read in conjunction with the Company&#8217;s other filings made with the SEC subsequent to the filing of the Form 10-Q, including amendments to those filings, if any. </p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:11pt;">&nbsp;</p>
+<p style="margin-bottom:8pt;margin-top:0pt;text-indent:0%;font-weight:bold;color:#000000;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><a name="_AEIOULastRenderedPageBreakAEIOU58"></a><br /></p>
+<hr style="page-break-after:always;width:100%;">
+<p style="margin-bottom:13pt;margin-top:4pt;text-indent:0%;font-weight:bold;color:#000000;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><a name="_AEIOULastRenderedPageBreakAEIOU3"></a><font style="font-weight:bold;color:#000000;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">PART II &#8211; OTHER INFORMATION</font></p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;color:#000000;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><a name="Item_6_EXHIBITS"></a>Item 6. EXHIBITS </p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;color:#000000;font-size:6pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<div align="left">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; width:88.6%;">
+<tr>
+<td style="width:13.19%;"></td>
+<td style="width:2.82%;"></td>
+<td style="width:33.79%;"></td>
+<td style="width:2.82%;"></td>
+<td style="width:3.98%;"></td>
+<td style="width:1.91%;"></td>
+<td style="width:7.31%;"></td>
+<td style="width:1.91%;"></td>
+<td style="width:8.55%;"></td>
+<td style="width:1.89%;"></td>
+<td style="width:10.43%;"></td>
+</tr>
+<tr>
+<td valign="middle"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="middle"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="middle"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="middle"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="middle"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="middle"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="middle"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="middle"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="middle"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="middle"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="middle"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="5" valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Incorporated by Reference</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Exhibit Number</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Exhibit Description</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Form</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Date</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Number</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:9pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">Furnished or Filed Herewith</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">3.1</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Amended and Restated Certificate of Incorporation of Ultragenyx Pharmaceutical Inc.</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">8-K</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">2/5/2014</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">3.1</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">3.2</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Ultragenyx Pharmaceutical Inc. Amended and Restated Bylaws</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">8-K</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">2/5/2014</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">3.2</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">10.1&#8224;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">License and Collaboration Agreement by and between Takeda Pharmaceutical Company Limited and Ultragenyx Pharmaceutical Inc., dated June 6, 2016</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">X</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">10.2&#8224;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Common Stock Purchase Agreement between Ultragenyx Pharmaceutical Inc. and Takeda Pharmaceutical Company Limited, dated as of June 6, 2016</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">X</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">10.3#</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Offer letter, dated as of April 26, 2016, between the Registrant and Karah Parschauer</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">10-Q</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">8/9/2016</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">10.3</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">10.4</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Sales Agreement, dated as of July 1, 2016, between Ultragenyx Pharmaceutical Inc. and Cowen and Company, LLC</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">8-K</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">7/5/2016</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">1.1</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">31.1</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Certification of Principal Executive Officer Required Under Rule 13a-14(a) or Rule 15d-14(a) of the Securities Exchange Act of 1934, as amended</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">X</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">31.2</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Certification of Principal Financial Officer Required Under Rule 13a-14(a) or Rule 15d-14(a) of the Securities Exchange Act of 1934, as amended</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">X</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">32.1</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Certification of Principal Executive Officer and Principal Financial Officer Required Under Rule 13a-14(b) of the Securities Exchange Act of 1934, as amended, and 18 U.S.C. 1350</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">10-Q</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">8/9/2016</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:9pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">32.1</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">101.INS</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">XBRL Instance Document</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">10-Q</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">8/9/2016</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">101.INS</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">101.SCH</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">XBRL Taxonomy Extension Schema Document</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">10-Q</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">8/9/2016</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">101.SCH</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">101.CAL</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">XBRL Taxonomy Extension Calculation Linkbase Document</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">10-Q</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">8/9/2016</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">101.CAL</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">101.DEF</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">XBRL Taxonomy Extension Definition Linkbase Document</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">10-Q</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">8/9/2016</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">101.DEF</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">101.LAB </p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">XBRL Taxonomy Extension Labels Linkbase Document</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">10-Q</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">8/9/2016</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">101.LAB</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+</tr>
+<tr>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">101.PRE</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">XBRL Taxonomy Extension Presentation Linkbase Document</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">10-Q</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">8/9/2016</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">101.PRE</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:9pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="top"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:11pt;">&nbsp;</p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-family:Times New Roman;font-size:6pt;">&nbsp;</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;color:#000000;font-size:4.5pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<p style="margin-top:13pt;margin-bottom:0pt;text-indent:0%;color:#000000;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#8224; Portions of this exhibit (indicated by asterisks) have been omitted pursuant to a request for confidential treatment, and this exhibit has been filed separately with the SEC.</p>
+<p style="margin-top:13pt;margin-bottom:0pt;text-indent:0%;color:#000000;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"># Indicates management contract or compensatory plan</p>
+<p style="margin-top:13pt;margin-bottom:0pt;text-indent:0%;color:#000000;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><a name="_AEIOULastRenderedPageBreakAEIOU4"></a><br /></p>
+<hr style="page-break-after:always;width:100%;">
+<p style="margin-top:13pt;margin-bottom:0pt;color:#000000;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;"><font style="font-size:4.5pt;">&#160;</font></p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-weight:bold;color:#000000;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;"><a name="SIGNATURES"></a><a name="_AEIOULastRenderedPageBreakAEIOU59"></a>SIGNATURES</p>
+<p style="margin-top:4pt;margin-bottom:0pt;text-indent:0%;color:#000000;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.</p>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;color:#000000;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p>
+<div>
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse; width:99.17%;">
+<tr>
+<td style="width:51.67%;"></td>
+<td style="width:1.57%;"></td>
+<td style="width:3.79%;"></td>
+<td style="width:42.14%;"></td>
+</tr>
+<tr>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="2" valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">ULTRAGENYX PHARMACEUTICAL INC.<font style="color:#000000;">&#160;</font></p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td colspan="2" valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+</tr>
+<tr style="height:7.65pt;">
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-family:Times New Roman;font-size:10pt;">&nbsp;</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+</tr>
+<tr style="height:1pt;">
+<td colspan="2" valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Date: December 9, 2016</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt; border-bottom:solid 0.75pt transparent;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">By:</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt; border-bottom:solid 0.75pt #000000;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">/s/ Shalini Sharp</p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Shalini Sharp</p></td>
+</tr>
+<tr>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-weight:bold;color:#000000;font-size:10pt;font-family:Times New Roman;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">Executive Vice President and Chief Financial Officer</p>
+<p style="text-align:center;margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;color:#000000;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">(Principal Financial Officer)</p></td>
+</tr>
+<tr style="height:14.4pt;">
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+<td valign="bottom"  style="padding-Top:0pt;padding-Bottom:0pt;">
+<p style="margin-bottom:0pt;margin-top:0pt;margin-left:0pt;;text-indent:0pt;;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></td>
+</tr>
+</table></div>
+<p style="margin-bottom:0pt;margin-top:0pt;text-indent:0%;font-size:10pt;font-family:Times New Roman;font-weight:normal;font-style:normal;text-transform:none;font-variant: normal;">&#160;</p></body>
+</html>
+</TEXT>
+</DOCUMENT>

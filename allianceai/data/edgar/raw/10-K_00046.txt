@@ -1,0 +1,1855 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>wcm13c16_10ka-2015.htm
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: wells
+    Document created using EDGARfilings PROfile 3.5.0.0
+    Copyright 1995 - 2016 Summit Financial Printing, LLC.  All rights reserved.-->
+</head>
+<body lang="EN-US" link="blue" vlink="purple">
+<div class="WordSection1">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">UNITED STATES<br>
+ SECURITIES AND EXCHANGE COMMISSION</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">WASHINGTON, D.C. 20549</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; TEXT-ALIGN: center"><b>FORM&#160;10&#8209;</b><b>K/A</b></p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">(Amendment No. 1)</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; TEXT-ALIGN: center">(Mark&#160;one)</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">/X/ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES<br>
+ EXCHANGE ACT OF 1934 </p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;&#160;&#160;&#160;For the fiscal year ended December 31, 2015 <br>
+<br>
+ OR</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">// TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES<br>
+ EXCHANGE ACT OF 1934 </p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">For the transition period from <u>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</u> to <u>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</u></p>
+
+<div id="0A21">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A23">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A24">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">Commission file number of the issuing entity:333-172366-09</p>
+
+<div id="0A28">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the issuing entity:0001585067</p>
+
+<div id="0B30">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="CoverTitle1" style="FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 0in">WFRBS Commercial Mortgage Trust 2013-C16</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the issuing entity as specified in its charter)</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold">&#160;</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the depositor: 0000850779</p>
+
+<p class="CoverTitle1" style="FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 0in">Wells Fargo Commercial Mortgage Securities, Inc.</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the depositor as specified in its charter)</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold">&#160;</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the sponsor: 0000740906</p>
+
+<p class="CoverTitle1" style="FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 0in">Wells Fargo Bank, National Association</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the sponsor as specified in its charter)</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold">&#160;</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the sponsor: 0000729153</p>
+
+<p class="CoverTitle1" style="FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 0in">The Royal Bank of Scotland plc</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the sponsor as specified in its charter)</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold">&#160;</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the sponsor: 0001555501</p>
+
+<p class="CoverTitle1" style="FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 0in">Liberty Island Group I LLC</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the sponsor as specified in its charter)</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold">&#160;</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the sponsor: 0001541615</p>
+
+<p class="CoverTitle1" style="FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 0in">RBS Financial Products Inc.</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the sponsor as specified in its charter)</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold">&#160;</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the sponsor: 0001541214</p>
+
+<p class="CoverTitle1" style="FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 0in">C-III Commercial Mortgage LLC</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the sponsor as specified in its charter)</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold">&#160;</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the sponsor: 0001542105</p>
+
+<p class="CoverTitle1" style="FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 0in">Basis Real Estate Capital II, LLC</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the sponsor as specified in its charter)</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold">&#160;</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the sponsor: 0001577313</p>
+
+<p class="CoverTitle1" style="FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 0in">National Cooperative Bank, N.A.</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the sponsor as specified in its charter)</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">(formerly known as NCB, FSB)</p>
+
+<table id="fe991e697e414051aec2e4a23aa7b31b" class="MsoNormalTable" style="WIDTH: 100%; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" border="0">
+<tr style="HEIGHT: 39.65pt">
+<td style="HEIGHT: 39.65pt; WIDTH: 50%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.75pt; PADDING-RIGHT: 5.75pt" valign="bottom">
+<p class="CoverSubtitle">New York<br>
+(State or other jurisdiction of<br>
+ incorporation or organization of the issuing entity)</p>
+</td>
+<td style="HEIGHT: 39.65pt; WIDTH: 50%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.75pt; PADDING-RIGHT: 5.75pt" valign="bottom">
+<p class="CoverSubtitle">38-3913770</p>
+
+<p class="CoverSubtitle">38-3913771</p>
+
+<p class="CoverSubtitle">38-3913772&#160;</p>
+
+<p class="CoverSubtitle">38-7109044</p>
+
+<p class="CoverSubtitle">(I.R.S. Employer Identification Numbers)</p>
+</td>
+</tr>
+</table>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;</p>
+
+<div id="0A131">
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">c/o Wells Fargo Bank, National Association </p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">as Certificate Administrator </p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">9062 Old Annapolis Road</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">Columbia, MD</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">(Address of principal executive offices of the issuing entity)</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center; MARGIN-TOP: 12pt">21045</p>
+
+<p class="CoverSubtitle" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">(Zip Code)</p>
+
+<p class="CoverSubtitle" style="MARGIN-TOP: 12pt">Registrant&#8217;s telephone number, including area code: (704) 374-6161</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Securities registered pursuant to Section 12(b) of the Act: None.</p>
+</div>
+
+<div id="0A133">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A135">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Securities registered pursuant to Section 12(g) of the Act: None.</p>
+</div>
+
+<div id="0A137">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A139">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. / / Yes /X/ No</p>
+</div>
+
+<div id="0A142">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A145">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. / / Yes /X/ No</p>
+</div>
+
+<div id="0A148">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A151">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. /X/ Yes / / No</p>
+</div>
+
+<div id="0A155">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A157">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (Section 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).</p>
+</div>
+
+<div id="0A161">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A163">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Not&#160;applicable.</p>
+</div>
+
+<div id="0A165">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A171">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (Section 229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant&#8217;s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.&#160;&#160; </p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A173">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Not&#160;applicable.</p>
+</div>
+
+<div id="0A175">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A177">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definitions of &#8220;large accelerated filer&#8221;, &#8220;accelerated filer&#8221; and &#8220;smaller reporting company&#8221; in Rule 12b-2 of the Exchange Act.</p>
+</div>
+
+<div id="0A180">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A182">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Large accelerated filer / / &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Accelerated filer / /<br>
+<br>
+ Non-accelerated filer /X/ (Do not check if a smaller reporting company) &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Smaller reporting company / /</p>
+</div>
+
+<div id="0A185">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A188">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). / / Yes /X/ No</p>
+</div>
+
+<div id="0A190">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A195">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant&#8217;s most recently completed second fiscal quarter.</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A197">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Not&#160;applicable.</p>
+</div>
+
+<div id="0A199">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A201">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark whether the registrant has filed all documents and reports required to be filed by Section 12, 13 or 15(d) of the Securities Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court. / / Yes / / No</p>
+</div>
+
+<div id="0A204">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A206">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Not&#160;applicable.</p>
+</div>
+
+<div id="0A208">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A213">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate the number of shares outstanding of each of the registrant&#8217;s classes of common stock, as of the latest practicable date.</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A216">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Not&#160;applicable.</p>
+</div>
+
+<div id="0A218">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A220">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">DOCUMENTS INCORPORATED BY REFERENCE</p>
+</div>
+
+<div id="0A222">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A224">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">List hereunder the following documents if incorporated by reference and the Part of the Form 10-K (e.g., Part I, Part II, etc.) into which the document is incorporated: (1)Any annual report to security holders; (2) Any proxy or information statement; and (3)Any prospectus filed pursuant to Rule 424(b) or (c) under the Securities Act of 1933. The listed documents should be clearly described for identification purposes (e.g., annual report to security holders for fiscal year ended December 24, 1980).</p>
+</div>
+
+<div id="0A229">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A231">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Not&#160;applicable.</p>
+</div>
+
+<div id="0A233">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A320">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">EXPLANATORY NOTE</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">The purpose of this Amendment No. 1 (the &#8220;Amendment&#8221;) to our Annual Report on Form 10-K for the fiscal year ended December 31, 2015 filed with the Securities and Exchange Commission on March 24, 2016 (the &#8220;Original Form 10-K&#8221;) is to file an amended Report on Assessment of Compliance for CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant, dated February 4, 2016 as a replacement to the Report on Assessment of Compliance filed as Exhibit 33.8 of the Exhibits, Financial Statement Schedules under Item 15 to the Original Form 10-K.&#160; Due to an error in table formatting, Appendix A of Exhibit 33.8 to the Original Form 10-K did not clearly identify which servicing criteria were applicable or inapplicable.&#160; The amended Exhibit 33.8 included in this Amendment clearly identifies which servicing criteria are applicable and which are inapplicable.&#160;</p>
+</div>
+
+<div id="0A402">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<table id="03a42525a94240fcb0b9b1e8e62ae24e" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr>
+<td style="WIDTH: 99.72%; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">PART&#160;I</p>
+
+<p class="MsoNormal" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 19.82%; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;1.</p>
+</td>
+<td style="WIDTH: 79.74%; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Business.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;1A.</p>
+</td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Risk&#160;Factors.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;1B.</p>
+</td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Unresolved Staff Comments.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">None.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;2.</p>
+</td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Properties.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;3.</p>
+</td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Legal&#160;Proceedings.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;4.</p>
+</td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Mine Safety Disclosures.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Not applicable.</p>
+</td>
+</tr>
+</table>
+
+<p class="MsoNormal">&#160;</p>
+
+<table id="80ed8c5b73a74297a3576b6d9ca0d563" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr>
+<td style="WIDTH: 99.72%; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">PART&#160;II</p>
+
+<p class="MsoNormal" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 19.82%; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;5.</p>
+</td>
+<td style="WIDTH: 79.74%; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Market for Registrant?s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;6.</p>
+</td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Selected Financial Data.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;7.</p>
+</td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;7A.</p>
+</td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Quantitative and Qualitative Disclosures About Market Risk.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;8.</p>
+</td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Financial Statements and Supplementary Data.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;9.</p>
+</td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;9A.</p>
+</td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Controls and Procedures.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;9B.</p>
+</td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Other&#160;Information.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">None.</p>
+</td>
+</tr>
+</table>
+
+<p class="MsoNormal">&#160;</p>
+
+<table id="6cdfd460e3b246049eb6f058e126dc9a" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr>
+<td style="WIDTH: 99.72%; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;</p>
+
+<p class="MsoNormal" style="FONT-WEIGHT: bold; TEXT-ALIGN: center">PART&#160;III</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 19.82%; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;10.</p>
+</td>
+<td style="WIDTH: 79.74%; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Directors, Executive Officers and Corporate Governance.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;11.</p>
+</td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Executive Compensation.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;12.</p>
+</td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;13.</p>
+</td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Certain Relationships and Related Transactions, and Director Independence.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;14.</p>
+</td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Principal Accounting Fees and Services.</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+</table>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">ADDITIONAL DISCLOSURE ITEMS FOR REGULATION AB</p>
+
+<div id="0A406">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A407">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 1112(b) of Regulation AB, Significant Obligor Financial Information.</p>
+</div>
+
+<div id="0A409">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A410">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">No single obligor represents 10% or more of the pool assets held by the issuing entity.</p>
+</div>
+
+<div id="0A411">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A412">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 1114(b)(2) of Regulation AB, Significant Enhancement Provider Financial Information.</p>
+</div>
+
+<div id="0A414">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A415">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">No entity or group of affiliated entities provides any external credit enhancement or other support for the certificates within this transaction as described under Item 1114(a) of Regulation AB.</p>
+</div>
+
+<div id="0A418">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A419">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 1115(b) of Regulation AB, Certain Derivatives Instruments (Financial Information).</p>
+</div>
+
+<div id="0A421">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A422">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">No entity or group of affiliated entities provides any derivative instruments or other support for the certificates within this transaction as described under Item 1115 of Regulation AB.</p>
+</div>
+
+<div id="0A424">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A425">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 1117 of Regulation AB, Legal Proceedings.</p>
+</div>
+
+<div id="0A427">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A431">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">The registrant knows of no material pending legal proceeding involving the trust or any party related to the trust, other than routine litigation incidental to the duties of those respective parties, and the following, with respect to U.S. Bank National Association, as trustee, Wells Fargo Bank, National Association, as certificate administrator and custodian, and CWCapital Asset Management LLC, as special servicer: </p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Since 2014 various plaintiffs or groups of plaintiffs, primarily investors, have filed claims against U.S. Bank National Association (&#8220;U.S. Bank&#8221;), in its capacity as trustee or successor trustee (as the case may be) under certain residential mortgage backed securities (&#8220;RMBS&#8221;) trusts. The plaintiffs or plaintiff groups have filed substantially similar complaints against other RMBS trustees, including Deutsche Bank, Citibank, HSBC, Bank of New York Mellon and Wells Fargo. The complaints against U.S. Bank allege the trustee caused losses to investors as a result of alleged failures by the sponsors, mortgage loan sellers and servicers for these RMBS trusts and assert causes of action based upon the trustee's purported failure to enforce repurchase obligations of mortgage loan sellers for alleged breaches of representations and warranties concerning loan quality. The complaints also assert that the trustee failed to notify securityholders of purported events of default allegedly caused by breaches of servicing standards by mortgage loan servicers and that the trustee purportedly failed to abide by a heightened standard of care following alleged events of default.</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Currently U.S. Bank is a defendant in multiple actions alleging individual or class action claims against the trustee with respect to multiple trusts as described above with the most substantial case being: BlackRock Balanced Capital Portfolio et al v. U.S. Bank National Association, No. 605204/2015 (N.Y. Sup. Ct.) (class action alleging claims with respect to approximately 794 trusts) and its companion case BlackRock Core Bond Portfolio et al v. U.S Bank National Association, No. 14-cv-9401 (S.D.N.Y.). Some of the trusts implicated in the aforementioned Blackrock cases, as well as other trusts, are involved in actions brought by separate groups of plaintiffs related to no more than 100 trusts per case.</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">There can be no assurance as to the outcome of any of the litigation, or the possible impact of these litigations on the trustee or the RMBS trusts. However, U.S. Bank denies liability and believes that it has performed its obligations under the RMBS trusts in good faith, that its actions were not the cause of losses to investors and that it has meritorious defenses, and it intends to contest the plaintiffs&#8217; claims vigorously.</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">On June 18, 2014, a group of institutional investors filed a civil complaint in the Supreme Court of the State of New York, New York County, against Wells Fargo Bank, N.A., in its capacity as trustee under 276 residential mortgage backed securities (&#8220;RMBS&#8221;) trusts, which was later amended on July 18, 2014, to increase the number of trusts to 284 RMBS trusts.&#160; On November 24, 2014, the plaintiffs filed a motion to voluntarily dismiss the state court action without prejudice.&#160; That same day, a group of institutional investors filed a civil complaint in the United States District Court for the Southern District of New York (the &#8220;District Court&#8221;) against Wells Fargo Bank, alleging claims against the bank in its capacity as trustee for 274 RMBS trusts (the &#8220;Complaint&#8221;). In December 2014, the plaintiffs&#8217; motion to voluntarily dismiss their original state court action was granted. As with the prior state court action, the Complaint is one of six similar complaints filed contemporaneously against RMBS trustees (Deutsche Bank, Citibank, HSBC, Bank of New York Mellon and US Bank) by a group of institutional investor plaintiffs. The Complaint against Wells Fargo Bank alleges that the trustee caused losses to investors and asserts causes of action based upon, among other things, the trustee's alleged failure to (i) enforce repurchase obligations of mortgage loan sellers for purported breaches of representations and warranties, (ii) notify investors of alleged events of default purportedly caused by breaches by mortgage loan servicers, and (iii) abide by appropriate standards of care following alleged events of default. Relief sought includes money damages in an unspecified amount, reimbursement of expenses, and equitable relief.&#160; Other cases (collectively, the &#8220;Additional Complaints&#8221;) alleging similar causes of action have been filed against Wells Fargo Bank and other trustees in the same court by RMBS investors in these and other transactions, and these cases have been consolidated before the same judge. On January 19, 2016, an order was entered in connection with the Complaint in which the District Court declined to exercise jurisdiction over 261 trusts at issue in the Complaint; the District Court also allowed Plaintiffs to file amended complaints if they so chose, and three amended complaints have been filed. There can be no assurances as to the outcome of the litigation, or the possible impact of the litigation on the trustee or the RMBS trusts. However, Wells Fargo Bank denies liability and believes that it has performed its obligations under the RMBS trusts in good faith, that its actions were not the cause of any losses to investors, and that it has meritorious defenses, and it intends to contest the plaintiffs&#8217; claims vigorously.</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">On December 17, 2015, U.S. Bank National Association, the trustee under five (5) pooling and servicing agreements for (i) Wachovia Bank Commercial Mortgage Trust 2007-C30, (ii) COBALT CMBS Commercial Trust 2007-C2, (iii) Wachovia Bank Commercial Mortgage Trust 2007-C31, (iv) ML-CFC Commercial Mortgage Trust 2007-5 and (v) ML-CFC Commercial Mortgage Trust 2007-6 commenced a proceeding with the Second Judicial District Court of Ramsey County, Minnesota (&#8220;Court&#8221;) for a declaratory judgment as to the proper allocation of certain proceeds in the alleged amount of $560 million (&#8220;Disputed Proceeds&#8221;) received by CWCapital Asset Management LLC (&#8220;CWCAM&#8221;) in connection with the sale of the Peter Cooper Village and Stuyvesant Town property in New York, New York (the &#8220;Property&#8221;) securing loans held by those trusts.&#160; CWCAM was the special servicer of the Property. The petition requests the court to instruct the trustee, the trust beneficiaries, and any other interested parties as to the amount of the Disputed Proceeds, if any, that constitute penalty interest and/or the amount of the Disputed Proceeds, if any, that constitute gain-on-sale proceeds, with respect to each trust. On February 24, 2016, CWCAM made a limited appearance with the Court to file a motion to dismiss this proceeding based on lack of jurisdiction, mootness, standing, and forum non conveniens.&#160; There can be no assurances as to the outcome of this motion or the proceeding or the possible impact on CWCAM. However, CWCAM believes that it has performed its obligations under the related pooling and servicing agreements in good faith, and that the Disputed Proceeds were properly allocated to CWCAM as penalty interest, and it intends to vigorously contest any claim that such Disputed Proceeds were improperly allocated as penalty interest.&#160; &#160;</p>
+</div>
+
+<div id="0A432">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 1119 of Regulation AB, Affiliations and Certain Relationships and Related Transactions.</p>
+</div>
+
+<div id="0A434">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A435">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">The information regarding this Item has been previously provided in a prospectus supplement of the Registrant relating to the issuing entity filed on September 27, 2013 pursuant to Rule 424(b)(5).</p>
+</div>
+
+<div id="0A438">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A439">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 1122 of Regulation AB, Compliance with Applicable Servicing Criteria.</p>
+</div>
+
+<div id="0A441">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A442">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">The reports on assessments of compliance with the servicing criteria for asset-backed securities and related attestation reports on such assessments of compliance with respect to the mortgage loans are attached hereto under Item 15 to this Annual Report on Form 10-K. Attached as Schedule III to the Pooling and Servicing Agreement incorporated by reference as Exhibit 4.1 to this Annual Report on Form 10-K is a chart identifying the entities participating in a servicing function for the transaction responsible for each applicable servicing criteria set forth in Item 1122(d).<br>
+<br>
+ The reports on assessments of compliance with the servicing criteria for asset-backed securities and related attestation reports on such assessments of compliance with respect to the Augusta Mall Mortgage Loan, which is being serviced and administered pursuant to the pooling and servicing agreement for the WFRBS 2013-C15 Transaction, are attached hereto under Item 15 to this Annual Report on Form 10-K. Attached as Schedule III to the pooling and servicing agreement for the WFRBS 2013-C15 Transaction incorporated by reference as Exhibit 4.2 to this Annual Report on Form 10-K is a chart identifying the entities participating in a servicing function for the WFRBS 2013-C15 Transaction responsible for each applicable servicing criteria set forth in Item 1122(d).</p>
+</div>
+
+<div id="0A459">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A460">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 1123 of Regulation AB, Servicer Compliance Statement.</p>
+</div>
+
+<div id="0A462">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A463">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">The servicer compliance statements are attached as Exhibits to this Annual Report on Form 10-K.</p>
+</div>
+
+<div id="0A467">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">Part&#160;IV</p>
+
+<div id="0A471">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A472">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 15. Exhibits, Financial Statement Schedules</p>
+</div>
+
+<div id="0A476">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A477">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(a) The following is a list of documents filed as part of this Annual Report on Form 10-K:</p>
+</div>
+
+<div id="0A481">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A482">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(1) Not applicable</p>
+</div>
+
+<div id="0A486">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A487">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(2) Not applicable</p>
+</div>
+
+<div id="0A491">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A492">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(3) See below</p>
+</div>
+
+<div id="0A496">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A497">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">4.1 Pooling and Servicing Agreement, dated as of September 1, 2013, by and among Wells Fargo Commercial Mortgage Securities, Inc., as Depositor, Wells Fargo Bank, National Association, as General Master Servicer, Rialto Capital Advisors, LLC, as General Special Servicer, NCB, FSB as NCB Master Servicer, NCB, FSB as Co-op Special Servicer, Pentalpha Surveillance LLC, as Trust Advisor, Wells Fargo Bank, National Association, as Certificate Administrator, as Tax Administrator and as Custodian, and U.S. Bank National Association, as Trustee (filed as Exhibit 4.1 to the registrant&#8217;s Current Report on Form 8-K filed on September 30, 2013 under Commission File No. 333-172366-09 and incorporated by reference herein).</p>
+</div>
+
+<div id="0A504">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A505">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">4.2 Pooling and Servicing Agreement, dated as of August 1, 2013, by and among RBS Commercial Funding Inc., as Depositor, Wells Fargo Bank, National Association, as General Master Servicer, CWCapital Asset Management LLC, as General Special Servicer, NCB, FSB, as NCB Master Servicer, NCB, FSB, as Co-op Special Servicer, TriMont Real Estate Advisors, Inc., as Trust Advisor, Wells Fargo Bank, National Association, as Certificate Administrator, as Tax Administrator and as Custodian, and U.S. Bank National Association, as Trustee (filed as Exhibit 1.1 to the registrant&#8217;s Current Report on Form 8-K filed on February 18, 2014 under Commission File No. 333-172366-09 and incorporated by reference herein).</p>
+</div>
+
+<div id="0A512">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A513">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">31 Rule 13a-14(d)/15d-14(d) Certifications.</p>
+</div>
+
+<div id="0A517">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A638">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">33 Reports on assessment of compliance with servicing criteria for asset-backed securities.</p>
+
+<table id="abb4c61c399f404283bd160e0ec97fbf" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.1 Wells Fargo Bank, National Association, as Master Servicer (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.2 National Cooperative Bank, N.A. (as successor to NCB, FSB), as NCB Master Servicer (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.3 Rialto Capital Advisors, LLC, as Special Servicer&#160; (filed as Exhibit 33.3 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.4 National Cooperative Bank, N.A. (as successor to NCB, FSB), as Co-op Special Servicer (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.5 Wells Fargo Bank, National Association, as Certificate Administrator (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.6 Wells Fargo Bank, National Association, as Custodian (filed as Exhibit 33.6 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.7 Pentalpha Surveillance LLC, as Trust Advisor (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.8 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.9 National Tax Search, LLC, as Servicing Function Participant (filed as Exhibit 33.9 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.10 Prudential Asset Resources, Inc., as Primary Servicer (filed as Exhibit 33.10 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.11 Wells Fargo Bank, National Association, as Primary Servicer of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.12 Rialto Capital Advisors, LLC, as Special Servicer of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 33.3 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein) </p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.13 Wells Fargo Bank, National Association, as Certificate Administrator of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.14 Wells Fargo Bank, National Association, as Custodian of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 33.6 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.15 Pentalpha Surveillance LLC, as Trust Advisor of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.16 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Westfield Mission Valley Mortgage Loan (see Exhibit 33.8)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.17 National Tax Search, LLC, as Servicing Function Participant of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 33.9 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.18 Wells Fargo Bank, National Association, as Primary Servicer of the Augusta Mall Mortgage Loan (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.19 CWCapital Asset Management LLC, as Special Servicer of the Augusta Mall Mortgage Loan (filed as Exhibit 33.19 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.20 Wells Fargo Bank, National Association, as Certificate Administrator of the Augusta Mall Mortgage Loan (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.21 Wells Fargo Bank, National Association, as Custodian of the Augusta Mall Mortgage Loan (filed as Exhibit 33.6 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.22 TriMont Real Estate Advisors, Inc., as Trust Advisor of the Augusta Mall Mortgage Loan (filed as Exhibit 33.22 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.23 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Augusta Mall Mortgage Loan (see Exhibit 33.8)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.24 National Tax Search, LLC, as Servicing Function Participant of the Augusta Mall Mortgage Loan (filed as Exhibit 33.9 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+</table>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">34 Attestation reports on assessment of compliance with servicing criteria for asset-backed securities.</p>
+
+<table id="e5d6c1592da5453c92dc25c0ef8c33a1" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.1 Wells Fargo Bank, National Association, as Master Servicer (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.2 National Cooperative Bank, N.A. (as successor to NCB, FSB), as NCB Master Servicer (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.3 Rialto Capital Advisors, LLC, as Special Servicer&#160; (filed as Exhibit 34.3 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.4 National Cooperative Bank, N.A. (as successor to NCB, FSB), as Co-op Special Servicer (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.5 Wells Fargo Bank, National Association, as Certificate Administrator (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.6 Wells Fargo Bank, National Association, as Custodian (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.7 Pentalpha Surveillance LLC, as Trust Advisor (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.8 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant (filed as Exhibit 34.8 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.9 National Tax Search, LLC, as Servicing Function Participant (filed as Exhibit 34.9 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.10 Prudential Asset Resources, Inc., as Primary Servicer (filed as Exhibit 34.10 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.11 Wells Fargo Bank, National Association, as Primary Servicer of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.12 Rialto Capital Advisors, LLC, as Special Servicer of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 34.3 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein) </p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.13 Wells Fargo Bank, National Association, as Certificate Administrator of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.14 Wells Fargo Bank, National Association, as Custodian of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.15 Pentalpha Surveillance LLC, as Trust Advisor of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.16 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 34.8 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.17 National Tax Search, LLC, as Servicing Function Participant of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 34.9 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.18 Wells Fargo Bank, National Association, as Primary Servicer of the Augusta Mall Mortgage Loan (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.19 CWCapital Asset Management LLC, as Special Servicer of the Augusta Mall Mortgage Loan (filed as Exhibit 34.19 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.20 Wells Fargo Bank, National Association, as Certificate Administrator of the Augusta Mall Mortgage Loan (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.21 Wells Fargo Bank, National Association, as Custodian of the Augusta Mall Mortgage Loan (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.22 TriMont Real Estate Advisors, Inc., as Trust Advisor of the Augusta Mall Mortgage Loan (filed as Exhibit 34.22 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.23 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Augusta Mall Mortgage Loan (filed as Exhibit 34.8 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.24 National Tax Search, LLC, as Servicing Function Participant of the Augusta Mall Mortgage Loan (filed as Exhibit 34.9 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+</table>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">35 Servicer compliance statements.</p>
+
+<table id="0f1a92e09ef74cee865ebb20fc52cb42" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.1 Wells Fargo Bank, National Association, as Master Servicer (filed as Exhibit 35.1 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.2 National Cooperative Bank, N.A. (as successor to NCB, FSB), as NCB Master Servicer (filed as Exhibit 35.2 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.3 Rialto Capital Advisors, LLC, as Special Servicer (filed as Exhibit 35.3 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.4 National Cooperative Bank, N.A. (as successor to NCB, FSB), as Co-op Special Servicer (filed as Exhibit 35.4 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.5 Wells Fargo Bank, National Association, as Certificate Administrator (filed as Exhibit 35.5 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.6 Prudential Asset Resources, Inc., as Primary Servicer (filed as Exhibit 35.6 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.7 Wells Fargo Bank, National Association, as Primary Servicer of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 35.1 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.8 Rialto Capital Advisors, LLC, as Special Servicer of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 35.3 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.9 Wells Fargo Bank, National Association, as Certificate Administrator of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 35.5 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.10 Wells Fargo Bank, National Association, as Primary Servicer of the Augusta Mall Mortgage Loan (filed as Exhibit 35.10 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.11 Wells Fargo Bank, National Association, as Certificate Administrator of the Augusta Mall Mortgage Loan (filed as Exhibit 35.11 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+</table>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A639">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.1 Mortgage Loan Purchase Agreement, dated as of September 11, 2013, between Wells Fargo Commercial Mortgage Securities, Inc. and Wells Fargo Bank, National Association (filed as Exhibit 99.1 to the registrant&#8217;s Current Report on Form 8-K filed on September 30, 2013 under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</div>
+
+<div id="0A643">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A644">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.2 Mortgage Loan Purchase Agreement, dated as of September 11, 2013, between Wells Fargo Commercial Mortgage Securities, Inc. and The Royal Bank of Scotland plc (filed as Exhibit 99.2 to the registrant&#8217;s Current Report on Form 8-K filed on September 30, 2013 under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</div>
+
+<div id="0A648">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A649">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.3 Mortgage Loan Purchase Agreement, dated as of September 11, 2013, among Wells Fargo Commercial Mortgage Securities, Inc., Liberty Island Group I LLC and Liberty Island Group LLC (filed as Exhibit 99.3 to the registrant&#8217;s Current Report on Form 8-K filed on September 30, 2013 under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</div>
+
+<div id="0A653">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A654">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.4 Mortgage Loan Purchase Agreement, dated as of September 11, 2013, between Wells Fargo Commercial Mortgage Securities, Inc. and RBS Financial Products Inc. (filed as Exhibit 99.4 to the registrant&#8217;s Current Report on Form 8-K filed on September 30, 2013 under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</div>
+
+<div id="0A658">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A659">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.5 Mortgage Loan Purchase Agreement, dated as of September 11, 2013, between Wells Fargo Commercial Mortgage Securities, Inc. and C-III Commercial Mortgage, LLC (filed as Exhibit 99.5 to the registrant&#8217;s Current Report on Form 8-K filed on September 30, 2013 under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</div>
+
+<div id="0A663">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A664">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.6 Mortgage Loan Purchase Agreement, dated as of September 11, 2013, among Wells Fargo Commercial Mortgage Securities, Inc., Basis Real Estate Capital II, LLC and Basis Investment Group LLC (filed as Exhibit 99.6 to the registrant&#8217;s Current Report on Form 8-K filed on September 30, 2013 under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</div>
+
+<div id="0A668">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A669">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.7 Mortgage Loan Purchase Agreement, dated as of September 11, 2013, between Wells Fargo Commercial Mortgage Securities, Inc. and NCB, FSB (filed as Exhibit 99.7 to the registrant&#8217;s Current Report on Form 8-K filed on September 30, 2013 under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</div>
+
+<div id="0A673">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A674">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.8 Primary Servicing Agreement, dated as of September 1, 2013, between Wells Fargo Bank, National Association and Prudential Asset Resources, Inc. (filed as Exhibit 99.8 to the registrant&#8217;s Current Report on Form 8-K filed on September 30, 2013 under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</div>
+
+<div id="0A678">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A679">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(b) The exhibits required to be filed by the Registrant pursuant to Item 601 of Regulation S-K are listed above and in the Exhibit Index that immediately follows the signature page hereof.</p>
+</div>
+
+<div id="0A682">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A683">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(c) Not Applicable.</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A686">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">SIGNATURES</p>
+</div>
+
+<div id="0A687">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A688">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</p>
+</div>
+
+<div id="0A692">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A694">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Wells Fargo Commercial Mortgage Securities, Inc.</p>
+</div>
+
+<div id="0A695">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(Depositor)</p>
+</div>
+
+<div id="0A697">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A698">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">/s/ Anthony Sfarra</p>
+</div>
+
+<div id="0A700">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Anthony Sfarra, President </p>
+</div>
+
+<div id="0A701">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(senior officer in charge of securitization of the depositor)</p>
+</div>
+
+<div id="0A702">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A705">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Date: April 5, 2016&#160;</p>
+</div>
+
+<div id="0A707">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A708">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Exhibit&#160;Index</p>
+</div>
+
+<div id="0A709">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A711">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Exhibit&#160;No.</p>
+</div>
+
+<div id="0A712">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A727">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">4.1 Pooling and Servicing Agreement, dated as of September 1, 2013, by and among Wells Fargo Commercial Mortgage Securities, Inc., as Depositor, Wells Fargo Bank, National Association, as General Master Servicer, Rialto Capital Advisors, LLC, as General Special Servicer, NCB, FSB as NCB Master Servicer, NCB, FSB as Co-op Special Servicer, Pentalpha Surveillance LLC, as Trust Advisor, Wells Fargo Bank, National Association, as Certificate Administrator, as Tax Administrator and as Custodian, and U.S. Bank National Association, as Trustee (filed as Exhibit 4.1 to the registrant&#8217;s Current Report on Form 8-K filed on September 30, 2013 under Commission File No. 333-172366-09 and incorporated by reference herein).</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">4.2 Pooling and Servicing Agreement, dated as of August 1, 2013, by and among RBS Commercial Funding Inc., as Depositor, Wells Fargo Bank, National Association, as General Master Servicer, CWCapital Asset Management LLC, as General Special Servicer, NCB, FSB, as NCB Master Servicer, NCB, FSB, as Co-op Special Servicer, TriMont Real Estate Advisors, Inc., as Trust Advisor, Wells Fargo Bank, National Association, as Certificate Administrator, as Tax Administrator and as Custodian, and U.S. Bank National Association, as Trustee (filed as Exhibit 1.1 to the registrant&#8217;s Current Report on Form 8-K filed on February 18, 2014 under Commission File No. 333-172366-09 and incorporated by reference herein).</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A728">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">31 Rule 13a-14(d)/15d-14(d) Certifications.</p>
+</div>
+
+<div id="0A730">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A833">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">33 Reports on assessment of compliance with servicing criteria for asset-backed securities.</p>
+
+<table id="71520a81d7934483b2be5c304fe38060" class="MsoNormalTable" style="WIDTH: 99.88%" cellpadding="0" border="0">
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.1 Wells Fargo Bank, National Association, as Master Servicer (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.2 National Cooperative Bank, N.A. (as successor to NCB, FSB), as NCB Master Servicer (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.3 Rialto Capital Advisors, LLC, as Special Servicer&#160; (filed as Exhibit 33.3 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.4 National Cooperative Bank, N.A. (as successor to NCB, FSB), as Co-op Special Servicer (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.5 Wells Fargo Bank, National Association, as Certificate Administrator (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.6 Wells Fargo Bank, National Association, as Custodian (filed as Exhibit 33.6 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.7 Pentalpha Surveillance LLC, as Trust Advisor (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.8 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.9 National Tax Search, LLC, as Servicing Function Participant (filed as Exhibit 33.9 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.10 Prudential Asset Resources, Inc., as Primary Servicer (filed as Exhibit 33.10 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.11 Wells Fargo Bank, National Association, as Primary Servicer of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.12 Rialto Capital Advisors, LLC, as Special Servicer of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 33.3 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein) </p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.13 Wells Fargo Bank, National Association, as Certificate Administrator of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.14 Wells Fargo Bank, National Association, as Custodian of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 33.6 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.15 Pentalpha Surveillance LLC, as Trust Advisor of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.16 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Westfield Mission Valley Mortgage Loan (see Exhibit 33.8)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.17 National Tax Search, LLC, as Servicing Function Participant of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 33.9 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.18 Wells Fargo Bank, National Association, as Primary Servicer of the Augusta Mall Mortgage Loan (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.19 CWCapital Asset Management LLC, as Special Servicer of the Augusta Mall Mortgage Loan (filed as Exhibit 33.19 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.20 Wells Fargo Bank, National Association, as Certificate Administrator of the Augusta Mall Mortgage Loan (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.21 Wells Fargo Bank, National Association, as Custodian of the Augusta Mall Mortgage Loan (filed as Exhibit 33.6 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.22 TriMont Real Estate Advisors, Inc., as Trust Advisor of the Augusta Mall Mortgage Loan (filed as Exhibit 33.22 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.23 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Augusta Mall Mortgage Loan (see Exhibit 33.8)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.4pt; PADDING-RIGHT: 5.4pt" valign="top">
+<p class="MsoNormal">33.24 National Tax Search, LLC, as Servicing Function Participant of the Augusta Mall Mortgage Loan (filed as Exhibit 33.9 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+</table>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">34 Attestation reports on assessment of compliance with servicing criteria for asset-backed securities.</p>
+
+<table id="ac8c4fc0822b473da8dd47a162c6ba8f" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.1 Wells Fargo Bank, National Association, as Master Servicer (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.2 National Cooperative Bank, N.A. (as successor to NCB, FSB), as NCB Master Servicer (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.3 Rialto Capital Advisors, LLC, as Special Servicer&#160; (filed as Exhibit 34.3 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.4 National Cooperative Bank, N.A. (as successor to NCB, FSB), as Co-op Special Servicer (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.5 Wells Fargo Bank, National Association, as Certificate Administrator (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.6 Wells Fargo Bank, National Association, as Custodian (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.7 Pentalpha Surveillance LLC, as Trust Advisor (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.8 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant (filed as Exhibit 34.8 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.9 National Tax Search, LLC, as Servicing Function Participant (filed as Exhibit 34.9 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.10 Prudential Asset Resources, Inc., as Primary Servicer (filed as Exhibit 34.10 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.11 Wells Fargo Bank, National Association, as Primary Servicer of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.12 Rialto Capital Advisors, LLC, as Special Servicer of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 34.3 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein) </p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.13 Wells Fargo Bank, National Association, as Certificate Administrator of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.14 Wells Fargo Bank, National Association, as Custodian of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.15 Pentalpha Surveillance LLC, as Trust Advisor of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.16 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 34.8 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.17 National Tax Search, LLC, as Servicing Function Participant of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 34.9 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.18 Wells Fargo Bank, National Association, as Primary Servicer of the Augusta Mall Mortgage Loan (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.19 CWCapital Asset Management LLC, as Special Servicer of the Augusta Mall Mortgage Loan (filed as Exhibit 34.19 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.20 Wells Fargo Bank, National Association, as Certificate Administrator of the Augusta Mall Mortgage Loan (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.21 Wells Fargo Bank, National Association, as Custodian of the Augusta Mall Mortgage Loan (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.22 TriMont Real Estate Advisors, Inc., as Trust Advisor of the Augusta Mall Mortgage Loan (filed as Exhibit 34.22 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.23 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Augusta Mall Mortgage Loan (filed as Exhibit 34.8 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.24 National Tax Search, LLC, as Servicing Function Participant of the Augusta Mall Mortgage Loan (filed as Exhibit 34.9 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+</table>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">35 Servicer compliance statements.</p>
+
+<table id="aebe3e6e82334d938520b60a22527fe0" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.1 Wells Fargo Bank, National Association, as Master Servicer (filed as Exhibit 35.1 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.2 National Cooperative Bank, N.A. (as successor to NCB, FSB), as NCB Master Servicer (filed as Exhibit 35.2 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.3 Rialto Capital Advisors, LLC, as Special Servicer (filed as Exhibit 35.3 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.4 National Cooperative Bank, N.A. (as successor to NCB, FSB), as Co-op Special Servicer (filed as Exhibit 35.4 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.5 Wells Fargo Bank, National Association, as Certificate Administrator (filed as Exhibit 35.5 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.6 Prudential Asset Resources, Inc., as Primary Servicer (filed as Exhibit 35.6 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.7 Wells Fargo Bank, National Association, as Primary Servicer of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 35.1 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.8 Rialto Capital Advisors, LLC, as Special Servicer of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 35.3 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.9 Wells Fargo Bank, National Association, as Certificate Administrator of the Westfield Mission Valley Mortgage Loan (filed as Exhibit 35.5 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.10 Wells Fargo Bank, National Association, as Primary Servicer of the Augusta Mall Mortgage Loan (filed as Exhibit 35.10 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.11 Wells Fargo Bank, National Association, as Certificate Administrator of the Augusta Mall Mortgage Loan (filed as Exhibit 35.11 to the Original 10-K under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+</table>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A874">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.1 Mortgage Loan Purchase Agreement, dated as of September 11, 2013, between Wells Fargo Commercial Mortgage Securities, Inc. and Wells Fargo Bank, National Association (filed as Exhibit 99.1 to the registrant&#8217;s Current Report on Form 8-K filed on September 30, 2013 under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.2 Mortgage Loan Purchase Agreement, dated as of September 11, 2013, between Wells Fargo Commercial Mortgage Securities, Inc. and The Royal Bank of Scotland plc (filed as Exhibit 99.2 to the registrant&#8217;s Current Report on Form 8-K filed on September 30, 2013 under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.3 Mortgage Loan Purchase Agreement, dated as of September 11, 2013, among Wells Fargo Commercial Mortgage Securities, Inc., Liberty Island Group I LLC and Liberty Island Group LLC (filed as Exhibit 99.3 to the registrant&#8217;s Current Report on Form 8-K filed on September 30, 2013 under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.4 Mortgage Loan Purchase Agreement, dated as of September 11, 2013, between Wells Fargo Commercial Mortgage Securities, Inc. and RBS Financial Products Inc. (filed as Exhibit 99.4 to the registrant&#8217;s Current Report on Form 8-K filed on September 30, 2013 under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.5 Mortgage Loan Purchase Agreement, dated as of September 11, 2013, between Wells Fargo Commercial Mortgage Securities, Inc. and C-III Commercial Mortgage, LLC (filed as Exhibit 99.5 to the registrant&#8217;s Current Report on Form 8-K filed on September 30, 2013 under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.6 Mortgage Loan Purchase Agreement, dated as of September 11, 2013, among Wells Fargo Commercial Mortgage Securities, Inc., Basis Real Estate Capital II, LLC and Basis Investment Group LLC (filed as Exhibit 99.6 to the registrant&#8217;s Current Report on Form 8-K filed on September 30, 2013 under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.7 Mortgage Loan Purchase Agreement, dated as of September 11, 2013, between Wells Fargo Commercial Mortgage Securities, Inc. and NCB, FSB (filed as Exhibit 99.7 to the registrant&#8217;s Current Report on Form 8-K filed on September 30, 2013 under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.8 Primary Servicing Agreement, dated as of September 1, 2013, between Wells Fargo Bank, National Association and Prudential Asset Resources, Inc. (filed as Exhibit 99.8 to the registrant&#8217;s Current Report on Form 8-K filed on September 30, 2013 under Commission File No. 333-172366-09 and incorporated by reference herein)</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(b) The exhibits required to be filed by the Registrant pursuant to Item 601 of Regulation S-K are listed above and in the Exhibit Index that immediately follows the signature page hereof.</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(c) Not Applicable.</p>
+</div>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>

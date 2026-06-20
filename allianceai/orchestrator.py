@@ -20,6 +20,7 @@ intermediate result programmatically.
 
 from __future__ import annotations
 
+import re
 import traceback
 from pathlib import Path
 
@@ -39,6 +40,45 @@ from allianceai.models.scenarios import run_scenario_analysis
 from allianceai.reports.html_report import generate_html_report
 
 logger = get_logger(__name__)
+
+
+# Quote types that don't file financial statements (funds/index trackers).
+# These run in price-only mode and their reports live under reports/indices/.
+_FUND_QUOTE_TYPES = ("ETF", "MUTUALFUND", "INDEX", "MONEYMARKET")
+
+# Characters not safe in a folder name across Linux/Windows.
+_UNSAFE_PATH_CHARS = re.compile(r'[<>:"/\\|?*\x00-\x1f]')
+
+
+def _safe_dirname(name: str) -> str:
+    """Sanitise *name* for use as a single path component."""
+    cleaned = _UNSAFE_PATH_CHARS.sub("", name)        # drop illegal chars
+    cleaned = re.sub(r"\s+", " ", cleaned).strip()    # collapse whitespace
+    cleaned = cleaned.rstrip(". ")                     # no trailing dot/space (Windows)
+    return cleaned
+
+
+def _report_path(output_dir: str | Path, ticker: str, info: dict) -> Path:
+    """
+    Build the structured report path:
+
+        <reports>/companies/<TICKER> - <Name>/report.html   (operating companies)
+        <reports>/indices/<TICKER> - <Name>/report.html     (ETFs, funds, indices)
+
+    <reports> is *output_dir* itself when it already points at a 'reports'
+    directory, otherwise '<output_dir>/reports'. This keeps the canonical
+    layout whether the tool is run from /app (default) or with
+    --output-dir reports/.
+    """
+    quote_type = (info.get("quoteType") or "").upper()
+    bucket = "indices" if quote_type in _FUND_QUOTE_TYPES else "companies"
+
+    long_name = info.get("longName") or ""
+    folder = _safe_dirname(f"{ticker} - {long_name}".strip(" -")) or ticker
+
+    base = Path(output_dir)
+    reports_root = base if base.name == "reports" else base / "reports"
+    return reports_root / bucket / folder / "report.html"
 
 
 def analyse(
@@ -84,21 +124,23 @@ def analyse(
 
     result.update(info=info, income=income, balance=balance, cashflow=cashflow, prices=prices)
 
+    # ETFs, index funds, and money-market funds don't file income statements.
+    quote_type = (info.get("quoteType") or "").upper()
+    is_fund = quote_type in _FUND_QUOTE_TYPES
+
     # Overall data-quality confidence for the whole analysis (global badge).
+    # Funds are scored on price data; companies on statement coverage/history.
     # yfinance alone returns ~5-7 periods; more implies EDGAR deep history.
     try:
         from allianceai.analysis.data_confidence import assess_data_confidence
         max_periods = max((len(df) for df in (income, balance, cashflow)
                            if df is not None and not df.empty), default=0)
         result["data_confidence"] = assess_data_confidence(
-            income, balance, cashflow, prices, edgar_extended=max_periods > 10)
+            income, balance, cashflow, prices,
+            edgar_extended=max_periods > 10, price_only=is_fund)
     except Exception:
         logger.error("Data confidence assessment failed:\n%s", traceback.format_exc())
         result["data_confidence"] = None
-
-    # ETFs, index funds, and money-market funds don't file income statements.
-    quote_type = (info.get("quoteType") or "").upper()
-    is_fund = quote_type in ("ETF", "MUTUALFUND", "INDEX", "MONEYMARKET")
 
     if is_fund:
         logger.info(
@@ -111,6 +153,16 @@ def analyse(
             signals=[], anomalies=pd.DataFrame(),
             distress=pd.DataFrame(), factors={}, scenarios={},
         )
+
+        # Price/fund analytics: returns, volatility, drawdown, Sharpe, trend,
+        # plus headline fund facts (expense ratio, AUM, yield).
+        try:
+            from allianceai.analysis.price_metrics import compute_price_metrics
+            result["price_metrics"] = compute_price_metrics(prices, info)
+        except Exception:
+            logger.error("Price metrics failed:\n%s", traceback.format_exc())
+            result["price_metrics"] = {}
+
         if not prices.empty and not skip_forecast:
             try:
                 result["forecasts"] = {"prices": {"Close": forecast_metric(prices["Close"], label="Close")}}
@@ -120,7 +172,43 @@ def analyse(
                 result["forecasts"] = {}
         else:
             result["forecasts"] = {}
-        result["report_path"] = None
+
+        # Price-only instruments still get an HTML report (price chart +
+        # forecast), saved under reports/indices/ via _report_path().
+        if not skip_report:
+            try:
+                out_path = _report_path(output_dir, ticker, info)
+                out_path.parent.mkdir(parents=True, exist_ok=True)
+                generate_html_report(
+                    ticker=ticker,
+                    info=info,
+                    health=pd.DataFrame(),
+                    signals=[],
+                    altman=None,
+                    distress=None,
+                    factors={},
+                    scenarios={},
+                    forecasts=result["forecasts"],
+                    highlights=result.get("highlights"),
+                    opportunities=result.get("opportunities"),
+                    decision=result.get("decision"),
+                    prediction_accuracy=result.get("prediction_accuracy"),
+                    data_confidence=result.get("data_confidence"),
+                    income=None,
+                    cashflow=None,
+                    balance=None,
+                    price_metrics=result.get("price_metrics"),
+                    prices=prices,
+                    output_path=out_path,
+                )
+                result["report_path"] = str(out_path.resolve())
+                logger.info("[OK] Report saved to '%s'.", result["report_path"])
+            except Exception:
+                logger.error("Report generation failed:\n%s", traceback.format_exc())
+                result["report_path"] = None
+        else:
+            result["report_path"] = None
+
         logger.info("Price-only analysis complete for '%s'.", ticker)
         return result
 
@@ -324,7 +412,8 @@ def analyse(
     # ------------------------------------------------------------------
     if not skip_report:
         try:
-            out_path = Path(output_dir) / f"{ticker}_report.html"
+            out_path = _report_path(output_dir, ticker, info)
+            out_path.parent.mkdir(parents=True, exist_ok=True)
             generate_html_report(
                 ticker=ticker,
                 info=info,

@@ -1,0 +1,74 @@
+<DOCUMENT>
+<TYPE>EX-31.1
+<SEQUENCE>2
+<FILENAME>d394902dex311.htm
+<DESCRIPTION>EX-31.1
+<TEXT>
+<HTML><HEAD>
+<TITLE>EX-31.1</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE" STYLE="line-height:Normal">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="right"><B>Exhibit 31.1 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER PURSUANT TO RULE <FONT STYLE="white-space:nowrap">13a-14(a)</FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>AND <FONT STYLE="white-space:nowrap">15d-14(a)</FONT> UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED, AS ADOPTED </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">I, Hunter Horsley, certify that: </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">1. I have reviewed this
+Quarterly Report on Form <FONT STYLE="white-space:nowrap">10-Q</FONT> of Bitwise 10 Crypto Index Fund (BITW) (the &#147;Trust&#148;); </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">2. Based on my
+knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect
+to the period covered by this report; </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly
+present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">4. The registrant&#146;s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules <FONT STYLE="white-space:nowrap">13a-15(e)</FONT> and <FONT STYLE="white-space:nowrap">15d-15(e))</FONT> and internal control over financial reporting (as defined in Exchange Act Rules
+<FONT STYLE="white-space:nowrap">13a-15(f)</FONT> and <FONT STYLE="white-space:nowrap">15d-15(f))</FONT> for the registrant and have: </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(a) Designed such
+disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us
+by others within those entities, particularly during the period in which this report is being prepared; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(b) Designed such internal control over financial
+reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles; </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(c) Evaluated the effectiveness of the registrant&#146;s disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(d) Disclosed in this report any change in the registrant&#146;s internal control over financial reporting that occurred during the registrant&#146;s most
+recent fiscal quarter (the registrant&#146;s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant&#146;s internal control over financial reporting; and </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">5. The registrant&#146;s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to
+the registrant&#146;s auditors and the audit committee of the board of directors of Bitwise Investment Advisers, LLC (or persons performing the equivalent functions): </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to
+adversely affect the registrant&#146;s ability to record, process, summarize and report financial information; and </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">(b) Any fraud, whether or not material,
+that involves management or other employees who have a significant role in the registrant&#146;s internal control over financial reporting. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">[<I>Signature page follows</I>] </P>
+</DIV></Center>
+
+
+<p style="margin-top:1em; margin-bottom:0em; page-break-before:always"> </p>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Date: September&nbsp;18, 2023</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">/s/ Hunter Horsley</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Hunter Horsley *</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">President (Principal Executive Officer)</TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">*</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The Registrant is a trust and Hunter Horsley is signing in his capacity as Principal Executive Officer of
+Bitwise Investment Advisers, LLC, the Sponsor of the Trust. </P></TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">[<I>Signature Page to SOX 302 Certification</I>] </P>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>

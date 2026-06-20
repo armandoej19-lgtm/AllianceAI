@@ -1,0 +1,12 @@
+<DOCUMENT>
+<TYPE>EX-23.6
+<SEQUENCE>2
+<FILENAME>byon-20231231xexx236.htm
+<DESCRIPTION>EX-23.6
+<TEXT>
+<html><head>
+<!-- Document created using Wdesk -->
+<!-- Copyright 2024 Workiva -->
+<title>Document</title></head><body><div id="i31cbaf3fc5be47ac8407bbcf91738a24_1"></div><div style="min-height:42.75pt;width:100%"><div><font><br></font></div></div><div style="text-align:right"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:700;line-height:120%">Exhibit&#160;23.6</font></div><div style="text-align:center"><font><br></font></div><div style="text-align:center"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:700;line-height:120%">Consent of Independent Auditors</font></div><div style="text-align:center"><font><br></font></div><div><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:120%">We consent to the incorporation by reference in the registration statements (Nos. 333-123540, 333-124441, 333-160512, 333-162674, 333-181422, 333-184344, 333-203175, 333-203176, 333-256179, 333-273751, and 333-280078) on Form S-8 and (Nos. 333-207141, 333-226729, 333-233913, 333-239498, and 333-280076) on Form S-3 of Beyond, Inc. of our report dated October 14, 2024 with respect to the consolidated financial statements of tZERO Group, Inc. included in this amended Annual Report on Form 10-K&#47;A.</font></div><div><font><br></font></div><div><font><br></font></div><div style="text-align:center"><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:120%">&#47;s&#47; BAKER TILLY US, LLP </font></div><div><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:120%">New York, New York </font></div><div><font style="color:#000000;font-family:'Times New Roman',sans-serif;font-size:10pt;font-weight:400;line-height:120%">October&#160;30, 2024</font></div><div><font><br></font></div><div style="height:42.75pt;position:relative;width:100%"><div style="bottom:0;position:absolute;width:100%"><div><font><br></font></div></div></div></body></html>
+</TEXT>
+</DOCUMENT>
