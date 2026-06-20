@@ -1,0 +1,335 @@
+<DOCUMENT>
+<TYPE>10-Q/A
+<SEQUENCE>1
+<FILENAME>v430722_10qa.htm
+<DESCRIPTION>FORM 10-Q/A
+<TEXT>
+<HTML>
+<HEAD>
+     <TITLE></TITLE>
+</HEAD>
+<BODY STYLE="font: 10pt Times New Roman, Times, Serif">
+
+<P STYLE="margin-top: 0; text-align: center; margin-bottom: 0">&nbsp;</P>
+
+<P STYLE="margin-top: 0; text-align: center; margin-bottom: 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">UNITED STATES <U><BR>
+</U>SECURITIES AND EXCHANGE COMMISSION<U><BR>
+</U><FONT STYLE="font-size: 10pt">Washington, D.C. 20549</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="CENTER" STYLE="margin-top: 3pt; margin-bottom: 3pt"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; width: 15%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>FORM 10-Q/A</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>Amendment No. 1</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0pt; margin-bottom: 0pt; text-align: center"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 1.5in"></P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="CENTER" STYLE="margin-top: 3pt; margin-bottom: 3pt"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; width: 15%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 1.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>(Mark One)</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Wingdings"><B>&#120;</B></FONT></TD><TD STYLE="text-align: justify"><B>QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+THE SECURITIES EXCHANGE ACT OF 1934</B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>For the Quarterly Period Ended December
+31, 2015</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>or</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 0.25in; text-align: left"><FONT STYLE="font-family: Wingdings">&#168;</FONT></TD><TD STYLE="text-align: justify"><B>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)
+OF THE SECURITIES EXCHANGE ACT OF 1934</B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">For the transition period from ___<U></U>
+to ___<U></U></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">Commission File Number: 001-13357</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 1.5in">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 1.5in"></P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="CENTER" STYLE="margin-top: 3pt; margin-bottom: 3pt"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; width: 15%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 1.5in"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center"><B>Royal Gold, Inc.</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">(Exact Name of Registrant as Specified in
+Its Charter)</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 1.5in"></P>
+
+<!-- Field: Rule-Page --><DIV ALIGN="CENTER" STYLE="margin-top: 3pt; margin-bottom: 3pt"><DIV STYLE="font-size: 1pt; border-top: Black 1pt solid; width: 15%">&nbsp;</DIV></DIV><!-- Field: /Rule-Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center; text-indent: 1.5in">&nbsp;&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 34%; padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center"><FONT STYLE="font-size: 10pt"><B>Delaware</B></FONT></TD>
+    <TD STYLE="width: 33%; padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center">&nbsp;</TD>
+    <TD STYLE="width: 33%; padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center"><FONT STYLE="font-size: 10pt"><B>84-0835164</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center"><FONT STYLE="font-size: 10pt"><B>(State or Other Jurisdiction of</B></FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center"><FONT STYLE="font-size: 10pt"><B>(I.R.S. Employer</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center"><FONT STYLE="font-size: 10pt"><B>Incorporation)</B></FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center"><FONT STYLE="font-size: 10pt"><B>Identification No.)</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center"><FONT STYLE="font-size: 10pt"><B>1660 Wynkoop Street, Suite 1000</B></FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center"><FONT STYLE="font-size: 10pt"><B>Denver, Colorado</B></FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center"><FONT STYLE="font-size: 10pt"><B>80202</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center"><FONT STYLE="font-size: 10pt"><B>(Address of Principal Executive Offices)</B></FONT></TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center"><FONT STYLE="font-size: 10pt"><B>(Zip Code)</B></FONT></TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center">&nbsp;</TD>
+    <TD STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD COLSPAN="3" STYLE="padding-right: 5.4pt; padding-left: 5.4pt; font-weight: bold; text-align: center"><FONT STYLE="font-size: 10pt"><B>Registrant&rsquo;s telephone number, including area code (303) 573-1660</B></FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Indicate by check mark whether the registrant
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding
+12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;&nbsp;<FONT STYLE="font-family: Wingdings">x</FONT>&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&nbsp;<FONT STYLE="font-family: Wingdings">&uml;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Indicate by check mark whether the registrant
+has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted
+and posted pursuant to Rule 405 of Regulation S-T (&sect;232.405 of this chapter) during the preceding 12 months (or for such
+shorter period that the registrant was required to submit and post such files). Yes&nbsp;&nbsp;<FONT STYLE="font-family: Wingdings">&#120;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;<FONT STYLE="font-family: Wingdings">&#168;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions
+of &ldquo;large accelerated filer,&rdquo; &ldquo;accelerated filer&rdquo; and &ldquo;smaller reporting company&rdquo; in Rule 12b-2
+of the Exchange Act. (Check one):</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="font: 10pt Times New Roman, Times, Serif; width: 100%; border-collapse: collapse">
+<TR>
+    <TD STYLE="vertical-align: top; width: 50%; text-align: center"><FONT STYLE="font-size: 10pt">Large accelerated filer <FONT STYLE="font-family: Wingdings">&#120;</FONT></FONT></TD>
+    <TD STYLE="vertical-align: bottom; width: 1%">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; width: 49%; text-align: center"><FONT STYLE="font-size: 10pt">Accelerated filer&nbsp;</FONT><FONT STYLE="font-family: Wingdings">&#168;</FONT></TD></TR>
+<TR>
+    <TD STYLE="vertical-align: top; text-align: center"><FONT STYLE="font-size: 10pt">Non-accelerated filer <FONT STYLE="font-family: Wingdings">&#168;</FONT></FONT><BR>
+<FONT STYLE="font-size: 10pt">(Do not check if a smaller reporting company)</FONT></TD>
+    <TD STYLE="vertical-align: bottom">&nbsp;</TD>
+    <TD STYLE="vertical-align: top; text-align: center"><FONT STYLE="font-size: 10pt">Smaller reporting company </FONT><FONT STYLE="font-family: Wingdings">&#168;</FONT></TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Indicate by check mark whether the registrant
+is a shell company (as defined in Rule 12b-2 of the Exchange Act). &nbsp;&nbsp;Yes&nbsp;&nbsp;&nbsp;<FONT STYLE="font-family: Wingdings">&#168;</FONT>&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;&nbsp;<FONT STYLE="font-family: Wingdings">&#120;</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">There were 65,260,914 shares of the Company&rsquo;s common stock,
+par value $0.01 per share, outstanding as of January 28,&nbsp;2016.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<!-- Field: Page; Sequence: 1 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>EXPLANATORY NOTE</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: center">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Royal Gold, Inc. filed its Quarterly Report on Form 10-Q for
+the quarter ended December 31, 2015, with the Securities and Exchange Commission on February 4, 2016 (the &quot;Form 10-Q&quot;).
+The sole purpose of this Amendment No. 1 to the Quarterly Report on Form 10-Q for the quarter ended December 31, 2015 (the &quot;Form
+10-Q/A&quot;), is to correct the number of shares of Common Stock outstanding at January 28, 2016 reported on the cover page of
+the Form 10-Q.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">This Form 10-Q/A should be read in conjunction with the Form
+10-Q, which continues to speak as of the date of the Form 10-Q. Except as specifically noted above, this Form 10-Q/A does not modify
+or update disclosures in the Form 10-Q. Accordingly, this Form 10-Q/A does not reflect subsequent events occurring after the original
+filing date of the Form 10-Q or modify or update in any way disclosures made in the Form 10-Q<FONT STYLE="font-size: 10pt">.</FONT></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<TABLE CELLPADDING="0" CELLSPACING="0" STYLE="font: 10pt Times New Roman, Times, Serif; margin-top: 0; margin-bottom: 0"><TR STYLE="vertical-align: top; text-align: justify">
+<TD STYLE="width: 0in"></TD><TD STYLE="width: 1in; text-align: left"><B>ITEM 6.</B></TD><TD STYLE="text-align: justify"><B>EXHIBITS</B></TD>
+</TR></TABLE>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"><B>&nbsp;</B></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Exhibits files with this report:</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: top">
+    <TD STYLE="width: 11%; padding: 0; text-align: justify; text-indent: 0">31.1</TD>
+    <TD STYLE="width: 2%; padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="width: 87%; padding: 0; text-align: justify; text-indent: 0">Certification of Chief Executive Officer pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: top">
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">31.2</TD>
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">Certification of Chief Financial Officer pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 2 -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <DIV STYLE="page-break-before: always; margin-top: 6pt; margin-bottom: 12pt"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: bold 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: left">SIGNATURES</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0; text-align: justify">Pursuant to the requirements of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0"></P>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" STYLE="width: 100%; font: 10pt Times New Roman, Times, Serif; border-collapse: collapse">
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding: 0; text-indent: 0"><B>ROYAL GOLD, INC.</B></TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD COLSPAN="2" STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD STYLE="padding: 0; text-align: justify; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-decoration: none; text-indent: 0"></TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD STYLE="width: 50%; padding: 0; text-align: justify; text-indent: 0">Date:&nbsp;&nbsp;February 5, 2016</TD>
+    <TD STYLE="width: 0%; padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="width: 5%; padding: 0; text-indent: 0">By:</TD>
+    <TD STYLE="width: 30%; text-decoration: underline; padding: 0; text-indent: 0; border-bottom: Black 1pt solid"><U STYLE="text-decoration: none">/<I>s/ Tony Jensen</I></U></TD>
+    <TD STYLE="width: 15%">&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">Tony Jensen<BR>
+President and Chief Executive Officer</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">(Principal Executive Officer)</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD STYLE="padding: 0; text-indent: 0">Date:&nbsp;&nbsp;February 5, 2016</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">By:</TD>
+    <TD STYLE="text-decoration: underline; padding: 0; text-indent: 0; border-bottom: Black 1pt solid"><I><U STYLE="text-decoration: none">/s/ Stefan Wenger</U></I></TD>
+    <TD>&nbsp;</TD></TR>
+<TR STYLE="vertical-align: bottom; background-color: white">
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD STYLE="padding: 0; text-indent: 0">&nbsp;</TD>
+    <TD NOWRAP STYLE="padding: 0; text-indent: 0">
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">Stefan Wenger<BR>
+        Chief Financial Officer and Treasurer</P>
+        <P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">(Principal Financial and Accounting Officer)</P></TD>
+    <TD>&nbsp;</TD></TR>
+</TABLE>
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+
+<!-- Field: Page; Sequence: 3; Options: Last -->
+    <DIV STYLE="margin-top: 12pt; margin-bottom: 6pt; border-bottom: Black 1pt solid"><P STYLE="margin: 0pt">&nbsp;</P></DIV>
+    <!-- Field: /Page -->
+
+<P STYLE="font: 10pt Times New Roman, Times, Serif; margin: 0pt 0">&nbsp;</P>
+
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

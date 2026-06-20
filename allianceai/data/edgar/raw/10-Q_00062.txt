@@ -1,0 +1,119 @@
+<DOCUMENT>
+<TYPE>10-Q/A
+<SEQUENCE>1
+<FILENAME>f10qa113013_10qz.htm
+<DESCRIPTION>FORM 10QA AMENDED QUARTERLY REPORT
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Form 10QA Amended Quarterly Report</TITLE>
+<META NAME="author" CONTENT="steve">
+<META NAME="date" CONTENT="06/30/2017">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; color:#000000">
+<DIV style="width:720px"><P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center>U.S. SECURITIES AND EXCHANGE COMMISSION</P>
+<P style="margin:0px" align=center>Washington, D.C. 20549</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; font-size:12pt" align=center><B>FORM 10-Q/A</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center>AMENDMENT NO.1 TO FORM 10-Q</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; font-size:6pt" align=justify><FONT style="margin-bottom:1.333px; padding-top:1.333px; border:1px solid #000000">&nbsp;X </FONT><FONT style="color:#FFFFFF">.</FONT><FONT style="font-size:10pt"> QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</FONT></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center>For the quarterly period ended November 30, 2013</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px; font-size:6pt"><FONT style="margin-bottom:1.333px; padding-top:1.333px; border:1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="color:#FFFFFF">.</FONT><FONT style="font-size:10pt"> TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</FONT></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center>For the transition period from ____________ to ____________</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>Commission File No.: 333-187855</B></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px; font-size:14pt" align=center><B><U>SOUTH BEACH SPIRITS, INC. F/K/A CME REALTY, INC.</U></B></P>
+<P style="margin:0px" align=center>(Exact name of small business issuer as specified in its charter)</P>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=296.6 /><TD width=20 /><TD width=211.467 /></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=296.6><P style="margin:0px" align=center><B>Nevada</B></P>
+</TD><TD style="margin-top:0px" valign=top width=20><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=211.467><P style="margin:0px" align=center><B>46-2084743</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=296.6><P style="margin:0px" align=center>(State or other jurisdiction of</P>
+</TD><TD style="margin-top:0px" valign=top width=20><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=211.467><P style="margin:0px" align=center>(I.R.S. Employer Identification No.)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=296.6><P style="margin:0px" align=center>incorporation or organization)</P>
+</TD><TD style="margin-top:0px" valign=top width=20><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=211.467><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B><U>1411 Sawgrass Parkway, Suite B, Sunrise, FL 333231</U></B></P>
+<P style="margin:0px" align=center>(Address of Principal Executive Offices)</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B><U>(800) 670-3879</U></B></P>
+<P style="margin:0px" align=center>(Issuer's telephone number)</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B><U>N/A</U></B></P>
+<P style="margin:0px" align=center>(Former name, address and fiscal year, if changed since last report)</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>Check whether the issuer (1) has filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act during the preceding 12 months (or for such shorter period that the issuer was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. YES <FONT style="margin-bottom:1.333px; padding-top:1.333px; font-size:6pt; border:1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT> NO <FONT style="margin-bottom:1.333px; padding-top:1.333px; font-size:6pt; border:1px solid #000000">&nbsp;X </FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (ss.232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). YES <FONT style="margin-bottom:1.333px; padding-top:1.333px; font-size:6pt; border:1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT> NO <FONT style="margin-bottom:1.333px; padding-top:1.333px; font-size:6pt; border:1px solid #000000">&nbsp;X </FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of &quot;large accelerated filer,&quot; &quot;accelerated filer,&quot; &quot;non-accelerated filer,&quot; and &quot;smaller reporting company&quot; in Rule 12b-2 of the Exchange Act.</P>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=134.333 /><TD width=283.467 /><TD width=160.333 /><TD width=39.133 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=134.333><P style="margin:0px" align=justify>Large accelerated filer </P>
+</TD><TD style="margin-top:0px" valign=top width=283.467><P style="margin:0px; font-size:12pt" align=justify>&nbsp;<FONT style="margin-bottom:1.333px; padding-top:1.333px; padding-bottom:0px; font-size:6pt; border:1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT></P>
+</TD><TD style="margin-top:0px" valign=top width=160.333><P style="margin:0px" align=justify>Accelerated filer </P>
+</TD><TD style="margin-top:0px" valign=top width=39.133><P style="margin:0px; font-size:12pt" align=justify>&nbsp;<FONT style="margin-bottom:1.333px; padding-top:1.333px; padding-bottom:0px; font-size:6pt; border:1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=134.333><P style="margin:0px" align=justify>Non-accelerated filer </P>
+</TD><TD style="margin-top:0px" valign=top width=283.467><P style="margin:0px; font-size:12pt" align=justify>&nbsp;<FONT style="margin-bottom:1.333px; padding-top:1.333px; padding-bottom:0px; font-size:6pt; border:1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT> <FONT style="font-size:10pt">(Do not check if a smaller reporting company) </FONT></P>
+</TD><TD style="margin-top:0px" valign=top width=160.333><P style="margin:0px" align=justify>Smaller reporting company</P>
+</TD><TD style="margin-top:0px" valign=top width=39.133><P style="margin:0px; font-size:12pt" align=justify>&nbsp;<FONT style="margin-bottom:1.333px; padding-top:1.333px; padding-bottom:0px; font-size:6pt; border:1px solid #000000">&nbsp;X </FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT></P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>APPLICABLE ONLY TO CORPORATE ISSUERS: </P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>State the number of shares outstanding of each of the issuer's classes of common equity, as of April 14, 2014: 14,000,000 shares of common stock.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act): YES <FONT style="margin-bottom:1.333px; padding-top:1.333px; font-size:6pt; border:1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT> NO <FONT style="margin-bottom:1.333px; padding-top:1.333px; font-size:6pt; border:1px solid #000000">&nbsp;X </FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>Transitional Small Business Disclosure Format (Check One) YES <FONT style="margin-bottom:1.333px; padding-top:1.333px; font-size:6pt; border:1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT> NO <FONT style="margin-bottom:1.333px; padding-top:1.333px; font-size:6pt; border:1px solid #000000">&nbsp;X </FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT> </P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=center><BR></P>
+<P style="margin:0px" align=center><B>PURPOSE OF AMENDMENT</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>South Beach Spirits, Inc. f/k/a CME Realty, Inc. (the &#147;Company&#148;) is filing this Amendment No. 1 on Form 10-Q/A (the &#147;Form 10-Q/A&#148;) to the Company&#146;s Quarterly Report on Form 10-Q for the quarter ended November 30, 2013, filed with the Securities and Exchange Commission on April May 9, 2014 (the &#147;Form 10-Q&#148;), solely to correct an error on the cover page. The cover page of the Form 10-Q incorrectly stated that the Company is a &#147;shell&#148; company (as defined in Rule 12b-2 of the Exchange Act). The cover page of this Form 10-Q/A correctly states that the Company is not a shell company (as defined in Rule 12b-2 of the Exchange Act).</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>This Form 10-Q/A should be read in conjunction with the Form 10-Q, which, as amended hereby, continues to speak as of the date of the Form 10-Q. Except as specifically noted above, this Form 10-Q/A does not modify or update disclosures in the Form 10-Q. Accordingly, this Form 10-Q/A does not reflect events occurring after the filing of the Form 10-Q or modify or update any related or other disclosures contained therein.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>SIGNATURES</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>In accordance with the requirements of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=296.6 /><TD width=312 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=296.6><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=312><P style="margin:0px"><B><U>SOUTH BEACH SPIRITS, INC.</U></B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=296.6><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=312><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=296.6><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=312><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=296.6><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=312><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=296.6><P style="margin:0px">Date: June 30, 2017</P>
+</TD><TD style="margin-top:0px" valign=top width=312><P style="margin:0px">By: <I><U>/s/ Martin Ustin</U></I></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=296.6><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=312><P style="margin:0px">Martin Ustin</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=296.6><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=312><P style="margin:0px">President and Chief Executive Officer</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+</DIV></BODY>
+<!-- EDGAR Validation Code: 9707820B -->
+</HTML>
+</TEXT>
+</DOCUMENT>

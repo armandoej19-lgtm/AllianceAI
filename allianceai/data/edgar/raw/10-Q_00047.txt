@@ -1,0 +1,238 @@
+<DOCUMENT>
+<TYPE>10-Q/A
+<SEQUENCE>1
+<FILENAME>f10qa033116_10qz.htm
+<DESCRIPTION>FORM 10-Q/A AMENDED QUARTERLY REPORT
+<TEXT>
+<!doctype html public "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<TITLE>Form 10-Q/A Amended Quarterly Report</TITLE>
+<META NAME="author" CONTENT="John Nossiff">
+<META NAME="date" CONTENT="06/03/2016">
+</HEAD>
+<BODY style="margin-top:0;font-family:Times New Roman; font-size:10pt; color:#000000">
+<DIV style="width:720px"><P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><B>UNITED STATES</B></P>
+<P style="margin:0px" align=center><B>SECURITIES AND EXCHANGE COMMIS<A NAME="e_r_r1"></A>SION</B></P>
+<P style="margin:0px" align=center><B>Washington, D.C. 20549</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; font-size:12pt" align=center><B>FORM 10-Q/A</B></P>
+<P style="margin:0px; font-size:12pt" align=center><B>Amendment No. 1</B></P>
+<A NAME="hangingindent"></A><P style="margin:0px" align=justify><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; width:24px; float:left">&nbsp;<FONT style="margin-bottom:1.333px; padding-top:1.333px; font-size:6pt; border:1px solid #000000">&nbsp;X </FONT><FONT style="font-size:6pt">.</FONT></P>
+<P style="margin:0px; text-indent:-2px"><B>QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</B></P>
+<P style="margin:0px; text-indent:24px; clear:left">For the quarterly period ended March 31, 2016</P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin-top:0px; margin-bottom:-2px; width:24px; float:left">&nbsp;<FONT style="margin-bottom:1.333px; padding-top:1.333px; font-size:6pt; border:1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT></P>
+<P style="margin:0px; text-indent:-2px"><B>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</B></P>
+<P style="margin:0px; text-indent:24px; clear:left">For the transition period from ____________ to____________</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=center><B><I>Commission File Number: </I><FONT style="background-color:#FFFFFF">000-54758</B></FONT></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px; font-size:14pt" align=center><B><U>The Enviromart Companies, Inc. </U></B></P>
+<P style="margin:0px" align=center>(Exact name of issuer as specified in its charter)</P>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=192 /><TD width=19.2 /><TD width=192 /></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=192><P style="margin:0px" align=center><B>Delaware</B></P>
+</TD><TD style="margin-top:0px" valign=top width=19.2><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=192><P style="margin:0px" align=center><B>45-5529607</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=192><P style="margin:0px" align=center>(State or Other Jurisdiction of</P>
+</TD><TD style="margin-top:0px" valign=top width=19.2><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=192><P style="margin:0px" align=center>(I.R.S. Employer I.D. No.)</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=192><P style="margin:0px" align=center>incorporation or organization)</P>
+</TD><TD style="margin-top:0px" valign=top width=19.2><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=192><P style="margin:0px; padding:0px">&nbsp;</P></TD><A NAME="fis_unidentified_table"></A></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>4 Wilder Dr., #7</B></P>
+<P style="margin:0px" align=center><B><U>Plaistow, NH 03865</U></B></P>
+<P style="margin:0px" align=center>(Address of Principal Executive Offices)</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B><U>603-378-0809 </U></B></P>
+<P style="margin:0px" align=center>(Registrant&#146;s Telephone Number, Including Area Code)</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes <FONT style="margin-bottom:1.333px; padding-top:1.333px; font-size:6pt; border:1px solid #000000">&nbsp;X &nbsp;</FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT> No <FONT style="margin-bottom:1.333px; padding-top:1.333px; font-size:6pt; border:1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Indicate by checkmark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Date File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (&#167; 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes <FONT style="margin-bottom:1.333px; padding-top:1.333px; font-size:6pt; border:1px solid #000000">&nbsp;X &nbsp;</FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT> No <FONT style="margin-bottom:1.333px; padding-top:1.333px; font-size:6pt; border:1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company.&nbsp;&nbsp;See definition of &#147;large accelerated filer,&#148; &#147;accelerated filer&#148; and &#147;smaller reporting company&#148; in Rule 12b-2 of the Exchange Act.</P>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=134.333 /><TD width=282.133 /><TD width=160.333 /><TD width=39.133 /></TR>
+<TR><TD style="margin-top:0px" valign=top width=134.333><P style="margin:0px" align=justify>Large accelerated filer </P>
+</TD><TD style="margin-top:0px" valign=top width=282.133><P style="margin:0px" align=justify>&nbsp;<FONT style="margin-bottom:1.333px; padding-top:1.333px; padding-bottom:0px; font-size:6pt; border:1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT></P>
+</TD><TD style="margin-top:0px" valign=top width=160.333><P style="margin:0px" align=justify>Accelerated filer </P>
+</TD><TD style="margin-top:0px" valign=top width=39.133><P style="margin:0px" align=justify>&nbsp;<FONT style="margin-bottom:1.333px; padding-top:1.333px; padding-bottom:0px; font-size:6pt; border:1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=134.333><P style="margin:0px" align=justify>Non-accelerated filer </P>
+</TD><TD style="margin-top:0px" valign=top width=282.133><P style="margin:0px" align=justify>&nbsp;<FONT style="margin-bottom:1.333px; padding-top:1.333px; padding-bottom:0px; font-size:6pt; border:1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT> (Do not check if a smaller reporting company) </P>
+</TD><TD style="margin-top:0px" valign=top width=160.333><P style="margin:0px" align=justify>Smaller reporting company</P>
+</TD><TD style="margin-top:0px" valign=top width=39.133><P style="margin:0px" align=justify>&nbsp;<FONT style="margin-bottom:1.333px; padding-top:1.333px; padding-bottom:0px; font-size:6pt; border:1px solid #000000">&nbsp;X </FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT></P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes <FONT style="margin-bottom:1.333px; padding-top:1.333px; font-size:6pt; border:1px solid #000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT> No <FONT style="margin-bottom:1.333px; padding-top:1.333px; font-size:6pt; border:1px solid #000000">&nbsp;X </FONT><FONT style="font-size:6pt; color:#FFFFFF">.</FONT></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=center><B>APPLICABLE ONLY TO CORPORATE ISSUERS</B></P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>Indicate the number of shares outstanding of each of the issuer&#146;s classes of common stock, as of the latest practicable date:</P>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px" align=justify>The number of shares outstanding of each of the Registrant&#146;s classes of common equity, as of the latest practicable date:<A NAME="fis_unidentified_table_2"></A></P>
+<P style="margin:0px"><BR></P>
+<TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0 align=center><TR height=0 style="font-size:0"><TD width=288 /><TD width=19.2 /><TD width=288 /></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=288><P style="margin:0px" align=center><B>Class</B></P>
+</TD><TD style="margin-top:0px" valign=top width=19.2><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=top width=288><P style="margin:0px" align=center><B>Outstanding as of May 23, 2016 </B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=288><P style="margin:0px" align=center>Common Capital Voting Stock, </P>
+<P style="margin:0px" align=center>$0.0001 par value per share</P>
+</TD><TD style="margin-top:0px" valign=top width=19.2><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=288><P style="margin:0px" align=center>50,419,275 shares</P>
+</TD></TR>
+</TABLE>
+<P style="margin:0px"><BR></P>
+<P style="margin:0px"><BR>
+<BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always"><BR></P>
+<P style="margin:0px" align=center><B>EXPLANATORY NOTE</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><I>The purpose of this Amendment No. 1 on Form 10&#150;Q/A to The Enviromart Companies, Inc.&#146;s quarterly report on Form 10&#150;Q for the period ended March 31, 2016, filed with the Securities and Exchange Commission on May 23, 2016 (the &#147;Form 10&#150;Q&#148;), is solely to furnish Exhibit 101 to the Form 10&#150;Q in accordance with Rule 405 of Regulation S&#150;T.</I></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><I>No other changes have been made to the Form 10&#150;Q.&nbsp;&nbsp;This Amendment No. 1 speaks as of the original filing date of the Form 10&#150;Q, does not reflect events that may have occurred subsequent to the original filing date and does not modify or update in any way disclosures made in the original Form 10&#150;Q.</I></P>
+<P style="margin:0px" align=justify><BR></P>
+<A NAME="part_1_2_2"></A><P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR>
+<BR></P>
+<P style="margin:0px" align=center>2</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always" align=justify><BR></P>
+<P style="margin:0px" align=center><B>PART II - OTHER INFORMATION</B></P>
+<A NAME="item_1_3_5"></A><A NAME="fis_legal_proceeding"></A><A NAME="fis_exhibits_reports"></A><P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>ITEM 6. EXHIBITS</B></P>
+<A NAME="_Toc69102126"></A><P style="margin:0px"><BR></P>
+</DIV><TABLE style="margin-top:0px; font-size:10pt" cellpadding=0 cellspacing=0><TR height=0 style="font-size:0"><TD width=72 /><TD width=289.2 /><TD width=72 /><TD width=72 /><TD width=78 /><TD width=60 /><TD width=78 /></TR>
+<TR><TD style="margin-top:0px" valign=bottom width=72><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=bottom width=289.2><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=360 colspan=5><P style="margin:0px" align=center><B>Incorporated by Reference</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=72><P style="margin:0px" align=center><B>Exhibit</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=289.2><P style="margin:0px"><B>Exhibit Description</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=72><P style="margin:0px" align=center><B>Filed Herewith</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=72><P style="margin:0px" align=center><B>Form</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=78><P style="margin:0px" align=center><B>Period Ending</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=60><P style="margin:0px" align=center><B>Exhibit</B></P>
+</TD><TD style="margin-top:0px; border-bottom:1px solid #000000" valign=bottom width=78><P style="margin:0px" align=center><B>Filing Date</B></P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>3.1</P>
+</TD><TD style="margin-top:0px" valign=top width=289.2><P style="margin:0px" align=justify>Certificate of Incorporation, as amended</P>
+</TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>10-Q</P>
+</TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=60><P style="margin:0px" align=center>3.1</P>
+</TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px" align=center>01/23/2015</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>3.2</P>
+</TD><TD style="margin-top:0px" valign=top width=289.2><P style="margin:0px" align=justify>By-Laws</P>
+</TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>10</P>
+</TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=60><P style="margin:0px" align=center>3.2</P>
+</TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px" align=center>07/09/2012</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>4.1</P>
+</TD><TD style="margin-top:0px" valign=top width=289.2><P style="margin:0px; padding-left:12px; text-indent:-12px" align=justify>Specimen Stock Certificate</P>
+</TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>10</P>
+</TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=60><P style="margin:0px" align=center>4.1</P>
+</TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px" align=center>07/09/2012</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>10.6</P>
+</TD><TD style="margin-top:0px" valign=top width=289.2><P style="margin:0px; padding-left:12px; text-indent:-12px" align=justify>Agreement between Mark Shefts, registrant and Michael Rosa dated July 14, 2014</P>
+</TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>10-Q</P>
+</TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px" align=center>09/30/2014</P>
+</TD><TD style="margin-top:0px" valign=top width=60><P style="margin:0px" align=center>10.6</P>
+</TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px" align=center>11/19/2014</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>10.7</P>
+</TD><TD style="margin-top:0px" valign=top width=289.2><P style="margin:0px; padding-left:12px; text-indent:-12px" align=justify>Amended and Restated Promissory Note with Rushcap Group effective May 29, 2015</P>
+</TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>10-Q</P>
+</TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px" align=center>06/30/2015</P>
+</TD><TD style="margin-top:0px" valign=top width=60><P style="margin:0px" align=center>10.7</P>
+</TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px" align=center>08/14/2015</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>10.8</P>
+</TD><TD style="margin-top:0px" valign=top width=289.2><P style="margin:0px; padding-left:12px; text-indent:-12px; font-size:9.5pt" align=justify>Amended and Restated Purchase Order<FONT style="font-size:10pt"> Financing Agreement with Rushcap Group effective May 29, 2015</FONT></P>
+</TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>10-Q</P>
+</TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px" align=center>06/30/2015</P>
+</TD><TD style="margin-top:0px" valign=top width=60><P style="margin:0px" align=center>10.8</P>
+</TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px" align=center>08/14/2015</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>10.9</P>
+</TD><TD style="margin-top:0px" valign=top width=289.2><P style="margin:0px; padding-left:12px; text-indent:-12px" align=justify>First Amended and Restated Convertible Note with Shefts Family LP dated January 21, 2015</P>
+</TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>10-Q</P>
+</TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px" align=center>03/31/2014</P>
+</TD><TD style="margin-top:0px" valign=top width=60><P style="margin:0px" align=center>10.9</P>
+</TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px" align=center>01/23/2015</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>10.10</P>
+</TD><TD style="margin-top:0px" valign=top width=289.2><P style="margin:0px; padding-left:12px; text-indent:-12px" align=justify>Convertible Note with Michael R. Rosa dated January 21, 2015</P>
+</TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>10-Q</P>
+</TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px" align=center>03/31/2014</P>
+</TD><TD style="margin-top:0px" valign=top width=60><P style="margin:0px" align=center>10.10</P>
+</TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px" align=center>01/23/2015</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>10.11</P>
+</TD><TD style="margin-top:0px" valign=top width=289.2><P style="margin:0px; padding-left:12px; text-indent:-12px; font-size:9.5pt" align=justify>Stock Purchase and Sale between Registrant, Enviromart Industries, Inc. and Michael R. Rosa, dated March 21, 2016 </P>
+</TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>10-K</P>
+</TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px" align=center>12/31/2015</P>
+</TD><TD style="margin-top:0px" valign=top width=60><P style="margin:0px" align=center>10.11</P>
+</TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px" align=center>04/14/2016</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>31 **</P>
+</TD><TD style="margin-top:0px" valign=top width=289.2><P style="margin:0px; padding-left:12px; text-indent:-12px" align=justify>Certification of the Principal Executive <A NAME="OLE_LINK9"></A><A NAME="OLE_LINK10"></A>and Principal Financial Officer pursuant to Rule 13a-14(a) or Rule 15d-14(a) of the Securities Exchange Act of 1934, as amended</P>
+</TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>10-Q</P>
+</TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px" align=center>03/31/2016</P>
+</TD><TD style="margin-top:0px" valign=top width=60><P style="margin:0px" align=center>31</P>
+</TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px" align=center>05/23/2016</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>32</P>
+</TD><TD style="margin-top:0px" valign=top width=289.2><P style="margin:0px; padding-left:12px; text-indent:-12px" align=justify>Certification of the Principal Executive and Principal Financial Officer pursuant to U.S.C. Section 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002</P>
+</TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>10-Q</P>
+</TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px" align=center>03/31/2016</P>
+</TD><TD style="margin-top:0px" valign=top width=60><P style="margin:0px" align=center>32</P>
+</TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px" align=center>05/23/2016</P>
+</TD></TR>
+<TR><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>101</P>
+</TD><TD style="margin-top:0px" valign=top width=289.2><P style="margin:0px; padding-left:12px; text-indent:-12px" align=justify>XBRL</P>
+</TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px" align=center>X</P>
+</TD><TD style="margin-top:0px" valign=top width=72><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=60><P style="margin:0px; padding:0px">&nbsp;</P></TD><TD style="margin-top:0px" valign=top width=78><P style="margin:0px; padding:0px">&nbsp;</P></TD></TR>
+</TABLE>
+<DIV style="width:720px"><P style="margin:0px"><BR></P>
+<P style="margin:0px">** Furnished, not filed</P>
+<P style="margin:0px"><BR>
+<BR></P>
+<P style="margin:0px" align=center>3</P>
+<P style="margin:0px"><BR></P>
+<HR style="margin-bottom:9.6px; padding-top:9.6px" noshade size=1.333>
+<P style="margin:0px; page-break-before:always"><BR></P>
+<P style="margin:0px" align=center><B>SIGNATURES</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this Report to be signed on its behalf by the undersigned hereunto duly authorized.</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><B>The Enviromart Companies, Inc.</B></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>By: <I><U>/s/ George R. Adyns</U></I></P>
+<P style="margin:0px" align=justify>Name: George R. Adyns</P>
+<P style="margin:0px" align=justify>Title: President and Chief Financial Officer (Principal Executive and Financial Officer)</P>
+<P style="margin:0px" align=justify><BR></P>
+<P style="margin:0px" align=justify>Dated: <A NAME="doc_1_2"></A><A NAME="doc_1_3"></A><A NAME="doc_1_4"></A>June 3, 2016</P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR></P>
+<P style="margin:0px" align=center><BR>
+<BR></P>
+<P style="margin:0px" align=center>4</P>
+<P style="margin:0px"><BR></P>
+</DIV></BODY>
+<!-- EDGAR Validation Code: B36A3798 -->
+</HTML>
+</TEXT>
+</DOCUMENT>

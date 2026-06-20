@@ -1,0 +1,1710 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>d815608d10ka.htm
+<DESCRIPTION>10-K/A
+<TEXT>
+<HTML><HEAD>
+<TITLE>10-K/A</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>FORM <FONT
+STYLE="white-space:nowrap">10-K/A</FONT> </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>(Amendment No.&nbsp;1) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>(Mark One) </B></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B></B>&#9746;<B></B><B></B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman; " ALIGN="left"><B>ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+</B></P></TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>For the fiscal year ended December&nbsp;31, 2018 </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>or </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B></B>&#9744;<B></B><B></B></TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman; " ALIGN="left"><B>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+</B></P></TD></TR></TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>For the transition period from
+<U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U>
+to<U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</U><U>&nbsp;&nbsp;&nbsp;&nbsp;</U> </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06</FONT></FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Commission File Number of issuing entity) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>0001681031 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Central
+Index Key Number of issuing entity) </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>Citigroup Commercial Mortgage Trust <FONT STYLE="white-space:nowrap">2016-C2</FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of issuing entity as specified in its charter) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B><FONT STYLE="white-space:nowrap">333-207132</FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Commission File Number of depositor) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>0001258361 </B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Central
+Index Key Number of depositor) </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>Citigroup Commercial Mortgage Securities Inc. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of depositor as specified in its charter) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>Citigroup Global Markets Realty Corp. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Central Index Key Number: 0001541001) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>Rialto Mortgage Finance, LLC </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Central Index Key Number: 0001592182) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B><FONT STYLE="white-space:nowrap">MC-Five</FONT> Mile Commercial Mortgage Finance LLC </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Central Index Key Number: 0001576832) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>Walker&nbsp;&amp; Dunlop Commercial Property Funding I CB, LLC </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Central Index Key Number: Not Applicable) </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of sponsor as specified in its charter) </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="50%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">81-3702865</FONT></B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">81-3715819</FONT></B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>New York</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B><FONT STYLE="white-space:nowrap">81-6756202</FONT></B></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction of</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>organization of the issuing entity)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(I.R.S. Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>c/o Citibank, N.A. </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>388 Greenwich Street, 14<SUP STYLE="font-size:85%; vertical-align:top">th</SUP> Floor </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>New York, New York 10013 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Address of principal executive offices of issuing entity) </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(212) <FONT STYLE="white-space:nowrap">816-5614</FONT> </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Registrant&#146;s telephone number, including area code </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Securities registered pursuant to Section&nbsp;12(b) of the Act: </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>None </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Securities
+registered pursuant to section 12(g) of the Act: </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>None </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities
+Act.&nbsp;&nbsp;&nbsp;&nbsp;&#9744;&nbsp;&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;&#9746;&nbsp;&nbsp;No </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark if the registrant is not required
+to file reports pursuant to Section&nbsp;13 or Section&nbsp;15(d) of the Act.&nbsp;&nbsp;&nbsp;&nbsp;&#9744;&nbsp;&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;&#9746;&nbsp;&nbsp;No </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant (1)&nbsp;has filed all reports required to be filed by Section&nbsp;13 or 15(d) of the Securities Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)&nbsp;has been subject to such filing requirements for the past 90
+days.&nbsp;&nbsp;&nbsp;&nbsp;&#9746;&nbsp;&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;&#9744;&nbsp;&nbsp;No </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant has
+submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation <FONT STYLE="white-space:nowrap">S-T</FONT> (&#167; 232.405 of this chapter) during the preceding 12 months (or for such shorter period
+that the registrant was required to submit such files). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Not Applicable </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation <FONT STYLE="white-space:nowrap">S-K</FONT> (&#167; 229.405 of
+this chapter) is not contained herein, and will not be contained, to the best of registrant&#146;s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form
+<FONT STYLE="white-space:nowrap">10-K</FONT> or any amendment to this Form <FONT STYLE="white-space:nowrap">10-K.</FONT> </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Not Applicable
+</P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a
+<FONT STYLE="white-space:nowrap">non-accelerated</FONT> filer, a smaller reporting company, or an emerging growth company. See the definitions of &#147;large accelerated filer,&#148; &#147;accelerated filer,&#148; &#147;smaller reporting
+company,&#148; and &#147;emerging growth company&#148; in Rule <FONT STYLE="white-space:nowrap">12b-2</FONT> of the Exchange Act. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD WIDTH="17%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="58%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="20%"></TD>
+
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom">Large&nbsp;accelerated&nbsp;filer</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9744;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Accelerated&nbsp;filer</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9744;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"><FONT STYLE="white-space:nowrap">Non-accelerated</FONT> filer</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9746;</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Smaller&nbsp;reporting&nbsp;company</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9744;</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom">Emerging&nbsp;growth&nbsp;company</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom">&#9744;</TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period
+for complying with any new or revised financial accounting standards provided pursuant to Section&nbsp;13(a) of the Exchange Act.&nbsp;&nbsp;&nbsp;&nbsp;&#9744; </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant is a shell company (as defined in Rule <FONT STYLE="white-space:nowrap">12b-2</FONT> of the
+Act).&nbsp;&nbsp;&nbsp;&nbsp;&#9744;&nbsp;&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;&#9746;&nbsp;&nbsp;No </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">State the aggregate market value of the voting and <FONT
+STYLE="white-space:nowrap">non-voting</FONT> common equity held by <FONT STYLE="white-space:nowrap">non-affiliates</FONT> computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common
+equity, as of the last business day of the registrant&#146;s most recently completed second fiscal quarter. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Not Applicable </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate by check mark whether the registrant has filed all documents and reports required to be filed by Section&nbsp;12, 13 or 15(d) of the Securities
+Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Not Applicable </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Indicate the number of shares outstanding of each of the registrant&#146;s classes of common stock, as of the latest practicable date. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Not Applicable </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>DOCUMENTS
+INCORPORATED BY REFERENCE </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">List hereunder the following documents if incorporated by reference and the Part of the Form
+<FONT STYLE="white-space:nowrap">10-K</FONT> (e.g., Part I, Part II, etc.) into which the document is incorporated: (1)&nbsp;Any annual report to security holders; (2)&nbsp;Any proxy or information statement; and (3)&nbsp;Any prospectus filed
+pursuant to Rule 424(b) or (c)&nbsp;under the Securities Act of 1933. The listed documents should be clearly described for identification purposes (e.g., annual report to security holders for fiscal year ended December&nbsp;24, 1980). </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">Not Applicable </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>EXPLANATORY
+NOTES </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The purpose of this Amendment No.&nbsp;1 (the &#147;Amendment&#148;) to our Annual Report on Form <FONT STYLE="white-space:nowrap">10-K</FONT>
+for the fiscal year ended December&nbsp;31, 2018, as filed with the Securities and Exchange Commission (the &#147;Commission&#148;) on March&nbsp;28, 2019 under Commission File
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">No.&nbsp;333-207132-06</FONT></FONT><B> </B>(the &#147;Original <FONT STYLE="white-space:nowrap">Form&nbsp;10-K&#148;),</FONT> is to file with the Commission: (i)&nbsp;a revised
+report on assessment of compliance with servicing criteria for asset-backed securities of Rialto Capital Advisors, LLC as Exhibit 33.7, as a replacement of the report on assessment of compliance filed as Exhibit 33.7 to the Original <FONT
+STYLE="white-space:nowrap">Form&nbsp;10-K;</FONT> and (ii)&nbsp;a revised attestation report on assessment of compliance with servicing criteria for asset-backed securities for Rialto Capital Advisors, LLC as Exhibit 34.7, as a replacement of the
+attestation report on assessment of compliance with servicing criteria for asset-backed securities filed as Exhibit&nbsp;34.7 to the Original <FONT STYLE="white-space:nowrap">Form&nbsp;10-K.</FONT> No other changes have been made to the Original
+Form <FONT STYLE="white-space:nowrap">10-K</FONT> other than the changes described above. </P> <P STYLE="font-size:8pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PART I </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item 1. Business. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item 1A. Risk Factors. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted.<B> </B> </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item 1B. Unresolved Staff Comments. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">None. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item 2. Properties</B>. </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item 3. Legal Proceedings. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item 4. Mine Safety Disclosures. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Not applicable. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PART II </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item 5. Market for
+Registrant&#146;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item 6. Selected Financial Data. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item 7. Management&#146;s Discussion and Analysis of Financial Condition and Results of Operations. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted.<B> </B> </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item 7A. Quantitative and Qualitative
+Disclosures About Market Risk. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item 8.
+Financial Statements and Supplementary Data. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item 9A. Controls and Procedures. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item 9B. Other Information. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">None. </P>
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PART III </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item 10. Directors, Executive Officers and Corporate Governance. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item 11. Executive Compensation. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item 12. Security Ownership of Certain Beneficial
+Owners and Management and Related Stockholder Matters. </B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P>
+<P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item 13. Certain Relationships and Related Transactions, and Director Independence. </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item 14. Principal Accounting Fees and Services.
+</B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Omitted. </P> <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>ADDITIONAL DISCLOSURE ITEMS
+REQUIRED BY GENERAL INSTRUCTION J(2) </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1112(b) of Regulation AB </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">No mortgage loan in the pool assets for Citigroup Commercial Mortgage Trust <FONT STYLE="white-space:nowrap">2016-C2</FONT> constitutes a significant obligor
+within the meaning of Item 1101(k)(2) of Regulation AB. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1114(b)(2) and Item 1115(b) of Regulation AB </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">No entity or group of affiliated entities provides any external credit enhancement, uses any derivative instruments or other support for the certificates
+within this transaction. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1117 of Regulation AB </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Disclosure from Citibank, N.A., as Certificate Administrator: </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Citibank, N.A. (&#147;Citibank&#148;) is acting as the Certificate Administrator of this commercial mortgage-backed securities (&#147;CMBS&#148;) transaction.
+In the ordinary course of business, Citibank is involved in a number of legal proceedings, including in connection with its role as trustee of certain residential mortgage-backed securities (&#147;RMBS&#148;) transactions. Certain of these Citibank
+as trustee-related matters are disclosed herein. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On June&nbsp;18, 2014, a civil action was filed against Citibank in the Supreme Court of the State of
+New York by a group of investors in 48 private-label RMBS trusts for which Citibank allegedly serves or did serve as trustee, asserting claims for purported violations of the Trust Indenture Act of 1939 (the &#147;Trust Indenture Act&#148;), breach
+of contract, breach of fiduciary duty and negligence based on Citibank&#146;s alleged failure to perform its duties as trustee for the 48 RMBS trusts. On November&nbsp;24, 2014, plaintiffs sought leave to withdraw this action. On the same day, a
+smaller subset of similar plaintiff investors in 27 private-label RMBS trusts for which Citibank allegedly serves or did serve as trustee, filed a new civil action against Citibank in the United States District Court for the Southern District of New
+York asserting similar claims as the prior action filed in state court. In January&nbsp;2015, the court closed plaintiffs&#146; original state court action. On September&nbsp;8, 2015, the federal court dismissed all claims as to 24 of the 27 trusts
+and allowed certain of the claims to proceed as to the other three trusts. Subsequently, plaintiffs voluntarily dismissed all claims with respect to two of the three trusts. On April&nbsp;7, 2017, Citibank filed a motion for summary judgment.
+Plaintiffs filed its consolidated opposition brief and cross motion for partial summary judgment on May&nbsp;22, 2017. Briefing on those motions was completed on August&nbsp;4, 2017. On March&nbsp;22, 2018, the court granted Citibank&#146;s motion
+for summary judgment in its entirety, denied Plaintiffs&#146; motion for summary judgment and ordered the clerk to close the case. On April&nbsp;20, 2018, plaintiffs filed a notice of appeal. Plaintiffs&#146; opening brief was filed on
+August&nbsp;3, 2018. Citibank filed its opposition on November&nbsp;2, 2018. Plaintiffs&#146; filed their reply on November&nbsp;16, 2018. </P>
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On November&nbsp;24, 2015, the same investors that brought the federal case brought a new civil action in
+the Supreme Court of the State of New York related to 25 private-label RMBS trusts for which Citibank allegedly serves or did serve as trustee. This case includes the 24 trusts previously dismissed in the federal action, and one additional trust.
+The investors assert claims for breach of contract, breach of fiduciary duty, breach of duty to avoid conflicts of interest, and violation of New York&#146;s Streit Act (the &#147;Streit Act&#148;). Following oral argument on Citibank&#146;s motion
+to dismiss, plaintiffs filed an amended complaint on August&nbsp;5, 2016. On June&nbsp;27, 2017, the state court issued a decision, dismissing the event of default claims, mortgage-file-related claims, the fiduciary duty claims, and the conflict of
+interest claims. The decision sustained certain breach of contract claims including the claim alleging discovery of breaches of representations and warranties, a claim related to robo-signing, and the implied covenant of good faith claim. Citibank
+appealed the lower court&#146;s decision, and on January&nbsp;16, 2018, the Appellate Division, First Department, dismissed the claims related to robo-signing and the implied covenant of good faith, but allowed plaintiffs&#146; claim alleging
+discovery of breaches of representations and warranties to proceed. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On August&nbsp;19, 2015, the Federal Deposit Insurance Corporation (&#147;FDIC&#148;)
+as receiver for a failed financial institution filed a civil action against Citibank in the Southern District of New York. This action relates to one private-label RMBS trust for which Citibank formerly served as trustee. FDIC asserts claims for
+breach of contract, violation of the Streit Act, and violation of the Trust Indenture Act. Citibank jointly briefed a motion to dismiss with The Bank of New York Mellon and U.S. Bank, N.A., entities that have also been sued by FDIC in their capacity
+as trustee, and these cases have all been consolidated in front of Judge Carter. On September&nbsp;30, 2016, the court granted the motion to dismiss without prejudice for lack of subject matter jurisdiction. On October&nbsp;14, 2016, FDIC filed a
+motion for reargument or relief from judgment from the court&#146;s dismissal order. On July&nbsp;11, 2017, Judge Carter ruled on the motion for reconsideration regarding his dismissal of the action. He denied reconsideration of his decision on
+standing, but granted leave to amend the complaint by October&nbsp;9, 2017. The FDIC subsequently requested an extension of time to file its amended complaint, which was granted. The FDIC filed its amended complaint on December&nbsp;8, 2017.
+Defendants jointly filed a motion to dismiss the amended complaint on March&nbsp;13, 2018. On April&nbsp;18, 2018, plaintiff filed its opposition. Defendants filed their joint reply on May&nbsp;3, 2018. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">There can be no assurances as to the outcome of litigation or the possible impact of litigation on the trustee or the RMBS trusts. However, Citibank denies
+liability and continues to vigorously defend against these litigations. Furthermore, neither the above-disclosed litigations nor any other pending legal proceeding involving Citibank will materially affect Citibank&#146;s ability to perform its
+duties as Certificate Administrator under the pooling and servicing agreement for this CMBS transaction. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Disclosure from Deutsche Bank Trust Company
+Americas, as Trustee: </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Deutsche Bank Trust Company Americas (&#147;DBTCA&#148;) and Deutsche Bank National Trust Company (&#147;DBNTC&#148;) have been
+sued by investors in civil litigation concerning their role as trustees of certain residential mortgage-backed securities (&#147;RMBS&#148;) trusts. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On
+June&nbsp;18, 2014, a group of investors, including funds managed by Blackrock Advisors, LLC, PIMCO-Advisors, L.P., and others, filed an action against DBNTC and DBTCA in New York State Supreme Court alleging that DBNTC and DBTCA failed to perform
+purported duties, as trustees for 544 private-label RMBS trusts, to enforce breaches of representations and warranties as to mortgage loans held by the trusts and to enforce breaches by servicers of their mortgage loan servicing obligations for the
+trusts. During the course of the litigation, plaintiffs dismissed the case from New York State Supreme Court and refiled two separate cases, one in the U.S. District Court for the Southern District of New York (the &#147;<I>BlackRock </I>SDNY
+Case&#148;) and the other in the Superior Court of California, Orange County (the &#147;<I>BlackRock </I>California Case&#148;). Pursuant to a settlement among the parties, the <I>BlackRock </I>SDNY Case was dismissed on December&nbsp;6, 2018 and
+the <I>BlackRock </I>California Case was dismissed on January&nbsp;11, 2019. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On September&nbsp;27, 2017, DBTCA was added as a defendant to a case brought
+by certain special purpose entities including Phoenix Light SF Limited in the U.S. District Court for the Southern District of New York, in which the plaintiffs previously alleged incorrectly that DBNTC served as trustee for all 43 of the trusts at
+issue. On September&nbsp;27, 2017, plaintiffs filed a third amended complaint that names DBTCA as a defendant in addition to DBNTC. DBTCA serves as trustee for one of the 43 trusts at issue. DBNTC serves as trustee for the other 42 trusts at issue.
+Plaintiffs&#146; third amended complaint brings claims for violation of the U.S. Trust Indenture Act of 1939 (&#147;TIA&#148;); breach of contract; breach of fiduciary duty; negligence and gross negligence; violation of New York&#146;s Streit Act
+(the &#147;Streit Act&#148;); and breach of the covenant of good faith. However, in the third amended complaint, plaintiffs acknowledge that, before DBTCA was added to the case, the court dismissed plaintiffs&#146; TIA Act claims, negligence and
+gross negligence claims, Streit Act claims, claims for breach of the covenant of good faith, and certain theories of plaintiffs&#146; breach of contract claims, and plaintiffs only include these claims to preserve any rights on appeal. Plaintiffs
+allege damages of &#147;hundreds of millions of dollars.&#148; On November&nbsp;13, 2017, DBNTC and DBTCA filed an answer to the third amended complaint. On December&nbsp;7, 2018, DBNTC and DBTCA filed a motion for summary judgment. Also on
+December&nbsp;7, 2018, plaintiffs, jointly with Commerzbank AG (<I>see</I> description of <I>Commerzbank</I> case below), filed a motion for partial summary judgment. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On November&nbsp;30, 2017, DBTCA was added as a defendant to a case brought by Commerzbank AG (&#147;Commerzbank&#148;) in the U.S. District Court for the
+Southern District of New York, in which Commerzbank previously alleged incorrectly that DBNTC served as </P>
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">
+trustee for all 50 of the trusts at issue. On November&nbsp;30, 2017, Commerzbank filed a second amended complaint that names DBTCA as a defendant in addition to DBNTC. DBTCA serves as trustee
+for one of the 50 trusts at issue. DBNTC serves as trustee for the other 49 trusts at issue. Commerzbank&#146;s second amended complaint brings claims for violation of the TIA; breach of contract; breach of fiduciary duty; negligence; violation of
+the Streit Act; and breach of the covenant of good faith. However, in the second amended complaint, Commerzbank acknowledges that, before DBTCA was added to the case, the court dismissed Commerzbank&#146;s TIA claims for the trusts governed by
+pooling and servicing agreements, as well as its Streit Act claims and claims for breach of the covenant of good faith, and Commerzbank only includes these claims to preserve any rights on appeal. The second amended complaint alleges that DBNTC and
+DBTCA caused Commerzbank to suffer &#147;hundreds of millions of dollars in losses,&#148; but the complaint does not include a demand for money damages in a sum certain. On January&nbsp;29, 2018, DBNTC and DBTCA filed an answer to the second amended
+complaint. On December&nbsp;7, 2018, DBNTC and DBTCA filed a motion for summary judgment. Also on December&nbsp;7, 2018, Commerzbank, jointly with the <I>Phoenix Light </I>plaintiffs, filed a motion for partial summary judgment. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">On December&nbsp;30, 2015, IKB International, S.A. in Liquidation and IKB Deutsche Industriebank A.G. (collectively, &#147;IKB&#148;), as an investor in 37
+RMBS trusts, filed a summons with notice in the Supreme Court of the State of New York, New York County, against DBNTC and DBTCA as trustees of the trusts. On May&nbsp;27, 2016, IKB served its complaint asserting claims for breach of contract,
+breach of fiduciary duty, breach of duty to avoid conflicts of interest, violation of the Streit Act, violation of the TIA, violation of Regulation AB, and violation of Section&nbsp;9 of the Uniform Commercial Code. IKB alleges that DBNTC and DBTCA
+are liable for over U.S. $268&nbsp;million in damages. On October&nbsp;5, 2016, DBNTC and DBTCA, together with several other trustees defending lawsuits by IKB, filed a joint motion to dismiss. On January&nbsp;6, 2017 and June&nbsp;20, 2017, IKB
+voluntarily dismissed with prejudice all claims as to seven trusts. As of March&nbsp;1, 2019, DBNTC and DBTCA&#146;s motion to dismiss has been briefed and is awaiting decision by the court. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">It is DBTCA&#146;s belief that it has no pending legal proceedings (including, based on DBTCA&#146;s present evaluation, the litigation disclosed in the
+foregoing paragraphs) that would materially affect its ability to perform its duties under the related servicing agreement for this transaction. </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Disclosure from Wells Fargo Bank, National Association, as certificate administrator and as custodian for the Vertex Pharmaceuticals HQ mortgage loan under
+the WFCM 2016-BNK1 PSA, the Opry Mills mortgage loan under the JPMCC <FONT STYLE="white-space:nowrap">2016-JP2</FONT> PSA, the Staybridge Suites Times Square mortgage loan under the DBJPM <FONT STYLE="white-space:nowrap">2016-C3</FONT> PSA, the
+Kroger (Roundy&#146;s) Distribution Center mortgage loan under the WFCM <FONT STYLE="white-space:nowrap">2016-C35</FONT> PSA and the Jay Scutti Plaza mortgage loan under the CSAIL <FONT STYLE="white-space:nowrap">2016-C6</FONT> PSA: </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Since June&nbsp;18, 2014, a group of institutional investors have filed civil complaints in the Supreme Court of the State of New&nbsp;York, New York County,
+and later the U.S. District Court for the Southern District of New York against Wells Fargo Bank, N.A., (&#147;Wells Fargo Bank&#148;) in its capacity as trustee for certain residential mortgage backed securities (&#147;RMBS&#148;) trusts. The
+complaints against Wells Fargo Bank alleged that the trustee caused losses to investors and asserted causes of action based upon, among other things, the trustee&#146;s alleged failure to: (i)&nbsp;notify and enforce repurchase obligations of
+mortgage loan sellers for purported breaches of representations and warranties, (ii)&nbsp;notify investors of alleged events of default, and (iii)&nbsp;abide by appropriate standards of care following alleged events of default. Relief sought
+included money damages in an unspecified amount, reimbursement of expenses, and equitable relief. Wells Fargo Bank has reached an agreement, in which it denies any wrongdoing, to resolve these claims on a classwide basis for the 271 RMBS trusts
+currently at issue. The settlement agreement is subject to court approval. Separate lawsuits against Wells Fargo Bank making similar allegations filed by certain other institutional investors concerning 57 RMBS trusts in New&nbsp;York federal and
+state court are not covered by the agreement. With respect to the foregoing litigations, Wells Fargo Bank believes plaintiffs&#146; claims are without merit and intends to contest the claims vigorously, but there can be no assurances as to the
+outcome of the litigations or the possible impact of the litigations on Wells Fargo Bank or the RMBS trusts. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1119 of Regulation AB </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Provided previously in the prospectus of the Registrant relating to the issuing entity and filed on August&nbsp;30, 2016 pursuant to Rule 424(b)(2) of the
+Securities Act of 1933, as amended. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1122 of Regulation AB </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The reports on assessment of compliance with servicing criteria for asset-backed securities and related attestation reports are attached hereto under
+Item&nbsp;15. </P>
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The report on assessment of compliance with applicable servicing criteria furnished pursuant to Item 1122 of
+Regulation AB by Midland Loan Services, a Division of PNC Bank National Association (&#147;Midland&#148;) discloses that a material instance of noncompliance occurred, as described below: </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Material Instance of Noncompliance </P> <P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">In certain
+instances, the Schedule AL Files (Item 1125 of Regulation AB) were not reported in accordance with the terms specified in the transaction agreements, in conflict with Item 1122(d)(3)(i): &#147;Reports to investors, including those to be filed with
+the Commission, are maintained in accordance with the transaction agreements and applicable Commission requirements. Specifically, such reports: (A)&nbsp;Are prepared in accordance with timeframes and other terms set forth in the transaction
+agreements&#148;. The noncompliance consisted of omitted or inaccurately reported numbers due to the following: (1)&nbsp;the initial setup files contained information at the asset level, and Midland was required to manually compile the information
+to present it at the loan level as required by Schedule AL; and (2)&nbsp;certain reporting requirements required manual processing by Midland, including the use of various data computation formulas, quality control checks and analysis. </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">The identified instances did not involve the servicing of the assets backing the asset-backed securities covered in this Form <FONT
+STYLE="white-space:nowrap">10-K</FONT> report. </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Steps Taken to Remedy the Material Instance of Noncompliance </P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; margin-left:9%; font-size:10pt; font-family:Times New Roman">Midland is currently remediating the Schedule AL reporting for the CMBS transactions found to be incorrect, and will be making improvements to
+its systems, processes and procedures to support its Schedule AL reporting obligations. </P> <P STYLE="margin-top:18pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;1123 of Regulation AB </B></P>
+<P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">The servicer compliance statements are attached hereto under Item 15. </P>
+<P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>PART IV </B></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>Item&nbsp;15. Exhibits,
+Financial Statement Schedules. </B></P> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(a)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">List the following documents filed as a part of the report: </P></TD></TR></TABLE>
+<P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(1)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Not Applicable </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(2)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Not Applicable </P></TD></TR></TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%">&nbsp;</TD>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(3)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Exhibits listed below are either included or incorporated by reference as indicated below:
+</P></TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Exhibit</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Times New Roman; " ALIGN="center"><B>Number</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; border-bottom:1.00pt solid #000000; display:table-cell; font-size:8pt; font-family:Times New Roman; " ALIGN="center"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000153949716003456/exh_4-1.htm">Pooling and Servicing Agreement, dated as of August&nbsp;
+1, 2016, by and among Citigroup Commercial Mortgage Securities Inc., as depositor, Midland Loan Services, a Division of PNC Bank, National Association, as master servicer, <FONT STYLE="white-space:nowrap">C-III</FONT> Asset Management LLC, as special servicer,
+Pentalpha Surveillance LLC, as operating advisor and asset representations reviewer, Citibank, N.A., as certificate administrator, and Deutsche Bank Trust Company Americas, as trustee (filed as Exhibit 4.1 to the registrant&#146;s Current Report on
+Form <FONT STYLE="white-space:nowrap">8-K</FONT> dated August<U></U>&nbsp;30, 2016, and filed by the registrant on August<U></U>&nbsp;30, 2016 under Commission File
+No.<U></U><FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">&nbsp;333-207132-06,</FONT></FONT> and is incorporated by reference herein). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000153949716003456/exh_4-2bnk1psa.htm">Pooling and Servicing Agreement, dated as of August<U></U>&nbsp;
+1, 2016 (the &#147;WFCM 2016-BNK1 PSA&#148;), by and among Wells Fargo Commercial Mortgage Securities, Inc., as depositor, Wells Fargo Bank, National Association, as master servicer, Rialto Capital Advisors, LLC, as special servicer, Park Bridge Lender
+ Services LLC, as operating advisor and asset representations reviewer, Wells Fargo Bank, National Association, as certificate administrator, and Wilmington Trust, National Association, as trustee (filed as Exhibit 4.2 to the registrant&#146;s
+Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> dated August<U></U>&nbsp;30, 2016, and filed by the registrant on August<U></U>&nbsp;30, 2016 under Commission File No.<U></U><FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">&nbsp;333-207132-06,</FONT></FONT> and is incorporated by reference herein)<SUP STYLE="font-size:85%; vertical-align:top">1</SUP>. </A></TD></TR>
+</TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:11%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">1</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The Vertex Pharmaceuticals HQ mortgage loan, which represented approximately 9.8% of the initial pool balance
+of the issuing entity, is part of a loan combination comprised of the subject mortgage loan included in the issuing entity and one or more companion loan(s) that are held outside the issuing entity. The Vertex Pharmaceuticals HQ mortgage loan and
+the related companion loan(s) are serviced pursuant to the WFCM 2016-BNK1 PSA. </P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="95%"></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.3</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000153949716003456/exh_4-3jp2psa.htm">Pooling and Servicing Agreement, dated as of July 1, 2016 (the &#147;JPMCC 2016-JP2 PSA&#148;), by and among J.P. Morgan Chase<U></U> Commercial
+<U></U> Mortgage<U></U> Securities<U></U> Corp.,<U></U> as<U></U> depositor,<U></U> Wells<U></U> Fargo<U></U> Bank,<U></U> National<U></U> Association,<U></U> as<U></U> master<U></U> servicer, LNR<U></U> Partners,<U></U> LLC,<U></U> as<U></U>
+special<U></U> servicer,<U></U> Pentalpha<U></U> Surveillance<U></U> LLC,<U></U> as<U></U> operating<U></U> advisor<U></U> and<U></U> asset<U></U> representations reviewer,<U></U> Wells<U></U> Fargo<U></U> Bank,<U></U> National<U></U>
+Association,<U></U> as<U></U> certificate<U></U> administrator,<U></U> and<U></U> Wilmington<U></U> Trust,<U></U> National Association,<U></U> as<U></U> trustee<U></U> (filed<U></U> as<U></U> Exhibit<U></U> 4.3<U></U> to<U></U> the<U></U>
+registrant&#146;s<U></U> Current<U></U> Report<U></U> on<U></U> Form<U></U> <FONT STYLE="white-space:nowrap">8-K</FONT><U></U> dated<U></U> August<U></U> 30,<U></U> 2016,<U></U> and<U></U> filed by<U></U> the<U></U> registrant<U></U> on<U></U>
+August<U></U> 30,<U></U> 2016<U></U> under<U></U> Commission<U></U> File<U></U> No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT><U></U> and<U></U> is<U></U> incorporated<U></U> by<U></U>
+reference<U></U> herein)<SUP STYLE="font-size:85%; vertical-align:top">2</SUP>. </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.4</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000153949716003456/exh_4-4dbjpmpsa.htm">Pooling and Servicing Agreement, dated as of August<U></U> 1, 2016 (the &#147;DBJPM <FONT STYLE="white-space:nowrap">2016-C3</FONT> PSA&#148;),
+ by and among Deutsche Mortgage<U></U> &amp; Asset Receiving Corporation, as depositor, Midland Loan Services, a Division of PNC Bank, National Association, as master servicer and special servicer, Park Bridge Lender Services LLC, as operating
+advisor and asset representations reviewer, Wells Fargo Bank, National Association, as certificate administrator, paying agent, custodian, and trustee (filed as Exhibit 4.4 to the registrant&#146;s Current Report on Form <FONT
+STYLE="white-space:nowrap">8-K</FONT> dated August<U></U>&nbsp;30, 2016, and filed by the registrant on August<U></U> 30, 2016 under Commission File No.<U></U>
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein)<SUP STYLE="font-size:85%; vertical-align:top">3</SUP>. </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.5</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000153949716003456/exh_4-5citipsa.htm">Pooling and Servicing Agreement, dated as of May<U></U> 1, 2016 (the &#147;CGCMT <FONT STYLE="white-space:nowrap">2016-C1</FONT> PSA&#148;),
+ by and among Citigroup Commercial Mortgage Securities Inc., as depositor, Wells Fargo Bank, National Association, as master servicer, LNR Partners, LLC, as special servicer, Park Bridge Lender Services LLC, as operating advisor and asset
+representations reviewer, Citibank, N.A., as certificate administrator, and Deutsche Bank Trust Company Americas, as trustee (filed as Exhibit 4.5 to the registrant&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> dated
+August<U></U> 30, 2016, and filed by the registrant on August<U></U> 30, 2016 under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein)<SUP
+STYLE="font-size:85%; vertical-align:top">4</SUP>. </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.6</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000153949716003456/exh_4-6wellspsa.htm">Pooling and Servicing Agreement, dated as of July<U></U> 1, 2016 (the &#147;WFCM <FONT STYLE="white-space:nowrap">2016-C35</FONT> PSA&#148;),
+ between Wells Fargo Commercial Mortgage Securities, Inc., as depositor, Wells Fargo Bank, National Association, as general master servicer, CWCapital Asset Management LLC, as general special servicer, National Cooperative Bank, N.A., as NCB master
+servicer and NCB special servicer, Pentalpha Surveillance LLC, as operating advisor and asset representations reviewer, Wells Fargo Bank, National Association, as certificate administrator, and Wilmington Trust, National Association, as trustee
+(filed as Exhibit 4.6 to the registrant&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> dated August<U></U> 30, 2016, and filed by the registrant on August<U></U> 30, 2016 under Commission File No.<U></U> <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein)<SUP STYLE="font-size:85%; vertical-align:top">5</SUP>. </A></TD></TR>
+</TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:11%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">2</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The Opry Mills mortgage loan, which represented approximately 9.8% of the initial pool balance of the issuing
+entity, is part of a loan combination comprised of the subject mortgage loan included in the issuing entity and one or more companion loan(s) that are held outside the issuing entity. The Opry Mills mortgage loan and the related companion loan(s)
+are serviced pursuant to the JPMCC <FONT STYLE="white-space:nowrap">2016-JP2</FONT> PSA. </P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">3</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The Staybridge Suites Times Square mortgage loan, which represented approximately 4.7% of the initial pool
+balance of the issuing entity, is part of a loan combination comprised of the subject mortgage loan included in the issuing entity and one or more companion loan(s) that are held outside the issuing entity. The Staybridge Suites Times Square
+mortgage loan and the related companion loan(s) are serviced pursuant to the DBJPM <FONT STYLE="white-space:nowrap">2016-C3</FONT> PSA. </P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">4</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The Hyatt Regency Huntington Beach Resort &amp; Spa mortgage loan, which represented approximately 4.3% of the
+initial pool balance of the issuing entity, is part of a loan combination comprised of the subject mortgage loan included in the issuing entity and one or more companion loan(s) that are held outside the issuing entity. The Hyatt Regency Huntington
+Beach Resort &amp; Spa mortgage loan and the related companion loan(s) are serviced pursuant to the CGCMT <FONT STYLE="white-space:nowrap">2016-C1</FONT> PSA. </P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">5</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The Kroger (Roundy&#146;s) Distribution Center mortgage loan, which represented approximately 2.8% of the
+initial pool balance of the issuing entity, is part of a loan combination comprised of the subject mortgage loan included in the issuing entity and one or more companion loan(s) that are held outside the issuing entity. The Kroger (Roundy&#146;s)
+Distribution Center mortgage loan and the related companion loan(s) are serviced pursuant to the WFCM <FONT STYLE="white-space:nowrap">2016-C35</FONT> PSA. </P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="93%"></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>4.7</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000153949716003456/exh_4-7csailpsa.htm">Pooling<U></U> and<U></U> Servicing<U></U> Agreement,<U></U> dated<U></U> as<U></U> of<U></U> May<U></U> 1,<U></U> 2016<U></U> (the<U></U> &#147;CSAIL
+<U></U> <FONT STYLE="white-space:nowrap">2016-C6</FONT><U></U> PSA&#148;),<U></U> by<U></U> and<U></U> among<U></U> Credit<U></U> Suisse Commercial<U></U> Mortgage<U></U> Securities<U></U> Corp.,<U></U> as<U></U> depositor,<U></U> KeyBank<U></U>
+National<U></U> Association,<U></U> as<U></U> master<U></U> servicer,<U></U> Torchlight<U></U> Loan Services,<U></U> LLC,<U></U> as<U></U> special<U></U> servicer,<U></U> Park<U></U> Bridge<U></U> Lender<U></U> Services<U></U> LLC,<U></U> as<U></U>
+operating<U></U> advisor<U></U> and<U></U> asset<U></U> representations reviewer,<U></U> and<U></U> Wells<U></U> Fargo<U></U> Bank,<U></U> National<U></U> Association,<U></U> as<U></U> certificate<U></U> administrator<U></U> and<U></U>
+trustee<U></U> (filed<U></U> as<U></U> Exhibit<U></U> 4.7<U></U> to<U></U> the registrant&#146;s<U></U> Current<U></U> Report<U></U> on<U></U> Form<U></U> <FONT STYLE="white-space:nowrap">8-K</FONT><U></U> dated<U></U> August<U></U> 30,<U></U>
+2016,<U></U> and<U></U> filed<U></U> by<U></U> the<U></U> registrant<U></U> on<U></U> August<U></U> 30,<U></U> 2016<U></U> under Commission<U></U> File<U></U> No.<U></U>
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT><U></U> and<U></U> is<U></U> incorporated<U></U> by<U></U> reference<U></U> herein)<SUP STYLE="font-size:85%; vertical-align:top">6</SUP>. </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>31</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d815608dex31.htm">Rule <FONT STYLE="white-space:nowrap">15d-14(d)</FONT> Certification </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Reports on assessment of compliance with servicing criteria for asset-backed securities.<SUP STYLE="font-size:85%; vertical-align:top">7</SUP></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex331.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Midland Loan Services, a Division of PNC Bank, National
+ Association, as master servicer (filed as Exhibit 33.1 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U>
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex332.htm">Report<U></U> on<U></U> assessment<U></U> of<U></U> compliance<U></U> with<U></U> servicing<U></U> criteria<U></U> for<U></U> asset-backed<U>
+</U> securities,<U></U> <FONT STYLE="white-space:nowrap">C-III</FONT><U></U> Asset<U></U> Management<U></U> LLC,<U></U> as special<U></U> servicer (filed<U></U> as<U></U> Exhibit<U></U> 33.2<U></U> to<U></U> the<U></U> registrant&#146;s<U></U>
+Original<U></U> Form<U></U> <FONT STYLE="white-space:nowrap">10-K</FONT><U></U> under<U></U> Commission<U></U> File<U></U> No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and<U></U> is<U></U>
+incorporated<U></U> by<U></U> reference<U></U> herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.3</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex333.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Pentalpha Surveillance LLC, as operating advisor (filed
+ as Exhibit 33.3 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated
+by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.4</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex334.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Citibank, N.A., as certificate administrator (filed as
+ Exhibit 33.4 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by
+reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.5</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex335.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Deutsche Bank Trust Company Americas, as custodian (filed
+as Exhibit 33.5 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated
+by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.6</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex336.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association, as master servicer
+ for the Vertex Pharmaceuticals HQ mortgage loan under the WFCM 2016-BNK1 PSA (filed as Exhibit 33.6 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U>
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.7</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d815608dex337.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Rialto Capital Advisors, LLC, as special servicer for the Vertex Pharmaceuticals HQ mortgage loan under the WFCM 2016-BNK1
+ PSA </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.8</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex338.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Park Bridge Lender Services LLC, as operating advisor
+ for the Vertex Pharmaceuticals HQ mortgage loan under the WFCM 2016-BNK1 PSA (filed as Exhibit 33.8 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U>
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.9</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex339.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association, as certificate
+ administrator for the Vertex Pharmaceuticals HQ mortgage loan under the WFCM 2016-BNK1 PSA (filed as Exhibit 33.9 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.10</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3310.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association, as custodian
+ for the Vertex Pharmaceuticals HQ mortgage loan under the WFCM 2016-BNK1 PSA (filed as Exhibit 33.10 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U>
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.11</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3311.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, CoreLogic Commercial Real Estate Services, Inc., as
+ servicing function participant for the Vertex Pharmaceuticals HQ mortgage loan under the WFCM 2016-BNK1 PSA (filed as Exhibit 33.11 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U>
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+</TABLE> <P STYLE="font-size:6pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:11%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">6</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The Jay Scutti Plaza mortgage loan, which represented approximately 2.7% of the initial pool balance of the
+issuing entity, is part of a loan combination comprised of the subject mortgage loan included in the issuing entity and one or more companion loan(s) that are held outside the issuing entity. The Jay Scutti Plaza mortgage loan and the related
+companion loan(s) are serviced pursuant to the CSAIL <FONT STYLE="white-space:nowrap">2016-C6</FONT> PSA. </P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">7</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Pursuant to Instruction 3 to Item 1122 of Regulation AB, the reports on assessment of compliance with servicing
+criteria and attestation reports on assessment of compliance with servicing criteria of (i) CWCapital Asset Management LLC, as general special servicer for the Kroger (Roundy&#146;s) Distribution Center mortgage loan under the WFCM <FONT
+STYLE="white-space:nowrap">2016-C35</FONT> PSA, (ii) KeyBank National Association, as master servicer for the Jay Scutti Plaza mortgage loan under the CSAIL <FONT STYLE="white-space:nowrap">2016-C6</FONT> PSA, and (iii) Torchlight Loan Services,
+LLC, as special servicer for the Jay Scutti Plaza mortgage loan under the CSAIL <FONT STYLE="white-space:nowrap">2016-C6</FONT> PSA, are not included in this report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> because each of CWCapital Asset
+Management LLC, KeyBank National Association and Torchlight Loan Services, LLC performed activities that address the servicing criteria specified in Item 1122(d) of Regulation AB with respect to 5% or less of the pool assets of the issuing entity.
+</P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="93%"></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.12</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3312.htm">Report<U></U> on<U></U> assessment<U></U> of<U></U> compliance<U></U> with<U></U> servicing<U></U> criteria<U></U> for<U></U> asset-backed
+<U></U> securities,<U></U> National<U></U> Tax<U></U> Search,<U></U> LLC,<U></U> as servicing<U></U> function<U></U> participant<U></U> for<U></U> the<U></U> Vertex<U></U> Pharmaceuticals<U></U> HQ<U></U> mortgage<U></U> loan<U></U> under<U></U>
+the<U></U> WFCM<U></U> 2016-BNK1<U></U> PSA (filed as<U></U> Exhibit<U></U> 33.12<U></U> to<U></U> the<U></U> registrant&#146;s<U></U> Original<U></U> Form<U></U> <FONT STYLE="white-space:nowrap">10-K</FONT><U></U> under<U></U> Commission<U></U>
+File<U></U> No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT><U></U> and<U></U> is<U></U> incorporated<U></U> by reference<U></U> herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.13</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex336.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association, as master servicer
+ for the Opry Mills mortgage loan under the JPMCC <FONT STYLE="white-space:nowrap">2016-JP2</FONT> PSA (filed as Exhibit 33.6 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.14</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3314.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, LNR Partners, LLC, as special servicer for the Opry
+ Mills mortgage loan under the JPMCC <FONT STYLE="white-space:nowrap">2016-JP2</FONT> PSA (filed as Exhibit 33.14 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.15</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex333.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Pentalpha Surveillance LLC, as operating advisor for
+ the Opry Mills mortgage loan under the JPMCC <FONT STYLE="white-space:nowrap">2016-JP2</FONT> PSA (filed as Exhibit 33.3 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.16</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex339.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association, as certificate
+ administrator for the Opry Mills mortgage loan under the JPMCC <FONT STYLE="white-space:nowrap">2016-JP2</FONT> PSA (filed as Exhibit 33.9 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File
+No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.17</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3310.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association, as custodian
+ for the Opry Mills mortgage loan under the JPMCC <FONT STYLE="white-space:nowrap">2016-JP2</FONT> PSA (filed as Exhibit 33.10 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.18</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3311.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, CoreLogic Commercial Real Estate Services, Inc., as
+ servicing function participant for the Opry Mills mortgage loan under the JPMCC <FONT STYLE="white-space:nowrap">2016-JP2</FONT> PSA (filed as Exhibit 33.11 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under
+Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.19</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3312.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, National Tax Search, LLC, as servicing function participant
+ for the Opry Mills mortgage loan under the JPMCC <FONT STYLE="white-space:nowrap">2016-JP2</FONT> PSA (filed as Exhibit 33.12 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.20</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex331.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Midland Loan Services, a Division of PNC Bank, National
+ Association, as master servicer for the Staybridge Suites Times Square mortgage loan under the DBJPM <FONT STYLE="white-space:nowrap">2016-C3</FONT> PSA (filed as Exhibit 33.1 to the registrant&#146;s Original Form
+<FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.21</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex331.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Midland Loan Services a Division of PNC Bank, National
+ Association, as special servicer for the Staybridge Suites Times Square mortgage loan under the DBJPM <FONT STYLE="white-space:nowrap">2016-C3</FONT> PSA (filed as Exhibit 33.1 to the registrant&#146;s Original Form
+<FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.22</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex338.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Park Bridge Lender Services LLC, as operating advisor
+ for the Staybridge Suites Times Square mortgage loan under the DBJPM <FONT STYLE="white-space:nowrap">2016-C3</FONT> PSA (filed as Exhibit 33.8 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission
+File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.23</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex339.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association, as certificate
+ administrator for the Staybridge Suites Times Square mortgage loan under the DBJPM <FONT STYLE="white-space:nowrap">2016-C3</FONT> PSA (filed as Exhibit 33.9 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under
+Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.24</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3310.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association, as custodian
+ for the Staybridge Suites Times Square mortgage loan under the DBJPM <FONT STYLE="white-space:nowrap">2016-C3</FONT> PSA (filed as Exhibit 33.10 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission
+File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.25</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex336.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association, as master servicer
+ for the Hyatt Regency Huntington Beach Resort<U></U> &amp; Spa mortgage loan under the CGCMT <FONT STYLE="white-space:nowrap">2016-C1</FONT> PSA (filed as Exhibit 33.6 to the registrant&#146;s Original Form
+<FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.26</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3314.htm">Report<U></U> on<U></U> assessment<U></U> of<U></U> compliance<U></U> with<U></U> servicing<U></U> criteria<U></U> for<U></U> asset-backed
+<U></U> securities,<U></U> LNR<U></U> Partners,<U></U> LLC,<U></U> as<U></U> special servicer<U></U> for<U></U> the<U></U> Hyatt<U></U> Regency<U></U> Huntington<U></U> Beach<U></U> Resort<U></U> &amp; Spa<U></U> mortgage<U></U> loan<U></U>
+under<U></U> the<U></U> CGCMT<U></U> <FONT STYLE="white-space:nowrap">2016-C1</FONT><U></U> PSA<U></U> (filed<U></U> as Exhibit<U></U> 33.14<U></U> to<U></U> the<U></U> registrant&#146;s<U></U> Original<U></U> Form<U></U> <FONT
+STYLE="white-space:nowrap">10-K</FONT><U></U> under<U></U> Commission<U></U> File<U></U> No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT><U></U> and<U></U> is<U></U> incorporated<U></U> by
+reference<U></U> herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.27</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex338.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Park Bridge Lender Services LLC, as operating advisor
+ for the Hyatt Regency Huntington Beach Resort<U></U> &amp; Spa mortgage loan under the CGCMT <FONT STYLE="white-space:nowrap">2016-C1</FONT> PSA (filed as Exhibit 33.8 to the registrant&#146;s Original Form
+<FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+</TABLE>
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="93%"></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.28</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex334.htm">Report<U></U> on<U></U> assessment<U></U> of<U></U> compliance<U></U> with<U></U> servicing<U></U> criteria<U></U> for<U></U> asset-backed<U>
+</U> securities,<U></U> Citibank,<U></U> N.A.,<U></U> as<U></U> certificate administrator<U></U> for<U></U> the<U></U> Hyatt<U></U> Regency<U></U> Huntington<U></U> Beach<U></U> Resort<U></U> &amp; Spa<U></U> mortgage<U></U> loan<U></U> under<U></U>
+the<U></U> CGCMT<U></U> <FONT STYLE="white-space:nowrap">2016-C1</FONT><U></U> PSA (filed<U></U> as<U></U> Exhibit<U></U> 33.4<U></U> to<U></U> the<U></U> registrant&#146;s<U></U> Original<U></U> Form<U></U>
+<FONT STYLE="white-space:nowrap">10-K</FONT><U></U> under<U></U> Commission<U></U> File<U></U> No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT><U></U> and<U></U> is incorporated<U></U>
+by<U></U> reference<U></U> herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.29</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex335.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Deutsche Bank Trust Company Americas, as custodian for
+the Hyatt Regency Huntington Beach Resort<U></U> &amp; Spa mortgage loan under the CGCMT <FONT STYLE="white-space:nowrap">2016-C1</FONT> PSA (filed as Exhibit 33.5 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT>
+under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.30</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3311.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, CoreLogic Commercial Real Estate Services, Inc., as
+ servicing function participant for the Hyatt Regency Huntington Beach Resort<U></U> &amp; Spa mortgage loan under the CGCMT <FONT STYLE="white-space:nowrap">2016-C1</FONT> PSA (filed as Exhibit 33.11 to the registrant&#146;s Original Form <FONT
+STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.31</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3312.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, National Tax Search, LLC, as servicing function participant
+ for the Hyatt Regency Huntington Beach Resort<U></U> &amp; Spa mortgage loan under the CGCMT <FONT STYLE="white-space:nowrap">2016-C1</FONT> PSA (filed as Exhibit 33.12 to the registrant&#146;s Original Form
+<FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.32</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex336.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association, as general master
+servicer for the Kroger (Roundy&#146;s) Distribution Center mortgage loan under the WFCM <FONT STYLE="white-space:nowrap">2016-C35</FONT> PSA (filed as Exhibit 33.6 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT>
+under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.33</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex333.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Pentalpha Surveillance LLC, as operating advisor for
+ the Kroger (Roundy&#146;s) Distribution Center mortgage loan under the WFCM <FONT STYLE="white-space:nowrap">2016-C35</FONT> PSA (filed as Exhibit 33.3 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under
+Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.34</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex339.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association, as certificate
+ administrator for the Kroger (Roundy&#146;s) Distribution Center mortgage loan under the WFCM <FONT STYLE="white-space:nowrap">2016-C35</FONT> PSA (filed as Exhibit 33.9 to the registrant&#146;s Original Form
+<FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.35</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3310.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association, as custodian
+ for the Kroger (Roundy&#146;s) Distribution Center mortgage loan under the WFCM <FONT STYLE="white-space:nowrap">2016-C35</FONT> PSA (filed as Exhibit 33.10 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under
+Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.36</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3311.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, CoreLogic Commercial Real Estate Services, Inc., as
+ servicing function participant for the Kroger (Roundy&#146;s) Distribution Center mortgage loan under the WFCM <FONT STYLE="white-space:nowrap">2016-C35</FONT> PSA (filed as Exhibit 33.11 to the registrant&#146;s Original Form <FONT
+STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.37</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3312.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, National Tax Search, LLC, as servicing function participant
+ for the Kroger (Roundy&#146;s) Distribution Center mortgage loan under the WFCM <FONT STYLE="white-space:nowrap">2016-C35</FONT> PSA (filed as Exhibit 33.12 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under
+Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.38</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex338.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Park Bridge Lender Services LLC, as operating advisor
+ for the Jay Scutti Plaza mortgage loan under the CSAIL <FONT STYLE="white-space:nowrap">2016-C6</FONT> PSA (filed as Exhibit 33.8 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.39</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex339.htm">Report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association, as certificate
+ administrator for the Jay Scutti Plaza mortgage loan under the CSAIL <FONT STYLE="white-space:nowrap">2016-C6</FONT> PSA (filed as Exhibit 33.9 to the registrant&#146;s Original <FONT STYLE="white-space:nowrap">Form&nbsp;10-K</FONT> under
+Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>33.40</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3310.htm">Report<U></U> on<U></U> assessment<U></U> of<U></U> compliance<U></U> with<U></U> servicing<U></U> criteria<U></U> for<U></U> asset-backed
+<U></U> securities,<U></U> Wells<U></U> Fargo<U></U> Bank,<U></U> National Association,<U></U> as<U></U> custodian<U></U> for<U></U> the<U></U> Jay<U></U> Scutti<U></U> Plaza<U></U> mortgage<U></U> loan<U></U> under<U></U> the<U></U> CSAIL<U></U> <FONT
+STYLE="white-space:nowrap">2016-C6</FONT><U></U> PSA<U></U> (filed<U></U> as<U></U> Exhibit<U></U> 33.10<U></U> to the<U></U> registrant&#146;s<U></U> Original<U></U> Form<U></U> <FONT STYLE="white-space:nowrap">10-K</FONT><U></U> under<U></U>
+Commission<U></U> File<U></U> No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT><U></U> and<U></U> is<U></U> incorporated<U></U> by<U></U> reference<U></U> herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Attestation reports on assessment of compliance with servicing criteria for asset-backed securities.</TD></TR>
+</TABLE>
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="93%"></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex341.htm">Attestation<U></U> report<U></U> on<U></U> assessment<U></U> of<U></U> compliance<U></U> with<U></U> servicing<U></U> criteria<U></U> for<U>
+</U> asset-backed<U></U> securities,<U></U> Midland<U></U> Loan<U></U> Services, a Division<U></U> of<U></U> PNC<U></U> Bank,<U></U> National<U></U> Association,<U></U> as<U></U> master<U></U> servicer (filed<U></U> as<U></U> Exhibit<U></U>
+34.1<U></U> to<U></U> the<U></U> registrant&#146;s<U></U> Original<U></U> Form <FONT STYLE="white-space:nowrap">10-K</FONT><U></U> under<U></U> Commission<U></U> File<U></U> No.<U></U>
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT><U></U> and<U></U> is<U></U> incorporated<U></U> by<U></U> reference<U></U> herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex342.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, <FONT STYLE="white-space:nowrap">C-III</FONT> Asset
+ Management LLC, as special servicer (filed as Exhibit 34.2 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U>
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.3</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex343.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Pentalpha Surveillance LLC, as operating
+ advisor (filed as Exhibit 34.3 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and
+is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.4</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex344.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Citibank, N.A., as certificate administrator
+ (filed as Exhibit 34.4 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is
+incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.5</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex345.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Deutsche Bank Trust Company Americas, as
+ custodian (filed as Exhibit 34.5 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and
+is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.6</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex346.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association, as
+ master servicer for the Vertex Pharmaceuticals HQ mortgage loan under the WFCM 2016-BNK1 PSA (filed as Exhibit 34.6 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.7</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="d815608dex347.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Rialto Capital Advisors, LLC, as special servicer for the Vertex Pharmaceuticals HQ mortgage loan under the
+ WFCM 2016-BNK1 PSA </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.8</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex348.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Park Bridge Lender Services LLC, as operating
+ advisor for the Vertex Pharmaceuticals HQ mortgage loan under the WFCM 2016-BNK1 PSA (filed as Exhibit 34.8 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.9</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex349.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association, as
+ certificate administrator for the Vertex Pharmaceuticals HQ mortgage loan under the WFCM 2016-BNK1 PSA (filed as Exhibit 34.9 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.10</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3410.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association,
+ as custodian for the Vertex Pharmaceuticals HQ mortgage loan under the WFCM 2016-BNK1 PSA (filed as Exhibit 34.10 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.11</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3411.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, CoreLogic Commercial Real Estate Services,
+ Inc., as servicing function participant for the Vertex Pharmaceuticals HQ mortgage loan under the WFCM 2016-BNK1 PSA (filed as Exhibit 34.11 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File
+No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.12</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3412.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, National Tax Search, LLC, as servicing function
+ participant for the Vertex Pharmaceuticals HQ mortgage loan under the WFCM 2016-BNK1 PSA (filed as Exhibit 34.12 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.13</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex346.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association, as
+ master servicer for the Opry Mills mortgage loan under the JPMCC <FONT STYLE="white-space:nowrap">2016-JP2</FONT> PSA (filed as Exhibit 34.6 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File
+No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.14</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3414.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, LNR Partners, LLC, as special servicer for
+ the Opry Mills mortgage loan under the JPMCC <FONT STYLE="white-space:nowrap">2016-JP2</FONT> PSA (filed as Exhibit 34.14 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.15</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex343.htm">Attestation<U></U> report<U></U> on<U></U> assessment<U></U> of<U></U> compliance<U></U> with<U></U> servicing<U></U> criteria<U></U> for<U>
+</U> asset-backed<U></U> securities,<U></U> Pentalpha<U></U> Surveillance LLC,<U></U> as<U></U> operating<U></U> advisor<U></U> for<U></U> the<U></U> Opry<U></U> Mills<U></U> mortgage<U></U> loan<U></U> under<U></U> the<U></U> JPMCC<U></U> <FONT
+STYLE="white-space:nowrap">2016-JP2</FONT><U></U> PSA<U></U> (filed<U></U> as<U></U> Exhibit<U></U> 34.3<U></U> to<U></U> the registrant&#146;s<U></U> Original<U></U> Form<U></U> <FONT STYLE="white-space:nowrap">10-K</FONT><U></U> under<U></U>
+Commission<U></U> File<U></U> No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT><U></U> and<U></U> is<U></U> incorporated<U></U> by<U></U> reference<U></U> herein) </A></TD></TR>
+</TABLE>
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="93%"></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.16</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex349.htm">Attestation<U></U> report<U></U> on<U></U> assessment<U></U> of<U></U> compliance<U></U> with<U></U> servicing<U></U> criteria<U></U> for<U>
+</U> asset-backed<U></U> securities,<U></U> Wells<U></U> Fargo<U></U> Bank, National<U></U> Association,<U></U> as<U></U> certificate<U></U> administrator<U></U> for<U></U> the<U></U> Opry<U></U> Mills<U></U> mortgage<U></U> loan<U></U> under<U></U>
+the<U></U> JPMCC<U></U> <FONT STYLE="white-space:nowrap">2016-JP2</FONT><U></U> PSA<U></U> (filed as<U></U> Exhibit<U></U> 34.9<U></U> to<U></U> the<U></U> registrant&#146;s<U></U> Original<U></U> Form<U></U>
+<FONT STYLE="white-space:nowrap">10-K</FONT><U></U> under<U></U> Commission<U></U> File<U></U> No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT><U></U> and<U></U> is<U></U> incorporated<U></U>
+by reference<U></U> herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.17</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3410.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association,
+ as custodian for the Opry Mills mortgage loan under the JPMCC <FONT STYLE="white-space:nowrap">2016-JP2</FONT> PSA (filed as Exhibit 34.10 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File
+No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.18</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3411.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, CoreLogic Commercial Real Estate Services,
+ Inc., as servicing function participant for the Opry Mills mortgage loan under the JPMCC <FONT STYLE="white-space:nowrap">2016-JP2</FONT> PSA (filed as Exhibit 34.11 to the registrant&#146;s Original Form
+<FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.19</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3412.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, National Tax Search, LLC, as servicing function
+ participant for the Opry Mills mortgage loan under the JPMCC <FONT STYLE="white-space:nowrap">2016-JP2</FONT> PSA (filed as Exhibit 34.12 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File
+No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.20</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex341.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Midland Loan Services, a Division of PNC
+ Bank, National Association, as master servicer for the Staybridge Suites Times Square mortgage loan under the DBJPM <FONT STYLE="white-space:nowrap">2016-C3</FONT> PSA (filed as Exhibit 34.1 to the registrant&#146;s Original Form <FONT
+STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.21</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex341.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Midland Loan Services a Division of PNC Bank,
+ National Association, as special servicer for the Staybridge Suites Times Square mortgage loan under the DBJPM <FONT STYLE="white-space:nowrap">2016-C3</FONT> PSA (filed as Exhibit 34.1 to the registrant&#146;s Original Form <FONT
+STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.22</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex348.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Park Bridge Lender Services LLC, as operating
+ advisor for the Staybridge Suites Times Square mortgage loan under the DBJPM <FONT STYLE="white-space:nowrap">2016-C3</FONT> PSA (filed as Exhibit 34.8 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under
+Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.23</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex349.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association, as
+ certificate administrator for the Staybridge Suites Times Square mortgage loan under the DBJPM <FONT STYLE="white-space:nowrap">2016-C3</FONT> PSA (filed as Exhibit 34.9 to the registrant&#146;s Original Form
+<FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.24</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3410.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association,
+ as custodian for the Staybridge Suites Times Square mortgage loan under the DBJPM <FONT STYLE="white-space:nowrap">2016-C3</FONT> PSA (filed as Exhibit 34.10 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under
+Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.25</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex346.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association, as
+ master servicer for the Hyatt Regency Huntington Beach Resort<U></U> &amp; Spa mortgage loan under the CGCMT <FONT STYLE="white-space:nowrap">2016-C1</FONT> PSA (filed as Exhibit 34.6 to the registrant&#146;s Original Form <FONT
+STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.26</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3414.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, LNR Partners, LLC, as special servicer for
+ the Hyatt Regency Huntington Beach Resort<U></U> &amp; Spa mortgage loan under the CGCMT <FONT STYLE="white-space:nowrap">2016-C1</FONT> PSA (filed as Exhibit 34.14 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT>
+under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.27</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex348.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Park Bridge Lender Services LLC, as operating
+ advisor for the Hyatt Regency Huntington Beach Resort<U></U> &amp; Spa mortgage loan under the CGCMT <FONT STYLE="white-space:nowrap">2016-C1</FONT> PSA (filed as Exhibit 34.8 to the registrant&#146;s Original Form
+<FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.28</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex344.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Citibank, N.A., as certificate administrator
+ for the Hyatt Regency Huntington Beach Resort<U></U> &amp; Spa mortgage loan under the CGCMT <FONT STYLE="white-space:nowrap">2016-C1</FONT> PSA (filed as Exhibit 34.4 to the registrant&#146;s Original Form
+<FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+</TABLE>
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="93%"></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.29</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex345.htm">Attestation<U></U> report<U></U> on<U></U> assessment<U></U> of<U></U> compliance<U></U> with<U></U> servicing<U></U> criteria<U></U> for<U>
+</U> asset-backed<U></U> securities,<U></U> Deutsche<U></U> Bank<U></U> Trust Company<U></U> Americas,<U></U> as<U></U> custodian<U></U> for<U></U> the<U></U> Hyatt<U></U> Regency<U></U> Huntington<U></U> Beach<U></U> Resort<U></U> &amp; Spa<U></U>
+mortgage<U></U> loan<U></U> under<U></U> the CGCMT<U></U> <FONT STYLE="white-space:nowrap">2016-C1</FONT><U></U> PSA<U></U> (filed<U></U> as<U></U> Exhibit<U></U> 34.5<U></U> to<U></U> the<U></U> registrant&#146;s<U></U> Original<U></U> Form<U></U> <FONT
+STYLE="white-space:nowrap">10-K</FONT><U></U> under<U></U> Commission<U></U> File<U></U> No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT><U></U> and<U></U> is<U></U> incorporated<U></U>
+by<U></U> reference<U></U> herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.30</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3411.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, CoreLogic Commercial Real Estate Services,
+ Inc., as servicing function participant for the Hyatt Regency Huntington Beach Resort<U></U> &amp; Spa mortgage loan under the CGCMT <FONT STYLE="white-space:nowrap">2016-C1</FONT> PSA (filed as Exhibit 34.11 to the registrant&#146;s Original Form <FONT
+STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.31</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3412.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, National Tax Search, LLC, as servicing function
+ participant for the Hyatt Regency Huntington Beach Resort<U></U> &amp; Spa mortgage loan under the CGCMT <FONT STYLE="white-space:nowrap">2016-C1</FONT> PSA (filed as Exhibit 34.12 to the registrant&#146;s Original Form <FONT
+STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.32</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex346.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association, as
+ general master servicer for the Kroger (Roundy&#146;s) Distribution Center mortgage loan under the WFCM <FONT STYLE="white-space:nowrap">2016-C35</FONT> PSA (filed as Exhibit 34.6 to the registrant&#146;s Original Form <FONT
+STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.33</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex343.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Pentalpha Surveillance LLC, as operating
+ advisor for the Kroger (Roundy&#146;s) Distribution Center mortgage loan under the WFCM <FONT STYLE="white-space:nowrap">2016-C35</FONT> PSA (filed as Exhibit 34.3 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT>
+under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.34</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex349.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association, as
+ certificate administrator for the Kroger (Roundy&#146;s) Distribution Center mortgage loan under the WFCM <FONT STYLE="white-space:nowrap">2016-C35</FONT> PSA (filed as Exhibit 34.9 to the registrant&#146;s Original Form <FONT
+STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.35</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3410.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association,
+ as custodian for the Kroger (Roundy&#146;s) Distribution Center mortgage loan under the WFCM <FONT STYLE="white-space:nowrap">2016-C35</FONT> PSA (filed as Exhibit 34.10 to the registrant&#146;s Original Form
+<FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.36</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3411.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, CoreLogic Commercial Real Estate Services,
+ Inc., as servicing function participant for the Kroger (Roundy&#146;s) Distribution Center mortgage loan under the WFCM <FONT STYLE="white-space:nowrap">2016-C35</FONT> PSA (filed as Exhibit 34.11 to the registrant&#146;s Original Form <FONT
+STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.37</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3412.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, National Tax Search, LLC, as servicing function
+ participant for the Kroger (Roundy&#146;s) Distribution Center mortgage loan under the WFCM <FONT STYLE="white-space:nowrap">2016-C35</FONT> PSA (filed as Exhibit 34.12 to the registrant&#146;s Original Form
+<FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.38</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex348.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Park Bridge Lender Services, LLC, as operating
+ advisor for the Jay Scutti Plaza mortgage loan under the CSAIL <FONT STYLE="white-space:nowrap">2016-C6</FONT> PSA (filed as Exhibit 34.8 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File
+No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.39</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex349.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association, as
+ certificate administrator for the Jay Scutti Plaza mortgage loan under the CSAIL <FONT STYLE="white-space:nowrap">2016-C6</FONT> PSA (filed as Exhibit 34.9 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under
+Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>34.40</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3410.htm">Attestation report on assessment of compliance with servicing criteria for asset-backed securities, Wells Fargo Bank, National Association,
+ as custodian for the Jay Scutti Plaza mortgage loan under the CSAIL <FONT STYLE="white-space:nowrap">2016-C6</FONT> PSA (filed as Exhibit 34.10 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission
+File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>35</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Servicer compliance statements.<SUP STYLE="font-size:85%; vertical-align:top">8</SUP></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>35.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex351.htm">Servicer compliance statement, Midland Loan Services, a Division of PNC Bank, National Association, as master servicer (filed as Exhibit&nbsp;35.1
+ to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference
+herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>35.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex352.htm">Servicer<U></U> compliance<U></U> statement,<U></U> <FONT STYLE="white-space:nowrap">C-III</FONT><U></U> Asset<U></U> Management<U></U> LLC,
+<U></U> as<U></U> special<U></U> servicer (filed<U></U> as<U></U> Exhibit<U></U> 35.2<U></U> to<U></U> the<U></U> registrant&#146;s Original<U></U> Form<U></U> <FONT STYLE="white-space:nowrap">10-K</FONT><U></U> under<U></U> Commission<U></U>
+File<U></U> No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT><U></U> and<U></U> is<U></U> incorporated<U></U> by<U></U> reference<U></U> herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>35.3</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex353.htm">Servicer compliance statement, Citibank, N.A., as certificate administrator (filed as Exhibit 35.3 to the registrant&#146;s Original Form <FONT
+STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+</TABLE> <P STYLE="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:11%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="2%" VALIGN="top" ALIGN="left"><SUP STYLE="font-size:85%; vertical-align:top">8</SUP>&nbsp;</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">This annual report on Form <FONT STYLE="white-space:nowrap">10-K</FONT> does not include the servicer
+compliance statements of (i) CWCapital Asset Management LLC, as general special servicer for the Kroger (Roundy&#146;s) Distribution Center mortgage loan under the WFCM <FONT STYLE="white-space:nowrap">2016-C35</FONT> PSA, (ii) KeyBank National
+Association, as master servicer for the Jay Scutti Plaza mortgage loan under the CSAIL <FONT STYLE="white-space:nowrap">2016-C6</FONT> PSA, and (iii) Torchlight Loan Services, LLC, as special servicer for the Jay Scutti Plaza mortgage loan under the
+CSAIL <FONT STYLE="white-space:nowrap">2016-C6</FONT> PSA, because each of CWCapital Asset Management LLC, KeyBank National Association and Torchlight Loan Services, LLC is an unaffiliated party that services less than 10% of the pool assets of the
+issuing entity, and therefore is not a &#147;servicer&#148; that meets the criteria in Item 1108(a)(2)(i) through (iii) of Regulation AB. </P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="93%"></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>35.4</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex354.htm">Servicer<U></U> compliance<U></U> statement,<U></U> Wells<U></U> Fargo<U></U> Bank,<U></U> National<U></U> Association,<U></U> as<U></U> master
+<U></U> servicer<U></U> for<U></U> the<U></U> Vertex Pharmaceuticals<U></U> HQ<U></U> mortgage<U></U> loan<U></U> under<U></U> the<U></U> WFCM<U></U> 2016-BNK1<U></U> PSA (filed<U></U> as<U></U> Exhibit<U></U> 35.4<U></U> to<U></U> the<U></U>
+registrant&#146;s<U></U> Original Form<U></U> <FONT STYLE="white-space:nowrap">10-K</FONT><U></U> under<U></U> Commission<U></U> File<U></U> No.<U></U>
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT><U></U> and<U></U> is<U></U> incorporated<U></U> by<U></U> reference<U></U> herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>35.5</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex355.htm">Servicer compliance statement, Rialto Capital Advisors, LLC, as special servicer for the Vertex Pharmaceuticals HQ mortgage loan under the WFCM
+2016-BNK1 PSA (filed as Exhibit 35.5 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT>
+and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>35.6</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex356.htm">Servicer compliance statement, Wells Fargo Bank, National Association, as certificate administrator for the Vertex Pharmaceuticals HQ mortgage
+ loan under the WFCM 2016-BNK1 PSA (filed as Exhibit 35.6 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U>
+<FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>35.7</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex357.htm">Servicer compliance statement, Wells Fargo Bank, National Association, as master servicer for the Opry Mills mortgage loan under the JPMCC
+<FONT STYLE="white-space:nowrap">2016-JP2</FONT> PSA (filed as Exhibit 35.7 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>35.8</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex358.htm">Servicer compliance statement, LNR Partners, LLC, as special servicer for the Opry Mills mortgage loan under the JPMCC <FONT
+STYLE="white-space:nowrap">2016-JP2</FONT> PSA (filed as Exhibit 35.8 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>35.9</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex356.htm">Servicer compliance statement, Wells Fargo Bank, National Association, as certificate administrator for the Opry Mills mortgage loan under the
+JPMCC <FONT STYLE="white-space:nowrap">2016-JP2</FONT> PSA (filed as Exhibit 35.6 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>35.10</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex351.htm">Servicer compliance statement, Midland Loan Services, a Division of PNC Bank, National Association, as master servicer for the Staybridge Suites
+ Times Square mortgage loan under the DBJPM <FONT STYLE="white-space:nowrap">2016-C3</FONT> PSA (filed as Exhibit 35.1 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>35.11</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex351.htm">Servicer compliance statement, Midland Loan Services a Division of PNC Bank, National Association, as special servicer for the Staybridge Suites
+ Times Square mortgage loan under the DBJPM <FONT STYLE="white-space:nowrap">2016-C3</FONT> PSA (filed as Exhibit 35.1 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>35.12</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex356.htm">Servicer compliance statement, Wells Fargo Bank, National Association, as certificate administrator for the Staybridge Suites Times Square mortgage
+loan under the DBJPM <FONT STYLE="white-space:nowrap">2016-C3</FONT> PSA (filed as Exhibit 35.6 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>35.13</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3513.htm">Servicer compliance statement, Wells Fargo Bank, National Association, as master servicer for the Hyatt Regency Huntington Beach Resort<U>
+</U> &amp; Spa mortgage loan under the CGCMT <FONT STYLE="white-space:nowrap">2016-C1</FONT> PSA (filed as Exhibit 35.13 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>35.14</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3514.htm">Servicer compliance statement, LNR Partners, LLC, as special servicer for the Hyatt Regency Huntington Beach Resort<U></U> &amp; Spa mortgage
+ loan under the CGCMT <FONT STYLE="white-space:nowrap">2016-C1</FONT> PSA (filed as Exhibit 35.14 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>35.15</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex353.htm">Servicer compliance statement, Citibank, N.A., as certificate administrator for the Hyatt Regency Huntington Beach Resort<U></U> &amp; Spa mortgage
+loan under the CGCMT <FONT STYLE="white-space:nowrap">2016-C1</FONT> PSA (filed as Exhibit 35.3 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>35.16</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex3516.htm">Servicer compliance statement, Wells Fargo Bank, National Association, as general master servicer for the Kroger (Roundy&#146;s) Distribution
+ Center mortgage loan under the WFCM <FONT STYLE="white-space:nowrap">2016-C35</FONT> PSA (filed as Exhibit 35.16 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+</TABLE>
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+
+<TD></TD>
+
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="93%"></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>35.17</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex356.htm">Servicer<U></U> compliance<U></U> statement,<U></U> Wells<U></U> Fargo<U></U> Bank,<U></U> National<U></U> Association,<U></U> as<U></U> certificate
+<U></U> administrator<U></U> for<U></U> the<U></U> Kroger (Roundy&#146;s)<U></U> Distribution<U></U> Center<U></U> mortgage<U></U> loan<U></U> under<U></U> the<U></U> WFCM<U></U> <FONT STYLE="white-space:nowrap">2016-C35</FONT><U></U> PSA<U></U>
+(filed<U></U> as<U></U> Exhibit<U></U> 35.6<U></U> to<U></U> the<U></U> registrant&#146;s Original<U></U> Form<U></U> <FONT STYLE="white-space:nowrap">10-K</FONT><U></U> under<U></U> Commission<U></U> File<U></U> No.<U></U> <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT><U></U> and<U></U> is<U></U> incorporated<U></U> by<U></U> reference<U></U> herein)<U> </U></A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>35.18</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000119312519090135/d666144dex356.htm">Servicer compliance statement, Wells Fargo Bank, National Association, as certificate administrator for the Jay Scutti Plaza mortgage loan under
+the CSAIL <FONT STYLE="white-space:nowrap">2016-C6</FONT> PSA (filed as Exhibit 35.6 to the registrant&#146;s Original Form <FONT STYLE="white-space:nowrap">10-K</FONT> under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein) </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000153949716003456/exh_99-1cgmrc.htm">Mortgage Loan Purchase Agreement, dated as of August<U></U> 1, 2016, between Citigroup Global Markets Realty Corp. and Citigroup Commercial Mortgage
+ Securities Inc., pursuant to which Citigroup Global Markets Realty Corp. sold certain mortgage loans to Citigroup Commercial Mortgage Securities Inc. (filed as Exhibit 99.1 to the registrant&#146;s Current Report on Form <FONT
+STYLE="white-space:nowrap">8-K</FONT> dated August<U></U> 30, 2016, and filed by the registrant on August<U></U> 30, 2016 under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT>
+and is incorporated by reference herein). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.2</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000153949716003456/exh_99-2rialto.htm">Mortgage<U></U> Loan<U></U> Purchase<U></U> Agreement,<U></U> dated<U></U> as<U></U> of<U></U> August<U></U> 1,<U></U> 2016,<U></U> between
+<U></U> Rialto<U></U> Mortgage<U></U> Finance,<U></U> LLC<U></U> and<U></U> Citigroup Commercial<U></U> Mortgage<U></U> Securities<U></U> Inc.,<U></U> pursuant<U></U> to<U></U> which<U></U> Rialto<U></U> Mortgage<U></U> Finance,<U></U> LLC<U></U>
+sold<U></U> certain<U></U> mortgage<U></U> loans<U></U> to Citigroup<U></U> Commercial<U></U> Mortgage<U></U> Securities<U></U> Inc.<U></U> filed<U></U> as<U></U> Exhibit<U></U> 99.2<U></U> to<U></U> the<U></U> registrant&#146;s<U></U>
+Current<U></U> Report<U></U> on<U></U> Form<U></U> <FONT STYLE="white-space:nowrap">8-K</FONT><U></U> dated August<U></U> 30,<U></U> 2016,<U></U> and<U></U> filed<U></U> by<U></U> the<U></U> registrant<U></U> on<U></U> August<U></U> 30,<U></U>
+2016<U></U> under<U></U> Commission<U></U> File<U></U> No.<U></U> <FONT STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT><U></U> and<U></U> is incorporated<U></U> by<U></U> reference<U></U> herein).
+</A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.3</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000153949716003456/exh_99-3mcfivemile.htm">Mortgage Loan Purchase Agreement, dated as of August<U></U> 1, 2016, between <FONT STYLE="white-space:nowrap">MC-Five</FONT> Mile Commercial
+ Mortgage Finance LLC and Citigroup Commercial Mortgage Securities Inc., pursuant to which <FONT STYLE="white-space:nowrap">MC-Five</FONT> Mile Commercial Mortgage Finance LLC sold certain mortgage loans to Citigroup Commercial Mortgage Securities
+Inc. filed as Exhibit 99.3 to the registrant&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> dated August<U></U> 30, 2016, and filed by the registrant on August<U></U> 30, 2016 under Commission File No.<U></U> <FONT
+STYLE="white-space:nowrap"><FONT STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein). </A></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>99.4</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"><A HREF="http://www.sec.gov/Archives/edgar/data/1681031/000153949716003456/exh_99-4walkerdunlop.htm">Mortgage Loan Purchase Agreement, dated as of August<U></U> 1, 2016, between Walker<U></U> &amp; Dunlop Commercial Property Funding I
+CB, LLC and Citigroup Commercial Mortgage Securities Inc., pursuant to which Walker<U></U> &amp; Dunlop Commercial Property Funding I CB, LLC sold certain mortgage loans to Citigroup Commercial Mortgage Securities Inc. (filed as Exhibit 99.4 to the
+registrant&#146;s Current Report on Form <FONT STYLE="white-space:nowrap">8-K</FONT> dated August<U></U> 30, 2016, and filed by the registrant on August<U></U> 30, 2016 under Commission File No.<U></U> <FONT STYLE="white-space:nowrap"><FONT
+STYLE="white-space:nowrap">333-207132-06,</FONT></FONT> and is incorporated by reference herein). </A></TD></TR>
+</TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(b)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">The exhibits required to be filed by Registrant pursuant to Item 601of Regulation <FONT
+STYLE="white-space:nowrap">S-K</FONT> are listed above. </P></TD></TR></TABLE> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR style = "page-break-inside:avoid">
+<TD WIDTH="4%" VALIGN="top" ALIGN="left">(c)</TD>
+<TD ALIGN="left" VALIGN="top"> <P STYLE=" margin-top:0pt ; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman; " ALIGN="left">Not Applicable </P></TD></TR></TABLE>
+</DIV></Center>
+
+
+<p Style='page-break-before:always'>
+<HR SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<Center><DIV STYLE="width:8.5in" align="left">
+ <P STYLE="margin-top:24pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Pursuant to the requirements of Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+
+<TD WIDTH="100%"></TD></TR>
+
+
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Date:&nbsp;November 27, 2019</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Citigroup Commercial Mortgage Securities Inc.</TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">(Depositor)</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman">/s/ Richard Simpson</P></TD></TR>
+<TR STYLE="page-break-inside:avoid ; font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top">Richard Simpson, President</TD></TR>
+</TABLE>
+</DIV></Center>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>

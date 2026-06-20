@@ -12,12 +12,24 @@
 # ==============================================================================
 services:
   allianceai:
-    build: .
+    build:
+      context: .
+      # Build with the host network so pip can resolve PyPI. The host's DNS
+      # is Tailscale MagicDNS; the daemon's default build network can't reach
+      # public DNS, which otherwise fails `pip install` during the build.
+      network: host
     image: allianceai:latest
     container_name: allianceai
     restart: unless-stopped
-    ports:
-      - "8888:8888"            # JupyterLab — change left side to remap host port
+    # This host's DNS is managed entirely by Tailscale MagicDNS (100.100.100.100),
+    # and this network blocks direct public DNS (8.8.8.8/1.1.1.1). The Tailscale
+    # CGNAT resolver is NOT routable from a Docker bridge subnet, so the container
+    # can't resolve anything on its own bridge network. Sharing the host's network
+    # namespace lets the container use the host's working DNS directly.
+    #
+    # Note: with host networking the `ports:` mapping is ignored — JupyterLab
+    # binds 8888 directly on the host. Linux-only (fine on Alpine).
+    network_mode: host
     env_file:
       - .env                   # API keys + provider config
     environment:

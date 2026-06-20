@@ -1,0 +1,1942 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>ccc13c12_10ka-2015.htm
+<TEXT>
+<html>
+<head>
+<title>10-K CCC13C12 201512</title>
+<!--Licensed to: Wells Fargo
+    Document created using EDGARfilings PROfile 3.5.0.0
+    Copyright 1995 - 2016 Summit Financial Printing, LLC.  All rights reserved.-->
+</head>
+<body lang="EN-US" link="blue" vlink="purple">
+<div class="WordSection1">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">UNITED STATES<br>
+ SECURITIES AND EXCHANGE COMMISSION</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">WASHINGTON, D.C. 20549</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">FORM&#160;10&#8209;K/A</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">(Amendment No. 1)</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; TEXT-ALIGN: center">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; TEXT-ALIGN: center">(Mark&#160;one)</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">/X/ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES<br>
+ EXCHANGE ACT OF 1934 </p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;&#160;&#160;&#160;For the fiscal year ended December 31, 2015 <br>
+<br>
+ OR</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">// TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES<br>
+ EXCHANGE ACT OF 1934 </p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">For the transition period from <u>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</u> to <u>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</u></p>
+
+<div id="0A21">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A23">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A24">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">Commission file number of the issuing entity:333-184376-09</p>
+
+<div id="0A28">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the issuing entity:0001587981</p>
+
+<div id="0B30">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">COMM 2013-CCRE12 Mortgage Trust</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the issuing entity as specified in its charter)</p>
+
+<div id="0B35">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the depositor:0001013454</p>
+
+<div id="0B39">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">Deutsche Mortgage &amp; Asset Receiving Corporation</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the depositor as specified in its charter)</p>
+
+<div id="0B44">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the sponsor:0001541294</p>
+
+<div id="0B49">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">German American Capital Corporation</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the sponsor as specified in its charter)</p>
+
+<div id="0B53">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the sponsor:0001541886</p>
+
+<div id="0B56">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">UBS Real Estate Securities Inc.</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the sponsor as specified in its charter)</p>
+
+<div id="0B60">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the sponsor:0001558761</p>
+
+<div id="0B63">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">Cantor Commercial Real Estate Lending, L.P.</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the sponsor as specified in its charter)</p>
+
+<div id="0B67">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0B71">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div style="TEXT-ALIGN: center">
+<table id="A1:J83" class="MsoNormalTable" style="BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" border="0">
+<tr style="HEIGHT: 39.65pt">
+<td id="A75" style="HEIGHT: 39.65pt; WIDTH: 275.4pt; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.75pt; PADDING-RIGHT: 5.75pt" valign="bottom">
+<p class="CoverSubtitle">New York<br>
+(State or other jurisdiction of<br>
+ incorporation or organization of</p>
+
+<p class="CoverSubtitle">the issuing entity)</p>
+</td>
+<td style="HEIGHT: 39.65pt; WIDTH: 275.4pt; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 5.75pt; PADDING-RIGHT: 5.75pt" valign="bottom">
+<p class="CoverSubtitle">38-3918802</p>
+
+<p class="CoverSubtitle">38-3918803</p>
+
+<p class="CoverSubtitle">38-7109049</p>
+
+<p class="CoverSubtitle">(I.R.S. Employer</p>
+
+<p class="CoverSubtitle">Identification Numbers)</p>
+</td>
+</tr>
+</table>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">c/o Wells Fargo Bank, National Association</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">as Certificate Administrator</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">9062 Old Annapolis Road</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;Columbia, MD </p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">(Address of principal executive offices of the issuing entity)</p>
+
+<div id="0A94">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">21045</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">(Zip&#160;Code)</p>
+
+<div id="0A99">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">Registrant&#8217;s telephone number, including area code: </p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">(212) 250-2500</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; TEXT-ALIGN: center">&#160;</p>
+
+<div id="0A104">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Securities registered pursuant to Section 12(b) of the Act: None.</p>
+</div>
+
+<div id="0A106">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A108">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Securities registered pursuant to Section 12(g) of the Act: None.</p>
+</div>
+
+<div id="0A110">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A112">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. / / Yes /X/ No</p>
+</div>
+
+<div id="0A115">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A118">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. / / Yes /X/ No</p>
+</div>
+
+<div id="0A121">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A124">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. /X/ Yes / / No</p>
+</div>
+
+<div id="0A128">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A130">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (Section 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).</p>
+</div>
+
+<div id="0A134">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A136">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Not&#160;applicable.</p>
+</div>
+
+<div id="0A138">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A140">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (Section 229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant&#8217;s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.</p>
+</div>
+
+<div id="0A144">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A146">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Not&#160;applicable.</p>
+</div>
+
+<div id="0A148">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A150">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definitions of &#8220;large accelerated filer&#8221;, &#8220;accelerated filer&#8221; and &#8220;smaller reporting company&#8221; in Rule 12b-2 of the Exchange Act.</p>
+</div>
+
+<div id="0A153">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A155">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Large accelerated filer / / &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Accelerated filer / /<br>
+<br>
+ Non-accelerated filer /X/ (Do not check if a smaller reporting company) &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Smaller reporting company / /</p>
+</div>
+
+<div id="0A158">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A161">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). / / Yes /X/ No</p>
+</div>
+
+<div id="0A164">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A167">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant&#8217;s most recently completed second fiscal quarter.</p>
+</div>
+
+<div id="0A170">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A172">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Not&#160;applicable.</p>
+</div>
+
+<div id="0A174">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A176">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate by check mark whether the registrant has filed all documents and reports required to be filed by Section 12, 13 or 15(d) of the Securities Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court. / / Yes / / No</p>
+</div>
+
+<div id="0A179">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A181">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Not&#160;applicable.</p>
+</div>
+
+<div id="0A183">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A185">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Indicate the number of shares outstanding of each of the registrant&#8217;s classes of common stock, as of the latest practicable date.</p>
+</div>
+
+<div id="0A188">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A191">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Not&#160;applicable.</p>
+</div>
+
+<div id="0A193">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A195">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">DOCUMENTS INCORPORATED BY REFERENCE</p>
+</div>
+
+<div id="0A197">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A199">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">List hereunder the following documents if incorporated by reference and the Part of the Form 10-K (e.g., Part I, Part II, etc.) into which the document is incorporated: (1) Any annual report to security holders; (2) Any proxy or information statement; and (3) Any prospectus filed pursuant to Rule 424(b) or (c) under the Securities Act of 1933. The listed documents should be clearly described for identification purposes (e.g., annual report to security holders for fiscal year ended December 24, 1980).</p>
+</div>
+
+<div id="0A204">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A206">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Not&#160;applicable.</p>
+</div>
+
+<div id="0A208">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A210">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">EXPLANATORY&#160;NOTE</p>
+</div>
+
+<div id="0A212">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A222">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">The purpose of this Amendment No. 1 (the &#8220;Amendment&#8221;) to our Annual Report on Form 10-K for the fiscal year ended December 31, 2015 filed with the Securities and Exchange Commission on March 22, 2016 (the &#8220;Original Form 10-K&#8221;) is to file an amended Report on Assessment of Compliance for CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant, dated February 4, 2016 as a replacement to the Report on Assessment of Compliance filed as Exhibit 33.6 of the Exhibits, Financial Statement Schedules under Item 15 to the Original Form 10-K. Appendix A of Exhibit 33.6 to the Original Form 10-K did not identify whether servicing criteria 1122(d)(4)(ix) was applicable or inapplicable. The amended Exhibit 33.6 included in this Amendment identifies such servicing criteria as inapplicable.</p>
+</div>
+
+<div id="0A297">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<table id="A301:E319" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr style="HEIGHT: 6.35pt">
+<td style="HEIGHT: 6.35pt; WIDTH: 774.75pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" colspan="3">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; TEXT-ALIGN: center"><b>PART&#160;I</b>&#160;</p>
+</td>
+</tr>
+
+<tr style="HEIGHT: 6.35pt">
+<td style="HEIGHT: 6.35pt; WIDTH: 212.65pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" colspan="2">
+<p class="MsoNormal">&#160;</p>
+</td>
+<td style="HEIGHT: 6.35pt; WIDTH: 560.6pt; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in">
+<p class="MsoNormal">&#160;</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;1.</p>
+</td>
+<td id="0B306" style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Business.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;1A.</p>
+</td>
+<td id="0B308" style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Risk&#160;Factors.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;1B.</p>
+</td>
+<td id="0B311" style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Unresolved Staff Comments.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">None.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;2.</p>
+</td>
+<td id="0B314" style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Properties.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;3.</p>
+</td>
+<td id="0B316" style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Legal&#160;Proceedings.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;4.</p>
+</td>
+<td id="0B318" style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Mine Safety Disclosures.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">Not&#160;applicable.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in"></td>
+<td style="WIDTH: 56.8pt; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in"></td>
+<td style="WIDTH: 560.6pt; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in"></td>
+</tr>
+</table>
+
+<p class="MsoNormal">&#160;</p>
+
+<table id="A324:E351" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr style="HEIGHT: 6.35pt">
+<td style="HEIGHT: 6.35pt; WIDTH: 774.75pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" colspan="3">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; TEXT-ALIGN: center"><b>PART&#160;II</b>&#160;</p>
+</td>
+</tr>
+
+<tr style="HEIGHT: 6.35pt">
+<td style="HEIGHT: 6.35pt; WIDTH: 217.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" colspan="2">
+<p class="MsoNormal">&#160;</p>
+</td>
+<td style="HEIGHT: 6.35pt; WIDTH: 555.35pt; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in">
+<p class="MsoNormal">&#160;</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;5.</p>
+</td>
+<td id="0B329" style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Market for Registrant&#8217;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;6.</p>
+</td>
+<td id="0B333" style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Selected Financial Data.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;7.</p>
+</td>
+<td id="0B335" style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;7A.</p>
+</td>
+<td id="0B338" style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Quantitative and Qualitative Disclosures About Market Risk.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;8.</p>
+</td>
+<td id="0B341" style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Financial Statements and Supplementary Data.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;9.</p>
+</td>
+<td id="0B343" style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;9A.</p>
+</td>
+<td id="0B346" style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Controls and Procedures.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;9B.</p>
+</td>
+<td id="0B349" style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Other&#160;Information.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">None.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in"></td>
+<td style="WIDTH: 62.05pt; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in"></td>
+<td style="WIDTH: 555.35pt; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in"></td>
+</tr>
+</table>
+
+<p class="MsoNormal">&#160;</p>
+
+<table id="A356:E375" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr style="HEIGHT: 6.35pt">
+<td style="HEIGHT: 6.35pt; WIDTH: 774.75pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" colspan="3">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; TEXT-ALIGN: center"><b>PART&#160;III</b>&#160;</p>
+</td>
+</tr>
+
+<tr style="HEIGHT: 6.35pt">
+<td style="HEIGHT: 6.35pt; WIDTH: 223pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" colspan="2">
+<p class="MsoNormal">&#160;</p>
+</td>
+<td style="HEIGHT: 6.35pt; WIDTH: 550.25pt; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in">
+<p class="MsoNormal">&#160;</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;10.</p>
+</td>
+<td id="0B361" style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Directors, Executive Officers and Corporate Governance.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;11.</p>
+</td>
+<td id="0B364" style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Executive Compensation.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;12.</p>
+</td>
+<td id="0B367" style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;13.</p>
+</td>
+<td id="0B370" style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Certain Relationships and Related Transactions, and Director Independence.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Item&#160;14.</p>
+</td>
+<td id="0B373" style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal" style="FONT-WEIGHT: bold">Principal Accounting Fees and Services.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+<td style="WIDTH: 618.9pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">Omitted.</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 154.35pt; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in"></td>
+<td style="WIDTH: 67.15pt; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in"></td>
+<td style="WIDTH: 550.25pt; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in"></td>
+</tr>
+</table>
+
+<div id="0A379">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">ADDITIONAL DISCLOSURE ITEMS FOR REGULATION AB</p>
+
+<div id="0A383">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A384">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 1112(b) of Regulation AB, Significant Obligor Financial Information.</p>
+</div>
+
+<div id="0A386">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A387">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">The 175 West Jackson Mortgage Loan (Loan Number 1 on Annex A-1 of the prospectus supplement of the registrant relating to the issuing entity filed on November 6, 2013 pursuant to Rule 424(b)(5)) constitutes a significant obligor within the meaning of Item 1101(k)(2) of Regulation AB as disclosed in the prospectus supplement. In accordance with Item 1112(b) of Regulation AB, the most recent unaudited net operating income of the significant obligor was $28,906,596.00 for the twelve- month period ended November 30, 2015.<br>
+<br>
+ The Miracle Mile Shops Mortgage Loan (Loan Number 2 on Annex A-1 of the prospectus supplement of the registrant relating to the issuing entity filed on November 6, 2013 pursuant to Rule 424(b)(5)) constitutes a significant obligor within the meaning of Item 1101(k)(2) of Regulation AB. In accordance with Item 1112(b) of Regulation AB, the most recent unaudited net operating income of the significant obligor was $45,873,326.32 for the twelve- month period ended December 31, 2015.</p>
+</div>
+
+<div id="0A400">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A401">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 1114(b)(2) of Regulation AB, Significant Enhancement Provider Financial Information.</p>
+</div>
+
+<div id="0A403">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A404">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">No entity or group of affiliated entities provides any external credit enhancement or other support for the certificates within this transaction as described under Item 1114(a) of Regulation AB.</p>
+</div>
+
+<div id="0A407">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A408">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 1115(b) of Regulation AB, Certain Derivatives Instruments (Financial Information).</p>
+</div>
+
+<div id="0A410">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A411">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">No entity or group of affiliated entities provides any derivative instruments or other support for the certificates within this transaction as described under Item 1115 of Regulation AB.</p>
+</div>
+
+<div id="0A413">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A414">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 1117 of Regulation AB, Legal Proceedings.</p>
+</div>
+
+<div id="0A420">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">The registrant knows of no material pending legal proceeding involving the trust or any party related to the trust, other than routine litigation incidental to the duties of those respective parties , and the following, with respect to UBS Real Estate Securities Inc., as sponsor and mortgage loan seller, Wells Fargo Bank, National Association, as certificate administrator and custodian, U.S. Bank National Association, as trustee and Deutsche Bank Trust Company Americas, as certificate administrator and custodian:</p>
+
+<p class="BodyMain" style="MARGIN-TOP: 0in">&#160;</p>
+
+<p class="BodyMain" style="MARGIN-TOP: 0in">UBS Real Estate Securities Inc. (&#8220;<u>UBSRES</u>&#8221;) is currently engaged in litigation with respect to various legacy residential mortgage-backed securities transactions. Some litigants are seeking the repurchase of mortgage loans by UBSRES from certain residential mortgage securitization trusts, on the basis that the loans are allegedly in breach of contractual representations and warranties in governing transaction documents. Other litigants are alleging violations of federal and/or state securities or common law for alleged misrepresentations and omissions in offering documents in connection with the issuance and/or distribution of residential mortgage-backed securities. No assurance can be given that one or more of the foregoing actions will not result in material liability to UBSRES.</p>
+
+<p class="BodyMain" style="MARGIN-TOP: 0in">&#160;</p>
+
+<p class="BodyMain" style="MARGIN-TOP: 0in">On June 18, 2014, a group of institutional investors filed a civil complaint in the Supreme Court of the State of New York, New York County, against Wells Fargo Bank, N.A., in its capacity as trustee under 276 residential mortgage backed securities (&#8220;<u>RMBS</u>&#8221;) trusts, which was later amended on July 18, 2014, to increase the number of trusts to 284 RMBS trusts.&#160; On November 24, 2014, the plaintiffs filed a motion to voluntarily dismiss the state court action without prejudice.&#160; That same day, a group of institutional investors filed a civil complaint in the United States District Court for the Southern District of New York (the &#8220;<u>District Court</u>&#8221;) against Wells Fargo Bank, alleging claims against the bank in its capacity as trustee for 274 RMBS trusts (the &#8220;<u>Complaint</u>&#8221;). In December 2014, the plaintiffs&#8217; motion to voluntarily dismiss their original state court action was granted.&#160; As with the prior state court action, the Complaint is one of six similar complaints filed contemporaneously against RMBS trustees (Deutsche Bank, Citibank, HSBC, Bank of New York Mellon and US Bank) by a group of institutional investor plaintiffs.&#160; The Complaint against Wells Fargo Bank alleges that the trustee caused losses to investors and asserts causes of action based upon, among other things, the trustee's alleged failure to (i) enforce repurchase obligations of mortgage loan sellers for purported breaches of representations and warranties, (ii) notify investors of alleged events of default purportedly caused by breaches by mortgage loan servicers, and (iii) abide by appropriate standards of care following alleged events of default. Relief sought includes money damages in an unspecified amount, reimbursement of expenses, and equitable relief.&#160; Other cases (collectively, the &#8220;<u>Additional Complaints</u>&#8221;) alleging similar causes of action have been filed against Wells Fargo Bank and other trustees in the same court by RMBS investors in these and other transactions, and these cases have been consolidated before the same judge. On January 19, 2016, an order was entered in connection with the Complaint in which the District Court declined to exercise jurisdiction over 261 trusts at issue in the Complaint; the District Court also allowed Plaintiffs to file amended complaints if they so chose, and three amended complaints have been filed. There can be no assurances as to the outcome of the litigation, or the possible impact of the litigation on the trustee or the RMBS trusts. However, Wells Fargo Bank denies liability and believes that it has performed its obligations under the RMBS trusts in good faith, that its actions were not the cause of any losses to investors, and that it has meritorious defenses, and it intends to contest the plaintiffs&#8217; claims vigorously.</p>
+
+<p class="BodyMain" style="MARGIN-TOP: 0in">&#160;</p>
+
+<p style="MARGIN: 0in 0in 0pt">Since 2014 various plaintiffs or groups of plaintiffs, primarily investors, have filed claims against U.S. Bank National Association (&#8220;<u>U.S. Bank</u>&#8221;), in its capacity as trustee or successor trustee (as the case may be) under certain residential mortgage backed securities (&#8220;<u>RMBS</u>&#8221;) trusts. The plaintiffs or plaintiff groups have filed substantially similar complaints against other RMBS trustees, including Deutsche Bank, Citibank, HSBC, Bank of New York Mellon and Wells Fargo. The complaints against U.S. Bank allege the trustee caused losses to investors as a result of alleged failures by the sponsors, mortgage loan sellers and servicers for these RMBS trusts and assert causes of action based upon the trustee's purported failure to enforce repurchase obligations of mortgage loan sellers for alleged breaches of representations and warranties concerning loan quality. The complaints also assert that the trustee failed to notify securityholders of purported events of default allegedly caused by breaches of servicing standards by mortgage loan servicers and that the trustee purportedly failed to abide by a heightened standard of care following alleged events of default.</p>
+
+<p style="MARGIN: 0in 0in 0pt">&#160;</p>
+
+<p style="MARGIN: 0in 0in 0pt">Currently U.S. Bank is a defendant in multiple actions alleging individual or class action claims against the trustee with respect to multiple trusts as described above with the most substantial case being:&#160;<i>BlackRock&#160;Balanced Capital Portfolio et al v. U.S. Bank National Association</i>, No. 605204/2015 (N.Y. Sup. Ct.) (class action alleging claims with respect to approximately 794 trusts) and its companion case&#160;<i>BlackRock&#160;Core Bond Portfolio et al v. U.S Bank National Association</i>, No. 14-cv-9401 (S.D.N.Y.). Some of the trusts implicated in the aforementioned Blackrock cases, as well as other trusts, are involved in actions brought by separate groups of plaintiffs related to no more than 100 trusts per case.</p>
+
+<p style="MARGIN: 0in 0in 0pt">&#160;</p>
+
+<p class="BodyMain" style="MARGIN-TOP: 0in">There can be no assurance as to the outcome of any of the litigation, or the possible impact of these litigations on the trustee or the RMBS trusts. However, U.S. Bank denies liability and believes that it has performed its obligations under the RMBS trusts in good faith, that its actions were not the cause of losses to investors and that it has meritorious defenses, and it intends to contest the plaintiffs&#8217; claims vigorously.</p>
+
+<p class="BodyMain" style="MARGIN-TOP: 0in">&#160;</p>
+
+<p class="MsoNormal">On June 18, 2014, a group of investors, including funds managed by Blackrock Advisors, LLC, PIMCO-Advisors, L.P., and others, filed a derivative action against Deutsche Bank Trust Company Americas (&#8220;<u>DBTCA</u>&#8221;) and Deutsche Bank National Trust Company (&#8220;<u>DBNTC</u>&#8221;)&#160; in New York State Supreme Court purportedly on behalf of and for the benefit of 544 private-label RMBS trusts asserting claims for alleged violations of the U.S. Trust Indenture Act of 1939 (TIA), breach of contract, breach of fiduciary duty and negligence based on DBNTC and DBTCA&#8217;s alleged failure to perform their duties as trustees for the trusts. Plaintiffs subsequently dismissed their state court complaint and filed a derivative and class action complaint in the U.S. District Court for the Southern District of New York on behalf of and for the benefit of 564 private-label RMBS trusts, which substantially overlapped with the trusts at issue in the state court action. The complaint alleges that the trusts at issue have suffered total realized collateral losses of U.S. $89.4 billion, but the complaint does not include a demand for money damages in a sum certain. DBNTC and DBTCA filed a motion to dismiss, and on January 19, 2016, the court partially granted the motion on procedural grounds: as to the 500 trusts that are governed by Pooling and Servicing Agreements, the court declined to exercise jurisdiction. The court did not rule on substantive defenses asserted in the motion to dismiss as to the 64 trusts formed under indentures for which it retained jurisdiction.&#160; Instead, the court ordered plaintiffs to file an amended complaint as to those indenture trusts. On February 23, 2016, plaintiffs filed an amended complaint as to 62 of the 64 indenture trusts included in the original U.S. District Court complaint. DBNTC and DBTCA will have an opportunity to file new defensive motions with respect to this amended complaint. It is anticipated that plaintiffs will, in the near future, file a new state court complaint as to some or all of the 500 trusts governed by Pooling and Servicing Agreements which were dismissed from the U.S. District Court action.&#160; </p>
+
+<p class="MsoNormal">&#160;</p>
+
+<p class="MsoNormal">On December 30, 2015, IKB International, S.A. and IKB Deutsche Industriebank A.G. filed a Summons With Notice in New York state court naming as defendants DBNTC and DBTCA, as trustees of 37 RMBS trusts (the &#8220;<u>IKB Action</u>&#8221;).&#160; The claims in the IKB Action appear to be substantively similar to the SDNY Action.&#160; The IKB Action is not styled as a putative class action, but may attempt to bring derivative claims on behalf of the named RMBS Trusts.&#160; DBTCA intends to vigorously defend the IKB Action.</p>
+
+<p class="MsoNormal">&#160;</p>
+
+<p class="BodyMain" style="MARGIN-TOP: 0in">DBTCA has no pending legal proceedings (including, based on DBTCA's present evaluation, the litigation disclosed in the foregoing paragraphs) that would materially affect its ability to perform its duties as Trustee under the pooling and servicing agreement for the COMM 2013-CCRE11 transaction.</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A421">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 1119 of Regulation AB, Affiliations and Certain Relationships and Related Transactions.</p>
+</div>
+
+<div id="0A423">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A424">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">The information regarding this Item has been previously provided in a prospectus supplement of the Registrant relating to the issuing entity filed on November 6, 2013 pursuant to Rule 424(b)(5).</p>
+</div>
+
+<div id="0A427">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A428">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 1122 of Regulation AB, Compliance with Applicable Servicing Criteria.</p>
+</div>
+
+<div id="0A430">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A431">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">The reports on assessments of compliance with the servicing criteria for asset-backed securities and related attestation reports on such assessments of compliance with respect to the mortgage loans are attached hereto under Item 15 to this Annual Report on Form 10-K. Attached as Schedule II to the Pooling and Servicing Agreement incorporated by reference as Exhibit 4.1 to this Annual Report on Form 10-K is a chart identifying the entities participating in a servicing function for the transaction responsible for each applicable servicing criteria set forth in Item 1122(d).<br>
+<br>
+ The reports on assessments of compliance with the servicing criteria for asset-backed securities and related attestation reports on such assessments of compliance with respect to the Oglethorpe Mall Mortgage Loan, which is being serviced and administered pursuant to the pooling and servicing agreement for the COMM 2013-CCRE11 Transaction, are attached hereto under Item 15 to this Annual Report on Form 10-K. Attached as Schedule II to the pooling and servicing agreement for the COMM 2013-CCRE11 Transaction incorporated by reference as Exhibit 4.2 to this Annual Report on Form 10-K is a chart identifying the entities participating in a servicing function for the COMM 2013-CCRE11 Transaction responsible for each applicable servicing criteria set forth in Item 1122(d).</p>
+</div>
+
+<div id="0A448">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A449">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 1123 of Regulation AB, Servicer Compliance Statement.</p>
+</div>
+
+<div id="0A450">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A451">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">The servicer compliance statements are attached as Exhibits to this Annual Report on Form 10-K.</p>
+</div>
+
+<div id="0A455">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold; TEXT-ALIGN: center">PART&#160;IV</p>
+
+<div id="0A459">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A460">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">Item 15. Exhibits, Financial Statement Schedules</p>
+</div>
+
+<div id="0A464">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A465">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(a) The following is a list of documents filed as part of this Annual Report on Form 10-K:</p>
+</div>
+
+<div id="0A469">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A470">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(1) Not applicable</p>
+</div>
+
+<div id="0A474">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A475">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(2) Not applicable</p>
+</div>
+
+<div id="0A479">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A480">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(3) See below</p>
+</div>
+
+<div id="0A484">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A485">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">4.1 Pooling and Servicing Agreement, dated as of November 1, 2013, by and among Deutsche Mortgage &amp; Asset Receiving Corporation, as Depositor, Wells Fargo Bank, National Association, as Master Servicer, LNR Partners, LLC, as Special Servicer, U.S. Bank National Association, as Trustee, Wells Fargo Bank, National Association, as Certificate Administrator, Paying Agent and Custodian, and Park Bridge Lender Services LLC, as Operating Advisor (filed as Exhibit 4 to the registrant&#8217;s Current Report on Form 8-K filed on November 7, 2013 under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</div>
+
+<div id="0A492">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A493">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">4.2 Pooling and Servicing Agreement, dated as of October 1, 2013, by and among Deutsche Mortgage &amp; Asset Receiving Corporation, as Depositor, Midland Loan Services, a Division of PNC Bank, National Association, as Master Servicer, Situs Holdings, LLC, as Special Servicer, U.S. Bank National Association, as Trustee, Deutsche Bank Trust Company Americas, as Certificate Administrator, Paying Agent and Custodian, and Park Bridge Lender Services LLC, as Operating Advisor (filed as Exhibit 4.1 to the registrant&#8217;s Current Report on Form 8-K filed on February 5, 2014 under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</div>
+
+<div id="0A500">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A501">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">31 Rule 13a-14(d)/15d-14(d) Certifications.</p>
+</div>
+
+<div id="0A505">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A506">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">33 Reports on assessment of compliance with servicing criteria for asset-backed securities.</p>
+</div>
+
+<div id="0A546">
+<table id="ef5d4e9c5833410d835988e507e2ebef" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.1 Wells Fargo Bank, National Association, as Master Servicer (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.2 LNR Partners, LLC, as Special Servicer (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.3 Wells Fargo Bank, National Association, as Certificate Administrator (filed as Exhibit 33.3 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.4 Wells Fargo Bank, National Association, as Custodian (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.5 Park Bridge Lender Services LLC, as Operating Advisor (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.6 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.7 National Tax Search, LLC, as Servicing Function Participant (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.8 Wells Fargo Bank, National Association, as Primary Servicer of the 175 West Jackson Mortgage Loan (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.9 LNR Partners, LLC, as Special Servicer of the 175 West Jackson Mortgage Loan (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.10 Wells Fargo Bank, National Association, as Certificate Administrator of the 175 West Jackson Mortgage Loan (filed as Exhibit 33.3 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.11 Wells Fargo Bank, National Association, as Custodian of the 175 West Jackson Mortgage Loan (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.12 Park Bridge Lender Services LLC, as Operating Advisor of the 175 West Jackson Mortgage Loan (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.13 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the 175 West Jackson Mortgage Loan (see Exhibit 33.6)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.14 National Tax Search, LLC, as Servicing Function Participant of the 175 West Jackson Mortgage Loan (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.15 Wells Fargo Bank, National Association, as Primary Servicer (with respect to the obligation to make property protection and mortgage payment advances) of the Miracle Mile Shops Mortgage Loan(filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.16 Midland Loan Services, a Division of PNC Bank, National Association, as Primary Servicer (except with respect to the obligation to make property protection and mortgage payment advances) of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 33.16 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.17 LNR Partners, LLC, as Special Servicer of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.18 Wells Fargo Bank, National Association, as Certificate Administrator of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 33.3 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.19 Wells Fargo Bank, National Association, as Custodian of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.20 Park Bridge Lender Services LLC, as Operating Advisor of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.21 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Miracle Mile Shops Mortgage Loan (see Exhibit 33.6) </p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.22 National Tax Search, LLC, as Servicing Function Participant of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.23 Midland Loan Services, a Division of PNC Bank, National Association, as Primary Servicer of the Oglethorpe Mall Mortgage Loan (filed as Exhibit 33.16 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.24 Situs Holdings, LLC, as Special Servicer of the Oglethorpe Mall Mortgage Loan (filed as Exhibit 33.24 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.25 Deutsche Bank Trust Company Americas, as Certificate Administrator and Custodian of the Oglethorpe Mall Mortgage Loan (filed as Exhibit 33.25 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">33.26 Park Bridge Lender Services LLC, as Operating Advisor of the Oglethorpe Mall Mortgage Loan (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+</table>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A548">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">34 Attestation reports on assessment of compliance with servicing criteria for asset-backed securities.</p>
+</div>
+
+<div id="0A612">
+<table id="3e0e63d1ccab4ba2a4f55aea29ed2db6" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.1 Wells Fargo Bank, National Association, as Master Servicer (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.2 LNR Partners, LLC, as Special Servicer (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.3 Wells Fargo Bank, National Association, as Certificate Administrator (filed as Exhibit 34.3 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.4 Wells Fargo Bank, National Association, as Custodian (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.5 Park Bridge Lender Services LLC, as Operating Advisor (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.6 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.7 National Tax Search, LLC, as Servicing Function Participant (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.8 Wells Fargo Bank, National Association, as Primary Servicer of the 175 West Jackson Mortgage Loan (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.9 LNR Partners, LLC, as Special Servicer of the 175 West Jackson Mortgage Loan (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.10 Wells Fargo Bank, National Association, as Certificate Administrator of the 175 West Jackson Mortgage Loan (filed as Exhibit 34.3 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.11 Wells Fargo Bank, National Association, as Custodian of the 175 West Jackson Mortgage Loan (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.12 Park Bridge Lender Services LLC, as Operating Advisor of the 175 West Jackson Mortgage Loan (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.13 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the 175 West Jackson Mortgage Loan (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.14 National Tax Search, LLC, as Servicing Function Participant of the 175 West Jackson Mortgage Loan (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.15 Wells Fargo Bank, National Association, as Primary Servicer (with respect to the obligation to make property protection and mortgage payment advances) of the Miracle Mile Shops Mortgage Loan(filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.16 Midland Loan Services, a Division of PNC Bank, National Association, as Primary Servicer (except with respect to the obligation to make property protection and mortgage payment advances) of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 34.16 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.17 LNR Partners, LLC, as Special Servicer of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.18 Wells Fargo Bank, National Association, as Certificate Administrator of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 34.3 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.19 Wells Fargo Bank, National Association, as Custodian of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.20 Park Bridge Lender Services LLC, as Operating Advisor of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.21 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.22 National Tax Search, LLC, as Servicing Function Participant of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.23 Midland Loan Services, a Division of PNC Bank, National Association, as Primary Servicer of the Oglethorpe Mall Mortgage Loan (filed as Exhibit 34.16 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.24 Situs Holdings, LLC, as Special Servicer of the Oglethorpe Mall Mortgage Loan (filed as Exhibit 34.24 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.25 Deutsche Bank Trust Company Americas, as Certificate Administrator and Custodian of the Oglethorpe Mall Mortgage Loan (filed as Exhibit 34.25 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">34.26 Park Bridge Lender Services LLC, as Operating Advisor of the Oglethorpe Mall Mortgage Loan (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+</table>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A613">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">35 Servicer compliance statements.</p>
+</div>
+
+<div id="0A640">
+<table id="20be93a7bc1b49f79162711ef9a0b19d" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.1 Wells Fargo Bank, National Association, as Master Servicer (filed as Exhibit 35.1 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.2 LNR Partners, LLC, as Special Servicer (filed as Exhibit 35.2 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.3 Wells Fargo Bank, National Association, as Certificate Administrator (filed as Exhibit 35.3 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.4 Wells Fargo Bank, National Association, as Primary Servicer of the 175 West Jackson Mortgage Loan (filed as Exhibit 35.1 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.5 LNR Partners, LLC, as Special Servicer of the 175 West Jackson Mortgage Loan (filed as Exhibit 35.2 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.6 Wells Fargo Bank, National Association, as Certificate Administrator of the 175 West Jackson Mortgage Loan (filed as Exhibit 35.3 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.7 Wells Fargo Bank, National Association, as Primary Servicer of the Miracle Mile Shops Mortgage Loan (only with respect to the obligation to make property protection and mortgage payment advances) (filed as Exhibit 35.1 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.8 Midland Loan Services, a Division of PNC Bank, National Association, as Primary Servicer of the Miracle Mile Shops Mortgage Loan (except with respect to the obligation to make property protection and mortgage payment advances) (filed as Exhibit 35.8 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.9 LNR Partners, LLC, as Special Servicer of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 35.2 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.10 Wells Fargo Bank, National Association, as Certificate Administrator of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 35.3 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.11 Midland Loan Services, a Division of PNC Bank, National Association, as Primary Servicer of the Oglethorpe Mall Mortgage Loan (filed as Exhibit 35.8 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top">
+<p class="MsoNormal">35.12 Deutsche Bank Trust Company Americas, as Certificate Administrator of the Oglethorpe Mall Mortgage Loan (filed as Exhibit 35.12 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+</table>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A641">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.1 Mortgage Loan Purchase Agreement, dated as of November 7, 2013, between Deutsche Mortgage &amp; Asset Receiving Corporation and German American Capital Corporation (filed as Exhibit 99.1 to the registrant&#8217;s Current Report on Form 8-K filed on November 7, 2013 under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</div>
+
+<div id="0A645">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A646">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.2 Mortgage Loan Purchase Agreement, dated as of November 7, 2013, between Deutsche Mortgage &amp; Asset Corporation and Cantor Commercial Real Estate Lending, L.P. (filed as Exhibit 99.2 to the registrant&#8217;s Current Report on Form 8-K filed on November 7, 2013 under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</div>
+
+<div id="0A650">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A651">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.3 Mortgage Loan Purchase Agreement, dated as of November 7, 2013, between Deutsche Mortgage &amp; Asset Receiving Corporation and UBS Real Estate Securities Inc. (filed as Exhibit 99.3 to the registrant&#8217;s Current Report on Form 8-K filed on November 7, 2013 under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</div>
+
+<div id="0A655">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A656">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(b) The exhibits required to be filed by the Registrant pursuant to Item 601 of Regulation S-K are listed above and in the Exhibit Index that immediately follows the signature page hereof.</p>
+</div>
+
+<div id="0A659">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A660">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(c) Not Applicable.</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A663">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top; FONT-WEIGHT: bold">SIGNATURES</p>
+</div>
+
+<div id="0A664">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A665">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</p>
+</div>
+
+<div id="0A669">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A671">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">Deutsche Mortgage &amp; Asset Receiving Corporation</p>
+</div>
+
+<div id="0A672">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">(Depositor)</p>
+</div>
+
+<div id="0A674">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<p class="MsoNormal">/s/ Helaine M. Kaplan</p>
+
+<p class="MsoNormal">Helaine M. Kaplan, President </p>
+
+<p class="MsoNormal">(senior officer in charge of securitization of the depositor)</p>
+
+<p class="MsoNormal">&#160;</p>
+
+<p class="MsoNormal">Date: March 29, 2016</p>
+
+<p class="MsoNormal">&#160;</p>
+
+<p class="MsoNormal">/s/ Matt Smith</p>
+
+<p class="MsoNormal">Matt Smith, Director</p>
+
+<p class="MsoNormal">&#160;</p>
+
+<p class="MsoNormal">Date: March 29, 2016</p>
+
+<p class="MsoNormal">&#160;</p>
+
+<p class="MsoNormal">Exhibit&#160;Index</p>
+
+<p class="MsoNormal">&#160;</p>
+
+<p class="MsoNormal">Exhibit&#160;No.</p>
+
+<p class="MsoNormal">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">4.1 Pooling and Servicing Agreement, dated as of November 1, 2013, by and among Deutsche Mortgage &amp; Asset Receiving Corporation, as Depositor, Wells Fargo Bank, National Association, as Master Servicer, LNR Partners, LLC, as Special Servicer, U.S. Bank National Association, as Trustee, Wells Fargo Bank, National Association, as Certificate Administrator, Paying Agent and Custodian, and Park Bridge Lender Services LLC, as Operating Advisor (filed as Exhibit 4 to the registrant&#8217;s Current Report on Form 8-K filed on November 7, 2013 under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">4.2 Pooling and Servicing Agreement, dated as of October 1, 2013, by and among Deutsche Mortgage &amp; Asset Receiving Corporation, as Depositor, Midland Loan Services, a Division of PNC Bank, National Association, as Master Servicer, Situs Holdings, LLC, as Special Servicer, U.S. Bank National Association, as Trustee, Deutsche Bank Trust Company Americas, as Certificate Administrator, Paying Agent and Custodian, and Park Bridge Lender Services LLC, as Operating Advisor (filed as Exhibit 4.1 to the registrant&#8217;s Current Report on Form 8-K filed on February 5, 2014 under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+
+<p class="MsoNormal">&#160;</p>
+
+<p class="MsoNormal">31 Rule 13a-14(d)/15d-14(d) Certifications.</p>
+
+<div id="0A691">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A693">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">33 Reports on assessment of compliance with servicing criteria for asset-backed securities.</p>
+</div>
+
+<table id="e4ec86f393d047a78ad06e0d5379ecf5" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.1 Wells Fargo Bank, National Association, as Master Servicer (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.2 LNR Partners, LLC, as Special Servicer (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.3 Wells Fargo Bank, National Association, as Certificate Administrator (filed as Exhibit 33.3 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.4 Wells Fargo Bank, National Association, as Custodian (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.5 Park Bridge Lender Services LLC, as Operating Advisor (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.6 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.7 National Tax Search, LLC, as Servicing Function Participant (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.8 Wells Fargo Bank, National Association, as Primary Servicer of the 175 West Jackson Mortgage Loan (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.9 LNR Partners, LLC, as Special Servicer of the 175 West Jackson Mortgage Loan (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.10 Wells Fargo Bank, National Association, as Certificate Administrator of the 175 West Jackson Mortgage Loan (filed as Exhibit 33.3 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.11 Wells Fargo Bank, National Association, as Custodian of the 175 West Jackson Mortgage Loan (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.12 Park Bridge Lender Services LLC, as Operating Advisor of the 175 West Jackson Mortgage Loan (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.13 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the 175 West Jackson Mortgage Loan (see Exhibit 33.6)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.14 National Tax Search, LLC, as Servicing Function Participant of the 175 West Jackson Mortgage Loan (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.15 Wells Fargo Bank, National Association, as Primary Servicer (with respect to the obligation to make property protection and mortgage payment advances) of the Miracle Mile Shops Mortgage Loan(filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.16 Midland Loan Services, a Division of PNC Bank, National Association, as Primary Servicer (except with respect to the obligation to make property protection and mortgage payment advances) of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 33.16 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.17 LNR Partners, LLC, as Special Servicer of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.18 Wells Fargo Bank, National Association, as Certificate Administrator of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 33.3 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.19 Wells Fargo Bank, National Association, as Custodian of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.20 Park Bridge Lender Services LLC, as Operating Advisor of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.21 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Miracle Mile Shops Mortgage Loan (see Exhibit 33.6) </p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.22 National Tax Search, LLC, as Servicing Function Participant of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.23 Midland Loan Services, a Division of PNC Bank, National Association, as Primary Servicer of the Oglethorpe Mall Mortgage Loan (filed as Exhibit 33.16 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.24 Situs Holdings, LLC, as Special Servicer of the Oglethorpe Mall Mortgage Loan (filed as Exhibit 33.24 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.25 Deutsche Bank Trust Company Americas, as Certificate Administrator and Custodian of the Oglethorpe Mall Mortgage Loan (filed as Exhibit 33.25 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">33.26 Park Bridge Lender Services LLC, as Operating Advisor of the Oglethorpe Mall Mortgage Loan (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr style="HEIGHT: 6.35pt">
+<td id="A735" style="HEIGHT: 6.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt">
+<p class="MsoNormal">&#160;</p>
+</td>
+<td style="HEIGHT: 6.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+</tr>
+</table>
+
+<div id="0A739">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">34 Attestation reports on assessment of compliance with servicing criteria for asset-backed securities.</p>
+</div>
+
+<table id="A1:I779" class="MsoNormalTable" style="WIDTH: 100%" cellpadding="0" border="0">
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.1 Wells Fargo Bank, National Association, as Master Servicer (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.2 LNR Partners, LLC, as Special Servicer (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.3 Wells Fargo Bank, National Association, as Certificate Administrator (filed as Exhibit 34.3 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.4 Wells Fargo Bank, National Association, as Custodian (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.5 Park Bridge Lender Services LLC, as Operating Advisor (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.6 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.7 National Tax Search, LLC, as Servicing Function Participant (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.8 Wells Fargo Bank, National Association, as Primary Servicer of the 175 West Jackson Mortgage Loan (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.9 LNR Partners, LLC, as Special Servicer of the 175 West Jackson Mortgage Loan (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.10 Wells Fargo Bank, National Association, as Certificate Administrator of the 175 West Jackson Mortgage Loan (filed as Exhibit 34.3 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.11 Wells Fargo Bank, National Association, as Custodian of the 175 West Jackson Mortgage Loan (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.12 Park Bridge Lender Services LLC, as Operating Advisor of the 175 West Jackson Mortgage Loan (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.13 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the 175 West Jackson Mortgage Loan (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.14 National Tax Search, LLC, as Servicing Function Participant of the 175 West Jackson Mortgage Loan (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.15 Wells Fargo Bank, National Association, as Primary Servicer (with respect to the obligation to make property protection and mortgage payment advances) of the Miracle Mile Shops Mortgage Loan(filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.16 Midland Loan Services, a Division of PNC Bank, National Association, as Primary Servicer (except with respect to the obligation to make property protection and mortgage payment advances) of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 34.16 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.17 LNR Partners, LLC, as Special Servicer of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.18 Wells Fargo Bank, National Association, as Certificate Administrator of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 34.3 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.19 Wells Fargo Bank, National Association, as Custodian of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.20 Park Bridge Lender Services LLC, as Operating Advisor of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.21 CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.22 National Tax Search, LLC, as Servicing Function Participant of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.23 Midland Loan Services, a Division of PNC Bank, National Association, as Primary Servicer of the Oglethorpe Mall Mortgage Loan (filed as Exhibit 34.16 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.24 Situs Holdings, LLC, as Special Servicer of the Oglethorpe Mall Mortgage Loan (filed as Exhibit 34.24 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.25 Deutsche Bank Trust Company Americas, as Certificate Administrator and Custodian of the Oglethorpe Mall Mortgage Loan (filed as Exhibit 34.25 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt" valign="top" colspan="2">
+<p class="MsoNormal">34.26 Park Bridge Lender Services LLC, as Operating Advisor of the Oglethorpe Mall Mortgage Loan (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr style="HEIGHT: 6.35pt">
+<td id="A779" style="HEIGHT: 6.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt">
+<p class="MsoNormal">&#160;</p>
+</td>
+<td style="HEIGHT: 6.35pt; PADDING-BOTTOM: 0.75pt; PADDING-TOP: 0.75pt; PADDING-LEFT: 0.75pt; PADDING-RIGHT: 0.75pt"></td>
+</tr>
+</table>
+
+<div id="0A783">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">35 Servicer compliance statements.</p>
+</div>
+
+<div id="0A810">
+<table id="0de141660a4346d699b67807ecabc6f8" class="MsoNormalTable" style="WIDTH: 99.78%" cellpadding="0" border="0">
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" valign="top">
+<p class="MsoNormal">35.1 Wells Fargo Bank, National Association, as Master Servicer (filed as Exhibit 35.1 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" valign="top">
+<p class="MsoNormal">35.2 LNR Partners, LLC, as Special Servicer (filed as Exhibit 35.2 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" valign="top">
+<p class="MsoNormal">35.3 Wells Fargo Bank, National Association, as Certificate Administrator (filed as Exhibit 35.3 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" valign="top">
+<p class="MsoNormal">35.4 Wells Fargo Bank, National Association, as Primary Servicer of the 175 West Jackson Mortgage Loan (filed as Exhibit 35.1 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" valign="top">
+<p class="MsoNormal">35.5 LNR Partners, LLC, as Special Servicer of the 175 West Jackson Mortgage Loan (filed as Exhibit 35.2 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" valign="top">
+<p class="MsoNormal">35.6 Wells Fargo Bank, National Association, as Certificate Administrator of the 175 West Jackson Mortgage Loan (filed as Exhibit 35.3 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" valign="top">
+<p class="MsoNormal">35.7 Wells Fargo Bank, National Association, as Primary Servicer of the Miracle Mile Shops Mortgage Loan (only with respect to the obligation to make property protection and mortgage payment advances) (filed as Exhibit 35.1 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" valign="top">
+<p class="MsoNormal">35.8 Midland Loan Services, a Division of PNC Bank, National Association, as Primary Servicer of the Miracle Mile Shops Mortgage Loan (except with respect to the obligation to make property protection and mortgage payment advances) (filed as Exhibit 35.8 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" valign="top">
+<p class="MsoNormal">35.9 LNR Partners, LLC, as Special Servicer of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 35.2 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" valign="top">
+<p class="MsoNormal">35.10 Wells Fargo Bank, National Association, as Certificate Administrator of the Miracle Mile Shops Mortgage Loan (filed as Exhibit 35.3 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" valign="top">
+<p class="MsoNormal">35.11 Midland Loan Services, a Division of PNC Bank, National Association, as Primary Servicer of the Oglethorpe Mall Mortgage Loan (filed as Exhibit 35.8 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 99.56%; PADDING-BOTTOM: 0in; PADDING-TOP: 0in; PADDING-LEFT: 0in; PADDING-RIGHT: 0in" valign="top">
+<p class="MsoNormal">35.12 Deutsche Bank Trust Company Americas, as Certificate Administrator of the Oglethorpe Mall Mortgage Loan (filed as Exhibit 35.12 to the Original 10-K under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</td>
+</tr>
+</table>
+
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A811">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.1 Mortgage Loan Purchase Agreement, dated as of November 7, 2013, between Deutsche Mortgage &amp; Asset Receiving Corporation and German American Capital Corporation (filed as Exhibit 99.1 to the registrant&#8217;s Current Report on Form 8-K filed on November 7, 2013 under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</div>
+
+<div id="0A815">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A816">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.2 Mortgage Loan Purchase Agreement, dated as of November 7, 2013, between Deutsche Mortgage &amp; Asset Corporation and Cantor Commercial Real Estate Lending, L.P. (filed as Exhibit 99.2 to the registrant&#8217;s Current Report on Form 8-K filed on November 7, 2013 under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</div>
+
+<div id="0A820">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">&#160;</p>
+</div>
+
+<div id="0A821">
+<p class="MsoNormal" style="VERTICAL-ALIGN: top">99.3 Mortgage Loan Purchase Agreement, dated as of November 7, 2013, between Deutsche Mortgage &amp; Asset Receiving Corporation and UBS Real Estate Securities Inc. (filed as Exhibit 99.3 to the registrant&#8217;s Current Report on Form 8-K filed on November 7, 2013 under Commission File No. 333-184376-09 and incorporated by reference herein)</p>
+</div>
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>

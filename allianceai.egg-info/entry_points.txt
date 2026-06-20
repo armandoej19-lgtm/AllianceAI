@@ -1,0 +1,2 @@
+[console_scripts]
+allianceai = allianceai.cli:main

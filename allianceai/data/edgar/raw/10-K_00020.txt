@@ -1,0 +1,1799 @@
+<DOCUMENT>
+<TYPE>10-K/A
+<SEQUENCE>1
+<FILENAME>we37439121-10ka1.htm
+<DESCRIPTION>FORM 10-K/A (AMENDMENT NO. 1)
+<TEXT>
+<html>
+<head>
+<title></title>
+<!--Licensed to: Cadwal
+    Document created using EDGARfilings PROfile 4.3.2.1
+    Copyright 1995 - 2017 Summit Financial Printing, LLC.  All rights reserved.-->
+</head>
+<body style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif" text="#000000" bgcolor="#ffffff">
+<div>
+<div>
+<hr style="BORDER-TOP: black 4px solid; HEIGHT: 10px; BORDER-RIGHT: medium none; BORDER-BOTTOM: black 1px solid; COLOR: #ffffff; TEXT-ALIGN: center; MARGIN-LEFT: auto; BORDER-LEFT: medium none; BACKGROUND-COLOR: #ffffff; MARGIN-RIGHT: auto" align="center">
+<br>
+</div>
+
+<div style="FONT-SIZE: 14pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 6pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">UNITED STATES<font style="FONT-SIZE: 14pt; FONT-FAMILY: Arial, Helvetica, sans-serif"><br>
+</font> SECURITIES AND EXCHANGE COMMISSION</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 3pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">Washington, D.C. 20549</div>
+
+<div style="FONT-SIZE: 14pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 6pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">FORM 10-K/A</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">(Amendment No. 1)</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left; MARGIN-LEFT: 18pt; TEXT-INDENT: -18pt">(Mark One)</div>
+
+<div style="MARGIN-BOTTOM: 6pt; MARGIN-TOP: 12pt; TEXT-ALIGN: left">
+<table id="z8e71172070e841dc8608bd627ea20c15" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 18pt; VERTICAL-ALIGN: top; FONT-WEIGHT: bold; align: right">&#9746;</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold">ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">For the fiscal year ended December 31, 2016<font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif"><br>
+</font><br>
+<font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif"><br>
+</font> or</div>
+
+<div style="MARGIN-BOTTOM: 6pt; MARGIN-TOP: 6pt; TEXT-ALIGN: left">
+<table id="z75986f6237224b88af131c09f1d64773" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 18pt; VERTICAL-ALIGN: top; FONT-WEIGHT: bold; align: right">&#9744;</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold">TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">For the transition period from _____ to _____<font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif"><br>
+</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif"><br>
+</font> Commission file number of the issuing entity: 333-172366-07</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the issuing entity: 0001576047</div>
+
+<div style="FONT-SIZE: 18pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">WFRBS Commercial Mortgage Trust 2013-C14</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the issuing entity as specified in its charter)</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the depositor: 0000850779</div>
+
+<div style="FONT-SIZE: 18pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">Wells Fargo Commercial Mortgage Securities, Inc.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the depositor as specified in its charter)</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the sponsor: 0000740906</div>
+
+<div style="FONT-SIZE: 18pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">Wells Fargo Bank, National Association</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the sponsor as specified in its charter)</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the sponsor: 0000729153</div>
+
+<div style="FONT-SIZE: 18pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">The Royal Bank of Scotland plc</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the sponsor as specified in its charter)</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the sponsor: 0001541615</div>
+
+<div style="FONT-SIZE: 18pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">RBS Financial Products Inc.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the sponsor as specified in its charter)</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the sponsor: 0001555501</div>
+
+<div style="FONT-SIZE: 18pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">Liberty Island Group I LLC</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the sponsor as specified in its charter)</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the sponsor: 0001542105</div>
+
+<div style="FONT-SIZE: 18pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">Basis Real Estate Capital II, LLC</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the sponsor as specified in its charter)</div>
+
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">Central Index Key Number of the sponsor: 0001541214</div>
+
+<div style="FONT-SIZE: 18pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">C-III Commercial Mortgage LLC</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">(exact name of the sponsor as specified in its charter)</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both">
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<!--PROfilePageNumberReset%Num%2%%%-->
+<div><br>
+</div>
+
+<table id="z8538dec7db33436084fc735e1ffe6ae7" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%; BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 50%; VERTICAL-ALIGN: bottom">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">New York</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif"><br>
+</font>(State or other jurisdiction of<font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif"><br>
+</font> incorporation or organization of</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">the issuing entity)</div>
+</td>
+<td style="WIDTH: 50%; VERTICAL-ALIGN: bottom">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">38-3909189</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">38-3909190</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">38-3909191</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">38-7092989</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">(I.R.S. Employer</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">Identification Numbers)</div>
+</td>
+</tr>
+</table>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif"><br>
+</font> c/o Wells Fargo Bank, National Association</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">as Certificate Administrator</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">9062 Old Annapolis Road</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">Columbia, MD</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">(Address of principal executive offices of the issuing entity)</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 12pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">21045</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">(Zip Code)</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 12pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">Registrant&#8217;s telephone number, including area code:</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">(704) 374-6161</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-WEIGHT: bold; TEXT-ALIGN: center">&#160;</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Securities registered pursuant to Section 12(b) of the Act:&#160; None.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Securities registered pursuant to Section 12(g) of the Act:&#160; None.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.&#160; <font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">&#9744;</font> Yes <font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">&#8999; </font>No</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.&#160; <font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">&#9744;</font> Yes <font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">&#8999; </font>No</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.&#160; <font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">&#8999; </font>Yes <font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">&#9744;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">&#160;</font>No</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (Section 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 12pt; TEXT-ALIGN: center">Not applicable.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K (Section 229.405 of this chapter) is not contained herein, and will not be contained, to the best of registrant&#8217;s knowledge, in definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 12pt; TEXT-ALIGN: center">Not applicable.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See definitions of &#8220;large accelerated filer&#8221;, &#8220;accelerated filer&#8221; and &#8220;smaller reporting company&#8221; in Rule 12b-2 of the Exchange Act.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zae4b4326e2b34e6b9baf3b22793d6d2b" style="FONT-SIZE: 10pt; BORDER-TOP: medium none; FONT-FAMILY: Arial, Helvetica, sans-serif; BORDER-RIGHT: medium none; WIDTH: 100%; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 15%; VERTICAL-ALIGN: top; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left">Large accelerated filer</div>
+</td>
+<td style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 35%; VERTICAL-ALIGN: top; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left">&#9744;</div>
+</td>
+<td style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 15%; VERTICAL-ALIGN: top; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left">Accelerated filer</div>
+</td>
+<td style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 35%; VERTICAL-ALIGN: top; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left">&#9744;</div>
+</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 15%; VERTICAL-ALIGN: top; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none">&#160;</td>
+<td style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 35%; VERTICAL-ALIGN: top; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none">&#160;</td>
+<td style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 15%; VERTICAL-ALIGN: top; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none">&#160;</td>
+<td style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 35%; VERTICAL-ALIGN: top; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none">&#160;</td>
+</tr>
+
+<tr>
+<td style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 15%; VERTICAL-ALIGN: top; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left">Non-accelerated filer</div>
+</td>
+<td style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 35%; VERTICAL-ALIGN: top; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">&#8999;</font>&#160;&#160;&#160;&#160;&#160;(Do not check if a smaller reporting company)</div>
+</td>
+<td style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 15%; VERTICAL-ALIGN: top; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left">Smaller reporting company</div>
+</td>
+<td style="BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 35%; VERTICAL-ALIGN: top; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: left">&#9744;</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).&#160; <font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">&#9744;</font> Yes <font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">&#8999; </font>No</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant&#8217;s most recently completed second fiscal quarter.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 12pt; TEXT-ALIGN: center">Not applicable.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Indicate by check mark whether the registrant has filed all documents and reports required to be filed by Section 12, 13 or 15(d) of the Securities Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court.&#160; <font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">&#9744;</font> Yes <font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">&#9744;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">&#160;</font>No</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 12pt; TEXT-ALIGN: center">Not applicable.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Indicate the number of shares outstanding of each of the registrant&#8217;s classes of common stock, as of the latest practicable date.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 12pt; TEXT-ALIGN: center">Not applicable.</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both">
+<div id="DSPFPageNumberArea" style="TEXT-ALIGN: center"><font id="DSPFPageNumber" style="FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica, 'sans-serif'; FONT-WEIGHT: normal; FONT-STYLE: normal">2</font></div>
+
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 12pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">DOCUMENTS INCORPORATED BY REFERENCE</div>
+
+<div style="MARGIN-TOP: 12pt"><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">List hereunder the following documents if incorporated by reference and the Part of the Form 10-K (e.g., Part I, Part II, etc.) into which the document is incorporated: (1) Any annual report to security holders; (2) Any proxy or information statement; and (3) Any prospectus filed pursuant to Rule 424(b) or (c) under the Securities Act of 1933. The listed documents should be clearly described for identification purposes (e.g., annual report to security holders for fiscal year ended December 24, 1980).</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: center">Not applicable.</div>
+
+<div><br>
+</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both">
+<div id="DSPFPageNumberArea" style="TEXT-ALIGN: center"><font id="DSPFPageNumber" style="FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica, 'sans-serif'; FONT-WEIGHT: normal; FONT-STYLE: normal">3</font></div>
+
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-TOP: black 1px solid; HEIGHT: 10px; BORDER-RIGHT: medium none; BORDER-BOTTOM: black 4px solid; COLOR: #ffffff; TEXT-ALIGN: center; MARGIN-LEFT: auto; BORDER-LEFT: medium none; BACKGROUND-COLOR: #ffffff; MARGIN-RIGHT: auto" align="center">
+</div>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 12pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">EXPLANATORY NOTES</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">The purpose of this Amendment No. 1 (the &#8220;Amendment&#8221;) to our Annual Report on Form 10-K for the fiscal year ended December 31, 2016 filed with the Securities and Exchange Commission on March 27, 2017 (the &#8220;Original Form 10-K&#8221;) is to revise the cross-references accompanying Exhibits 33.39 and 34.39 under Item 15 of the Original Form 10-K to reference Exhibits 33.31 and 34.41, respectively.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 12pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">PART I<br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 1.&#160; Business.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Omitted.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 1A.&#160; Risk Factors.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Omitted.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 1B.&#160; Unresolved Staff Comments.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">None.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 2.&#160; Properties.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Omitted.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 3.&#160; Legal Proceedings.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Omitted.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 4.&#160; Mine Safety Disclosures.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Not applicable.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 12pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">PART II</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 5.&#160; Market for Registrant&#8217;s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Omitted.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 6.&#160; Selected Financial Data.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Omitted.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 7.&#160; Management&#8217;s Discussion and Analysis of Financial Condition and Results of Operations.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Omitted.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 7A.&#160; Quantitative and Qualitative Disclosures About Market Risk.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Omitted.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 8.&#160; Financial Statements and Supplementary Data.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Omitted.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 9.&#160; Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Omitted.</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both">
+<div id="DSPFPageNumberArea" style="TEXT-ALIGN: center"><font id="DSPFPageNumber" style="FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica, 'sans-serif'; FONT-WEIGHT: normal; FONT-STYLE: normal">4</font></div>
+
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div style="MARGIN-TOP: 10pt"><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 9A.&#160; Controls and Procedures.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Omitted.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 9B.&#160; Other Information.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">None.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 12pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">PART III</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 10.&#160; Directors, Executive Officers and Corporate Governance.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Omitted.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 11.&#160; Executive Compensation.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Omitted.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 12.&#160; Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Omitted.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 13.&#160; Certain Relationships and Related Transactions, and Director Independence.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Omitted.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 14.&#160; Principal Accounting Fees and Services.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Omitted.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 12pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">ADDITIONAL DISCLOSURE ITEMS FOR REGULATION AB</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 1112(b) of Regulation AB, Significant Obligor Financial Information.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">No single obligor represents 10% or more of the pool assets held by the issuing entity.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 1114(b)(2) of Regulation AB, Significant Enhancement Provider Financial Information.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; TEXT-ALIGN: left">No entity or group of affiliated entities provides any external credit enhancement or other support for the certificates within this transaction as described under Item 1114(a) of Regulation AB.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 1115(b) of Regulation AB, Certain Derivatives Instruments (Financial Information).</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">No entity or group of affiliated entities provides any derivative instruments or other support for the certificates within this transaction as described under Item 1115 of Regulation AB.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 1117 of Regulation AB, Legal Proceedings.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">The registrant knows of no material pending legal proceeding involving the trust or any party related to the trust, other than routine litigation incidental to the duties of those respective parties, and the following with respect to Wells Fargo Bank, National Association, as Certificate Administrator and as&#160; Custodian.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">On June 18, 2014, a group of institutional investors filed a civil complaint in the Supreme Court of the State of New York, New York County, against Wells Fargo Bank, N.A. (&#8220;<font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif"><u>Wells Fargo Bank</u></font>&#8221;), in its capacity as trustee under 276 residential mortgage backed securities (&#8220;<font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif"><u>RMBS</u></font>&#8221;) trusts, which was later amended on July 18, 2014, to increase the number of trusts to 284 RMBS trusts. On November 24, 2014, the plaintiffs filed a motion to voluntarily dismiss the state court action without prejudice. That same day, a group of institutional investors filed a putative class action complaint in the United States District Court for the Southern District of New York (the &#8220;<font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif"><u>District Cour</u></font>t&#8221;) against Wells Fargo Bank, alleging claims against the bank in its capacity as trustee for 274 RMBS trusts (the &#8220;<font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif"><u>Federal Court Complaint</u></font>&#8221;). In December 2014, the plaintiffs&#8217; motion to voluntarily dismiss their original state court action was granted. As with the prior state court action, the Federal Court Complaint is one of six similar complaints filed contemporaneously against RMBS trustees (Deutsche Bank, Citibank, HSBC, Bank of New York Mellon and US Bank) by a group of institutional investor plaintiffs. The Federal Court Complaint against Wells Fargo Bank alleges that the trustee caused losses to investors and asserts causes of</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both">
+<div id="DSPFPageNumberArea" style="TEXT-ALIGN: center"><font id="DSPFPageNumber" style="FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica, 'sans-serif'; FONT-WEIGHT: normal; FONT-STYLE: normal">5</font></div>
+
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">action based upon, among other things, the trustee's alleged failure to: (i) notify and enforce repurchase obligations of mortgage loan sellers for purported breaches of representations and warranties, (ii) notify investors of alleged events of default, and (iii) abide by appropriate standards of care following alleged events of default. Relief sought includes money damages in an unspecified amount, reimbursement of expenses, and equitable relief. Other cases alleging similar causes of action have been filed against Wells Fargo Bank and other trustees in the District Court by RMBS investors in these and other transactions, and these cases against Wells Fargo Bank are proceeding before the same District Court judge. A similar complaint was also filed May 27, 2016 in New York state court by a different plaintiff investor. On January 19, 2016, an order was entered in connection with the Federal Court Complaint in which the District Court declined to exercise jurisdiction over 261 trusts at issue in the Federal Court Complaint; the District Court also allowed plaintiffs to file amended complaints as to the remaining, non-dismissed trusts, if they so chose, and three amended complaints have been filed. On December 17, 2016, the investor plaintiffs in the 261 trusts dismissed from the Federal Court Complaint filed a new complaint in New York state court (the &#8220;<font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif"><u>State Court Complaint</u></font>&#8221;). Motions to dismiss all of the actions are pending except for the recently filed State Court Complaint. There can be no assurances as to the outcome of the litigations, or the possible impact of the litigations on the trustee or the RMBS trusts. However, Wells Fargo Bank denies liability and believes that it has performed its obligations under the RMBS trusts in good faith, that its actions were not the cause of any losses to investors, and that it has meritorious defenses, and it intends to contest the plaintiffs&#8217; claims vigorously.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 1119 of Regulation AB, Affiliations and Certain Relationships and Related Transactions.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">The information regarding this Item has been previously provided in a prospectus supplement of the Registrant relating to the issuing entity filed on June 5, 2013 pursuant to Rule 424(b)(5).</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 1122 of Regulation AB, Compliance with Applicable Servicing Criteria.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">The reports on assessments of compliance with the servicing criteria for asset-backed securities and related attestation reports on such assessments of compliance with respect to the mortgage loans are attached hereto under Item 15 to this Annual Report on Form 10-K. Attached as Schedule III to the Pooling and Servicing Agreement incorporated by reference as Exhibit 4.1 to this Annual Report on Form 10-K is a chart identifying the entities participating in a servicing function for the transaction responsible for each applicable servicing criteria set forth in Item 1122(d).</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">The reports on assessments of compliance with the servicing criteria for asset-backed securities and related attestation reports on such assessments of compliance with respect to the Cumberland Mall Mortgage Loan and the 100 &amp; 150 South Wacker Drive Mortgage Loan, which are being serviced and administered pursuant to the pooling and servicing agreement for the WFCMT 2013-LC12 Transaction, are attached hereto under Item 15 to this Annual Report on Form 10-K. Attached as Schedule III to the pooling and servicing agreement for the WFCMT 2013-LC12 Transaction incorporated by reference as Exhibit 4.2 to this Annual Report on Form 10-K is a chart identifying the entities participating in a servicing function for the WFCMT 2013-LC12 Transaction responsible for each applicable servicing criteria set forth in Item 1122(d).</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 1123 of Regulation AB, Servicer Compliance Statement.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">The servicer compliance statements are attached as Exhibits to this Annual Report on Form 10-K.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 12pt; FONT-WEIGHT: bold; TEXT-ALIGN: center">PART IV</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">Item 15. Exhibits, Financial Statement Schedules</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">(a) The following is a list of documents filed as part of this Annual Report on Form 10-K:</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left; MARGIN-LEFT: 54pt; TEXT-INDENT: -36pt">(1) Not applicable</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left; MARGIN-LEFT: 54pt; TEXT-INDENT: -36pt">(2) Not applicable</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left; MARGIN-LEFT: 54pt; TEXT-INDENT: -36pt">(3) See below</div>
+
+<div style="MARGIN-TOP: 10pt"><br>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z90bd3af030144d34a8c695dd8f9e3d61" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">4.1</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Pooling and Servicing Agreement, dated as of June 1, 2013, by and among Wells Fargo Commercial Mortgage Securities, Inc., as Depositor, Wells Fargo Bank, National Association, as Master Servicer, Rialto Capital Advisors, LLC, as Special Servicer, Pentalpha Surveillance LLC, as Trust Advisor, Wells Fargo Bank, National Association, as Certificate Administrator, as Tax Administrator and as Custodian and U.S. Bank National Association, as Trustee (filed as Exhibit 4.1 to the registrant&#8217;s Current Report on Form 8-K/A filed on October 15, 2013 under Commission File No. 333-172366-07 and incorporated by reference herein).</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zb7299d5c4d824fc79c0176a5fa7588ef" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">4.2</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Pooling and Servicing Agreement, dated as of July 1, 2013, by and among Wells Fargo Commercial Mortgage Securities, Inc., as Depositor, Wells Fargo Bank, National Association, as Master Servicer, Rialto Capital Advisors, LLC, as Special Servicer, and Park Bridge Lender Services LLC, as Trust Advisor, Wells Fargo Bank, National Association, as Certificate Administrator, as Tax Administrator and as Custodian, and U.S. Bank National Association, as Trustee (filed as Exhibit 99.8 to the registrant&#8217;s Current Report on Form 8-K/A filed on October 15, 2013 under Commission File No. 333-172366-07 and incorporated by reference herein).</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z2070c1f8c8664659a3a2fb1a705a2b44" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">31</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Rule 13a-14(d)/15d-14(d) Certifications.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both">
+<div id="DSPFPageNumberArea" style="TEXT-ALIGN: center"><font id="DSPFPageNumber" style="FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica, 'sans-serif'; FONT-WEIGHT: normal; FONT-STYLE: normal">6</font></div>
+
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zcccd82fbc10a4507be6d11f6bf66fcb2" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Reports on assessment of compliance with servicing criteria for asset-backed securities.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="za39ea18834b64ed586d9f0c556799f0e" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.1</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Master Servicer (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z919306005e004987b14c5597da8e14c5" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.2</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Rialto Capital Advisors, LLC, as Special Servicer (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z64b38c4023dc440ab7afba365f2f890d" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.3</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">U.S. Bank National Association, as Trustee (Omitted. See Explanatory Notes to the Original 10-K under Commission File No. 333-172366-7 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z885f865e9ab540428a67e5a47ebc3b7c" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.4</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Certificate Administrator (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z26ba3051768e444ba0bc468bf92f1a2d" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.5</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Custodian (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z27d02fac04bf4829b1e7f12aa900306e" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.6</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Pentalpha Surveillance LLC, as Trust Advisor (filed as Exhibit 33.6 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z6886cb2436d84a98a08d564a3e232202" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.7</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zcb5fc7ba3f9b469fbfc4656c230e75c3" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.8</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">National Tax Search, LLC, as Servicing Function Participant (filed as Exhibit 33.8 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z61606080bc28440bb78ad8a5ac4e4cbc" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.9</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Prudential Asset Resources, Inc., as Primary Servicer (filed as Exhibit 33.9 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z62f0ae59fdc8462ea8c5b32f55976a3f" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.10</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Primary Servicer of the White Marsh Mall Mortgage Loan (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z911bf8322a17470c91a6bab778316dcf" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.11</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Rialto Capital Advisors, LLC, as Special Servicer of the White Marsh Mall Mortgage Loan (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z3603cb728a4b4609a98d85a06312b048" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.12</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">U.S. Bank National Association, as Trustee of the White Marsh Mall Mortgage Loan (Omitted. See Explanatory Notes to the Original 10-K under Commission File No. 333-172366-7 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z8cad9cb11cd84cd2b1d98b94c0f0a711" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.13</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Certificate Administrator of the White Marsh Mall Mortgage Loan (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="za23172249d2d4e67804cf855b2d83ae9" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.14</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Custodian of the White Marsh Mall Mortgage Loan (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z92d450f1bbd94de28b60092c75ead1b4" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.15</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Pentalpha Surveillance LLC, as Trust Advisor of the White Marsh Mall Mortgage Loan (filed as Exhibit 33.6 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z5a75c74bdb404465a42de1b05d7034dd" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.16</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the White Marsh Mall Mortgage Loan (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z94c703d2a78e4093b6ca0f3ef033dedf" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.17</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">National Tax Search, LLC, as Servicing Function Participant of the White Marsh Mall Mortgage Loan (filed as Exhibit 33.8 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z693a2e342ea34409836bfed360f7099f" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.18</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Primary Servicer of the 301 South College Street Mortgage Loan (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z43856bacde194e34b0526f699433bbb5" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.19</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Rialto Capital Advisors, LLC, as Special Servicer of the 301 South College Street Mortgage Loan (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z542a3eb10f3c442c8a9088c0edcea2f3" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.20</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">U.S. Bank National Association, as Trustee of the 301 South College Street Mortgage Loan (Omitted. See Explanatory Notes to the Original 10-K under Commission File No. 333-172366-7 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="za7a374e2887e4f859b948c35dafd2711" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.21</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Certificate Administrator of the 301 South College Street Mortgage Loan (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zf482f76d24c9496bbbeaab670d721167" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.22</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Custodian of the 301 South College Street Mortgage Loan (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="za11f04e6d596498c9519b9ada2ee98d9" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.23</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Pentalpha Surveillance LLC, as Trust Advisor of the 301 South College Street Mortgage Loan (filed as Exhibit 33.6 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both">
+<div id="DSPFPageNumberArea" style="TEXT-ALIGN: center"><font id="DSPFPageNumber" style="FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica, 'sans-serif'; FONT-WEIGHT: normal; FONT-STYLE: normal">7</font></div>
+
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z798e97c741b54ed8a96fd555fbf721eb" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.24</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the 301 South College Street Mortgage Loan (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zf28fc05f77ff418784ddbd8cad3e27df" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.25</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">National Tax Search, LLC, as Servicing Function Participant of the 301 South College Street Mortgage Loan (filed as Exhibit 33.8 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z60aa705ca1914546a7b1ad4ffd5744ed" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.26</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Primary Servicer of the Cumberland Mall Mortgage Loan (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zf9150345cc3d4581b6ab0dc18748895c" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.27</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Rialto Capital Advisors, LLC, as Special Servicer of the Cumberland Mall Mortgage Loan (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zd46b4be6e78847eebbd276f88db7db2c" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.28</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">U.S. Bank National Association, as Trustee of the Cumberland Mall Mortgage Loan (Omitted. See Explanatory Notes to the Original 10-K under Commission File No. 333-172366-7 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z565188fa1f1349b989323917d4402fce" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.29</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Certificate Administrator of the Cumberland Mall Mortgage Loan (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z68ab31b20c7f49f9b0c82db2b81d377c" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.30</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Custodian of the Cumberland Mall Mortgage Loan (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z420356e6ad7645e1a9bac10f7aa79d7d" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.31</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Park Bridge Lender Services LLC, as Trust Advisor of the Cumberland Mall Mortgage Loan (filed as Exhibit 33.31 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="za78b22e52d574409aa4e5a773dce89a1" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.32</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Cumberland Mall Mortgage Loan (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z29cb9cefe9c045a3b54bfdd29054f233" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.33</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">National Tax Search, LLC, as Servicing Function Participant of the Cumberland Mall Mortgage Loan (filed as Exhibit 33.8 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="ze85fe66956ce42cab420ad5666787110" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.34</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Primary Servicer of the 100 &amp; 150 South Wacker Drive Mortgage Loan (filed as Exhibit 33.1 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z332e2e9e202f46e59f437274c5fc649c" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.35</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Rialto Capital Advisors, LLC, as Special Servicer of the 100 &amp; 150 South Wacker Drive Mortgage Loan (filed as Exhibit 33.2 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z8a6b006f852b40ef95fdc88bd4ac63ef" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.36</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">U.S. Bank National Association, as Trustee of the 100 &amp; 150 South Wacker Drive Mortgage Loan (Omitted. See Explanatory Notes to the Original 10-K under Commission File No. 333-172366-7 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z1fd67f55dc424b7dac3e8959ee901b3a" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.37</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Certificate Administrator of the 100 &amp; 150 South Wacker Drive Mortgage Loan (filed as Exhibit 33.4 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z415e79a2761f41a0bf0a7a4e8fae1112" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.38</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Custodian of the 100 &amp; 150 South Wacker Drive Mortgage Loan (filed as Exhibit 33.5 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zf428d077c6cc441db2e2fc0dfbde62f6" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.39</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Park Bridge Lender Services LLC, as Trust Advisor of the 100 &amp; 150 South Wacker Drive Mortgage Loan (filed as Exhibit 33.31 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="za3b113c1f09e40b4b8e3640f093bf71c" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.40</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the 100 &amp; 150 South Wacker Drive Mortgage Loan (filed as Exhibit 33.7 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="ze1718c9b6e7e47309e4c228c7b8d3083" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">33.41</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">National Tax Search, LLC, as Servicing Function Participant of the 100 &amp; 150 South Wacker Drive Mortgage Loan (filed as Exhibit 33.8 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z224ed4dfda6f418fb0e529c53916b94f" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Attestation reports on assessment of compliance with servicing criteria for asset-backed securities.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zcd43678e813d4c9c8f3a06d4367889d7" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.1</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Master Servicer (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z34ede58c02a941a3840866d9813aadda" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.2</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Rialto Capital Advisors, LLC, as Special Servicer (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zdfddaba19e0648d68bb4245db9e6134f" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.3</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">U.S. Bank National Association, as Trustee (Omitted. See Explanatory Notes to the Original 10-K under Commission File No. 333-172366-7 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z6d95c54633744e77b21cc4d71565df5e" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.4</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Certificate Administrator (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z6e327aeaff0e41c3ac5927198ef84ff9" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.5</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Custodian (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both">
+<div id="DSPFPageNumberArea" style="TEXT-ALIGN: center"><font id="DSPFPageNumber" style="FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica, 'sans-serif'; FONT-WEIGHT: normal; FONT-STYLE: normal">8</font></div>
+
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zc61fffaf96364e7bbafad6ff7a1def9f" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.6</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Pentalpha Surveillance LLC, as Trust Advisor (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zd4e15eeb1e1c4fc3825751e2c4d4400d" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.7</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z9935737fa5254c499427b9c10761f0cd" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.8</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">National Tax Search, LLC, as Servicing Function Participant (filed as Exhibit 34.8 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zf16f7a5914f448f69d5185ff573c33e5" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.9</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Prudential Asset Resources, Inc., as Primary Servicer (filed as Exhibit 34.9 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z2d2db92a953b4ba3a49516ec7d313b3c" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.10</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Primary Servicer of the White Marsh Mall Mortgage Loan (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z4311496b56a54afb96ecb0a30704f4bf" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.11</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Rialto Capital Advisors, LLC, as Special Servicer of the White Marsh Mall Mortgage Loan (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="za84d9932200d4fe6b69fa6f0db521cb3" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.12</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">U.S. Bank National Association, as Trustee of the White Marsh Mall Mortgage Loan (Omitted. See Explanatory Notes to the Original 10-K under Commission File No. 333-172366-7 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z7b2c32708d9b408b818e8cd8927c3456" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.13</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Certificate Administrator of the White Marsh Mall Mortgage Loan (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z9577e279095c4e50ab717b4da0a483e3" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.14</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Custodian of the White Marsh Mall Mortgage Loan (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="ze9d2dc00127f40c0bb93ff08dec99b22" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.15</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Pentalpha Surveillance LLC, as Trust Advisor of the White Marsh Mall Mortgage Loan (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z61f4549f0c5142c3b315ea4431ef66d8" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.16</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the White Marsh Mall Mortgage Loan (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zeaed8e2f0f8d481fa0cb435adaf099e8" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.17</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">National Tax Search, LLC, as Servicing Function Participant of the White Marsh Mall Mortgage Loan (filed as Exhibit 34.8 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z2a01a61a57d04ee0a87f5935e2dac7f3" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.18</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Primary Servicer of the 301 South College Street Mortgage Loan (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z461bb86cfa604f24a40c5caa8e8791c8" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.19</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Rialto Capital Advisors, LLC, as Special Servicer of the 301 South College Street Mortgage Loan (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z9fa24030b2624b87ac3d01db475d877a" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.20</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">U.S. Bank National Association, as Trustee of the 301 South College Street Mortgage Loan (Omitted. See Explanatory Notes to the Original 10-K under Commission File No. 333-172366-7 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z6f7ebabb2dd34019ac8eca16a00d15f5" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.21</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Certificate Administrator of the 301 South College Street Mortgage Loan (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z368d790b8dc641f89f72ce12f9290424" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.22</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Custodian of the 301 South College Street Mortgage Loan (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z618fb9d8c4f74c4dbbfba0d412326910" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.23</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Pentalpha Surveillance LLC, as Trust Advisor of the 301 South College Street Mortgage Loan (filed as Exhibit 34.6 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z9a8fc17797f143e084a7a6a50f059b35" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.24</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the 301 South College Street Mortgage Loan (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z6eb76174d9014f3e8e7b611dfae4bde3" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.25</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">National Tax Search, LLC, as Servicing Function Participant of the 301 South College Street Mortgage Loan (filed as Exhibit 34.8 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z3dd768ebc15a4f95adc1cf75f9ba08c8" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.26</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Primary Servicer of the Cumberland Mall Mortgage Loan (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zd6bbebe7e26f4742954aadad7405e074" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.27</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Rialto Capital Advisors, LLC, as Special Servicer of the Cumberland Mall Mortgage Loan (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z415561a904f14f0692480c73a9b80d33" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.28</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">U.S. Bank National Association, as Trustee of the Cumberland Mall Mortgage Loan (Omitted. See Explanatory Notes to the Original 10-K under Commission File No. 333-172366-7 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both">
+<div id="DSPFPageNumberArea" style="TEXT-ALIGN: center"><font id="DSPFPageNumber" style="FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica, 'sans-serif'; FONT-WEIGHT: normal; FONT-STYLE: normal">9</font></div>
+
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z9a5ff691bd634288984f471ac482467b" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.29</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Certificate Administrator of the Cumberland Mall Mortgage Loan (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zad5d6ff154be4106a7de00eb19249846" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.30</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Custodian of the Cumberland Mall Mortgage Loan (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zd266edbea17b448d9bdc59cc1e04ed3f" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.31</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Park Bridge Lender Services LLC, as Trust Advisor of the Cumberland Mall Mortgage Loan (filed as Exhibit 34.31 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z46abf49b428d4257a6a2a087d9ec1758" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.32</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the Cumberland Mall Mortgage Loan (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z3fd4466bbbb2405084c158b75efd9646" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.33</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">National Tax Search, LLC, as Servicing Function Participant of the Cumberland Mall Mortgage Loan (filed as Exhibit 34.8 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z208f09719f344e828197479c10ab3190" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.34</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Primary Servicer of the 100 &amp; 150 South Wacker Drive Mortgage Loan (filed as Exhibit 34.1 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z20458a49350f4cdb9bc5c1b77d3eca91" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.35</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Rialto Capital Advisors, LLC, as Special Servicer of the 100 &amp; 150 South Wacker Drive Mortgage Loan (filed as Exhibit 34.2 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z3dc71475f4924341a83a376fcbdcc77b" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.36</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">U.S. Bank National Association, as Trustee of the 100 &amp; 150 South Wacker Drive Mortgage Loan (Omitted. See Explanatory Notes to the Original 10-K under Commission File No. 333-172366-7 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z9d749beee3514bf39ad9c637525029f9" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.37</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Certificate Administrator of the 100 &amp; 150 South Wacker Drive Mortgage Loan (filed as Exhibit 34.4 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z484d4e41d65d49edbfd281e2af6702e0" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.38</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Custodian of the 100 &amp; 150 South Wacker Drive Mortgage Loan (filed as Exhibit 34.5 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z1e9736d0ff4145b4a27b2617913e050b" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.39</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Park Bridge Lender Services LLC, as Trust Advisor of the 100 &amp; 150 South Wacker Drive Mortgage Loan (filed as Exhibit 34.31 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z80deff98e6f6479aace94125ec1b852f" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.40</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">CoreLogic Commercial Real Estate Services, Inc., as Servicing Function Participant of the 100 &amp; 150 South Wacker Drive Mortgage Loan (filed as Exhibit 34.7 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z9a83f83515614ccabcde44c09014b8c8" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">34.41</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">National Tax Search, LLC, as Servicing Function Participant of the 100 &amp; 150 South Wacker Drive Mortgage Loan (filed as Exhibit 34.8 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="za41c1cbef0914d55be2ade734776f219" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">35</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Servicer compliance statements.</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z5a64798e3a824344b86dc886ab32d537" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">35.1</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Master Servicer (filed as Exhibit 35.1 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="ze1a5e064b16f429b915c8ec5c00ee2fe" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">35.2</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Rialto Capital Advisors, LLC, as Special Servicer (filed as Exhibit 35.2 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z37f75615b5774ede8695170955cea325" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">35.3</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Certificate Administrator (filed as Exhibit 35.3 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z95f466b6ab004b2b882973471eee54f0" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">35.4</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Prudential Asset Resources, Inc., as Primary Servicer (filed as Exhibit 35.4 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zfd06c7be17c64f81a69c8d2108ce86bf" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">35.5</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Primary Servicer of the White Marsh Mall Mortgage Loan (filed as Exhibit 35.1 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z4ef57fd42d5e4916b575374191c5ac38" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">35.6</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Rialto Capital Advisors, LLC, as Special Servicer of the White Marsh Mall Mortgage Loan (filed as Exhibit 35.2 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zb7d3c580bc924b30ba7fae1db25d31a6" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">35.7</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Certificate Administrator of the White Marsh Mall Mortgage Loan (filed as Exhibit 35.3 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z191d1dddac9b41598150109bb70fb81c" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">35.8</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Primary Servicer of the 301 South College Street Mortgage Loan (filed as Exhibit 35.1 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z9384d60a06bc42c594fcbf3a0ff2b04b" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">35.9</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Rialto Capital Advisors, LLC, as Special Servicer of the 301 South College Street Mortgage Loan (filed as Exhibit 35.2 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z0c4c1688425340babc9c3770731c951c" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">35.10</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Certificate Administrator of the 301 South College Street Mortgage Loan (filed as Exhibit 35.3 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both">
+<div id="DSPFPageNumberArea" style="TEXT-ALIGN: center"><font id="DSPFPageNumber" style="FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica, 'sans-serif'; FONT-WEIGHT: normal; FONT-STYLE: normal">10</font></div>
+
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z207b1ee1a73a460abaf004a0d59c50fa" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">35.11</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Primary Servicer of the Cumberland Mall Mortgage Loan (filed as Exhibit 35.11 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zd8aebd606f334d8a9f4d682c28c5a73e" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">35.12</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Rialto Capital Advisors, LLC, as Special Servicer of the Cumberland Mall Mortgage Loan (filed as Exhibit 35.12 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z1de8b2c2930a42979220564996351ef9" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">35.13</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Certificate Administrator of the Cumberland Mall Mortgage Loan (filed as Exhibit 35.13 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z30a86dcc3509423f92de4218094774f5" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">35.14</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Primary Servicer of the 100 &amp; 150 South Wacker Drive Mortgage Loan (filed as Exhibit 35.11 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zff5d35722f734ee9bbb8003faf77258b" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">35.15</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Rialto Capital Advisors, LLC, as Special Servicer of the 100 &amp; 150 South Wacker Drive Mortgage Loan (filed as Exhibit 35.12 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z63de7b737c5243ddaabd1673ceecffab" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">35.16</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Wells Fargo Bank, National Association, as Certificate Administrator of the 100 &amp; 150 South Wacker Drive Mortgage Loan (filed as Exhibit 35.13 to the Original 10-K under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="ze54b197682d2415191d49a8e8986e973" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">99.1</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Mortgage Loan Purchase Agreement, dated as of May 23, 2013, between Wells Fargo Commercial Mortgage Securities, Inc. and Wells Fargo Bank, National Association (filed as Exhibit 99.1 to the registrant&#8217;s Current Report on Form 8-K/A filed on October 15, 2013 under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z09b824fc10064edf9ec5613ad7f176d4" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">99.2</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Mortgage Loan Purchase Agreement, dated as of May 23, 2013, between Wells Fargo Commercial Mortgage Securities, Inc. and The Royal Bank of Scotland plc (filed as Exhibit 99.2 to the registrant&#8217;s Current Report on Form 8-K/A filed on October 15, 2013 under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z7822b32c5826422d9d8bfadaa19d6147" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">99.3</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Mortgage Loan Purchase Agreement, dated as of May 23, 2013, between Wells Fargo Commercial Mortgage Securities, Inc. and RBS Financial Products Inc. (filed as Exhibit 99.3 to the registrant&#8217;s Current Report on Form 8-K/A filed on October 15, 2013 under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z4e80e88a1dd34d7b87e05343813987e9" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">99.4</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Mortgage Loan Purchase Agreement, dated as of May 23, 2013, among Wells Fargo Commercial Mortgage Securities, Inc., Liberty Island Group I LLC and Liberty Island Group LLC (filed as Exhibit 99.4 to the registrant&#8217;s Current Report on Form 8-K/A filed on October 15, 2013 under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z3ca96d2685014899809faec147391a81" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">99.5</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Mortgage Loan Purchase Agreement, dated as of May 23, 2013, among Wells Fargo Commercial Mortgage Securities, Inc., Basis Real Estate Capital II, LLC and Basis Investment Group LLC (filed as Exhibit 99.5 to the registrant&#8217;s Current Report on Form 8-K/A filed on October 15, 2013 under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="z0b59fff0dd224958b44f3a2d8804e201" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">99.6</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Mortgage Loan Purchase Agreement, dated as of May 23, 2013, between Wells Fargo Commercial Mortgage Securities, Inc. and C-III Commercial Mortgage LLC (filed as Exhibit 99.6 to the registrant&#8217;s Current Report on Form 8-K/A filed on October 15, 2013 under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left">
+<table id="zcc8e6d206ace41a7b61aebf5fc8d01db" class="DSPFListTable" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 36pt; VERTICAL-ALIGN: top; align: right">99.7</td>
+<td style="WIDTH: auto; VERTICAL-ALIGN: top; TEXT-ALIGN: left">
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Primary Servicing Agreement, dated as of June 1, 2013, between Wells Fargo Bank, National Association and Prudential Asset Resources, Inc. (filed as Exhibit 99.7 to the registrant&#8217;s Current Report on Form 8-K/A filed on October 15, 2013 under Commission File No. 333-172366-07 and incorporated by reference herein)</div>
+</td>
+</tr>
+</table>
+</div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">(b)</font><font id="TRGRRTFtoHTMLTab" style="FONT-SIZE: 1px; WIDTH: 18pt; DISPLAY: inline-block">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">The exhibits required to be filed by the Registrant pursuant to Item 601 of Regulation S-K are listed above and in the Exhibit Index that immediately follows the signature page hereof.</font></div>
+
+<div style="MARGIN-TOP: 10pt; TEXT-ALIGN: left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">(c)</font><font id="TRGRRTFtoHTMLTab" style="FONT-SIZE: 1px; WIDTH: 18pt; DISPLAY: inline-block">&#160;</font><font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif">Not Applicable.</font></div>
+
+<div style="MARGIN-TOP: 10pt"><br>
+</div>
+
+<div id="DSPFPageBreakArea" style="MARGIN-BOTTOM: 10pt; MARGIN-TOP: 10pt; CLEAR: both">
+<div id="DSPFPageNumberArea" style="TEXT-ALIGN: center"><font id="DSPFPageNumber" style="FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica, 'sans-serif'; FONT-WEIGHT: normal; FONT-STYLE: normal">11</font></div>
+
+<div id="DSPFPageBreak" style="PAGE-BREAK-AFTER: always">
+<hr style="BORDER-LEFT-WIDTH: 0px; HEIGHT: 2px; BORDER-RIGHT-WIDTH: 0px; WIDTH: 100%; BORDER-BOTTOM-WIDTH: 0px; COLOR: #000000; CLEAR: both; MARGIN: 4px 0px; BORDER-TOP-WIDTH: 0px; BACKGROUND-COLOR: #000000" noshade="noshade">
+</div>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 18pt; FONT-WEIGHT: bold; TEXT-ALIGN: left">SIGNATURES</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 10pt; TEXT-ALIGN: left">Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 12pt; TEXT-ALIGN: left; MARGIN-RIGHT: 324pt">Wells Fargo Commercial Mortgage Securities, Inc.<font style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif"><br>
+</font> (Depositor)</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 12pt; TEXT-ALIGN: left; MARGIN-RIGHT: 324pt">
+<table id="z68197a2746fc41b7b417eacfe895ea79" style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; WIDTH: 100%" cellspacing="0" cellpadding="0">
+<tr>
+<td style="WIDTH: 35%" valign="top" align="left">&#160;</td>
+<td style="WIDTH: 12%" valign="top">&#160;</td>
+<td style="WIDTH: 6%" valign="top">&#160;</td>
+<td style="WIDTH: 35%" valign="top" align="left">&#160;</td>
+<td style="WIDTH: 12%" valign="top">&#160;</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 35%; BORDER-BOTTOM: #000000 2px solid" valign="top" align="left">
+<div style="TEXT-ALIGN: left; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">/s/ Anthony Sfarra</div>
+</td>
+<td style="WIDTH: 12%; PADDING-BOTTOM: 2px" valign="top">&#160;</td>
+<td style="WIDTH: 6%; PADDING-BOTTOM: 2px" valign="top">&#160;</td>
+<td style="WIDTH: 35%; PADDING-BOTTOM: 2px; BORDER-BOTTOM-COLOR: " valign="top" align="left">
+<div style="TEXT-ALIGN: left; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">&#160;</div>
+</td>
+<td style="WIDTH: 12%; PADDING-BOTTOM: 2px" valign="top">&#160;</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 35%" valign="top" align="left">
+<div style="TEXT-ALIGN: left; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">Anthony Sfarra, President</div>
+</td>
+<td style="WIDTH: 12%" valign="top">&#160;</td>
+<td style="WIDTH: 6%" valign="top">&#160;</td>
+<td style="WIDTH: 35%" valign="top" align="left">
+<div style="TEXT-ALIGN: left; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">&#160;</div>
+</td>
+<td style="WIDTH: 12%" valign="top">&#160;</td>
+</tr>
+
+<tr>
+<td style="WIDTH: 35%" valign="top">
+<div style="TEXT-ALIGN: justify; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">(senior officer in charge of securitization of the depositor)</div>
+</td>
+<td style="WIDTH: 12%" valign="top">&#160;</td>
+<td style="WIDTH: 6%" valign="top">&#160;</td>
+<td style="WIDTH: 35%" valign="top">
+<div style="TEXT-ALIGN: justify; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">&#160;</div>
+</td>
+<td style="WIDTH: 12%" valign="top">&#160;</td>
+</tr>
+</table>
+</div>
+
+<div>
+<div><br>
+</div>
+
+<div style="FONT-SIZE: 10pt; FONT-FAMILY: Arial, Helvetica, sans-serif; MARGIN-TOP: 12pt; TEXT-ALIGN: left; MARGIN-RIGHT: 324pt">Date: September 5, 2017</div>
+</div>
+</div>
+
+<div id="DSPFPageNumberArea" style="TEXT-ALIGN: center"><font id="DSPFPageNumber" style="FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica, 'sans-serif'; FONT-WEIGHT: normal; FONT-STYLE: normal">12</font></div>
+
+<div style="TEXT-ALIGN: center">
+<hr style="BORDER-TOP: medium none; HEIGHT: 2px; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; COLOR: #000000; TEXT-ALIGN: center; MARGIN-LEFT: auto; BORDER-LEFT: medium none; BACKGROUND-COLOR: #000000; MARGIN-RIGHT: auto" align="center" noshade="noshade">
+</div>
+</body>
+</html>
+
+</TEXT>
+</DOCUMENT>

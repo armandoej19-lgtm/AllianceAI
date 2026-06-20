@@ -11,8 +11,14 @@ __pycache__/
 **/edgar/clean/
 **/*.pt
 logs/
-reports/*.html
+reports/
+data/
 checkpoints/
+
+# Trash folders (created by Linux file managers) — unreadable, break the build.
+.Trash-*/
+**/.Trash-*/
+.bak_pre_claude/
 
 # Secrets never go in the image — passed at runtime via env_file/-e.
 .env

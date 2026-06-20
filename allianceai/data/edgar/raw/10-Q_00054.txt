@@ -1,0 +1,942 @@
+<DOCUMENT>
+<TYPE>10-Q/A
+<SEQUENCE>1
+<FILENAME>d75716d10qa.htm
+<DESCRIPTION>FORM 10-Q/A
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 10-Q/A</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+
+ <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P> <P STYLE="margin-top:4pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>UNITED STATES </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>SECURITIES AND EXCHANGE COMMISSION </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Washington, D.C. 20549 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:18pt; font-family:Times New Roman" ALIGN="center"><B>Form 10-Q/A
+</B></P> <P STYLE="margin-top:6pt; margin-bottom:0pt; font-size:12pt; font-family:Times New Roman" ALIGN="center"><B>Amendment No.&nbsp;1 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman"><B>(Mark One) </B></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B></B><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT><B></B><B></B></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:12pt"><B>QUARTERLY REPORT PURSUANT TO SECTION&nbsp;13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 </B></P></TD></TR></TABLE>
+ <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>For the quarterly period ended June&nbsp;30, 2015 </B></P>
+ <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>OR </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:12pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><B></B><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT><B></B><B></B></TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:12pt"><B>TRANSITION REPORT PURSUANT TO SECTION&nbsp;13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 </B></P></TD></TR></TABLE>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Commission file number 000-12477 </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center>
+<P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:24pt; font-family:Times New Roman" ALIGN="center"><B>Amgen Inc.
+</B></P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(Exact name of registrant as specified in its charter) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:8pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"><B>Delaware</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>95-3540776</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(State or other jurisdiction of</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>incorporation or organization)</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(I.R.S. Employer</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Identification No.)</B></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>One Amgen Center Drive,</B></P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>Thousand Oaks, California</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>91320-1799</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top" ALIGN="center"><B>(Address of principal executive offices)</B></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top" ALIGN="center"><B>(Zip Code)</B></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>(805) 447-1000 </B></P>
+<P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>(Registrant&#146;s telephone number, including area code) </B></P>
+<P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P><center> <P STYLE="line-height:6.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1.00pt solid #000000;width:21%">&nbsp;</P></center>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Indicate by check mark whether the registrant (1)&nbsp;has filed all reports required to be filed by Section&nbsp;13 or
+Section&nbsp;15(d)&nbsp;of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2)&nbsp;has been subject to such filing requirements for the past
+90 days.&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every
+Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (&#167; 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such
+files).&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT> </P>
+<P STYLE="margin-top:0pt;margin-bottom:0pt;page-break-before:always"></P> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Indicate by check mark whether the registrant is a
+large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of &#147;large accelerated filer,&#148; &#147;accelerated filer&#148; and &#147;smaller reporting company&#148; in
+Rule&nbsp;12b-2 of the Exchange Act. (Check one): </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD WIDTH="16%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="60%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="20%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="1%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Large&nbsp;accelerated&nbsp;filer</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Accelerated&nbsp;filer</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="bottom"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Non-accelerated filer</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;(Do not check if a smaller reporting company)</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Smaller&nbsp;reporting&nbsp;company</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt"><FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Indicate by check mark whether the registrant is a shell company (as defined in
+Rule&nbsp;12b-2 of the Act)&nbsp;&nbsp;&nbsp;&nbsp;Yes&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#168;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;No&nbsp;&nbsp;<FONT STYLE="FONT-FAMILY:WINGDINGS">&#120;</FONT> </P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" ALIGN="justify">As of July&nbsp;28, 2015, the registrant had 758,250,346 shares of common stock, $0.0001 par value, outstanding. </P>
+<P STYLE="font-size:10pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P> <P STYLE="line-height:1.0pt;margin-top:0pt;margin-bottom:0pt;border-bottom:1px solid #000000">&nbsp;</P>
+<P STYLE="line-height:3.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000">&nbsp;</P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>EXPLANATORY NOTE </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Amgen Inc. (the &#147;Company&#148;) is filing this Amendment No.&nbsp;1 on Form 10-Q/A (this &#147;Amendment No.&nbsp;1&#148;) to amend the Company&#146;s
+Quarterly Report on Form 10-Q for the quarterly period ended June&nbsp;30, 2015 (the &#147;Form 10-Q&#148;), as originally filed with the Securities and Exchange Commission (the &#147;Commission&#148;) on August&nbsp;5, 2015 (the &#147;Original
+Filing Date&#148;). This Amendment No.&nbsp;1 is being filed solely to provide the correct Exhibit 10.18 (the &#147;Exhibit&#148;). </P> <P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman">Except for the
+corrected Exhibit, this Amendment No.&nbsp;1 does not amend any other information set forth in the Form 10-Q. This Amendment No.&nbsp;1 speaks as of the Original Filing Date, does not reflect any events that may have occurred subsequent to the
+Original Filing Date, and does not modify or update in any way any disclosures made in the Form 10-Q. Additionally, in connection with the filing of this Amendment No.&nbsp;1, the Company is including new certifications of the Company&#146;s chief
+executive officer and chief financial officer pursuant to Rule 13a-14(a) of the Exchange Act. The Company is not including certifications pursuant to Section&nbsp;1350 of Chapter 63 of Title 18 of the United States Code (18 U.S.C. 1350) as no
+financial statements are being filed with this Amendment No.&nbsp;1. </P> <P STYLE="font-size:18pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%" VALIGN="top" ALIGN="left"><B>Item&nbsp;6.</B></TD>
+<TD ALIGN="left" VALIGN="top"><B>EXHIBITS </B></TD></TR></TABLE> <P STYLE="margin-top:6pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Reference is made to the Index to Exhibits included herein.
+</P>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">2 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>SIGNATURES </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; text-indent:4%; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized. </P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt">
+
+
+<TR>
+<TD WIDTH="48%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="2%"></TD>
+<TD VALIGN="bottom"></TD>
+<TD WIDTH="48%"></TD></TR>
+
+
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" COLSPAN="3"> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">Amgen Inc.</P>
+<P STYLE="margin-top:0pt; margin-bottom:1pt; font-size:10pt; font-family:Times New Roman" ALIGN="justify">(Registrant)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Date: August&nbsp;6, 2015</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">By:</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0pt; margin-bottom:1pt; border-bottom:1px solid #000000; font-size:10pt; font-family:Times New Roman" ALIGN="center">/s/ David W. Meline</P></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>David W. Meline</B></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" ALIGN="center"><B>Executive Vice President and Chief Financial Officer</B></TD></TR>
+</TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">3 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+ <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>AMGEN INC. </B></P>
+<P STYLE="margin-top:12pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center"><B>INDEX TO EXHIBITS </B></P> <P STYLE="font-size:12pt;margin-top:0pt;margin-bottom:0pt">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD WIDTH="91%"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:25.30pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Exhibit<BR>No.</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>3.1</TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top">Restated Certificate of Incorporation of Amgen Inc. (As Restated March 6, 2013.) (Filed as an exhibit to Form 10-Q for the quarter ended March 31, 2013 on May 3, 2013 and incorporated herein by reference.)</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">3.2</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amended and Restated Bylaws of Amgen Inc. (As Amended and Restated March 6, 2013). (Filed as an exhibit to Form 8-K on March 6, 2013 and incorporated herein by
+reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">3.3</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">First Amendment to the Amended and Restated Bylaws of Amgen Inc. (As Amended and Restated March 6, 2013). (Filed as an exhibit to Form 8-K on October 16, 2013
+and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">4.1</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of stock certificate for the common stock, par value $.0001 of the Company. (Filed as an exhibit to Form 10-Q for the quarter ended March 31, 1997 on May
+13, 1997 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">4.2</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Indenture, dated January 1, 1992. (Filed as an exhibit to Form S-3 Registration Statement filed on December&nbsp;19,&nbsp;1991 and incorporated herein
+by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">4.3</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Agreement of Resignation, Appointment and Acceptance dated February 15, 2008. (Filed as an exhibit to Form 10-K for the year ended December 31, 2007 on February
+28, 2008 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">4.4</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">First Supplemental Indenture, dated February 26, 1997. (Filed as an exhibit to Form 8-K on March 14, 1997 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">4.5</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">8-1/8% Debentures due April 1, 2097. (Filed as an exhibit to Form 8-K on April 8, 1997 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">4.6</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Officer&#146;s Certificate of Amgen Inc., dated January 1, 1992, as supplemented by the First Supplemental Indenture, dated February 26, 1997, establishing a
+series of securities entitled &#147;8 1/8% Debentures due April 1, 2097.&#148; (Filed as an exhibit to Form 8-K on April 8, 1997 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">4.7</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Indenture, dated August 4, 2003. (Filed as an exhibit to Form S-3 Registration Statement on August 4, 2003 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">4.8</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Corporate Commercial Paper&#151;Master Note between and among Amgen Inc., as Issuer, Cede &amp; Co., as Nominee of The Depository Trust Company, and Citibank,
+N.A., as Paying Agent. (Filed as an exhibit to Form 10-Q for the quarter ended March&nbsp;31, 1998 on May&nbsp;13, 1998 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">4.9</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Officers&#146; Certificate of Amgen Inc., dated May 30, 2007, including forms of the Company&#146;s Senior Floating Rate Notes due 2008, 5.85% Senior Notes due
+2017 and 6.375% Senior Notes due 2037. (Filed as an exhibit to Form 8-K on May 30, 2007 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">4.10</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Officers&#146; Certificate of Amgen Inc., dated May 23, 2008, including forms of the Company&#146;s 6.15% Senior Notes due 2018 and 6.90% Senior Notes due 2038.
+(Filed as exhibit to Form 8-K on May 23, 2009 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">4.11</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Officers&#146; Certificate of Amgen Inc., dated January 16, 2009, including forms of the Company&#146;s 5.70% Senior Notes due 2019 and 6.40% Senior Notes due
+2039. (Filed as exhibit to Form 8-K on January 16, 2009 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">4.12</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Officers&#146; Certificate of Amgen Inc., dated March 12, 2010, including forms of the Company&#146;s 4.50% Senior Notes due 2020 and 5.75% Senior Notes due
+2040. (Filed as exhibit to Form 8-K on March 15, 2010 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">4.13</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Officers&#146; Certificate of Amgen Inc., dated September 16, 2010, including forms of the Company&#146;s 3.45% Senior Notes due 2020 and 4.95% Senior Notes due
+2041. (Filed as an exhibit to Form 8-K on September 17, 2010 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">4.14</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Officers&#146; Certificate of Amgen Inc., dated June 30, 2011, including forms of the Company&#146;s 2.30% Senior Notes due 2016, 4.10% Senior Notes due 2021
+and 5.65% Senior Notes due 2042. (Filed as an exhibit to Form 8-K on June 30, 2011 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">4.15</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Officers&#146; Certificate of Amgen Inc., dated November 10, 2011, including forms of the Company&#146;s 1.875% Senior Notes due 2014, 2.50% Senior Notes due
+2016, 3.875% Senior Notes due 2021 and 5.15% Senior Notes due 2041. (Filed as an exhibit to Form 8-K on November 10, 2011 and incorporated herein by reference.)</P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">4 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="91%"></TD></TR>
+
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:25.30pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Exhibit<BR>No.</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">4.16</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Officers&#146; Certificate of Amgen Inc., dated December&nbsp;5, 2011, including forms of the Company&#146;s 4.375% Senior Notes due 2018 and 5.50% Senior Notes
+due 2026. (Filed as an exhibit to Form 8-K on December&nbsp;5, 2011 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">4.17</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Officers&#146; Certificate of Amgen Inc., dated May 15, 2012, including forms of the Company&#146;s 2.125% Senior Notes due 2017, 3.625% Senior Notes due 2022
+and 5.375% Senior Notes due 2043. (Filed as an exhibit to Form 8-K on May 15, 2012 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">4.18</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Officers&#146; Certificate of Amgen Inc., dated September 13, 2012, including forms of the Company&#146;s 2.125% Senior Notes due 2019 and 4.000% Senior Notes
+due 2029. (Filed as an exhibit to Form 8-K on September 13, 2012 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">4.19</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Indenture, dated May 22, 2014, between Amgen Inc. and The Bank of New York Mellon Trust Company, N.A., as Trustee. (Filed as an exhibit to Form 8-K on May 22,
+2014 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">4.20</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Officers&#146; Certificate of Amgen Inc., dated May 22, 2014, including forms of the Company&#146;s Senior Floating Rate Notes due 2017, Senior Floating Rate
+Notes due 2019, 1.250% Senior Notes due 2017, 2.200% Senior Notes due 2019 and 3.625% Senior Notes due 2024. (Filed as an exhibit to Form 8-K on May 22, 2014 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">4.21</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Officer&#146;s Certificate of Amgen Inc., dated May 1, 2015, including forms of the Company&#146;s 2.125% Senior Notes due 2020, 2.700% Senior Notes due 2022,
+3.125% Senior Notes due 2025 and 4.400% Senior Notes. 9Add due 2045. (Filed as an exhibit on Form 8-K on May 1, 2015 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.1+</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amgen Inc. Amended and Restated 2009 Equity Incentive Plan. (Filed as Appendix C to the Definitive Proxy Statement on Schedule 14A on April 8, 2013 and
+incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.2+</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">First Amendment to Amgen Inc. Amended and Restated 2009 Equity Incentive Plan, effective March 4, 2015. (Filed as an exhibit to Form 10-Q for the quarter ended
+March 31, 2015 on April 27, 2015 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.3+</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Stock Option Agreement for the Amgen Inc. Amended and Restated 2009 Equity Incentive Plan. (As Amended on March 6, 2013.) (Filed as an exhibit to Form
+10-Q for the quarter ended March 31, 2013 on May 3, 2013 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.4+**</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Restricted Stock Unit Agreement for the Amgen Inc. Amended and Restated 2009 Equity Incentive Plan. (As Amended on May 14, 2015.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.5+</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amgen Inc. 2009 Performance Award Program. (As Amended on December 13, 2013.) (Filed as an exhibit to <FONT STYLE="white-space:nowrap">Form&nbsp;10-K</FONT> for
+the year ended December 31, 2013 on February 24, 2014 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.6+**</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Performance Unit Agreement for the Amgen Inc. 2009 Performance Award Program. (As Amended on May 14, 2015).</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.7+</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amgen Inc. 2009 Director Equity Incentive Program. (As Amended on March 6, 2013.) (Filed as an exhibit to <FONT STYLE="white-space:nowrap">Form&nbsp;10-Q</FONT>
+for the quarter ended March 31, 2013 on May 3, 2013 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.8+</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Grant of Non-Qualified Stock Option Agreement for the Amgen Inc. 2009 Director Equity Incentive Program. (Filed as an exhibit to Form 8-K on May 8, 2009
+and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.9+</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Form of Restricted Stock Unit Agreement for the Amgen Inc. 2009 Director Equity Incentive Program. (As Amended on March 6, 2013.) (Filed as an exhibit to Form
+10-Q for the quarter ended March 31, 2013 on May 3, 2013 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.10+</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amgen Inc. Supplemental Retirement Plan. (As Amended and Restated effective October 16, 2013.) (Filed as an exhibit to Form 10-K for the year ended December 31,
+2013 on February 24, 2014 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.11+</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amended and Restated Amgen Change of Control Severance Plan. (As Amended and Restated effective December 9, 2010 and subsequently amended effective March 2,
+2011.) (Filed as an exhibit to Form 10-Q for the quarter ended March&nbsp;31, 2011 on May 10, 2011 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.12+</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amgen Inc. Executive Incentive Plan. (As Amended and Restated effective January&nbsp;1, 2009.) (Filed as an exhibit to Form 10-Q for the quarter ended
+September&nbsp;30, 2008 on November&nbsp;7, 2008 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.13+</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">First Amendment to the Amgen Inc. Executive Incentive Plan, effective December 13, 2012. (Filed as an exhibit to Form&nbsp;10-K for the year ended December 31,
+2012 on February 27, 2013 and incorporated herein by reference.)</P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">5 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="91%"></TD></TR>
+
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:25.30pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Exhibit<BR>No.</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.14+</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amgen Inc. Executive Nonqualified Retirement Plan. (As Amended and Restated effective January&nbsp;1, 2009.) (Filed as an exhibit to Form 10-Q for the quarter
+ended September&nbsp;30, 2008 on November&nbsp;7, 2008 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.15+</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">First Amendment to the Amgen Inc. Executive Nonqualified Retirement Plan, effective July 21, 2010. (Filed as an exhibit to Form 10-Q for the quarter ended June
+30, 2010 on August 9, 2010 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.16+</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amgen Nonqualified Deferred Compensation Plan. (As Amended and Restated effective October 16, 2013.) (Filed as an exhibit to Form 10-K for the year ended
+December 31, 2013 on February 24, 2014 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.17+</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Agreement between Amgen Inc. and David W. Meline, effective July 21, 2014. (Filed as an exhibit to Form 10-Q for the quarter ended September 30, 2014 on October
+29, 2014 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.18+*</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Agreement between Amgen Inc. and Jonathan Graham, dated May 11, 2015.</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.19</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Shareholders&#146; Agreement, dated May 11, 1984, among Amgen, Kirin Brewery Company, Limited and Kirin-Amgen, Inc. (Filed as an exhibit to Form 10-K for the
+year ended December 31, 2000 on March 7, 2001 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.20</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amendment No. 1 dated March 19, 1985, Amendment No. 2 dated July 29, 1985 (effective July 1, 1985), and Amendment No. 3, dated December 19, 1985, to the
+Shareholders&#146; Agreement dated May 11, 1984. (Filed as an exhibit to Form 10-Q for the quarter ended June 30, 2000 on August 1, 2000 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.21</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amendment No. 4 dated October 16, 1986 (effective July 1, 1986), Amendment No. 5 dated December 6, 1986 (effective July 1, 1986), Amendment No. 6 dated June 1,
+1987, Amendment No. 7 dated July 17, 1987 (effective April 1, 1987), Amendment No. 8 dated May 28, 1993 (effective November 13, 1990), Amendment No. 9 dated December 9, 1994 (effective June 14, 1994), Amendment No. 10 effective March 1, 1996, and
+Amendment No. 11 effective March 20, 2000 to the Shareholders&#146; Agreement, dated May 11, 1984. (Filed as exhibits to Form 10-K for the year ended December 31, 2000 on March 7, 2001 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.22</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amendment No. 12 to the Shareholders&#146; Agreement, dated January 31, 2001. (Filed as an exhibit to Form 10-Q for the quarter ended June 30, 2005 on August 8,
+2005 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.23</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amendment No. 13 to the Shareholders&#146; Agreement, dated June 28, 2007 (portions of the exhibit have been omitted pursuant to a request for confidential
+treatment). (Filed as an exhibit to Form 10-Q for the quarter ended June 30, 2007 on August 9, 2007 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.24</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amendment No. 14 to the Shareholders&#146; Agreement, dated March 26, 2014. (Filed as an exhibit to Form 10-Q for the quarter ended March 31, 2014 on April 30,
+2014 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.25</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Assignment and License Agreement, dated October 16, 1986 (effective July 1, 1986), between Amgen and Kirin-Amgen, Inc. (Filed as an exhibit to Form 10-K for the
+year ended December 31, 2000 on March 7, 2001 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.26</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">G-CSF United States License Agreement, dated June&nbsp;1, 1987 (effective July&nbsp;1, 1986), Amendment No. 1, dated October&nbsp;20, 1988, and Amendment No. 2,
+dated October&nbsp;17, 1991 (effective November&nbsp;13, 1990), between Kirin-Amgen, Inc. and Amgen Inc. (Filed as exhibits to Form 10-K for the year ended December&nbsp;31, 2000 on March&nbsp;7, 2001 and incorporated herein by
+reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.27</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">G-CSF European License Agreement, dated December 30, 1986, between Kirin-Amgen and Amgen, Amendment No. 1 to Kirin-Amgen, Inc. / Amgen G-CSF European License
+Agreement, dated June 1, 1987, Amendment No. 2 to Kirin-Amgen, Inc. / Amgen G-CSF European License Agreement, dated March 15, 1998, Amendment No. 3 to Kirin-Amgen, Inc. / Amgen G-CSF European License Agreement, dated October 20, 1988, and Amendment
+No. 4 to Kirin-Amgen, Inc. / Amgen G-CSF European License Agreement, dated December 29, 1989, between Kirin-Amgen, Inc. and Amgen Inc. (Filed as exhibits to Form 10-K for the year ended December 31, 2000 on March 7, 2001 and incorporated herein by
+reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.28</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amended and Restated Promotion Agreement, dated December 16, 2001, by and among Immunex Corporation, American Home Products Corporation and Amgen Inc. (portions
+of the exhibit have been omitted pursuant to a request for confidential treatment). (Filed as an exhibit to Amendment No. 1 to Form S-4 Registration Statement on March 22, 2002 and incorporated herein by
+reference.)</P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">6 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD WIDTH="91%"></TD></TR>
+
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:25.30pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Exhibit<BR>No.</B></P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.29</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Description of Amendment No. 1 to Amended and Restated Promotion Agreement, effective July&nbsp;8, 2003, among Wyeth, Amgen Inc. and Immunex Corporation
+(portions of the exhibit have been omitted pursuant to a request for confidential treatment). (Filed as an exhibit to Form 10-K for the year ended December&nbsp;31, 2003 on March&nbsp;11, 2004 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.30</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Description of Amendment No. 2 to Amended and Restated Promotion Agreement, effective April 20, 2004, by and among Wyeth, Amgen Inc. and Immunex Corporation.
+(Filed as an exhibit to Amendment No. 1 to Form S-4 Registration Statement on June 29, 2004 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.31</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amendment No. 3 to Amended and Restated Promotion Agreement, effective January 1, 2005, by and among Wyeth, Amgen Inc. and Immunex Corporation (portions of the
+exhibit have been omitted pursuant to a request for confidential treatment). (Filed as an exhibit to Form 10-Q for the quarter ended March 31, 2005 on May 4, 2005 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.32</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amended and Restated Credit Agreement, dated July 30, 2014, among Amgen Inc., the Banks therein named, Citibank, N.A., as administrative agent, and JPMorgan
+Chase Bank, N.A., as syndication agent (Filed as an exhibit to Form 8-K on July 30, 2014 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.33</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Collaboration and License Agreement between Amgen Inc. and Celltech R&amp;D Limited dated May 10, 2002 (portions of the exhibit have been omitted pursuant to a
+request for confidential treatment) and Amendment No. 1, effective June 9, 2003, to Collaboration and License Agreement between Amgen Inc. and Celltech R&amp;D Limited (portions of the exhibit have been omitted pursuant to a request for confidential
+treatment). (Filed as an exhibit to Form 10-K/A for the year ended December 31, 2012 on July 31, 2013 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.34</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Sourcing and Supply Agreement, dated November 15, 2011, by and between Amgen USA Inc, a wholly owned subsidiary of Amgen Inc., and DaVita Inc. (portions of the
+exhibit have been omitted pursuant to a request for confidential treatment). (Filed as an exhibit to Form 10-K for the year ended December 31, 2011 on February 29, 2012 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.35</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amendment Number 1 to Sourcing and Supply Agreement, effective January 1, 2013, by and between Amgen USA Inc., a wholly owned subsidiary of Amgen Inc., and
+DaVita Healthcare Partners Inc. f/k/a DaVita Inc. (portions of the exhibit have been omitted pursuant to a request for confidential treatment). (Filed as an exhibit to Form 10-K for the year ended December 31, 2012 on February 27, 2013 and
+incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.36</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Collaboration Agreement dated March 30, 2012 by and between Amgen Inc. and AstraZeneca Collaboration Ventures, LLC, a wholly owned subsidiary of AstraZeneca
+Pharmaceuticals LP (portions of the exhibit have been omitted pursuant to a request for confidential treatment). (Filed as an exhibit to Form 10-Q for the quarter ended March 31, 2012 on May 8, 2012 and incorporated herein by
+reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.37</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amendment No. 1 to Collaboration Agreement, dated October 1, 2014, by and among Amgen Inc., AstraZeneca Collaboration Ventures, LLC and AstraZeneca
+Pharmaceuticals LP (portions of the exhibit have been omitted pursuant to a request for confidential treatment). (Filed as an exhibit to Form 10-K for the year ended December 31, 2014 on February 19, 2015 and incorporated herein by
+reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.38</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Collaboration Agreement, dated April 22, 1994, by and between Bayer Corporation (formerly Miles, Inc.) and Onyx Pharmaceuticals, Inc. (Filed as an exhibit to
+Form 10-Q for the quarter ended March 31, 2011 by Onyx Pharmaceuticals, Inc. on May 10, 2011 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.39</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amendment to Collaboration Agreement, dated April 24, 1996, by and between Bayer Corporation and Onyx Pharmaceuticals, Inc. (Filed as an exhibit to Form 10-Q
+for the quarter ended March 31, 2006 by Onyx Pharmaceuticals, Inc. on May 10, 2006 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.40</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Amendment to Collaboration Agreement, dated February 1, 1999, by and between Bayer Corporation and Onyx Pharmaceuticals, Inc. (Filed as an exhibit to Form 10-Q
+for the quarter ended March 31, 2006 by Onyx Pharmaceuticals, Inc. on May 10, 2006 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.41</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Settlement Agreement and Release, dated October 11, 2011, by and between Bayer Corporation, Bayer AG, Bayer HealthCare LLC and Bayer Pharma AG and Onyx
+Pharmaceuticals, Inc. (Filed as an exhibit to Form 10-K for the year ended December 31, 2011 by Onyx Pharmaceuticals, Inc. on February 27, 2012 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.42</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Fourth Amendment to Collaboration Agreement, dated October 11, 2011, by and between Bayer Corporation and Onyx Pharmaceuticals, Inc. (Filed as an exhibit to
+Form 10-K for the year ended December 31, 2011 by Onyx Pharmaceuticals, Inc. on February 27, 2012 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.43**</P></TD>
+<TD VALIGN="bottom">&nbsp;&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Side Letter Regarding Collaboration Agreement, dated May 29, 2015, by and between Bayer HealthCare LLC and Onyx Pharmaceuticals,
+Inc.</P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">7 </P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" style="COLOR:#999999" WIDTH="100%" ALIGN="CENTER">
+
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" ALIGN="center">
+
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="92%"></TD></TR>
+
+<TR STYLE="font-family:Times New Roman; font-size:8pt">
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:25.30pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Exhibit<BR>No.</B></P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="bottom" NOWRAP ALIGN="center"> <P STYLE="border-bottom:1.00pt solid #000000; width:39.50pt; font-size:8pt; font-family:Times New Roman" ALIGN="center"><B>Description</B></P></TD></TR>
+
+
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.44</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Commitment Letter, dated August&nbsp;24, 2013, among Amgen Inc., Bank of America, N.A., Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated, JPMorgan Chase
+Bank, N.A., J.P. Morgan Securities LLC and Barclays Bank PLC. (Filed as an exhibit to Form 8-K on August&nbsp;26, 2013 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.45</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Master Repurchase Agreement, dated August 24, 2013, between Amgen Inc. and Bank of America, N.A. (Filed as an exhibit to Form 8-K on August 26, 2013 and
+incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.46</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Master Repurchase Agreement, dated October 28, 2013, between Amgen Inc. and SMBC Repo Pass-Thru Trust, 2013-1. (Filed as an exhibit to Form 10-Q for the quarter
+ended September 30, 2013 on October 29, 2013 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.47</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Master Repurchase Agreement, dated October 29, 2013, between Amgen Inc. and HSBC Bank USA, N.A. (Filed as an exhibit to Form 10-Q for the quarter ended
+September 30, 2013 on October 29, 2013 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">10.48</P></TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">Term Loan Facility Credit Agreement, dated September 20, 2013, among Amgen Inc., the Banks therein named, Bank of America, N.A., as Administrative Agent, and
+Barclays Bank PLC and JPMorgan Chase Bank, N.A., as Syndication Agents. (Filed as an exhibit to Form 8-K on September 20, 2013 and incorporated herein by reference.)</P></TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>31*</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Rule 13a-14(a) Certifications.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>32***</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">Section 1350 Certifications.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>101.INS**</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">XBRL Instance Document.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>101.SCH**</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">XBRL Taxonomy Extension Schema Document.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>101.CAL**</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">XBRL Taxonomy Extension Calculation Linkbase Document.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>101.DEF**</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">XBRL Taxonomy Extension Definition Linkbase Document.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>101.LAB**</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">XBRL Taxonomy Extension Label Linkbase Document.</TD></TR>
+<TR STYLE="font-size:1pt">
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR STYLE="font-family:Times New Roman; font-size:10pt">
+<TD VALIGN="top" NOWRAP>101.PRE**</TD>
+<TD VALIGN="bottom">&nbsp;</TD>
+<TD VALIGN="top">XBRL Taxonomy Extension Presentation Linkbase Document.</TD></TR>
+</TABLE> <P STYLE="line-height:8.0pt;margin-top:0pt;margin-bottom:2pt;border-bottom:1px solid #000000;width:10%">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(*</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">= filed herewith) </P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(**</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">= previously filed with the Company&#146;s Quarterly Report on Form 10-Q for the quarterly period ended June&nbsp;30, 2015) </P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(***</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">= previously furnished and not &#147;filed&#148; for purposes of Section&nbsp;18 of the Securities Exchange Act of 1934, as amended, with the
+Company&#146;s Quarterly Report on Form 10-Q for the quarterly period ended June&nbsp;30, 2015) </P></TD></TR></TABLE>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE; font-family:Times New Roman; font-size:10pt" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left">(+</TD>
+<TD ALIGN="left" VALIGN="top"> <P ALIGN="justify" STYLE="font-family:Times New Roman; font-size:10pt">= management contract or compensatory plan or arrangement) </P></TD></TR></TABLE>
+ <p STYLE="margin-top:0pt;margin-bottom:0pt ; font-size:8pt">&nbsp;</P> <P STYLE="margin-top:0pt; margin-bottom:0pt; font-size:10pt; font-family:Times New Roman" ALIGN="center">8 </P>
+
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>

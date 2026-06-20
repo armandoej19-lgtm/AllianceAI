@@ -1,0 +1,193 @@
+<DOCUMENT>
+<TYPE>EX-31.1
+<SEQUENCE>2
+<FILENAME>ex_211781.htm
+<DESCRIPTION>EXHIBIT 31.1
+<TEXT>
+<html><head>
+	<title>ex_207069.htm</title>
+	<meta charset="utf-8"><meta name="format-detection" content="telephone=no">
+</head>
+<body style="font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; padding: 0in 0.1in; cursor: auto;">
+<p style="font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt; text-align: right;"><b>EXHIBIT 31.1</b></p>
+
+<p style="font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt;">&nbsp;</p>
+
+<p style="font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt; text-align: center;"><b>CHIEF EXECUTIVE OFFICER CERTIFICATION</b>&nbsp;</p>
+
+<p style="font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt;">&nbsp;</p>
+
+<p style="font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt; text-align: left;">I, Kevin G. Guest, certify that:</p>
+
+<p style="font-family: Times New Roman; font-size: 6pt; margin: 0pt; text-align: left;">&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%; text-indent: 0px;">
+
+		<tr style="vertical-align: top;">
+			<td style="width: 18pt;">&nbsp;</td>
+			<td style="width: 18pt;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">1.</p>
+			</td>
+			<td style="padding-bottom: 5px;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">I have reviewed this Quarterly Report on Form 10-Q/A of USANA Health Sciences, Inc. (the &#8220;Registrant&#8221;);</p>
+			</td>
+		</tr>
+		<tr style="vertical-align: top;">
+			<td style="width: 18pt;">&nbsp;</td>
+			<td style="width: 18pt;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">2.</p>
+			</td>
+			<td style="padding-bottom: 5px;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;</p>
+			</td>
+		</tr>
+		<tr style="vertical-align: top;">
+			<td style="width: 18pt;">&nbsp;</td>
+			<td style="width: 18pt;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">3.</p>
+			</td>
+			<td style="padding-bottom: 5px;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods presented in this report;</p>
+			</td>
+		</tr>
+		<tr style="vertical-align: top;">
+			<td style="width: 18pt;">&nbsp;</td>
+			<td style="width: 18pt;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">4.</p>
+			</td>
+			<td style="padding-bottom: 5px;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">The Registrant&#8217;s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Registrant and have:</p>
+			</td>
+		</tr>
+
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%; text-indent: 0px;">
+
+		<tr style="vertical-align: top;">
+			<td style="width: 36pt;">&nbsp;</td>
+			<td style="width: 18pt;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">a)</p>
+			</td>
+			<td style="padding-bottom: 5px;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the Registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;</p>
+			</td>
+		</tr>
+		<tr style="vertical-align: top;">
+			<td style="width: 36pt;">&nbsp;</td>
+			<td style="width: 18pt;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">b)</p>
+			</td>
+			<td style="padding-bottom: 5px;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles;</p>
+			</td>
+		</tr>
+		<tr style="vertical-align: top;">
+			<td style="width: 36pt;">&nbsp;</td>
+			<td style="width: 18pt;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">c)</p>
+			</td>
+			<td style="padding-bottom: 5px;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">Evaluated the effectiveness of the Registrant&#8217;s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and</p>
+			</td>
+		</tr>
+		<tr style="vertical-align: top;">
+			<td style="width: 36pt;">&nbsp;</td>
+			<td style="width: 18pt;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">d)</p>
+			</td>
+			<td style="padding-bottom: 5px;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">Disclosed in this report any change in the Registrant&#8217;s internal control over financial reporting that occurred during the Registrant&#8217;s most recent fiscal quarter (the registrant&#8217;s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the Registrant&#8217;s internal control over financial reporting; and</p>
+			</td>
+		</tr>
+
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%; text-indent: 0px;">
+
+		<tr style="vertical-align: top;">
+			<td style="width: 18pt;">&nbsp;</td>
+			<td style="width: 18pt;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">5.</p>
+			</td>
+			<td style="padding-bottom: 5px;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">The Registrant&#8217;s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant&#8217;s auditors and the audit committee of the Registrant&#8217;s board of directors (or persons performing the equivalent functions):</p>
+			</td>
+		</tr>
+
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%; text-indent: 0px;">
+
+		<tr style="vertical-align: top;">
+			<td style="width: 36pt;">&nbsp;</td>
+			<td style="width: 18pt;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">a)</p>
+			</td>
+			<td style="padding-bottom: 5px;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Registrant&#8217;s ability to record, process, summarize and report financial information; and</p>
+			</td>
+		</tr>
+		<tr style="vertical-align: top;">
+			<td style="width: 36pt;">&nbsp;</td>
+			<td style="width: 18pt;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">b)</p>
+			</td>
+			<td style="padding-bottom: 5px;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">Any fraud, whether or not material, that involves management or other employees who have a significant role in the the Registrant&#8217;s internal control over financial reporting.</p>
+			</td>
+		</tr>
+
+</table>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:100%;text-indent:0;font-family:'Times New Roman', Times, serif;font-size:10pt;">
+
+		<tr>
+			<td style="vertical-align:top;width:54%;">&nbsp;</td>
+			<td style="vertical-align:top;width:46%;">
+			<p style="font-size: 0; margin: 0; text-align: left; font-family: &quot;Times New Roman&quot;, Times, serif">&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top;width:54%;">
+			<p style="font-family: &quot;Times New Roman&quot;, Times, serif; font-size: 10pt; margin: 0pt; text-align: left;">Date: November 5, 2020</p>
+			</td>
+			<td style="vertical-align:top;border-bottom:solid 1px #000000;;width:46%;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">/s/ Kevin G. Guest</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top;width:54%;">
+			<p style="font-size: 1pt; margin: 0; text-align: left; font-family: &quot;Times New Roman&quot;, Times, serif">&nbsp;</p>
+			</td>
+			<td style="vertical-align:top;width:46%;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">Kevin G. Guest</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="vertical-align:top;width:54%;">
+			<p style="font-size: 1pt; margin: 0; text-align: left; font-family: &quot;Times New Roman&quot;, Times, serif">&nbsp;</p>
+			</td>
+			<td style="vertical-align:top;width:46%;">
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">Chief Executive Officer</p>
+
+			<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">(Principal Executive Officer)</p>
+			</td>
+		</tr>
+
+</table>
+
+<p style="font-family:'Times New Roman', Times, serif;font-size:10pt;margin:0pt;text-align:left;">&nbsp;</p>
+
+<div class="LAST-PAGE-BREAK">
+<div class="PGFTR">
+<div class="hf-row">
+<div class="hf-cell PGNUM">&nbsp;</div>
+</div>
+</div>
+</div>
+
+
+</body></html>
+</TEXT>
+</DOCUMENT>

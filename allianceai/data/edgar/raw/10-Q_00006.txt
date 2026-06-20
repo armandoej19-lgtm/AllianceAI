@@ -1,0 +1,508 @@
+<DOCUMENT>
+<TYPE>10-Q/A
+<SEQUENCE>1
+<FILENAME>f10qa093020_10qz.htm
+<DESCRIPTION>FORM 10-Q/A AMENDED QUARTERLY REPORT
+<TEXT>
+<HTML>
+<!-- Produced by EDGARsuite software, Advanced Computer Innovations, Inc., Copyright (C) 2008-2020 [PPXAC8S3T1P2VJYR2L36]. www.edgarsuite.com -->
+<HEAD>
+<TITLE>Form 10-Q/A Amended Quarterly Report</TITLE>
+</HEAD>
+<BODY>
+<DIV style=margin-left:36pt;width:540pt><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=center style='font:10pt Times New Roman;margin:0'>U.S. SECURITIES AND EXCHANGE COMMISSION</P>
+<P align=center style='font:10pt Times New Roman;margin:0'>Washington, D.C. 20549</P>
+<P align=center style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=center style='font:22pt Times New Roman;margin:0'><B>FORM 10-Q</B></P>
+<P align=center style='font:10pt Times New Roman;margin:0'><B>Amendment No. 1</B></P>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'><KBD style='position:absolute;font:10pt Times New Roman;margin-left:0pt'>[X]</KBD><KBD style=margin-left:36pt></KBD>QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934&nbsp;</P>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=center style='font:10pt Times New Roman;margin:0'><B>For the quarterly period ended September 30, 2020</B></P>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=center style='font:10pt Times New Roman;margin:0'>OR</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'><KBD style='position:absolute;font:10pt Times New Roman;margin-left:0pt'>[ &nbsp;&nbsp;]</KBD><KBD style=margin-left:36pt></KBD>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934&nbsp;</P>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=center style='font:10pt Times New Roman;margin:0'>For the transition period from ________ to ________</P>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=center style='font:10pt Times New Roman;margin:0'>Commission file number 000-54296</P>
+<P align=center style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=center style='font:10pt Times New Roman;margin:0'><FONT style=color:#FF0000><IMG src=f10qa09302010qz_1.jpg width=218 height=90 alt=Document1.jpg title=Document1.jpg></FONT>&nbsp;</P>
+<P align=center style='font:10pt Times New Roman;margin:0'> &nbsp;</P>
+<P align=center style='font:14pt Times New Roman;margin:0'><FONT style='border-bottom:1px solid #000000'><B>AXIM</B><B> </B><B>Biotechnologies,</B><B> </B><B>Inc.</B></FONT></P>
+<P align=center style='font:10pt Times New Roman;margin:0'>(Exact name of registrant as specified in its charter)</P>
+<P style='font:10pt Times New Roman;margin:0'> &nbsp;</P>
+<TABLE align=center style=border-collapse:collapse><TR style=height:7.2pt><TD valign=middle style='width:256.5pt;border-bottom:0.75pt solid #000000'><P align=center style='font:10pt Times New Roman;margin:0'><B>Nevada</B></P>
+</TD><TD valign=top style=width:13.5pt><P align=center style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=middle style='width:252pt;border-bottom:0.75pt solid #000000'><P align=center style='font:10pt Times New Roman;margin:0'><B>27-4029386</B></P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=middle style=width:256.5pt><P align=center style='font:10pt Times New Roman;margin:0'>(State or other jurisdiction of incorporation or organization)</P>
+</TD><TD valign=top style=width:13.5pt><P align=center style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:252pt><P align=center style='font:10pt Times New Roman;margin:0'>(I.R.S. Employer Identification Number)</P>
+</TD></TR>
+</TABLE>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=center style='font:10pt Times New Roman;margin:0'><B>6191 Cornerstone Court, E. Suite 114</B></P>
+<P align=center style='font:10pt Times New Roman;margin:0'><FONT style='border-bottom:1px solid #000000'><B>San Diego, CA 92121</B></FONT></P>
+<P align=center style='font:10pt Times New Roman;margin:0'>(Address of principal executive offices)</P>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=center style='font:10pt Times New Roman;margin:0'><FONT style='border-bottom:1px solid #000000'><B>(</B><B>858) 923-4422</B></FONT></P>
+<P align=center style='font:10pt Times New Roman;margin:0'>(Registrant&#8217;s telephone number, including area code)</P>
+<P align=center style='font:10pt Times New Roman;margin:0'>________________________________________________</P>
+<P align=center style='font:10pt Times New Roman;margin:0'>(Former name, former address and former fiscal year, if changed since last report)</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days. Yes [X] No [ &nbsp;&nbsp;]</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>Indicate by check mark whether registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (&#167;232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes [ &nbsp;&nbsp;] No [X]</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of &#8220;large accelerated filer,&#8221; &#8220;accelerated filer,&#8221; &#8220;smaller reporting company&#8221; and &#8220;emerging growth company&#8221; in Rule12b-2 of the Exchange Act.</P>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<TABLE align=center style=border-collapse:collapse;width:102.62%><TR style=height:7.2pt><TD valign=top style=width:19.5%><P style='font:9pt Times New Roman;margin:0'>Large accelerated Filer [ &nbsp;&nbsp;]</P>
+</TD><TD valign=top style=width:15.44%><P style='font:9pt Times New Roman;margin:0'>Accelerated Filer [ &nbsp;&nbsp;]</P>
+</TD><TD valign=top style=width:19.48%><P align=center style='font:9pt Times New Roman;margin:0'>Non-accelerated filer [ &nbsp;&nbsp;]</P>
+<P align=center style='font:9pt Times New Roman;margin:0'>(Do not check if smaller</P>
+<P align=center style='font:9pt Times New Roman;margin:0'>reporting company)</P>
+</TD><TD valign=top style=width:21.9%><P align=center style='font:9pt Times New Roman;margin:0'>Smaller reporting Company [X]</P>
+</TD><TD valign=top style=width:23.66%><P align=center style='font:9pt Times New Roman;margin:0'>Emerging growth Company [ &nbsp;&nbsp;]</P>
+</TD></TR>
+</TABLE>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes [ &nbsp;&nbsp;] No [X]</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=center style='font:10pt Times New Roman;margin:0'>1</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=center style='font:10pt Times New Roman;margin:0'>APPLICABLE ONLY TO ISSUERS INVOLVED IN BANKRUPTCY</P>
+<P align=center style='font:10pt Times New Roman;margin:0'>PROCEEDINGS DURING THE PRECEDING FIVE YEARS</P>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>Indicate by check mark whether the registrant filed all documents and reports required to be filed by Section 12, 13, or 15(d) of the Exchange Act of 1934 after the distribution of securities under a plan confirmed by a court. Yes [ &nbsp;&nbsp;] No [ &nbsp;&nbsp;]</P>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=center style='font:10pt Times New Roman;margin:0'>APPLICABLE ONLY TO CORPORATE ISSUERS</P>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>Indicate the number of shares outstanding of each of the issuer&#8217;s classes of common stock, as of the latest practicable date: 125,196,970 of common stock, par value $0.0001 per share, outstanding as of November 13, 2020.<A name=PGBRK /><A name=FTR /><A name=GLFTR /><A name=OLE_LINK1 /><A name=OLE_LINK2 /> </P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>____________________________________________________________________________________________________________</P>
+<P align=center style='font:10pt Times New Roman;margin:0'><A name=TAB2 />&nbsp;</P>
+<P align=center style='font:10pt Times New Roman;margin:0'><B>EXPLANATORY NOTE</B></P>
+<P align=center style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>The sole purpose of this Amendment No. 1 to the Quarterly Report on Form 10-Q (the &#8220;Form 10-Q&#8221;) for the period ended September 30, 2020, is to furnish Exhibit 101 to the Form 10-Q in accordance with Rule 405 of Regulation S-T.&#160; Exhibit 101 to the Form 10-Q provides the financial statements and related notes from the Form 10-Q formatted in XBRL (eXtensible Business Reporting Language).&#160; No other changes have been made to the Form 10-Q. This Amendment No. 1 to the Form 10-Q speaks as of the original filing date of the Form 10-Q, does not reflect events that may have occurred subsequent to the original filing date, and does not modify or update in any way disclosures made in the original Form 10-Q.&#160; Pursuant to Rule 406T of Regulation S-T, the interactive data files on Exhibit 101 hereto are deemed not filed or part of a registration statement or prospectus for purposes of Sections 11 or 12 of the Securities Act of 1933, as amended, are deemed not filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and otherwise are not subject to liability under those sections.</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>____________________________________________________________________________________________________________</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P style='font:10pt Times New Roman;margin:0'><A name=PN />&nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=center style='font:9pt Times New Roman;margin:0'>2</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=justify style='font:10pt Times New Roman;margin:0'><B>Item 6. Exhibits.</B></P>
+<P style='font:10pt Times New Roman;margin:0'> &nbsp;</P>
+<TABLE align=center style=border-collapse:collapse;width:100%><TR style=height:7.2pt><TD valign=top style='width:59.8%;border-bottom:0.5pt solid #000000'><P style='font:10pt Times New Roman;margin:0'><B>Statements</B></P>
+</TD><TD valign=top style='width:8.22%;border-bottom:0.5pt solid #000000'><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style='width:8.38%;border-bottom:0.5pt solid #000000'><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style='width:10.8%;border-bottom:0.5pt solid #000000'><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style='width:12.8%;border-bottom:0.5pt solid #000000'><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style='width:59.8%;border-top:0.5pt solid #000000'><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style='width:8.22%;border-top:0.5pt solid #000000'><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style='width:8.38%;border-top:0.5pt solid #000000'><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style='width:10.8%;border-top:0.5pt solid #000000'><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style='width:12.8%;border-top:0.5pt solid #000000'><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD colspan=5 valign=top style=width:100%><P align=justify style='font:10pt Times New Roman;margin:0'>Condensed Consolidated Balance Sheets as of September 30, 2020 (unaudited) and December 31, 2019.</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:59.8%><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:8.22%><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:8.38%><P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:10.8%><P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:12.8%><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD colspan=5 valign=top style=width:100%><P align=justify style='font:10pt Times New Roman;margin:0'>Condensed Consolidated Statements of Operations for the three and nine months ended September 30, 2020 and 2019 (unaudited)</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:59.8%><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:8.22%><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:8.38%><P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:10.8%><P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:12.8%><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD colspan=5 valign=top style=width:100%><P align=justify style='font:10pt Times New Roman;margin:0'>Condensed Consolidated Statements of Changes in Shareholders&#8217; Deficit for the nine months ended September 30, 2020 and 2019 (unaudited)</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:59.8%><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:8.22%><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:8.38%><P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:10.8%><P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:12.8%><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD colspan=5 valign=top style=width:100%><P align=justify style='font:10pt Times New Roman;margin:0'>Condensed Consolidated Statements of Cash Flows for the nine months ended September 30, 2020 and 2019 (unaudited)</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:59.8%><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:8.22%><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:8.38%><P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:10.8%><P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:12.8%><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:59.8%><P style='font:10pt Times New Roman;margin:0'>Notes to Condensed Consolidated Financial Statements (unaudited)</P>
+</TD><TD valign=top style=width:8.22%><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:8.38%><P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:10.8%><P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:12.8%><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:59.8%><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:8.22%><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:8.38%><P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:10.8%><P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:12.8%><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style='width:59.8%;border-bottom:0.5pt solid #000000'><P style='font:10pt Times New Roman;margin:0'><B>Schedules</B></P>
+</TD><TD valign=top style='width:8.22%;border-bottom:0.5pt solid #000000'><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style='width:8.38%;border-bottom:0.5pt solid #000000'><P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style='width:10.8%;border-bottom:0.5pt solid #000000'><P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style='width:12.8%;border-bottom:0.5pt solid #000000'><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style='width:59.8%;border-top:0.5pt solid #000000'><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style='width:8.22%;border-top:0.5pt solid #000000'><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style='width:8.38%;border-top:0.5pt solid #000000'><P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style='width:10.8%;border-top:0.5pt solid #000000'><P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style='width:12.8%;border-top:0.5pt solid #000000'><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD colspan=5 valign=top style=width:100%><P align=justify style='font:10pt Times New Roman;margin:0'>All schedules are omitted because they are not applicable, or the required information is shown in the Financial Statements or notes thereto.</P>
+</TD></TR>
+</TABLE>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<TABLE align=center style=border-collapse:collapse;width:100%><TR style=height:7.2pt><TD valign=bottom style=width:57.36%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:12.48% rowspan='2'><P align=center style='font:9.5pt Times New Roman;margin:0'><B>Incorporated by Reference</B></P>
+<P align=center style='font:9.5pt Times New Roman;margin:0'><B>(Form Type)</B></P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54% rowspan='2'><P align=center style='font:9.5pt Times New Roman;margin:0'><B>Filed</B></P>
+<P align=center style='font:9.5pt Times New Roman;margin:0'><B>with</B></P>
+<P align=center style='font:9.5pt Times New Roman;margin:0'><B>This </B></P>
+<P align=center style='font:9.5pt Times New Roman;margin:0'><B>Report</B></P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=bottom style='width:57.36%;border-bottom:0.5pt solid #000000'><P align=center style='font:9.5pt Times New Roman;margin:0'><B>Exhibits</B></P>
+</TD><TD valign=bottom style='width:9.24%;border-bottom:0.5pt solid #000000'><P align=center style='font:9.5pt Times New Roman;margin:0'><B>Exhibit #</B></P>
+</TD><TD valign=bottom style='width:13.38%;border-bottom:0.5pt solid #000000'><P align=center style='font:9.5pt Times New Roman;margin:0'><B>Filing Date</B></P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style='width:57.36%;border-top:0.5pt solid #000000'><P style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style='width:9.24%;border-top:0.5pt solid #000000'><P style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style='width:12.48%;border-top:0.5pt solid #000000'><P style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style='width:13.38%;border-top:0.5pt solid #000000'><P style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style='width:7.54%;border-top:0.5pt solid #000000'><P style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>Articles of Incorporation, as filed with the Nevada Secretary of State on November 18, 2010.</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'><A href='http://www.sec.gov/Archives/edgar/data/1514946/000138730814000135/articlesofincorporation.htm' style=text-decoration:none><FONT style='color:#0000FF;border-bottom:1px solid #0000FF'>3.1</FONT></A></P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>10-Q</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>11/14/2014</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>Certificate of Amendment, as filed with the Nevada Secretary of State on July 24, 2014.</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'><A href='http://www.sec.gov/Archives/edgar/data/1514946/000138730814000135/bylaws.htm' style=text-decoration:none><FONT style='color:#0000FF;border-bottom:1px solid #0000FF'>3.2</FONT></A></P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>10-Q</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>11/14/2014</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>Amended and Restated (As of August 17, 2016) Bylaws of AXIM Biotechnologies, Inc.</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'><A href='http://www.sec.gov/Archives/edgar/data/1514946/000107878216003327/f10q063016_ex3z2.htm' style=text-decoration:none><FONT style='color:#0000FF;border-bottom:1px solid #0000FF'>3.3</FONT></A></P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>10-Q</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>8/22/2016</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>Certificate of Designation of Series B Preferred Stock</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'><A href='http://www.sec.gov/Archives/edgar/data/1514946/000107878216003327/f10q063016_ex3z3.htm' style=text-decoration:none><FONT style='color:#0000FF;border-bottom:1px solid #0000FF'>3.4</FONT></A></P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>10-Q</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>8/22/2016</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>Certificate of Designation of Series C Preferred Stock</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'><A href='http://www.sec.gov/Archives/edgar/data/1514946/000107878216003327/f10q063016_ex3z4.htm' style=text-decoration:none><FONT style='color:#0000FF;border-bottom:1px solid #0000FF'>3.5</FONT></A></P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>10-Q</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>8/22/2016</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>Amended and Restated Employment Agreement effective September 1, 2016, by and between AXIM International, Inc. and Dr. George E. Anastassov</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'><A href='http://www.sec.gov/Archives/edgar/data/1514946/000107878216003849/f10q093016_ex10z1.htm' style=text-decoration:none><FONT style='color:#0000FF;border-bottom:1px solid #0000FF'>10.1</FONT></A></P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>10-Q</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>11/21/2016</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>Amended and Restated Employment Agreement effective September 1, 2016, by and between AXIM International, Inc. and Lekhram Changoer</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'><A href='http://www.sec.gov/Archives/edgar/data/1514946/000107878216003849/f10q093016_ex10z2.htm' style=text-decoration:none><FONT style='color:#0000FF;border-bottom:1px solid #0000FF'>10.2</FONT></A></P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>10Q</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>11/21/2016</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0;color:#000000'>Employment Agreement effective September 1, 2016, by and between AXIM International, Inc. and Dr. Philip A. Van Damme.</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'><A href='http://www.sec.gov/Archives/edgar/data/1514946/000107878216003849/f10q093016_ex10z3.htm' style=text-decoration:none><FONT style='color:#0000FF;border-bottom:1px solid #0000FF'>10.3</FONT></A></P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>10-Q</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>11/21/2016</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD></TR>
+<TR style=height:5.4pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0;color:#000000'>Code of Business Conduct and Ethics</P>
+</TD><TD valign=top style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'><A href='http://www.sec.gov/Archives/edgar/data/1514946/000107878217001610/f10q093017_ex14z1.htm' style=text-decoration:none><FONT style='color:#0000FF;border-bottom:1px solid #0000FF'>14.1</FONT></A></P>
+</TD><TD valign=top style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>10-Q</P>
+</TD><TD valign=top style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>11/20/2017</P>
+</TD><TD valign=top style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0;color:#000000'>Certification of Principal Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.</P>
+</TD><TD valign=top style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'><A href=f10qa093020_ex31z1.htm style=text-decoration:none><FONT style='color:#0000FF;border-bottom:1px solid #0000FF'>31.1</FONT></A></P>
+</TD><TD valign=top style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>X</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0;color:#000000'>Certification of Principal Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.</P>
+</TD><TD valign=top style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'><A href=f10qa093020_ex31z2.htm style=text-decoration:none><FONT style='color:#0000FF;border-bottom:1px solid #0000FF'>31.2</FONT></A></P>
+</TD><TD valign=top style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>X</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0;color:#000000'>Certification of Principal Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.</P>
+</TD><TD valign=top style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'><A href=f10qa093020_ex32z1.htm style=text-decoration:none><FONT style='color:#0000FF;border-bottom:1px solid #0000FF'>32.1</FONT></A></P>
+</TD><TD valign=top style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>X</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0;color:#000000'>Certification of Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.</P>
+</TD><TD valign=top style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'><A href=f10qa093020_ex32z2.htm style=text-decoration:none><FONT style='color:#0000FF;border-bottom:1px solid #0000FF'>32.2</FONT></A></P>
+</TD><TD valign=top style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>&nbsp;</P>
+</TD><TD valign=top style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0;color:#000000'>X</P>
+</TD></TR>
+</TABLE>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=center style='font:9pt Times New Roman;margin:0'>3</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><TABLE align=center style=border-collapse:collapse;width:100%><TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>Nominating and Governance Committee Charter</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'><A href='http://www.sec.gov/Archives/edgar/data/1514946/000107878217001610/f10q093017_ex99z1.htm' style=text-decoration:none><FONT style='color:#0000FF;border-bottom:1px solid #0000FF'>99.1</FONT></A></P>
+</TD><TD valign=top style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>10-Q</P>
+</TD><TD valign=top style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>11/20/2017</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>Compensation Committee Charter</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'><A href='http://www.sec.gov/Archives/edgar/data/1514946/000107878217001610/f10q093017_ex99z2.htm' style=text-decoration:none><FONT style='color:#0000FF;border-bottom:1px solid #0000FF'>99.2</FONT></A></P>
+</TD><TD valign=top style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>10-Q</P>
+</TD><TD valign=top style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>11/20/2017</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>Audit Committee Charter</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'><A href='http://www.sec.gov/Archives/edgar/data/1514946/000107878217001610/f10q093017_ex99z3.htm' style=text-decoration:none><FONT style='color:#0000FF;border-bottom:1px solid #0000FF'>99.3</FONT></A></P>
+</TD><TD valign=top style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>10-Q</P>
+</TD><TD valign=top style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>11/20/2017</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>XBRL Instance Document</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>101.INS</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>X</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>XBRL Taxonomy Extension Schema Document</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>101.SCH</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>X</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>XBRL Taxonomy Extension Calculation Linkbase Document</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>101.CAL</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>X</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>XBRL Taxonomy Extension Definition Linkbase Document</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>101.DEF</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>X</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>XBRL Taxonomy Extension Label Linkbase Document</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>101.LAB</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>X</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:57.36%><P style='font:9.5pt Times New Roman;margin:0'>XBRL Taxonomy Extension Presentation Linkbase Document</P>
+</TD><TD valign=bottom style=width:9.24%><P align=center style='font:9.5pt Times New Roman;margin:0'>101.PRE</P>
+</TD><TD valign=bottom style=width:12.48%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:13.38%><P align=center style='font:9.5pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=bottom style=width:7.54%><P align=center style='font:9.5pt Times New Roman;margin:0'>X</P>
+</TD></TR>
+</TABLE>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=center style='font:9pt Times New Roman;margin:0'>4</P>
+<HR style='page-break-after:always;border:0;height:3pt;background-color:#909090;margin:8pt 0'><P style=line-height:0;margin:0></P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=center style='font:10pt Times New Roman;margin:0'><B>SIGNATURES</B></P>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.</P>
+<P align=justify style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+<TABLE align=center style=border-collapse:collapse><TR style=height:7.2pt><TD valign=top style=width:229.7pt><P style='font:10pt Times New Roman;margin:0'> &nbsp;</P>
+</TD><TD colspan=2 valign=top style=width:161.15pt><P style='font:10pt Times New Roman;margin:0'><B>AXIM BIOTECHNOLOGIES, INC.</B></P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:229.7pt><P style='font:10pt Times New Roman;margin:0'> &nbsp;</P>
+</TD><TD valign=top style=width:19.45pt><P style='font:10pt Times New Roman;margin:0'> &nbsp;</P>
+</TD><TD valign=top style=width:141.7pt><P style='font:10pt Times New Roman;margin:0'> &nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:229.7pt><P style='font:10pt Times New Roman;margin:0'>Dated: November 25, 2020</P>
+</TD><TD valign=top style=width:19.45pt><P style='font:10pt Times New Roman;margin:0'>By:</P>
+</TD><TD valign=top style='width:141.7pt;border-bottom:0.5pt solid #000000'><P style='font:10pt Times New Roman;margin:0'>/s/ <I>John W. Huemoeller II</I></P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:229.7pt><P style='font:10pt Times New Roman;margin:0'> &nbsp;</P>
+</TD><TD valign=top style=width:19.45pt><P style='font:10pt Times New Roman;margin:0'> &nbsp;</P>
+</TD><TD valign=bottom style='width:141.7pt;border-top:0.5pt solid #000000'><P style='font:10pt Times New Roman;margin:0'>John W. Huemoeller II</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:229.7pt><P style='font:10pt Times New Roman;margin:0'> &nbsp;</P>
+</TD><TD valign=top style=width:19.45pt><P style='font:10pt Times New Roman;margin:0'> &nbsp;</P>
+</TD><TD valign=top style=width:141.7pt><P style='font:10pt Times New Roman;margin:0'>President and Director</P>
+<P style='font:10pt Times New Roman;margin:0'>Principal Executive Officer</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:229.7pt><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:19.45pt><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD><TD valign=top style=width:141.7pt><P style='font:10pt Times New Roman;margin:0'>&nbsp;</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:229.7pt><P style='font:10pt Times New Roman;margin:0'>Dated: November 25, 2020</P>
+</TD><TD valign=top style=width:19.45pt><P style='font:10pt Times New Roman;margin:0'>By:</P>
+</TD><TD valign=top style='width:141.7pt;border-bottom:0.5pt solid #000000'><P style='font:10pt Times New Roman;margin:0'>/s/ <I>Robert Malasek</I></P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:229.7pt><P style='font:10pt Times New Roman;margin:0'> &nbsp;</P>
+</TD><TD valign=top style=width:19.45pt><P style='font:10pt Times New Roman;margin:0'> &nbsp;</P>
+</TD><TD valign=bottom style='width:141.7pt;border-top:0.5pt solid #000000'><P style='font:10pt Times New Roman;margin:0'>Robert Malasek</P>
+</TD></TR>
+<TR style=height:7.2pt><TD valign=top style=width:229.7pt><P style='font:10pt Times New Roman;margin:0'> &nbsp;</P>
+</TD><TD valign=top style=width:19.45pt><P style='font:10pt Times New Roman;margin:0'> &nbsp;</P>
+</TD><TD valign=top style=width:141.7pt><P style='font:10pt Times New Roman;margin:0'>Principal Financial Officer</P>
+</TD></TR>
+</TABLE>
+<P align=right style='font:10pt Times New Roman;margin:0'><A name=TAB1 /><A name=item_1_3_3 /><A name=item_1_3_4 /><A name=item_1_3_5 /><A name=item_1_3_6 /><A name=item_1_3_7 /><A name=item_1_3_8 /><A name=item_1_3_9 /><A name=item_1_3_10 /><A name=item_1_3_11 />&nbsp;</P>
+<HR style='border:0;height:0;width:0;margin:14pt 0 0 0'><P align=center style='font:9pt Times New Roman;margin:0'>5</P>
+</DIV>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>

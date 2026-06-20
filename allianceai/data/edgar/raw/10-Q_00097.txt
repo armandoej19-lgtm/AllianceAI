@@ -1,0 +1,472 @@
+<DOCUMENT>
+<TYPE>10-Q/A
+<SEQUENCE>1
+<FILENAME>clsn20150605_10qa.htm
+<DESCRIPTION>FORM 10-Q/A
+<TEXT>
+<HTML><HEAD><TITLE>clsn20150605_10qa.htm</TITLE>
+<!-- Created by RDG HTML Converter -->
+</HEAD>
+<BODY style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; MARGIN-LEFT: 10px; MARGIN-RIGHT: 10px">
+<P id=PARA1 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>UNITED STATES</B> &nbsp;</FONT></P>
+<P id=PARA2 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>SECURITIES AND EXCHANGE COMMISSION</B></FONT></P>
+<P id=PARA3 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>WASHINGTON, D.C.</B> <B>20549</B></FONT></P>
+<P id=PARA4 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA5 style="TEXT-ALIGN: center; MARGIN: 0pt 2.8pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>FORM 10-Q/A</B></FONT></P>
+<P id=PARA6 style="TEXT-ALIGN: center; MARGIN: 0pt 2.8pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(Amendment No. 1)</B></FONT></P>
+<P id=PARA7 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">(Mark One)</FONT></P>
+<P id=PARA8 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL310  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 18pt">
+<P id=PARA313 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 27pt; VERTICAL-ALIGN: top">
+<P id=PARA311><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9745;</FONT></P></TD>
+<TD style="VERTICAL-ALIGN: top">
+<P id=PARA312><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</FONT></P></FONT></TD></TR></TABLE>
+<P id=PARA13 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA14 style="TEXT-ALIGN: center; MARGIN: 0pt 2.8pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">For the quarterly period ended March 31, 2015</FONT></P>
+<P id=PARA15 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA16 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">OR</FONT></P>
+<P id=PARA17 style="TEXT-ALIGN: left; MARGIN: 0pt 0pt 0pt 18pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL21  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 18pt; VERTICAL-ALIGN: top">
+<P id=PARA18 style="TEXT-ALIGN: left; MARGIN: 0pt 3.85pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 27pt; VERTICAL-ALIGN: top">
+<P id=PARA19 style="TEXT-ALIGN: justify; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9744;</FONT></P></TD>
+<TD style="VERTICAL-ALIGN: top">
+<P id=PARA20 style="TEXT-ALIGN: left; MARGIN: 0pt 11.8pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</FONT></P></TD></TR></TABLE>
+<P id=PARA22 style="TEXT-ALIGN: justify; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;</FONT></P>
+<P id=PARA23 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">For the transition period from ____________ to ____________</FONT></P>
+<P id=PARA24 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA25 style="TEXT-ALIGN: center; MARGIN: 0pt 2.8pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Commission file number:&nbsp;&nbsp;001-15911</FONT></P>
+<P id=PARA26 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA27 style="TEXT-ALIGN: center; MARGIN: 0pt 2.8pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>CELSION CORPORATION</B></FONT></P>
+<P id=PARA28 style="TEXT-ALIGN: center; MARGIN: 0pt 2.8pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">(Exact name of Registrant as specified in its charter)&nbsp;</FONT></P>
+<P id=PARA29 style="TEXT-ALIGN: center; MARGIN: 0pt 2.8pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL36  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 48.9%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1px solid">
+<P id=PARA30 style="TEXT-ALIGN: center; MARGIN: 0pt 33.75pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Delaware</B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 2.2%; VERTICAL-ALIGN: bottom">
+<P id=PARA31 style="TEXT-ALIGN: left; MARGIN: 0pt 3.95pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 48.9%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1px solid">
+<P id=PARA32 style="TEXT-ALIGN: center; MARGIN: 0pt 32.8pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>52-1256615</B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 48.9%; VERTICAL-ALIGN: top">
+<P id=PARA33 style="TEXT-ALIGN: center; MARGIN: 0pt 33.75pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">(State or other jurisdiction of incorporation or organization)</FONT></P></TD>
+<TD style="WIDTH: 2.2%; VERTICAL-ALIGN: bottom">
+<P id=PARA34 style="TEXT-ALIGN: left; MARGIN: 0pt 3.95pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 48.9%; VERTICAL-ALIGN: top">
+<P id=PARA35 style="TEXT-ALIGN: center; MARGIN: 0pt 32.8pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">(I.R.S. Employer Identification Number)</FONT></P></TD></TR></TABLE>
+<P id=PARA37 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA38 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>997 Lenox Drive, Suite 100</B></FONT></P>
+<P id=PARA39 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Lawrenceville</B> , <B>NJ</B> <B>08648</B></FONT></P>
+<P id=PARA40 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">(Address of principal executive offices)</FONT></P>
+<P id=PARA41 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA42 style="TEXT-ALIGN: center; MARGIN: 0pt 0.8pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>(609) 896-9100</B></FONT></P>
+<P id=PARA43 style="TEXT-ALIGN: center; MARGIN: 0pt 0.8pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">(Registrant&#8217;s telephone number, including area code)</FONT></P>
+<P id=PARA44 style="TEXT-ALIGN: center; MARGIN: 0pt 0.8pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA45 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>NA</B></FONT></P>
+<P id=PARA46 style="TEXT-ALIGN: center; MARGIN: 0pt 0.8pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">(Former name, former address and former fiscal year, if changed since last report)</FONT></P>
+<P id=PARA47 style="TEXT-ALIGN: center; MARGIN: 0pt 22.3pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA48 style="TEXT-ALIGN: justify; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days.&nbsp;&nbsp;Yes </FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9745;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"> No </FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9744;</FONT></P>
+<P id=PARA49 style="TEXT-ALIGN: justify; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA50 style="TEXT-ALIGN: justify; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Indicate by check mark whether the Registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (&#167;232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant was required to submit and post such files).&nbsp;Yes </FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9745;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"> &nbsp;&nbsp;&nbsp;No </FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9744;</FONT></P>
+<P id=PARA51 style="TEXT-ALIGN: justify; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA52 style="TEXT-ALIGN: justify; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company.&nbsp;&nbsp;See the definitions of &#8220;large accelerated filer,&#8221; &#8220;accelerated filer&#8221; and &#8220;smaller reporting company&#8221; in Rule 12b-2 of the Exchange Act (Check One):</FONT></P>
+<P id=PARA53 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL60  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 95%; MARGIN-LEFT: 2.5%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 62%; VERTICAL-ALIGN: middle">
+<P id=PARA54 style="TEXT-ALIGN: left; MARGIN: 0pt 7.95pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Large accelerated filer </FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9744;</FONT></P></TD>
+<TD style="WIDTH: 38%; VERTICAL-ALIGN: middle">
+<P id=PARA55 style="TEXT-ALIGN: left; MARGIN: 0pt 8pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Accelerated filer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9745;</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 62%; VERTICAL-ALIGN: middle">
+<P id=PARA56 style="TEXT-ALIGN: left; MARGIN: 0pt 3.95pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 38%; VERTICAL-ALIGN: middle">
+<P id=PARA57 style="TEXT-ALIGN: left; MARGIN: 0pt 4pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 62%; VERTICAL-ALIGN: middle">
+<P id=PARA58 style="TEXT-ALIGN: left; MARGIN: 0pt 1.55pt 0pt 50.4pt; LINE-HEIGHT: 1.25; TEXT-INDENT: -50.4pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Non-accelerated filer&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9744;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"> (Do not check if a smaller reporting company)</FONT></P></TD>
+<TD style="WIDTH: 38%; VERTICAL-ALIGN: top">
+<P id=PARA59 style="TEXT-ALIGN: left; MARGIN: 0pt 8pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Smaller reporting company&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9744;</FONT></P></TD></TR></TABLE>
+<P id=PARA61 style="TEXT-ALIGN: justify; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA62 style="TEXT-ALIGN: justify; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).&nbsp; Yes&nbsp; </FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9744;</FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No </FONT><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&#9745;</FONT></P>
+<P id=PARA63 style="TEXT-ALIGN: justify; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA64 style="TEXT-ALIGN: justify; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">As of June 18, 2015, the Registrant had 23,005,186 shares of Common Stock, $0.01 par value per share, outstanding.</FONT></P>
+<P id=PARA314.1 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P>
+<DIV id=PGBK314  style="WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<DIV id=PGFTR314  style="WIDTH: 100%; TEXT-ALIGN: center">&nbsp;</DIV>
+<DIV id=PGNUM314  style="FONT-SIZE: 10pt; WIDTH: 100%; TEXT-ALIGN: center">&nbsp;</DIV>
+<HR style="HEIGHT: 2px; WIDTH: 100%; PAGE-BREAK-AFTER: always; COLOR: #000000" noShade>
+
+<DIV id=PGHDR314  style="WIDTH: 100%; TEXT-ALIGN: left">&nbsp;</DIV></DIV>
+<P id=PARA314.2 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT>&nbsp;</P>
+<P id=PARA72 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>EXPLANATORY NOTE</B></FONT></P>
+<P id=PARA73 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA74 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 36pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">This Amendment No. 1 on Form 10-Q/A (this &#8220;Amendment&#8221;) of Celsion Corporation, a Delaware corporation (the &#8220;Company&#8221;), amends the Company&#8217;s Quarterly Report on Form 10-Q for the quarter ended March 31, 2015, as filed with the Securities and Exchange Commission (the &#8220;SEC&#8221;) on May 11, 2015 (the &#8220;Form 10-Q&#8221;), and is being filed to replace Exhibit 10.1 originally filed with the Form 10-Q and indicate that confidential treatment with respect to specific portions of the exhibit has been requested. The exhibit was revised to disclose certain information that was originally redacted and that the Company has determined to disclose in connection with the processing of the confidential treatment application with the SEC.</FONT></P>
+<P id=PARA75 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 36pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA76 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 36pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">No other changes were made to the Form 10-Q other than those described above. This Amendment does not reflect subsequent events occurring after the original filing date of the Form 10-Q or modify or update in any way disclosures made in the Form 10-Q. Pursuant to Rule 12b-15 under the Securities Exchange Act of 1934, as amended, as a result of this Amendment, the certifications pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 filed as exhibits to the Form 10-Q have been re-executed and re-filed as of the date of this Amendment and are included as exhibits hereto. Because no financial statements have been included in this Amendment and this Amendment does not contain or amend any disclosure with respect to Items 307 and 308 of Regulation S-K, paragraphs 3, 4 and 5 of such certifications have been omitted.</FONT></P>
+<P id=PARA77 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA78 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>PART II: OTHER INFORMATION</B></FONT></P>
+<P id=PARA79 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp; &nbsp;</FONT></P>
+<TABLE id=TBL82  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 6.1%; VERTICAL-ALIGN: top">
+<P id=PARA80 style="TEXT-ALIGN: justify; MARGIN: 0pt 1.55pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Item 6.</B></FONT></P></TD>
+<TD style="WIDTH: 93.8%; VERTICAL-ALIGN: middle">
+<P id=PARA81 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Exhibits.</B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</FONT></P></TD></TR></TABLE>
+<P id=PARA83 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL129  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 7.1%; VERTICAL-ALIGN: top">
+<P id=PARA84 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">10.1+*</FONT></P></TD>
+<TD style="WIDTH: 2.2%; VERTICAL-ALIGN: top">
+<P id=PARA85 style="TEXT-ALIGN: left; MARGIN: 0pt 0.8pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 90.6%; VERTICAL-ALIGN: top">
+<P id=PARA86 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Early Access Agreement dated as of January 13, 2015, by and between the Company and Impatients N.V.</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.1%; VERTICAL-ALIGN: top">
+<P id=PARA87 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 2.2%; VERTICAL-ALIGN: top">
+<P id=PARA88 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 90.6%; VERTICAL-ALIGN: top">
+<P id=PARA89 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.1%; VERTICAL-ALIGN: top">
+<P id=PARA90 style="TEXT-ALIGN: left; MARGIN: 0pt 5.5pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">31.1+</FONT></P></TD>
+<TD style="WIDTH: 2.2%; VERTICAL-ALIGN: top">
+<P id=PARA91 style="TEXT-ALIGN: right; MARGIN: 0pt 4pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 90.6%; VERTICAL-ALIGN: top">
+<P id=PARA92 style="TEXT-ALIGN: left; MARGIN: 0pt 9.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Certification of Chief Executive Officer pursuant to Rule 13a-14(a)/15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.1%; VERTICAL-ALIGN: top">
+<P id=PARA93 style="TEXT-ALIGN: left; MARGIN: 0pt 3.1pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 2.2%; VERTICAL-ALIGN: top">
+<P id=PARA94 style="TEXT-ALIGN: left; MARGIN: 0pt 3.2pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 90.6%; VERTICAL-ALIGN: top">
+<P id=PARA95 style="TEXT-ALIGN: left; MARGIN: 0pt 3.2pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.1%; VERTICAL-ALIGN: top">
+<P id=PARA96 style="TEXT-ALIGN: left; MARGIN: 0pt 5.5pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">31.2+</FONT></P></TD>
+<TD style="WIDTH: 2.2%; VERTICAL-ALIGN: top">
+<P id=PARA97 style="TEXT-ALIGN: right; MARGIN: 0pt 4pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 90.6%; VERTICAL-ALIGN: top">
+<P id=PARA98 style="TEXT-ALIGN: left; MARGIN: 0pt 9.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Certification of Chief Financial Officer pursuant to Rule 13a-14(a)/15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.1%; VERTICAL-ALIGN: top">
+<P id=PARA99 style="TEXT-ALIGN: left; MARGIN: 0pt 3.1pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 2.2%; VERTICAL-ALIGN: top">
+<P id=PARA100 style="TEXT-ALIGN: left; MARGIN: 0pt 3.2pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 90.6%; VERTICAL-ALIGN: top">
+<P id=PARA101 style="TEXT-ALIGN: left; MARGIN: 0pt 3.2pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.1%; VERTICAL-ALIGN: top">
+<P id=PARA102 style="TEXT-ALIGN: left; MARGIN: 0pt 5.5pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">32.1**</FONT></P></TD>
+<TD style="WIDTH: 2.2%; VERTICAL-ALIGN: top">
+<P id=PARA103 style="TEXT-ALIGN: right; MARGIN: 0pt 4pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 90.6%; VERTICAL-ALIGN: top">
+<P id=PARA104 style="TEXT-ALIGN: left; MARGIN: 0pt 9.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.1%; VERTICAL-ALIGN: top">
+<P id=PARA105 style="TEXT-ALIGN: left; MARGIN: 0pt 3.9pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 2.2%; VERTICAL-ALIGN: top">
+<P id=PARA106 style="TEXT-ALIGN: left; MARGIN: 0pt 4pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 90.6%; VERTICAL-ALIGN: top">
+<P id=PARA107 style="TEXT-ALIGN: left; MARGIN: 0pt 4pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.1%; VERTICAL-ALIGN: top">
+<P id=PARA108 style="TEXT-ALIGN: left; MARGIN: 0pt 4.7pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;+</FONT></P></TD>
+<TD style="WIDTH: 2.2%; VERTICAL-ALIGN: top">
+<P id=PARA109 style="TEXT-ALIGN: right; MARGIN: 0pt 4pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 90.6%; VERTICAL-ALIGN: bottom">
+<P id=PARA110 style="TEXT-ALIGN: left; MARGIN: 0pt 4.8pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Filed herewith.</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.1%; VERTICAL-ALIGN: top">
+<P id=PARA111 style="TEXT-ALIGN: left; MARGIN: 0pt 3.9pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 2.2%; VERTICAL-ALIGN: top">
+<P id=PARA112 style="TEXT-ALIGN: right; MARGIN: 0pt 4pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 90.6%; VERTICAL-ALIGN: top">
+<P id=PARA113 style="TEXT-ALIGN: left; MARGIN: 0pt 4pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.1%; VERTICAL-ALIGN: top">
+<P id=PARA114 style="TEXT-ALIGN: left; MARGIN: 0pt 5.5pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">101***</FONT></P></TD>
+<TD style="WIDTH: 2.2%; VERTICAL-ALIGN: top">
+<P id=PARA115 style="TEXT-ALIGN: right; MARGIN: 0pt 4pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 90.6%; VERTICAL-ALIGN: bottom">
+<P id=PARA116 style="TEXT-ALIGN: justify; MARGIN: 0pt 8.55pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">The following materials from the Company&#8217;s Quarterly Report on Form 10-Q for the quarter ended March 31, 2015, formatted in XBRL (Extensible Business Reporting Language): (i) the unaudited Consolidated Balance Sheets, (ii) the unaudited Consolidated Statements of Operations, (iii) the unaudited Consolidated&nbsp;Statements of Comprehensive Loss, (iv) the unaudited Consolidated Statements of Cash Flows,&nbsp;(v)&nbsp;the unaudited Consolidated Statements of Change in Stockholders&#8217; Equity (Deficit),&nbsp;and (vi) Notes to Consolidated Financial Statements.</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.1%; VERTICAL-ALIGN: top">
+<P id=PARA117 style="TEXT-ALIGN: left; MARGIN: 0pt 3.9pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 2.2%; VERTICAL-ALIGN: top">
+<P id=PARA118 style="TEXT-ALIGN: left; MARGIN: 0pt 4pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 90.6%; VERTICAL-ALIGN: bottom">
+<P id=PARA119 style="TEXT-ALIGN: left; MARGIN: 0pt 4pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.1%; VERTICAL-ALIGN: top">
+<P id=PARA120 style="TEXT-ALIGN: left; MARGIN: 0pt 4.7pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;*</FONT></P></TD>
+<TD style="WIDTH: 2.2%; VERTICAL-ALIGN: top">
+<P id=PARA121 style="TEXT-ALIGN: left; MARGIN: 0pt 4pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 90.6%; VERTICAL-ALIGN: top">
+<P id=PARA122 style="TEXT-ALIGN: justify; MARGIN: 0pt 5.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Confidential treatment with respect to specific portions of this Exhibit has been requested, and such portions are omitted and have been filed separately with the SEC.</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.1%; VERTICAL-ALIGN: top">
+<P id=PARA123 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 2.2%; VERTICAL-ALIGN: top">
+<P id=PARA124 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 90.6%; VERTICAL-ALIGN: top">
+<P id=PARA125 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.1%; VERTICAL-ALIGN: top">&nbsp; **</TD>
+<TD style="WIDTH: 2.2%; VERTICAL-ALIGN: top">&nbsp;</TD>
+<TD style="WIDTH: 90.6%; VERTICAL-ALIGN: top">
+<P id=PARA317 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Previously furnished with the Company&#8217;s Quarterly Report on Form 10-Q filed on May 11, 2015.</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.1%; VERTICAL-ALIGN: top">&nbsp;</TD>
+<TD style="WIDTH: 2.2%; VERTICAL-ALIGN: top">&nbsp;</TD>
+<TD style="WIDTH: 90.6%; VERTICAL-ALIGN: top">&nbsp;</TD></TR>
+<TR>
+<TD style="WIDTH: 7.1%; VERTICAL-ALIGN: top">
+<P id=PARA126 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;***</FONT></P></TD>
+<TD style="WIDTH: 2.2%; VERTICAL-ALIGN: top">
+<P id=PARA127 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 90.6%; VERTICAL-ALIGN: top">
+<P id=PARA128 style="TEXT-ALIGN: justify; MARGIN: 0pt 5.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Previously filed with the Company&#8217;s Quarterly Report on Form 10-Q filed on May 11, 2015.</FONT></P></TD></TR></TABLE>
+<P id=PARA315.1 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P>
+<DIV id=PGBK315  style="WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<DIV id=PGFTR315  style="WIDTH: 100%; TEXT-ALIGN: center">&nbsp;</DIV>
+<DIV id=PGNUM315  style="FONT-SIZE: 10pt; WIDTH: 100%; TEXT-ALIGN: center">&nbsp;</DIV>
+<HR style="HEIGHT: 2px; WIDTH: 100%; PAGE-BREAK-AFTER: always; COLOR: #000000" noShade>
+
+<DIV id=PGHDR315  style="WIDTH: 100%; TEXT-ALIGN: left">&nbsp;</DIV></DIV>
+<P id=PARA315.2 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT>&nbsp;</P>
+<P id=PARA134 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>&nbsp;SIGNATURES</B></FONT></P>
+<P id=PARA135 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA136 style="TEXT-ALIGN: justify; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.</FONT></P>
+<P id=PARA137 style="TEXT-ALIGN: justify; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<P id=PARA138 style="TEXT-ALIGN: justify; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">June 19, 2015</FONT></P>
+<P id=PARA139 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL169  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 50%; VERTICAL-ALIGN: top">
+<P id=PARA140 style="TEXT-ALIGN: left; MARGIN: 0pt 3.95pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 6%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1px solid" colSpan=2>
+<P id=PARA141 style="TEXT-ALIGN: left; MARGIN: 0pt 1.8pt 0pt 9pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">CELSION CORPORATION</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 50%; VERTICAL-ALIGN: top">
+<P id=PARA142 style="TEXT-ALIGN: left; MARGIN: 0pt 3.95pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 6%; VERTICAL-ALIGN: top" colSpan=2>
+<P id=PARA143 style="TEXT-ALIGN: left; MARGIN: 0pt 8.9pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 50%; VERTICAL-ALIGN: top">
+<P id=PARA144 style="TEXT-ALIGN: left; MARGIN: 0pt 3.95pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 6%; VERTICAL-ALIGN: top" colSpan=2>
+<P id=PARA145 style="TEXT-ALIGN: left; MARGIN: 0pt 19.7pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Registrant</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 50%; VERTICAL-ALIGN: top">
+<P id=PARA146 style="TEXT-ALIGN: left; MARGIN: 0pt 3.95pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 6%; VERTICAL-ALIGN: top" colSpan=2>
+<P id=PARA147 style="TEXT-ALIGN: left; MARGIN: 0pt 8.9pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 50%; VERTICAL-ALIGN: top">
+<P id=PARA148 style="TEXT-ALIGN: left; MARGIN: 0pt 3.95pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 6%; VERTICAL-ALIGN: top">
+<P id=PARA149 style="TEXT-ALIGN: left; MARGIN: 0pt 8.7pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">By:</FONT></P></TD>
+<TD style="WIDTH: 44%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1px solid">
+<P id=PARA150 style="TEXT-ALIGN: justify; MARGIN: 0pt 9.6pt 0pt 9pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><I>/s/ Michael H. Tardugno</I></FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 50%; VERTICAL-ALIGN: top">
+<P id=PARA151 style="TEXT-ALIGN: left; MARGIN: 0pt 3.95pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 6%; VERTICAL-ALIGN: top">
+<P id=PARA152 style="TEXT-ALIGN: left; MARGIN: 0pt 3.9pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 44%; VERTICAL-ALIGN: top">
+<P id=PARA153 style="TEXT-ALIGN: left; MARGIN: 0pt 9.6pt 0pt 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 18pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Michael H. Tardugno</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 50%; VERTICAL-ALIGN: top">
+<P id=PARA154 style="TEXT-ALIGN: left; MARGIN: 0pt 3.95pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 6%; VERTICAL-ALIGN: top">
+<P id=PARA155 style="TEXT-ALIGN: left; MARGIN: 0pt 3.9pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 44%; VERTICAL-ALIGN: top">
+<P id=PARA156 style="TEXT-ALIGN: justify; MARGIN: 0pt 9.6pt 0pt 18pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Chairman, President and Chief Executive Officer</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 50%; VERTICAL-ALIGN: top">
+<P id=PARA157 style="TEXT-ALIGN: left; MARGIN: 0pt 3.95pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 6%; VERTICAL-ALIGN: top">
+<P id=PARA158 style="TEXT-ALIGN: left; MARGIN: 0pt 3.9pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 44%; VERTICAL-ALIGN: top">
+<P id=PARA159 style="TEXT-ALIGN: left; MARGIN: 0pt 4pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 50%; VERTICAL-ALIGN: top">
+<P id=PARA160 style="TEXT-ALIGN: left; MARGIN: 0pt 3.95pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 6%; VERTICAL-ALIGN: top">
+<P id=PARA161 style="TEXT-ALIGN: left; MARGIN: 0pt 8.7pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">By:</FONT></P></TD>
+<TD style="WIDTH: 44%; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1px solid">
+<P id=PARA162 style="TEXT-ALIGN: left; MARGIN: 0pt 8.8pt 0pt 9pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><I>/s/ Jeffrey W. Church</I>&nbsp;&nbsp;&nbsp;&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 50%; VERTICAL-ALIGN: top">
+<P id=PARA163 style="TEXT-ALIGN: left; MARGIN: 0pt 3.95pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 6%; VERTICAL-ALIGN: top">
+<P id=PARA164 style="TEXT-ALIGN: left; MARGIN: 0pt 3.9pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 44%; VERTICAL-ALIGN: top">
+<P id=PARA165 style="TEXT-ALIGN: justify; MARGIN: 0pt 9.6pt 0pt 0pt; LINE-HEIGHT: 1.25; TEXT-INDENT: 18pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Jeffrey W. Church</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 50%; VERTICAL-ALIGN: top">
+<P id=PARA166 style="TEXT-ALIGN: left; MARGIN: 0pt 3.95pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 6%; VERTICAL-ALIGN: top">
+<P id=PARA167 style="TEXT-ALIGN: left; MARGIN: 0pt 3.9pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 44%; VERTICAL-ALIGN: top">
+<P id=PARA168 style="TEXT-ALIGN: justify; MARGIN: 0pt 9.6pt 0pt 18pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Senior Vice President and Chief Financial Officer</FONT></P></TD></TR></TABLE>
+<P id=PARA316.1 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&nbsp;</FONT></P>
+<DIV id=PGBK316  style="WIDTH: 100%; MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt">
+<DIV id=PGFTR316  style="WIDTH: 100%; TEXT-ALIGN: center">&nbsp;</DIV>
+<DIV id=PGNUM316  style="FONT-SIZE: 10pt; WIDTH: 100%; TEXT-ALIGN: center">&nbsp;</DIV>
+<HR style="HEIGHT: 2px; WIDTH: 100%; PAGE-BREAK-AFTER: always; COLOR: #000000" noShade>
+
+<DIV id=PGHDR316  style="WIDTH: 100%; TEXT-ALIGN: left">&nbsp;</DIV></DIV>
+<P id=PARA316.2 style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT>&nbsp;</P>
+<P id=PARA174 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><U><B>EXHIBIT INDEX</B></U></FONT></P>
+<P id=PARA175 style="TEXT-ALIGN: center; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P>
+<TABLE id=TBL227  style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif; WIDTH: 100%; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 border=0>
+
+<TR>
+<TD style="WIDTH: 7.2%; VERTICAL-ALIGN: top">
+<P id=PARA176 style="TEXT-ALIGN: center; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Exhibit</B></FONT></P>
+<P id=PARA177 style="TEXT-ALIGN: center; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Number</B></FONT></P></TD>
+<TD style="WIDTH: 92.8%; VERTICAL-ALIGN: bottom" colSpan=2>
+<P id=PARA178 style="TEXT-ALIGN: center; MARGIN: 0pt 3.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"><B>Description of&nbsp;Documents</B></FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.2%; VERTICAL-ALIGN: top">
+<P id=PARA179 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 1.3%; VERTICAL-ALIGN: top">
+<P id=PARA180 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 91.5%; VERTICAL-ALIGN: top">
+<P id=PARA181 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.2%; VERTICAL-ALIGN: top">
+<P id=PARA182 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">10.1+*</FONT></P></TD>
+<TD style="WIDTH: 1.3%; VERTICAL-ALIGN: top">
+<P id=PARA183 style="TEXT-ALIGN: left; MARGIN: 0pt 0.8pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 91.5%; VERTICAL-ALIGN: top">
+<P id=PARA184 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Early Access Agreement dated as of January 13, 2015, by and between the Company and Impatients N.V.</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.2%; VERTICAL-ALIGN: top">
+<P id=PARA185 style="TEXT-ALIGN: left; MARGIN: 0pt 0.8pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 1.3%; VERTICAL-ALIGN: top">
+<P id=PARA186 style="TEXT-ALIGN: left; MARGIN: 0pt 0.8pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 91.5%; VERTICAL-ALIGN: top">
+<P id=PARA187 style="TEXT-ALIGN: left; MARGIN: 0pt 0.8pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.2%; VERTICAL-ALIGN: top">
+<P id=PARA188 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">31.1+</FONT></P></TD>
+<TD style="WIDTH: 1.3%; VERTICAL-ALIGN: top">
+<P id=PARA189 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 91.5%; VERTICAL-ALIGN: top">
+<P id=PARA190 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Certification of Chief Executive Officer pursuant to Rule 13a-14(a)/15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.2%; VERTICAL-ALIGN: top">
+<P id=PARA191 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 1.3%; VERTICAL-ALIGN: top">
+<P id=PARA192 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 91.5%; VERTICAL-ALIGN: top">
+<P id=PARA193 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.2%; VERTICAL-ALIGN: top">
+<P id=PARA194 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">31.2+</FONT></P></TD>
+<TD style="WIDTH: 1.3%; VERTICAL-ALIGN: top">
+<P id=PARA195 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 91.5%; VERTICAL-ALIGN: top">
+<P id=PARA196 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Certification of Chief Financial Officer pursuant to Rule 13a-14(a)/15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.2%; VERTICAL-ALIGN: top">
+<P id=PARA197 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 1.3%; VERTICAL-ALIGN: top">
+<P id=PARA198 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 91.5%; VERTICAL-ALIGN: top">
+<P id=PARA199 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.2%; VERTICAL-ALIGN: top">
+<P id=PARA200 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">32.1**</FONT></P></TD>
+<TD style="WIDTH: 1.3%; VERTICAL-ALIGN: top">
+<P id=PARA201 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 91.5%; VERTICAL-ALIGN: top">
+<P id=PARA202 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.2%; VERTICAL-ALIGN: top">
+<P id=PARA203 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 1.3%; VERTICAL-ALIGN: top">
+<P id=PARA204 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 91.5%; VERTICAL-ALIGN: top">
+<P id=PARA205 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.2%; VERTICAL-ALIGN: top">
+<P id=PARA206 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;+</FONT></P></TD>
+<TD style="WIDTH: 1.3%; VERTICAL-ALIGN: top">
+<P id=PARA207 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 91.5%; VERTICAL-ALIGN: bottom">
+<P id=PARA208 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Filed herewith.</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.2%; VERTICAL-ALIGN: top">
+<P id=PARA209 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 1.3%; VERTICAL-ALIGN: top">
+<P id=PARA210 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 91.5%; VERTICAL-ALIGN: top">
+<P id=PARA211 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.2%; VERTICAL-ALIGN: top">
+<P id=PARA212 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">101***</FONT></P></TD>
+<TD style="WIDTH: 1.3%; VERTICAL-ALIGN: top">
+<P id=PARA213 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 91.5%; VERTICAL-ALIGN: bottom">
+<P id=PARA214 style="TEXT-ALIGN: justify; MARGIN: 0pt 3.75pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">The following materials from the Company&#8217;s Quarterly Report on Form 10-Q for the quarter ended March 31, 2015, formatted in XBRL (Extensible Business Reporting Language): (i) the unaudited Consolidated Balance Sheets, (ii) the unaudited Consolidated Statements of Operations, (iii) the unaudited Consolidated&nbsp;Statements of Comprehensive Loss, (iv) the unaudited Consolidated Statements of Cash Flows,&nbsp;(v)&nbsp;the unaudited Consolidated Statements of Change in Stockholders&#39; Equity (Deficit),&nbsp;and (vi) Notes to Consolidated Financial Statements.</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.2%; VERTICAL-ALIGN: top">
+<P id=PARA215 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 1.3%; VERTICAL-ALIGN: top">
+<P id=PARA216 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 91.5%; VERTICAL-ALIGN: bottom">
+<P id=PARA217 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.2%; VERTICAL-ALIGN: top">
+<P id=PARA218 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;*</FONT></P></TD>
+<TD style="WIDTH: 1.3%; VERTICAL-ALIGN: top">
+<P id=PARA219 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 91.5%; VERTICAL-ALIGN: top">
+<P id=PARA220 style="TEXT-ALIGN: justify; MARGIN: 0pt 3.75pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Confidential treatment with respect to specific portions of this Exhibit has been requested, and such portions are omitted and have been filed separately with the SEC.</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.2%; VERTICAL-ALIGN: top">
+<P id=PARA221 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 1.3%; VERTICAL-ALIGN: top">
+<P id=PARA222 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 91.5%; VERTICAL-ALIGN: top">
+<P id=PARA223 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.2%; VERTICAL-ALIGN: top">&nbsp;**</TD>
+<TD style="WIDTH: 1.3%; VERTICAL-ALIGN: top">&nbsp;</TD>
+<TD style="WIDTH: 91.5%; VERTICAL-ALIGN: top">
+<P id=PARA319 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Previously furnished with the Company&#8217;s Quarterly Report on Form 10-Q filed on May 11, 2015.</FONT></P></TD></TR>
+<TR>
+<TD style="WIDTH: 7.2%; VERTICAL-ALIGN: top">&nbsp;</TD>
+<TD style="WIDTH: 1.3%; VERTICAL-ALIGN: top">&nbsp;</TD>
+<TD style="WIDTH: 91.5%; VERTICAL-ALIGN: top">&nbsp;</TD></TR>
+<TR>
+<TD style="WIDTH: 7.2%; VERTICAL-ALIGN: top">
+<P id=PARA224 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;***</FONT></P></TD>
+<TD style="WIDTH: 1.3%; VERTICAL-ALIGN: top">
+<P id=PARA225 style="TEXT-ALIGN: left; MARGIN: 0pt 1.6pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></TD>
+<TD style="WIDTH: 91.5%; VERTICAL-ALIGN: top">
+<P id=PARA226 style="TEXT-ALIGN: justify; MARGIN: 0pt 3.75pt 0pt 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">Previously filed with the Company&#8217;s Quarterly Report on Form 10-Q filed on May 11, 2015.</FONT></P></TD></TR></TABLE>
+<P id=PARA228 style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif"></FONT>&nbsp;</P>
+<P style="TEXT-ALIGN: left; MARGIN: 0pt; LINE-HEIGHT: 1.25">&nbsp;</P>
+<P id=PARA320 style="MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt"><FONT style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman, Times, serif">&nbsp;</FONT></P></BODY></HTML>
+</TEXT>
+</DOCUMENT>

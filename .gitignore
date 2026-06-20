@@ -1,27 +1,92 @@
-# Secrets / env
-.env
-.env.*
-!.env.example
+# Ignore the debug and release directories created with Makefile builds #
+#########################################################################
+build/*_debug/
+build/*_release/
 
-# Virtualenvs
-alliance-venv/
-venv/
-.venv/
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.lib
+*.pdb
+*.exe
+*.o
+*.so
+*.so.1
+*.so.2
+*.dylib
+*.a
+*.obj
+*.pyc
 
-# Python
-__pycache__/
-*.py[cod]
-*.egg-info/
-.pytest_cache/
-.ipynb_checkpoints/
+*.orig
+*.raw
+*.sample
+*.slo
+*.swp
+*.config
+*.la
+*.lai
+*.lo
+*.nhdr
+*.nii.gz
+*.nrrd
 
-# Data / artifacts
-*.duckdb
-logs/
-checkpoints/
-reports/
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.tgz
+*.zip
 
-# OS
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
-*.Trash-0
+
+# IDE generated files #
+######################
+/.ninja_deps
+/.ninja_log
+/build.ninja
+/rules.ninja
+*~
+.emacs.desktop
+.tags
+
+# Build system generated files #
+################################
+CMakeCache.txt
+CMakeFiles/
+cmake/TBBConfig.cmake
+cmake/TBBConfigVersion.cmake
+
+# Other #
+#########
+.clang_complete
+.idea
+.svn
+crash*
+*.tmp
+/.vs
+
+.claude

@@ -1,0 +1,106 @@
+<DOCUMENT>
+<TYPE>EX-31.1
+<SEQUENCE>2
+<FILENAME>brhc10028424_ex31-1.htm
+<DESCRIPTION>EXHIBIT 31.1
+<TEXT>
+<html>
+  <head>
+    <title></title>
+    <!-- Licensed to: Summit, a Broadridge Company
+         Document created using EDGARfilings PROfile 8.0.0.0
+         Copyright 1995 - 2021 Broadridge -->
+  </head>
+<body bgcolor="#ffffff" style="font-family: 'Times New Roman'; font-size: 10pt; text-align: left; color: #000000;">
+  <hr noshade="noshade" align="center" style="height: 4px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;">
+  <div>
+    <div style="text-align: right; text-indent: 36pt; font-family: 'Times New Roman', Times, serif; font-size: 10pt; font-weight: bold;">Exhibit&#160;31.1</div>
+    <div>&#160;</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 10pt;">CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER</div>
+    <div style="text-align: center; font-family: 'Times New Roman',Times,serif; font-size: 10pt;">PURSUANT TO SECTION&#160;302 OF THE SARBANES-OXLEY ACT OF 2002</div>
+    <div>&#160;</div>
+    <div style="text-align: left; text-indent: 36pt; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">I,&#160;Peter M. Hecht, certify that:</div>
+    <div>&#160;</div>
+    <div style="text-align: left; margin-left: 36pt; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">1.&#160;&#160;&#160;&#160;I have reviewed this quarterly report on Form&#160;10-Q/A of Cyclerion Therapeutics,&#160;Inc.;</div>
+    <div>&#160;</div>
+    <div style="text-align: left; text-indent: 36pt; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">2.&#160;&#160;&#160;&#160;Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact
+      necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;</div>
+    <div>&#160;</div>
+    <div style="text-align: left; text-indent: 36pt; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">3.&#160;&#160;&#160;&#160;[reserved];</div>
+    <div>&#160;</div>
+    <div style="text-align: left; text-indent: 36pt; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">4.&#160;&#160;&#160;&#160;The registrant&#8217;s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+      (as defined in Exchange Act Rules&#160;13a-15(e)&#160;and 15d-15(e)) <a name="z_Hlk80792471"></a>and&#160;internal control over financial reporting&#160;(as defined in&#160;Exchange Act&#160;Rules 13a-15(f) and 15d-15(f)) for the registrant and have:</div>
+    <div>&#160;</div>
+    <div style="text-align: left; text-indent: 36pt; margin-left: 18pt; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">(a)&#160;&#160;&#160;&#160;&#160;&#160;&#160;Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be
+      designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being
+      prepared;</div>
+    <div>&#160;</div>
+    <div style="text-align: left; text-indent: 36pt; margin-left: 18pt; font-family: 'Times New Roman', Times, serif; font-size: 10pt;"><a name="z_Hlk80792538"></a>(b)&#160;&#160;&#160;&#160;&#160;&#160;&#160;Designed such&#160;internal control over financial reporting, or caused such&#160;internal
+      control over financial reporting&#160;to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally
+      accepted accounting principles;</div>
+    <div>&#160;</div>
+    <div style="text-align: left; text-indent: 36pt; margin-left: 18pt; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">(c)&#160;&#160;&#160;&#160;&#160;&#160;&#160;Evaluated the effectiveness of the registrant&#8217;s disclosure controls and procedures and presented in this
+      report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and</div>
+    <div>&#160;</div>
+    <div style="text-align: left; text-indent: 36pt; margin-left: 18pt; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">(d)&#160;&#160;&#160;&#160;&#160;&#160;&#160;Disclosed in this report any change in the registrant&#8217;s internal control over financial reporting that
+      occurred during the registrant&#8217;s most recent fiscal quarter (the registrant&#8217;s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant&#8217;s internal control over
+      financial reporting; and</div>
+    <div>&#160;</div>
+    <div style="text-align: left; text-indent: 36pt; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">5.&#160;&#160;&#160;&#160;The registrant&#8217;s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over
+      financial reporting, to the registrant&#8217;s auditors and the audit committee of the registrant&#8217;s board of directors (or persons performing the equivalent functions):</div>
+    <div>&#160;</div>
+    <div style="text-align: left; text-indent: 36pt; margin-left: 18pt; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">(a)&#160;&#160;&#160;&#160;&#160;&#160;&#160;All significant deficiencies and material weaknesses in the design or operation of internal control over
+      financial reporting which are reasonably likely to adversely affect the registrant&#8217;s ability to record, process, summarize and report financial information; and</div>
+    <div>&#160;</div>
+    <div style="text-align: left; text-indent: 36pt; margin-left: 18pt; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">(b)&#160;&#160;&#160;&#160;&#160;&#160;&#160;Any fraud, whether or not material, that involves management or other employees who have a significant role in
+      the registrant&#8217;s internal control over financial reporting.</div>
+    <div><br>
+    </div>
+    <table cellspacing="0" cellpadding="0" border="0" style="font-family: 'Times New Roman'; font-size: 10pt; width: 100%; border-collapse: collapse; text-align: left; color: #000000;">
+
+        <tr>
+          <td style="width: 44.76%; vertical-align: top;">
+            <div style="text-align: left; margin-right: 0.8pt; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">Date:&#160;&#160;August 27, 2021</div>
+          </td>
+          <td style="width: 5%; vertical-align: top;">
+            <div style="text-align: left; margin-right: 0.8pt; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">By:</div>
+          </td>
+          <td style="width: 50%; vertical-align: top; border-bottom: 2px solid rgb(0, 0, 0);">
+            <div style="text-align: left; margin-right: 0.8pt; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">/s/ Peter M. Hecht</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 44.76%; vertical-align: top;">
+            <div style="text-align: left; margin-right: 0.8pt; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 5%; vertical-align: top;">
+            <div style="text-align: left; margin-right: 0.8pt; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">Name:</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: left; margin-right: 0.8pt; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">Peter M. Hecht</div>
+          </td>
+        </tr>
+        <tr>
+          <td style="width: 44.76%; vertical-align: top;">
+            <div style="text-align: left; margin-right: 0.8pt; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">&#160;</div>
+          </td>
+          <td style="width: 5%; vertical-align: top;">
+            <div style="text-align: left; margin-right: 0.8pt; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">Title:</div>
+          </td>
+          <td style="width: 50%; vertical-align: top;">
+            <div style="text-align: left; margin-right: 0.8pt; font-family: 'Times New Roman', Times, serif; font-size: 10pt;">Chief Executive Officer (Principal Executive Officer)</div>
+          </td>
+        </tr>
+
+    </table>
+  </div>
+  <div><br>
+  </div>
+  <div><br>
+  </div>
+  <div>
+    <hr noshade="noshade" align="center" style="height: 2px; color: #000000; background-color: #000000; text-align: center; margin-left: auto; margin-right: auto; border: none;"></div>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>

@@ -1,0 +1,1349 @@
+<DOCUMENT>
+<TYPE>10-Q/A
+<SEQUENCE>1
+<FILENAME>form10qa.htm
+<DESCRIPTION>10-Q/A
+<TEXT>
+<html>
+<head>
+    <title>form10qa.htm</title>
+    <!--Licensed to: The Ideal Connection -->
+    <!--Document Created using EDGARizerAgent 5.5.2.0-->
+    <!--Copyright 1995 - 2015 Summit Financial Printing. All rights reserved.-->
+</head>
+<body bgcolor="#ffffff" style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">
+<div>
+<hr style="COLOR: #000000; MARGIN-TOP: -5px" noshade size="4">
+<hr style="COLOR: #000000; MARGIN-TOP: -10px" noshade size="1">
+</div>
+
+<br>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">UNITED STATES</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">SECURITIES AND EXCHANGE COMMISSION</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline"><font style="FONT-WEIGHT: bold; DISPLAY: inline">Washington, D.C. 20549</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">FORM 10-Q</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr valign="top">
+<td style="WIDTH: 13.5pt">
+<div><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</td>
+<td>
+<div align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">[X] QUARTERLY<font style="FONT-WEIGHT: bold; DISPLAY: inline"> REPORT UNDER SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</font></font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">For the quarterly period ended September 30, 2016</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline"><a name="Check2"><!--EFPlaceholder--></a>&#160;TRANSITION REPORT UNDER SECTION 13 OR 15(d) OF THE EXCHANGE ACT OF 1934</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">For the transition period from ______ to _______</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Commission File Number <font style="TEXT-DECORATION: underline; DISPLAY: inline">000-53276</font></font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 18pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">SIMLATUS CORPORATION</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">(Name of small business issuer in its charter)</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="middle" width="44%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="11%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="45%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+</tr><tr>
+<td valign="top" width="44%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline"><font style="DISPLAY: inline">Nevada</font></font></div>
+</td>
+<td valign="top" width="11%" style="BORDER-BOTTOM: black 2px solid"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="45%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline"><font style="DISPLAY: inline">20-2675800</font></font></div>
+</td>
+</tr><tr>
+<td valign="top" width="44%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">(State of incorporation)</font></div>
+</td>
+<td valign="top" width="11%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="45%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">(I.R.S. Employer Identification No.)</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">175 Joerschke Dr., Ste. A</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Grass Valley, CA 95945 </font>
+
+<div>
+<hr style="COLOR: black" align="center" noshade size="2" width="50%">
+</div>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">(Address of principal executive offices)</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">(530) 205-3437 </font>
+
+<div>
+<hr style="COLOR: black" align="center" noshade size="2" width="50%">
+</div>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160;(Registrant&#8217;s telephone number)</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes [X] No [&#160;&#160;] </font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (&#167;232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). Yes [X] No [&#160; ]</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of "large accelerated filer," "accelerated filer" and "smaller reporting company" in Rule 12b-2 of the Exchange Act.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td align="left" valign="top" width="17%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Large accelerated filer</font></div>
+</td>
+<td align="left" valign="top" width="35%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">[&#160;&#160;]</font></div>
+</td>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Accelerated filer</font></div>
+</td>
+<td align="left" valign="top" width="5%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">[&#160;&#160;]</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="17%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Non-accelerated filer</font></div>
+</td>
+<td align="left" valign="top" width="35%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">[&#160;&#160;] (Do not check if a smaller reporting company)</font></div>
+</td>
+<td align="left" valign="top" width="20%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Smaller reporting company</font></div>
+</td>
+<td align="left" valign="top" width="5%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">[X]</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes [&#160;&#160;] No [X]</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">As of October 26, 2016, there were 162,645,819 shares of the registrant&#8217;s $0.00001 par value common stock issued and outstanding.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">_____________________________________________________________________________________________</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline"><font style="TEXT-DECORATION: underline; DISPLAY: inline">EXPLANATORY NOTE</font></font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">&#160;</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 27pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">We are filing this Form 10-Q/A&#160;for the sole purpose of&#160;a revision to the cover&#160;page of our&#160;Form 10-Q for the nine months ended September 30, 2016 (the &#8220;Original Form 10-Q&#8221;) as filed with the Securities and Exchange Commission on November 16, 2016 (the &#8220;Filing Date&#8221;).&#160;&#160;&#160;The Company has revised its disclosures in this Form 10-Q/A &#160;in order to accurately reflect that the Company has submitted electronically and posted on its corporate Web site&#160;every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (&#167;232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).&#160;&#160; The cover page as included herein indicates a check mark response of [X] YES.</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 27pt" align="left"><font style="FONT-WEIGHT: bold; DISPLAY: inline"><br>
+</font>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-WEIGHT: bold; DISPLAY: inline"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;Other than as set out above, this Amendment speaks as of the filing date of the Original Form 10-Q (the "Filing date"), does not reflect events that may have occurred subsequent to the Filing Date, and does not modify or update in any way disclosures made in the original Form 10-Q as filed on November 16, 2016.</font></font></div>
+
+<font style="FONT-WEIGHT: bold; DISPLAY: inline"><br>
+</font></div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 27pt" align="left"><font style="FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">&#160;</font></div>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">SIMLATUS CORP.*</font></div>
+
+<div style="TEXT-ALIGN: center; DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline"><font style="FONT-WEIGHT: bold; DISPLAY: inline">TABLE OF CONTENTS</font></font></div>
+
+<div style="TEXT-ALIGN: center; MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">&#160;</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr bgcolor="#cceeff">
+<td colspan="2" valign="top" width="74%" style="BORDER-BOTTOM: black 2px solid"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="7%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">Page</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td align="left" colspan="2" valign="top" width="74%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline"><font style="DISPLAY: inline">PART I. FINANCIAL INFORMATION</font></font></div>
+</td>
+<td valign="bottom" width="7%" style="BORDER-BOTTOM: black 2px solid"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+</tr><tr bgcolor="#cceeff">
+<td align="left" valign="middle" width="9%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">ITEM 1.</font></div>
+</td>
+<td align="left" valign="middle" width="64%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">FINANCIAL STATEMENTS</font></div>
+</td>
+<td align="right" valign="middle" width="7%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="right"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">3</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td align="left" valign="middle" width="9%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">ITEM 2.</font></div>
+</td>
+<td align="left" valign="middle" width="64%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">MANAGEMENT&#8217;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS</font></div>
+</td>
+<td align="right" valign="middle" width="7%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="right"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">25</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td align="left" valign="middle" width="9%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">ITEM 3.</font></div>
+</td>
+<td align="left" valign="middle" width="64%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK</font></div>
+</td>
+<td align="right" valign="middle" width="7%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="right"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">28</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td align="left" valign="middle" width="9%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">ITEM 4.</font></div>
+</td>
+<td align="left" valign="middle" width="64%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">CONTROLS AND PROCEDURES</font></div>
+</td>
+<td align="right" valign="middle" width="7%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="right"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">28</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="9%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="64%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="bottom" width="7%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+</tr><tr bgcolor="white">
+<td align="left" colspan="2" valign="top" width="74%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline"><font style="DISPLAY: inline">PART II.</font> <font style="DISPLAY: inline">OTHER INFORMATION</font></font></div>
+</td>
+<td valign="middle" width="7%" style="BORDER-BOTTOM: black 2px solid"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+</tr><tr bgcolor="#cceeff">
+<td align="left" valign="middle" width="9%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">ITEM 1.</font></div>
+</td>
+<td align="left" valign="middle" width="64%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">LEGAL PROCEEDINGS</font></div>
+</td>
+<td align="right" valign="bottom" width="7%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="right"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">29</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td align="left" valign="middle" width="9%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">ITEM 1A.</font></div>
+</td>
+<td align="left" valign="middle" width="64%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">RISK FACTORS</font></div>
+</td>
+<td align="right" valign="bottom" width="7%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="right"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">29</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td align="left" valign="middle" width="9%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">ITEM 2.</font></div>
+</td>
+<td align="left" valign="middle" width="64%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS</font></div>
+</td>
+<td align="right" valign="bottom" width="7%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="right"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">29</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td align="left" valign="middle" width="9%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">ITEM 3.</font></div>
+</td>
+<td align="left" valign="middle" width="64%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">DEFAULTS UPON SENIOR SECURITIES</font></div>
+</td>
+<td align="right" valign="bottom" width="7%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="right"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">29</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td align="left" valign="middle" width="9%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">ITEM 4.</font></div>
+</td>
+<td align="left" valign="middle" width="64%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">SUBSEQUENT EVENTS</font></div>
+</td>
+<td align="right" valign="bottom" width="7%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="right"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">29</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td align="left" valign="middle" width="9%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">ITEM 5.</font></div>
+</td>
+<td align="left" valign="middle" width="64%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">OTHER INFORMATION</font></div>
+</td>
+<td align="right" valign="bottom" width="7%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="right"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">29</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td align="left" valign="middle" width="9%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">ITEM 6.</font></div>
+</td>
+<td align="left" valign="middle" width="64%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">EXHIBITS</font></div>
+</td>
+<td align="right" valign="bottom" width="7%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="right"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">30</font></div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">Special Note Regarding Forward-Looking Statements</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">Information included in this Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (&#8220;Securities Act&#8221;), and Section 21E of the Securities Exchange Act of 1934, as amended (&#8220;Exchange Act&#8221;). This information may involve known and unknown risks, uncertainties and other factors which may cause the actual results, performance or achievements of Simlatus Corp. (the &#8220;Company&#8221;), to be materially different from future results, performance or achievements expressed or implied by any forward-looking statements. Forward-looking statements, which involve assumptions and describe future plans, strategies and expectations of the Company, are generally identifiable by use of the words &#8220;may,&#8221; &#8220;will,&#8221; &#8220;should,&#8221; &#8220;expect,&#8221; &#8220;anticipate,&#8221; &#8220;estimate,&#8221; &#8220;believe,&#8221; &#8220;intend,&#8221; or &#8220;project&#8221; or the negative of these words or other variations on these words or comparable terminology. These forward-looking statements are based on assumptions that may be incorrect, and there can be no assurance that these projections included in these forward-looking statements will come to pass. Actual results of the Company could differ materially from those expressed or implied by the forward-looking statements as a result of various factors. Except as required by applicable laws, the Company has no obligation to update publicly any forward-looking statements for any reason, even if new information becomes available or other events occur in the future.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">*<font style="FONT-STYLE: italic; DISPLAY: inline">Please note that throughout this Quarterly Report, and unless otherwise noted, the words "we,"&#8221;SIML,&#8221; "our," "us," the "Company," refers to Simlatus Corp.</font></font></div>
+
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">2</font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">ITEM 6. EXHIBITS</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr bgcolor="#cceeff">
+<td valign="middle" width="10%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Exhibit Number</font></div>
+</td>
+<td valign="middle" width="46%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Description of Exhibit</font></div>
+</td>
+<td valign="middle" width="2%" style="BORDER-BOTTOM: black 2px solid"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%" style="BORDER-BOTTOM: black 2px solid">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filing</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">3.1</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Articles of Incorporation</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on June 8, 2007 as part of our Registration of Securities on Form SB-2.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">3.1a</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Amended Articles of Incorporation</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on November 11, 2009, on our Current Report on Form 8-K.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">3.2</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Bylaws</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on June 8, 2007 as part of our Registration of Securities on Form SB-2.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.1</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Loan Agreement, by and between the Company and Kelly Sundberg, dated December 18, 2006</font></div>
+</td>
+<td valign="top" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on June 8, 2007 as part of our Registration of Securities on Form SB-2.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.2</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Loan Agreement, by and between the Company and Green Shoe, Inc., dated March 26, 2008</font></div>
+</td>
+<td valign="top" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on March 28, 2008 as part of our Current Report on Form 8-K.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.3</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Employment Agreement, by and between the Company and Paul Watts, dated January 31, 2010</font></div>
+</td>
+<td valign="top" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on March 9, 2010 as part of our Current Report on Form 8-K.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.4</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Asset Purchase and Sale Agreement, by and between the Company and Murrayfield Limited, dated March 11, 2010</font></div>
+</td>
+<td valign="top" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on March 23, 2010 as part of our Current Report on Form 8-K.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.5</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Share Issuance Agreement, by and between the Company and Premier Global Corp, dated April 23, 2010</font></div>
+</td>
+<td valign="top" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on April 28, 2010 as part of our Current Report on Form 8-K.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.6</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Separation Agreement, by and amongst the Company and Kelly Sundberg, Stephen Ronaldson and Paul Watts, dated December 3, 2010</font></div>
+</td>
+<td valign="top" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on December 7, 2010 as part of our Current Report on Form 8-K/A.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.7</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Share Exchange Agreement, by and between the Company and Joaquin Basin Resources Inc., dated&#160;&#160;January 20, 2011</font></div>
+</td>
+<td valign="top" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on January 25, 2011 as part of our Current Report on Form 8-K.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.8</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Agreement for the Sale and Assignment and Affirmation of Obligation, by and amongst the Company, Green Shoe, LLC, and Syndication Capital, LLC, dated January 28, 2011</font></div>
+</td>
+<td valign="top" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on February 4, 2011 as part of our Current Report on Form 8-K.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.9</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Form of Securities Purchase Agreement, by and between the Company and Buyer, dated February 24, 2011</font></div>
+</td>
+<td valign="top" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on March 10, 2011 as part of our Current Report on Form 8-K.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.10</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Form of Convertible Promissory Note, by and between the Company and Holder, dated February 24, 2011</font></div>
+</td>
+<td valign="top" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on March 10, 2011 as part of our Current Report on Form 8-K.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.11</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Form of Securities Purchase Agreement, by and between the Company and Buyer, dated May 13, 2011</font></div>
+</td>
+<td valign="top" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on June 13, 2011 as part of our Current Report on Form 8-K.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.12</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Form of Convertible Promissory Note, by and between the Company and Holder, dated May 13, 2011</font></div>
+</td>
+<td valign="top" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on June 13, 2011 as part of our Current Report on Form 8-K.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.13</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Transfer of Asset by and between, Xploration Inc., and Joaquin Basin Resources, dated January 20, 2011</font></div>
+</td>
+<td valign="top" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on November 23, 2011 as part of our Current Report on Form 8-K.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.14</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Mineral Rights Purchase Amendment, by and between Xploration Inc. and Joaquin Basin Resources, dated November 21, 2011</font></div>
+</td>
+<td valign="top" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on November 23, 2011 as part of our Current Report on Form 8-K</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.15</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Contract Agreement, by and between the Company and James Powell, dated October 24, 2011</font></div>
+</td>
+<td valign="top" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on February 9, 2012, as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.16</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Employment/Consulting Agreement, by and between the Company and Tim DeHerrera, dated December 2, 2011</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on February 9, 2012, as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.17</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Debt Settlement Agreement, by and between the Company and Syndication Capital, dated December 31, 2012</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on February 19, 2014 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.18</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Debt Settlement Agreement, by and between the Company and Direct Capital Group, Inc., dated December 31, 2012</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on February 19, 2013 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.19</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Debt Settlement Agreement, by and between the Company and Xploration Incorporated, dated December 31, 2012</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on February 19, 2014 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.20</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Purchase Agreement by and between the Company and Xploration Incorporated, dated July 31, 2013</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on August 5, 2013, as part of our Current Report on Form 8-K.</font></div>
+</td>
+</tr></table>
+
+<div>&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">3</font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+</div>
+
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.21</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Syndication Capital, LLC, dated July 31, 2013</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on February 19, 2014 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.22</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Syndication Capital, LLC, dated July 31, 2013</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on February 19, 2014 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.23</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Syndication Capital, LLC, dated August 31, 2013</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on February 19, 2014 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.24</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Syndication Capital, LLC, dated September &#160;30, 2013</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on February 19, 2014 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.25</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Direct Capital Group, dated October 1, 2013</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on February 19, 2014 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.26</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Syndication Capital, LLC, dated October 31, 2013</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on February 19, 2014 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.27</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Syndication Capital, LLC, dated November 30, 2013</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on February 19, 2014 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.28</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Syndication Capital, LLC, dated December 31, 2013</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on February 19, 2014 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.29</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Syndication Capital, LLC, dated January 31, 2014</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on July 15, 2014 as part of our Annual Report on Form 10-K.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.30</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Syndication Capital, LLC, dated March 31, 2014</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on July 15, 2014 as part of our Annual Report on Form 10-K.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.31</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Syndication Capital, LLC, dated March 31, 2014</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on July 15, 2014 as part of our Annual Report on Form 10-K.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.32</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Syndication Capital, LLC, dated April 30, 2014</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on August 14, 2014 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.33</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Syndication Capital, LLC, dated July 31, 2014</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on November 14, 2014 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.34</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Syndication Capital, LLC, dated October 31, 2014</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on February 17, 2015 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td align="left" valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.35</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Direct Capital Group, dated October 1, 2014</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on February 17, 2015 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.36</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Direct Capital Group, dated January 1, 2015</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on February 17, 2015 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td align="left" valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.37</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Direct Capital Group, dated March 31, 2015</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on July 14, 2015 as part of our Annual Report on Form 10-K.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td align="left" valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.38</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Direct Capital Group, dated June 30, 2015</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on August 7, 2015 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td align="left" valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.39</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Direct Capital Group, dated September 30, 2015</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on November 18, 2015 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td align="left" valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.40</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Direct Capital Group, Inc., dated October 31, 2015</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on February 12, 2016 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td align="left" valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.41</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Direct Capital Group, Inc., dated November 30, 2015</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on February 12, 2016 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td align="left" valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.42</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Direct Capital Group, Inc., dated December 31, 2015</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on February 12, 2016 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td align="left" valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.43</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Direct Capital Group, Inc., dated January 31, 2016</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on June 29, 2016 as part of our Annual Report on Form 10-K.</font></div>
+</td>
+</tr></table>
+
+<div>&#160;</div>
+
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">4</font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+</div>
+
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr bgcolor="white">
+<td align="left" valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.44</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Direct Capital Group, Inc., dated February 29, 2016</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on June 29, 2016 as part of our Annual Report on Form 10-K.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td align="left" valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.45</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Asset Purchase Agreement, by and between the Company and RJM and Associates, dated March 9, 2016</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on March 10, 2016 as part of our Current Report on Form 8-K.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td align="left" valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.46</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Consulting Agreement, by and between the Company and Gary Tilden, dated March 10, 2016</font></div>
+</td>
+<td align="left" valign="bottom" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on June 29, 2016 as part of our Annual Report on Form 10-K.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td align="left" valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.47</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Consulting Agreement, by and between the Company and Mike Schatz, dated March 10, 2016</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on June 29, 2016 as part of our Annual Report on Form 10-K.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td align="left" valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.48</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Consulting Agreement, by and between the Company and Robert Stillwaugh, dated March 10, 2016</font></div>
+</td>
+<td align="left" valign="bottom" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on June 29, 2016 as part of our Annual Report on Form 10-K.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td align="left" valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.49</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Consulting Agreement, by and between the Company and D.M. Murtaugh, dated March 10, 2016</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on June 29, 2016 as part of our Annual Report on Form 10-K.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td align="left" valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.50</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Assignment of Debt Agreement, by and between the Company and Rockwell Capital Partners, LLC, dated April 12, 2016</font></div>
+</td>
+<td align="left" valign="bottom" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on June 29, 2016 as part of our Annual Report on Form 10-K.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td align="left" valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.51</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Assignment of Debt Agreement, by and between the Company and Microcap Equity Group, LLC, dated May 4, 2016</font></div>
+</td>
+<td valign="bottom" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on June 29, 2016 as part of our Annual Report on Form 10-K.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td align="left" valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.52</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Assignment of Debt Agreement, by and between the Company and V2IP, LLC, dated May 13, 2016</font></div>
+</td>
+<td align="left" valign="bottom" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on June 29, 2016 as part of our Annual Report on Form 10-K.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td align="left" valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.53</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Direct Capital Group, dated April 7, 2016</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on August 15, 2016 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td align="left" valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.54</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Convertible Promissory Note entered by and between the Company and Direct Capital Group, dated May 17, 2016</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on August 15, 2016 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td align="left" valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">10.55</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Promissory Note entered by and between the Company and Carl Ambrose, dated June 6, 2016</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on August 15, 2016 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">16.1</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Representative Letter from John Kinross-Kennedy</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on February 19, 2013 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">16.2</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Representative Letter from Anton &amp; Chia LLP.</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on October 25, 2013 as part of our Current Report on Form 8-K.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">31.01</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Certification of Principal Executive Officer Pursuant to Rule 13a-14</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed herewith.</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">31.02</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Certification of Principal Financial Officer Pursuant to Rule 13a-14</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed herewith.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">32.01</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Certification of CEO and CFO Pursuant to Section 906 of the Sarbanes-Oxley Act</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed herewith</font></div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">101.INS</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">XBRL Instance Document</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on November 16, 2016 as part of our Quarterly Report on Form 10-Q.</font></div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">101.SCH</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">XBRL Taxonomy Extension Schema Document</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on November 16, 2016 as part of our Quarterly Report on Form 10-Q.</font></font></div>
+</div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">101.CAL</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">XBRL Taxonomy Extension Calculation Linkbase Document</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on November 16, 2016 as part of our Quarterly Report on Form 10-Q.</font></font></div>
+</div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">101.LAB</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">XBRL Taxonomy Extension Labels Linkbase Document</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on November 16, 2016 as part of our Quarterly Report on Form 10-Q.</font></font></div>
+</div>
+</td>
+</tr><tr bgcolor="#cceeff">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">101.PRE</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">XBRL Taxonomy Extension Presentation Linkbase Document</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on November 16, 2016 as part of our Quarterly Report on Form 10-Q.</font></font></div>
+</div>
+</td>
+</tr><tr bgcolor="white">
+<td valign="top" width="10%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">101.DEF</font></div>
+</td>
+<td valign="top" width="46%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">XBRL Taxonomy Extension Definition Linkbase Document</font></div>
+</td>
+<td valign="middle" width="2%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="42%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify">
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Filed with the SEC on November 16, 2016 as part of our Quarterly Report on Form 10-Q.</font></font></div>
+</div>
+</td>
+</tr></table>
+</div>
+
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">5</font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+</div>
+
+<br>
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="justify"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">*Pursuant to Regulation S-T, this interactive data file is deemed not filed or part of a registration statement or prospectus for purposes of Sections 11 or 12 of the Securities Act of 1933, is deemed not filed for purposes of Section 18 of the Securities Exchange Act of 1934, and otherwise is not subject to liability under these sections.</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="center"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; FONT-WEIGHT: bold; DISPLAY: inline">SIGNATURES</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt"><br>
+</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 36pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">In accordance with Section 13 or 15(d) of the Exchange Act, the registrant caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.</font></div>
+
+<div>
+<table cellpadding="0" cellspacing="0" width="100%" style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-SIZE: 10pt; FONT-FAMILY: times new roman">
+<tr>
+<td valign="middle" width="35%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="5%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="38%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+</tr><tr>
+<td valign="middle" width="35%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="5%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="middle" width="38%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+</tr><tr>
+<td valign="top" width="35%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="5%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td align="left" valign="top" width="38%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">SIMLATUS CORP.</font></div>
+</td>
+</tr><tr>
+<td align="left" valign="top" width="35%">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Dated: December 23, 2016</font></div>
+</td>
+<td valign="top" width="5%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td align="left" valign="top" width="38%" style="BORDER-BOTTOM: black 2px solid">
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-STYLE: italic; DISPLAY: inline"><font style="DISPLAY: inline">/s/ Gary Tilden</font></font></div>
+</td>
+</tr><tr>
+<td valign="top" width="35%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="5%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td align="left" valign="top" width="38%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; FONT-WEIGHT: bold; DISPLAY: inline">Gary Tilden</font></div>
+</td>
+</tr><tr>
+<td valign="top" width="35%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td valign="top" width="5%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">&#160; </font></td>
+<td align="left" valign="top" width="38%">
+<div style="MARGIN-LEFT: 0pt; DISPLAY: block; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt" align="left"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">Its: President, Principal Executive Officer &amp; Principal Financial Officer (Principal Accounting Officer)</font></div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+</td>
+</tr></table>
+</div>
+
+<div style="DISPLAY: block; TEXT-INDENT: 0pt">&#160;</div>
+
+<br>
+<div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; MARGIN-RIGHT: 0pt; TEXT-INDENT: 0pt">
+<div id="FTR">
+<div id="GLFTR" style="WIDTH: 100%" align="left"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+
+<div id="PN" style="PAGE-BREAK-AFTER: always; WIDTH: 100%">
+<div style="TEXT-ALIGN: center; WIDTH: 100%"><font style="FONT-SIZE: 10pt; FONT-FAMILY: times new roman; DISPLAY: inline">6</font></div>
+
+<div style="TEXT-ALIGN: center; WIDTH: 100%">
+<hr style="COLOR: black" noshade size="2">
+</div>
+</div>
+
+<div id="HDR">
+<div id="GLHDR" style="WIDTH: 100%" align="right"><font style="FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman; DISPLAY: inline">&#160; </font></div>
+</div>
+</div>
+
+<br>
+</body>
+</html>
+</TEXT>
+</DOCUMENT>
